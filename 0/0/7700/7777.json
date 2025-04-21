@@ -1,0 +1,93 @@
+{
+  "id": 7777,
+  "user_id": 20733963,
+  "cloneof_id": null,
+  "string_id": "8773927",
+  "title": "NPC's Revenge",
+  "description": "Kill The NPCS",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":799.569,\"y\":0},{\"x\":1641.666,\"y\":0},{\"x\":1641.666,\"y\":750},{\"x\":799.569,\"y\":750}],\"position\":{\"x\":799.569,\"y\":0},\"size\":{\"width\":842.097,\"height\":750},\"settings\":{\"area\":36}},{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1623.986,\"y\":0},{\"x\":2923.416,\"y\":0},{\"x\":2923.416,\"y\":750},{\"x\":1623.986,\"y\":750}],\"position\":{\"x\":1623.986,\"y\":0},\"size\":{\"width\":1299.43,\"height\":750},\"settings\":{\"area\":44}},{\"id\":4,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2928.741,\"y\":0},{\"x\":3514.55,\"y\":0},{\"x\":3514.55,\"y\":750},{\"x\":2928.741,\"y\":750}],\"position\":{\"x\":2928.741,\"y\":0},\"size\":{\"width\":585.808,\"height\":750},\"settings\":{\"area\":51}},{\"id\":12,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4403.913,\"y\":221.899},{\"x\":5117.534,\"y\":221.899},{\"x\":5117.534,\"y\":408.293},{\"x\":4403.913,\"y\":408.293}],\"position\":{\"x\":4403.913,\"y\":221.899},\"size\":{\"width\":713.621,\"height\":186.394},\"settings\":{\"fishLevels\":[2,3,5],\"animalCount\":5,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":19,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7266.026,\"y\":153.008},{\"x\":7696.951,\"y\":153.008},{\"x\":7696.951,\"y\":587.248},{\"x\":7266.026,\"y\":587.248}],\"position\":{\"x\":7266.026,\"y\":153.008},\"size\":{\"width\":430.925,\"height\":434.24},\"settings\":{\"fishLevels\":[22,57,37,80,2,72,73,75,85,55,31,34,12,21,20,41,49,50,43,45],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":9,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1927.541,\"y\":191.719},{\"x\":2854.184,\"y\":191.719},{\"x\":2854.184,\"y\":596.459},{\"x\":1927.541,\"y\":596.459}],\"position\":{\"x\":1927.541,\"y\":191.719},\"size\":{\"width\":926.642,\"height\":404.74},\"settings\":{\"foodIds\":[25,16,8,3,24,1,7,17,5,15,11,10],\"count\":23,\"firstSpawnMs\":\"700\",\"reSpawnMs\":1000,\"area\":3750.4954054557265}},{\"id\":18,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":5280.197,\"y\":327.755},{\"x\":5539.061,\"y\":349.494},{\"x\":5250.673,\"y\":445.083},{\"x\":5120.328,\"y\":378.299}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":1000},{\"x\":8000,\"y\":1000},{\"x\":4501.385,\"y\":777.338},{\"x\":4161.815,\"y\":782.524}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":25,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4070.748,\"y\":977.915},{\"x\":4071.748,\"y\":977.915},{\"x\":4071.748,\"y\":978.915},{\"x\":4070.748,\"y\":978.915}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5213.394,\"y\":131.365,\"rotation\":0,\"fLevel\":0},{\"id\":14,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5474.345,\"y\":110.063,\"rotation\":0,\"fLevel\":0},{\"id\":15,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4877.885,\"y\":328.41,\"rotation\":0,\"fLevel\":0},{\"id\":16,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5484.996,\"y\":333.735,\"rotation\":0,\"fLevel\":0},{\"id\":17,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5740.621,\"y\":413.618,\"rotation\":0,\"fLevel\":0},{\"id\":5,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":963.62,\"y\":99.412},{\"x\":964.62,\"y\":99.412},{\"x\":964.62,\"y\":100.412},{\"x\":963.62,\"y\":100.412}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 16,
+  "created_at": "2021-09-06T13:24:19.000Z",
+  "updated_at": "2021-09-06T13:24:20.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20733963,
+    "username": "7408176_686",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-06-03T09:32:16.000Z",
+    "date_last_played": "2021-06-03T09:32:16.000Z",
+    "kill_count": 0,
+    "play_count": 2,
+    "highest_score": 0,
+    "picture": null,
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 0,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Defense"
+    },
+    {
+      "id": "FFA"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:44:41.050Z"
+}
