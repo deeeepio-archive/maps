@@ -1,0 +1,76 @@
+{
+  "id": 9908,
+  "user_id": 20758016,
+  "cloneof_id": null,
+  "string_id": "new_swamp_map_1v1",
+  "title": "Swamp 1v1 Map",
+  "description": "An annormal 1v1 map based on swamp.",
+  "data": "{\"screenObjects\":[{\"id\":5250,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":25.834,\"y\":83.529},{\"x\":175.769,\"y\":83.529},{\"x\":175.769,\"y\":188.407},{\"x\":25.834,\"y\":188.407}],\"position\":{\"x\":25.834,\"y\":83.529},\"size\":{\"width\":149.935,\"height\":104.878},\"settings\":{\"foodIds\":[1],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":157.2488293,\"onlyOnWater\":true}},{\"id\":5251,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":49.341},{\"x\":0,\"y\":49.341}],\"settings\":{\"angle\":89,\"strength\":100}},{\"id\":5252,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":30.887},{\"x\":16.111,\"y\":48.665},{\"x\":27.963,\"y\":74.461},{\"x\":32.495,\"y\":96.422},{\"x\":25.523,\"y\":124.308},{\"x\":27.615,\"y\":148.709},{\"x\":43.301,\"y\":171.019},{\"x\":73.279,\"y\":186.357},{\"x\":110.578,\"y\":186.705},{\"x\":142.648,\"y\":180.431},{\"x\":162.517,\"y\":160.213},{\"x\":174.02,\"y\":126.4},{\"x\":168.094,\"y\":92.936},{\"x\":179.598,\"y\":69.58},{\"x\":190.753,\"y\":50.757},{\"x\":200,\"y\":37.162},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[17,5],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":400},\"settings\":{\"collidable\":true}},{\"id\":5253,\"type\":\"A\",\"layerId\":\"animals\",\"x\":92.071,\"y\":129.331,\"rotation\":62.94,\"fLevel\":34},{\"id\":5254,\"type\":\"A\",\"layerId\":\"animals\",\"x\":111.897,\"y\":122.853,\"rotation\":258.64,\"fLevel\":37},{\"id\":5255,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":55.017,\"y\":84.223,\"rotation\":0,\"hSType\":52},{\"id\":5256,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":168.218,\"y\":84.137,\"rotation\":0,\"hSType\":52},{\"id\":5257,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":104.099,\"y\":187.304,\"rotation\":0,\"hSType\":22},{\"id\":5258,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":188.667,\"y\":62.997,\"rotation\":305.15,\"hSType\":14},{\"id\":5259,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":11.563,\"y\":55.212,\"rotation\":61.4,\"hSType\":14},{\"id\":5260,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":25.079,\"y\":128.159,\"rotation\":90.16,\"hSType\":24},{\"id\":5261,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":47.188,\"y\":173.145,\"rotation\":29.68,\"hSType\":17},{\"id\":5262,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":83.553,\"y\":84.227,\"rotation\":0,\"hSType\":16},{\"id\":5263,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":28.587,\"y\":84.487},{\"x\":47.451,\"y\":74.242},{\"x\":58.022,\"y\":64.647},{\"x\":62.25,\"y\":55.052},{\"x\":75.097,\"y\":44.97},{\"x\":85.993,\"y\":48.385},{\"x\":92.497,\"y\":58.142},{\"x\":98.027,\"y\":66.924},{\"x\":108.597,\"y\":71.314},{\"x\":123.07,\"y\":73.754},{\"x\":138.031,\"y\":77.657},{\"x\":155.106,\"y\":80.096},{\"x\":174.621,\"y\":84.324}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":5264,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":74.918,\"y\":44.908},{\"x\":81.638,\"y\":41.011},{\"x\":92.659,\"y\":39.801},{\"x\":104.486,\"y\":42.623},{\"x\":113.222,\"y\":51.09},{\"x\":117.254,\"y\":62.514},{\"x\":122.092,\"y\":68.562},{\"x\":125.99,\"y\":74.476},{\"x\":108.652,\"y\":71.519},{\"x\":98.304,\"y\":67.218},{\"x\":85.939,\"y\":48.537}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":5265,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":120.906,\"y\":66.867},{\"x\":130.162,\"y\":71.115},{\"x\":133.12,\"y\":73.694},{\"x\":143.286,\"y\":75.288},{\"x\":153.68,\"y\":79.915},{\"x\":138.279,\"y\":77.639},{\"x\":125.913,\"y\":74.453}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":5266,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":22.946,\"y\":84.642},{\"x\":176.209,\"y\":84.642},{\"x\":176.209,\"y\":189.218},{\"x\":22.946,\"y\":189.218}],\"settings\":{\"collidable\":true},\"colors\":[7854215,1188116],\"hasBorder\":true},{\"id\":5267,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":84.363},{\"x\":0.235,\"y\":84.487}],\"settings\":{\"collidable\":true},\"colors\":[7776995,10673915]}],\"settings\":{\"gravity\":8.87},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 18,
+  "created_at": "2022-06-10T12:51:08.000Z",
+  "updated_at": "2022-06-10T12:54:08.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20758016,
+    "username": "Crocnet",
+    "description": "Monkey don't kill monkey;\nGamer kill gamer.",
+    "about": "I'm a big noob that got T10",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-09-11T20:07:17.000Z",
+    "date_last_played": "2023-11-10T21:10:50.000Z",
+    "kill_count": 13585,
+    "play_count": 3918,
+    "highest_score": 5315740,
+    "picture": "20758016-191b2ee3c76432fee47314930b0b4185.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1476,
+    "tier": 10,
+    "xp": 1440300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "SaB"
+    },
+    {
+      "id": "Swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:24:22.427Z"
+}

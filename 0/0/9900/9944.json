@@ -1,0 +1,99 @@
+{
+  "id": 9944,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_swamp_forest",
+  "title": "Brawlbush Boughs 1v1",
+  "description": "Leap out of the water to eat dragonflies as you pursue your opponent in the river!",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":2,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":289.407,\"y\":166.596},{\"x\":300,\"y\":166.596},{\"x\":300,\"y\":232.473},{\"x\":289.407,\"y\":232.473}],\"position\":{\"x\":289.407,\"y\":166.596},\"size\":{\"width\":10.593,\"height\":65.877},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":8.39461100618654,\"y\":204.11460727481548}}}],\"delay\":1,\"when\":1}]},{\"id\":3,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":0,\"y\":183.954},{\"x\":10.593,\"y\":183.954},{\"x\":10.593,\"y\":224.955},{\"x\":0,\"y\":224.955}],\"position\":{\"x\":0,\"y\":183.954},\"size\":{\"width\":10.593,\"height\":41.001},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":291.86384132328595,\"y\":201.392153541628}}}],\"delay\":1,\"when\":1}]},{\"id\":4,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":92.089},{\"x\":0,\"y\":92.089}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":92.089},\"settings\":{\"fishLevels\":[44],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"300\",\"npcType\":7,\"restrictMovement\":true}},{\"id\":5,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":115.759},{\"x\":300,\"y\":115.759},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":115.759},\"size\":{\"width\":300,\"height\":134.241},\"settings\":{\"foodIds\":[1],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"250\",\"area\":402.723,\"onlyOnWater\":true}},{\"id\":6,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":126.134,\"y\":0},{\"x\":184.815,\"y\":0},{\"x\":184.815,\"y\":115.994},{\"x\":126.134,\"y\":115.994}],\"position\":{\"x\":126.134,\"y\":0},\"size\":{\"width\":58.681,\"height\":115.994},\"settings\":{\"foodIds\":[1],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":68.06643914,\"onlyOnWater\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":224.713},{\"x\":46.633,\"y\":212.521},{\"x\":69.438,\"y\":228.885},{\"x\":81.694,\"y\":223.477},{\"x\":144.058,\"y\":238.618},{\"x\":203.914,\"y\":232.672},{\"x\":215.62,\"y\":239.383},{\"x\":216.155,\"y\":231.408},{\"x\":221.923,\"y\":241.862},{\"x\":267.344,\"y\":237.176},{\"x\":278.879,\"y\":241.502},{\"x\":300,\"y\":222.757},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"5000\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":223.251,\"y\":0},{\"x\":237.513,\"y\":18.1},{\"x\":254.337,\"y\":20.843},{\"x\":276.752,\"y\":36.198},{\"x\":300,\"y\":40.893},{\"x\":300,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"A\",\"layerId\":\"animals\",\"x\":116.238,\"y\":183.53,\"rotation\":20.48,\"fLevel\":82},{\"id\":10,\"type\":\"A\",\"layerId\":\"animals\",\"x\":168.63,\"y\":137.433,\"rotation\":-125.42,\"fLevel\":37},{\"id\":11,\"type\":\"A\",\"layerId\":\"animals\",\"x\":105.773,\"y\":37.357,\"rotation\":70.86,\"fLevel\":44},{\"id\":12,\"type\":\"A\",\"layerId\":\"animals\",\"x\":93.454,\"y\":59.031,\"rotation\":98.32,\"fLevel\":44},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":205.244,\"y\":48.308,\"rotation\":-45.89,\"fLevel\":44},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":98.798},{\"x\":27.281,\"y\":96.535},{\"x\":56.295,\"y\":109.515},{\"x\":85.389,\"y\":110.356},{\"x\":97.754,\"y\":123.74},{\"x\":77.04,\"y\":140.577},{\"x\":48.206,\"y\":148.733},{\"x\":35.476,\"y\":170.701},{\"x\":0,\"y\":189.721}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":300,\"y\":94.567},{\"x\":266.275,\"y\":98.506},{\"x\":247.964,\"y\":108.923},{\"x\":219.185,\"y\":110.838},{\"x\":196.775,\"y\":126.587},{\"x\":217.322,\"y\":139.204},{\"x\":257.697,\"y\":146.053},{\"x\":273.918,\"y\":161.915},{\"x\":300,\"y\":170.206}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":50.538,\"y\":110.704,\"rotation\":0,\"hSType\":14},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":25.633,\"y\":98.385,\"rotation\":0,\"hSType\":38},{\"id\":18,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":12.743,\"y\":180.766,\"rotation\":0,\"hSType\":48},{\"id\":19,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":243.443,\"y\":126.54,\"rotation\":180.09,\"hSType\":24},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":323.655,\"y\":87.875,\"rotation\":5.54,\"hSType\":13},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":281.214,\"y\":100.271,\"rotation\":-15.15,\"hSType\":14},{\"id\":22,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":318.357,\"y\":129.333,\"rotation\":-75.15,\"hSType\":48},{\"id\":23,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":82.113,\"y\":130.584,\"rotation\":-41.02,\"hSType\":2},{\"id\":24,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":152.73,\"y\":116.039,\"rotation\":-180.1,\"hSType\":19},{\"id\":25,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":230.147,\"y\":8.121,\"rotation\":232.43,\"hSType\":27},{\"id\":26,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":41.211,\"y\":249.535,\"rotation\":85.84,\"hSType\":63},{\"id\":27,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":111.701,\"y\":272.516,\"rotation\":69.1,\"hSType\":63},{\"id\":28,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":274.144,\"y\":161.931},{\"x\":277.508,\"y\":181.775},{\"x\":280.199,\"y\":174.544},{\"x\":289.28,\"y\":200.106},{\"x\":279.358,\"y\":227.855},{\"x\":276.499,\"y\":219.614},{\"x\":267.249,\"y\":237.44},{\"x\":267.417,\"y\":250},{\"x\":300,\"y\":250},{\"x\":300,\"y\":159.913}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":29,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":76.968,\"y\":140.446},{\"x\":73.143,\"y\":160.044},{\"x\":70.048,\"y\":154.163},{\"x\":64.058,\"y\":173.629},{\"x\":55.157,\"y\":176.844},{\"x\":52.782,\"y\":192.808},{\"x\":62.949,\"y\":198.254},{\"x\":73.25,\"y\":218.23},{\"x\":74.603,\"y\":211.73},{\"x\":81.811,\"y\":223.694},{\"x\":93.567,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":140.767}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":30,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":115.621},{\"x\":300,\"y\":115.621}],\"settings\":{\"collidable\":true},\"colors\":[25178,204080],\"hasBorder\":true},{\"id\":32,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[2808511,11782780]},{\"id\":33,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":126.074,\"y\":0},{\"x\":184.865,\"y\":0},{\"x\":184.865,\"y\":115.868},{\"x\":126.074,\"y\":115.868}],\"settings\":{\"collidable\":true},\"colors\":[1741449,740197]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 32,
+  "created_at": "2022-06-13T13:05:14.000Z",
+  "updated_at": "2022-06-13T22:50:21.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "rainforest"
+    },
+    {
+      "id": "river"
+    },
+    {
+      "id": "swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:24:25.850Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": 9941,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_arctic_tundra",
+  "title": "Frigid Isle 1v1",
+  "description": "Duel with an opponent to see who claims the arctic seas!",
+  "data": "{\"screenObjects\":[{\"id\":28,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":1,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":40.922},{\"x\":300,\"y\":40.922},{\"x\":300,\"y\":83.961},{\"x\":0,\"y\":83.961}],\"position\":{\"x\":0,\"y\":40.922},\"size\":{\"width\":300,\"height\":43.039},\"settings\":{\"fishLevels\":[63],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":\"3000\",\"npcType\":1,\"restrictMovement\":true}},{\"id\":2,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":116.456},{\"x\":300,\"y\":116.456},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":116.456},\"size\":{\"width\":300,\"height\":133.544},\"settings\":{\"foodIds\":[16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"250\",\"area\":400.63200000000006,\"onlyOnWater\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":235.405},{\"x\":51.024,\"y\":223.59},{\"x\":151.436,\"y\":237.665},{\"x\":240.266,\"y\":220.209},{\"x\":270.845,\"y\":227.323},{\"x\":271.187,\"y\":222.553},{\"x\":276.305,\"y\":228.593},{\"x\":282.344,\"y\":229.998},{\"x\":291.489,\"y\":223.652},{\"x\":295.95,\"y\":224.391},{\"x\":300,\"y\":215.521},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"A\",\"layerId\":\"animals\",\"x\":150.71,\"y\":71.628,\"rotation\":290.76,\"fLevel\":63},{\"id\":5,\"type\":\"A\",\"layerId\":\"animals\",\"x\":133.675,\"y\":206.888,\"rotation\":26.48,\"fLevel\":111},{\"id\":6,\"type\":\"A\",\"layerId\":\"animals\",\"x\":192.87,\"y\":153.764,\"rotation\":-118.1,\"fLevel\":112},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":103.869},{\"x\":35.62,\"y\":96.644},{\"x\":75.83,\"y\":106.949},{\"x\":111.294,\"y\":108.794},{\"x\":128.794,\"y\":123.48},{\"x\":107.908,\"y\":136.714},{\"x\":69.219,\"y\":136.781},{\"x\":53.424,\"y\":149.804},{\"x\":0,\"y\":164.767}],\"texture\":4,\"settings\":{\"collidable\":false}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":103.706},{\"x\":35.498,\"y\":96.471},{\"x\":75.841,\"y\":106.913},{\"x\":111.302,\"y\":108.66},{\"x\":121.577,\"y\":117.35},{\"x\":106.32,\"y\":116.688},{\"x\":94.611,\"y\":120.909},{\"x\":81.299,\"y\":117.832},{\"x\":69.627,\"y\":123.679},{\"x\":55.247,\"y\":119.595},{\"x\":40.167,\"y\":125.129},{\"x\":26.202,\"y\":120.288},{\"x\":10.313,\"y\":127.537},{\"x\":0,\"y\":122.891}],\"texture\":9,\"settings\":{\"collidable\":false}},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-37.425,\"y\":121.864,\"rotation\":82.33,\"hSType\":63},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":73.321,\"y\":135.463,\"rotation\":-176.79,\"hSType\":18},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":94.491,\"y\":136.023,\"rotation\":-176.79,\"hSType\":18},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":284.327,\"y\":230.654,\"rotation\":-8.94,\"hSType\":5},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":239.065,\"y\":242.058,\"rotation\":0,\"hSType\":36},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":190.396,\"y\":231.666,\"rotation\":0,\"hSType\":36},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":104.293,\"y\":246.834,\"rotation\":0,\"hSType\":36},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":12.638,\"y\":156.633,\"rotation\":-16.62,\"hSType\":2},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":35.844,\"y\":241.227,\"rotation\":0,\"hSType\":65},{\"id\":18,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2.838,\"y\":240.553,\"rotation\":0,\"hSType\":65},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":250},{\"x\":163.262,\"y\":220.553},{\"x\":261.243,\"y\":250}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":20,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":53.221,\"y\":149.607},{\"x\":46.538,\"y\":171.971},{\"x\":36.892,\"y\":182.2},{\"x\":36.217,\"y\":196.833},{\"x\":47.683,\"y\":209.247},{\"x\":57.149,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":151.536}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":21,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":264.088,\"y\":116.511},{\"x\":246.339,\"y\":116.511},{\"x\":252.938,\"y\":111.193},{\"x\":258.865,\"y\":111.849}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":22,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":287.078,\"y\":116.428},{\"x\":274.568,\"y\":116.35},{\"x\":281.323,\"y\":113.181}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":23,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":217.539,\"y\":116.588},{\"x\":205.029,\"y\":116.51},{\"x\":210.294,\"y\":113.192}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":24,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":116.472},{\"x\":300,\"y\":116.472}],\"settings\":{\"collidable\":true},\"colors\":[12885,6960],\"hasBorder\":true},{\"id\":25,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[5948,26951]},{\"id\":26,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":18.492},{\"x\":262.109,\"y\":27.144},{\"x\":230.676,\"y\":19.375},{\"x\":197.699,\"y\":24.402},{\"x\":200.15,\"y\":41.623},{\"x\":230.651,\"y\":33.305},{\"x\":262.747,\"y\":41.441},{\"x\":300,\"y\":34.765}],\"settings\":{\"collidable\":true},\"colors\":[5948,23358]},{\"id\":27,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":15.827},{\"x\":34.21,\"y\":27.209},{\"x\":65.545,\"y\":16.247},{\"x\":107.112,\"y\":22.545},{\"x\":103.16,\"y\":40.965},{\"x\":66.316,\"y\":32.122},{\"x\":33.967,\"y\":41.327},{\"x\":0,\"y\":34.658}],\"settings\":{\"collidable\":true},\"colors\":[5948,23358]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 28,
+  "created_at": "2022-06-12T22:19:55.000Z",
+  "updated_at": "2022-06-12T23:32:18.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "arctic"
+    },
+    {
+      "id": "ice"
+    },
+    {
+      "id": "island"
+    },
+    {
+      "id": "snow"
+    },
+    {
+      "id": "tundra"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:24:25.603Z"
+}
