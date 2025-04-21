@@ -1,0 +1,105 @@
+{
+  "id": 213,
+  "user_id": 616049,
+  "cloneof_id": null,
+  "string_id": "my_simple_biome_map",
+  "title": "Journey to the Deeeep",
+  "description": "Venture down, down, down! ",
+  "data": "{\"screenObjects\":[{\"id\":11,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":7814.608},{\"x\":10000,\"y\":7814.608},{\"x\":10000,\"y\":10000},{\"x\":0,\"y\":10000}],\"position\":{\"x\":0,\"y\":7814.608},\"size\":{\"width\":10000,\"height\":2185.392},\"settings\":{\"area\":41}},{\"id\":28,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":5486.027},{\"x\":10000,\"y\":5486.027},{\"x\":10000,\"y\":8473.296},{\"x\":0,\"y\":8473.296}],\"position\":{\"x\":0,\"y\":5486.027},\"size\":{\"width\":10000,\"height\":2987.27},\"settings\":{\"area\":40}},{\"id\":37,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":8224.35,\"y\":0},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":10000},{\"x\":8224.35,\"y\":10000}],\"position\":{\"x\":8224.35,\"y\":0},\"size\":{\"width\":1775.65,\"height\":10000},\"settings\":{\"area\":16}},{\"id\":39,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":7007.608,\"y\":0},{\"x\":8259.402,\"y\":0},{\"x\":8259.402,\"y\":10000},{\"x\":7007.608,\"y\":10000}],\"position\":{\"x\":7007.608,\"y\":0},\"size\":{\"width\":1251.794,\"height\":10000},\"settings\":{\"area\":48}},{\"id\":44,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":726.794,\"y\":936.21},{\"x\":1139.358,\"y\":936.21},{\"x\":1139.358,\"y\":1206.908},{\"x\":726.794,\"y\":1206.908}],\"position\":{\"x\":726.794,\"y\":936.21},\"size\":{\"width\":412.564,\"height\":270.699},\"settings\":{\"area\":32}},{\"id\":52,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":1205.458},{\"x\":7034.785,\"y\":1205.458},{\"x\":7034.785,\"y\":10000},{\"x\":0,\"y\":10000}],\"position\":{\"x\":0,\"y\":1205.458},\"size\":{\"width\":7034.785,\"height\":8794.542},\"settings\":{\"area\":32}},{\"id\":30,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":10000,\"y\":3005.989},{\"x\":7213.586,\"y\":9005.992},{\"x\":8632.022,\"y\":9422.723},{\"x\":10000,\"y\":8492.929}],\"texture\":\"assets/terrains/swamp/island.png\"},{\"id\":33,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":9964.2,\"y\":3053.039},{\"x\":7352.091,\"y\":3053.039},{\"x\":7352.091,\"y\":4053.054},{\"x\":9964.2,\"y\":4053.054}],\"texture\":\"assets/terrains/swamp/island.png\"},{\"id\":34,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":9312.296,\"y\":3161.498},{\"x\":10000,\"y\":3161.498},{\"x\":10000,\"y\":1657.159},{\"x\":8761.099,\"y\":1726.587}],\"texture\":\"assets/terrains/swamp/island.png\"},{\"id\":35,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":9406.747,\"y\":2115.403},{\"x\":8723.653,\"y\":2115.403},{\"x\":8099.503,\"y\":2862.815},{\"x\":9406.747,\"y\":2816.824}],\"texture\":\"assets/terrains/swamp/island.png\"},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":916.097},{\"x\":2855.321,\"y\":1231.913},{\"x\":0,\"y\":10000},{\"x\":0,\"y\":1295.887}],\"texture\":\"assets/terrains/beach.png\"},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2912.264,\"y\":1255.793},{\"x\":0,\"y\":1203.538},{\"x\":0,\"y\":10000},{\"x\":18.868,\"y\":9974.425}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1124.04,\"y\":1089.09},{\"x\":1230.229,\"y\":1089.09},{\"x\":1230.229,\"y\":931.489},{\"x\":1081.524,\"y\":967.362}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1201.006,\"y\":1019.681},{\"x\":1202.006,\"y\":1019.681},{\"x\":1202.006,\"y\":1020.681},{\"x\":1201.006,\"y\":1020.681}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":719.703,\"y\":972.545},{\"x\":611.964,\"y\":1041.801},{\"x\":634.464,\"y\":932.165},{\"x\":719.703,\"y\":932.165}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":716.819,\"y\":941.197},{\"x\":770.634,\"y\":941.197},{\"x\":770.634,\"y\":980.819},{\"x\":640.62,\"y\":1057.017}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":55,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3533.354,\"y\":1045.441},{\"x\":5509.944,\"y\":1045.441},{\"x\":5509.944,\"y\":1392.906},{\"x\":3533.354,\"y\":1392.906}],\"texture\":\"assets/terrains/beach.png\"},{\"id\":56,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2465.595,\"y\":2325.903},{\"x\":2466.595,\"y\":2325.903},{\"x\":2466.595,\"y\":2326.903},{\"x\":2465.595,\"y\":2326.903}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":57,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":481.385,\"y\":2026.661},{\"x\":482.385,\"y\":2026.661},{\"x\":482.385,\"y\":2027.661},{\"x\":481.385,\"y\":2027.661}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":60,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":6153.386,\"y\":1154.84},{\"x\":6819.252,\"y\":1137.75},{\"x\":6686.34,\"y\":1387.573},{\"x\":6153.386,\"y\":1387.573}],\"texture\":\"assets/terrains/beach.png\"},{\"id\":62,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3058.855,\"y\":3472.038},{\"x\":5091.287,\"y\":3472.038},{\"x\":5091.287,\"y\":3792.834},{\"x\":3058.855,\"y\":3792.834}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":63,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4627.565,\"y\":4580.073},{\"x\":7048.283,\"y\":4580.073},{\"x\":7048.283,\"y\":4840.672},{\"x\":4627.565,\"y\":4840.672}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":65,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2992.562,\"y\":5627.15},{\"x\":5140.816,\"y\":5627.15},{\"x\":5140.816,\"y\":5900.703},{\"x\":2992.562,\"y\":5900.703}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":66,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4532.643,\"y\":7222.094},{\"x\":6963.05,\"y\":7222.094},{\"x\":6963.05,\"y\":7667.202},{\"x\":4532.643,\"y\":7667.202}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":67,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2549.631,\"y\":8631.44},{\"x\":4749.374,\"y\":8631.44},{\"x\":4749.374,\"y\":8930.683},{\"x\":2549.631,\"y\":8930.683}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":69,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4868.788,\"y\":1405.534},{\"x\":4869.788,\"y\":1405.534},{\"x\":4869.788,\"y\":1406.534},{\"x\":4868.788,\"y\":1406.534}],\"texture\":\"assets/terrains/terrain.png\"},{\"id\":47,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":7678.119,\"y\":4033.512},{\"x\":9924.016,\"y\":4033.512},{\"x\":9924.016,\"y\":6416.676},{\"x\":8765.58,\"y\":6136.809}],\"texture\":\"assets/terrains/swamp/island.png\",\"opacity\":0.9},{\"id\":49,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":9440.917,\"y\":8684.126},{\"x\":9798.071,\"y\":8541.526},{\"x\":9798.071,\"y\":9195.745},{\"x\":9660.804,\"y\":9540.053}],\"texture\":\"assets/terrains/terrain.png\",\"opacity\":0.9},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2615.025,\"y\":1198.031},{\"x\":10000,\"y\":1203.611},{\"x\":10000,\"y\":10000},{\"x\":0,\"y\":10000}],\"texture\":\"14946|204080\",\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":7446.61,\"y\":5042.939},{\"x\":7447.61,\"y\":5042.939},{\"x\":7447.61,\"y\":5043.939},{\"x\":7446.61,\"y\":5043.939}],\"texture\":\"14946|204080\",\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":13,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":731.987,\"y\":950.516},{\"x\":1127.698,\"y\":950.516},{\"x\":1127.698,\"y\":1295.445},{\"x\":731.987,\"y\":1295.445}],\"texture\":\"14946|204080\",\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":6,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0.929},{\"x\":10000,\"y\":0.929},{\"x\":10000,\"y\":1212.824},{\"x\":0,\"y\":1212.824}],\"texture\":\"13625852|8898552\",\"colors\":[13625852,8898552]}],\"worldSize\":{\"width\":\"1000\",\"height\":\"1000\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 32,
+  "created_at": "2019-08-29T21:18:49.000Z",
+  "updated_at": "2019-09-04T13:46:56.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 616049,
+    "username": "4229591_243",
+    "description": "Mmmm! The tastiest creature in the sea! ",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-07-21T14:24:16.000Z",
+    "date_last_played": "2022-02-23T16:21:38.000Z",
+    "kill_count": 393,
+    "play_count": 233,
+    "highest_score": 948279,
+    "picture": "616049.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 22,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "beach"
+    },
+    {
+      "id": "deeeep"
+    },
+    {
+      "id": "islands"
+    },
+    {
+      "id": "ocean"
+    },
+    {
+      "id": "swamp"
+    },
+    {
+      "id": "tidal pool"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T08:10:57.960Z"
+}
