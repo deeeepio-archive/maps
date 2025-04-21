@@ -1,0 +1,99 @@
+{
+  "id": 9483,
+  "user_id": 20699462,
+  "cloneof_id": null,
+  "string_id": "ocean_1v1_2_0",
+  "title": "The Calm Before The Storm",
+  "description": "A ocean 1v1 map that looks better and is the right size",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":20.803,\"y\":129.608},{\"x\":23.882,\"y\":151.438},{\"x\":33.117,\"y\":170.469},{\"x\":52.988,\"y\":179.985},{\"x\":62.224,\"y\":179.145},{\"x\":76.217,\"y\":180.265},{\"x\":93.29,\"y\":181.384},{\"x\":115.959,\"y\":179.985},{\"x\":146.465,\"y\":182.784},{\"x\":161.298,\"y\":176.067},{\"x\":174.732,\"y\":156.196},{\"x\":177.251,\"y\":137.165},{\"x\":182.409,\"y\":120.893},{\"x\":187.527,\"y\":102.381},{\"x\":193.11,\"y\":87.379},{\"x\":200,\"y\":24.658},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":99.942},{\"x\":0,\"y\":25.182},{\"x\":6.378,\"y\":69.004},{\"x\":11.469,\"y\":92.595},{\"x\":14.646,\"y\":104.14},{\"x\":17.445,\"y\":116.734}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":30.945,\"y\":171.108,\"rotation\":44.28,\"hSType\":42},{\"id\":3,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":83.328,\"y\":182.402,\"rotation\":2.54,\"hSType\":34},{\"id\":4,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.127,\"y\":182.885,\"rotation\":0,\"hSType\":37},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":174.62,\"y\":165.853,\"rotation\":-57.76,\"hSType\":44},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":11.62,\"y\":117.595,\"rotation\":34.32,\"hSType\":47},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.107,\"y\":181.059,\"rotation\":4.41,\"hSType\":46},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":193.279,\"y\":96.262,\"rotation\":-53.14,\"hSType\":33},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":23.459,\"y\":9.42,\"rotation\":-180.34,\"hSType\":55},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":140.184,\"y\":9.173,\"rotation\":182.26,\"hSType\":55},{\"id\":11,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":15.485,\"y\":135.713},{\"x\":26.96,\"y\":143.829},{\"x\":40.954,\"y\":165.659},{\"x\":66.142,\"y\":170.137},{\"x\":90.211,\"y\":171.256},{\"x\":109.242,\"y\":172.936},{\"x\":133.591,\"y\":172.936},{\"x\":148.984,\"y\":168.738},{\"x\":159.619,\"y\":160.341},{\"x\":176.971,\"y\":136.552},{\"x\":195.163,\"y\":133.194},{\"x\":199.64,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":153.904},{\"x\":7.089,\"y\":149.706},{\"x\":7.649,\"y\":143.549}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":12,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":15.77,\"y\":135.869},{\"x\":21.682,\"y\":126.597},{\"x\":31.733,\"y\":129.495},{\"x\":42.769,\"y\":143.268},{\"x\":59.499,\"y\":154.602},{\"x\":77.841,\"y\":158.41},{\"x\":99.716,\"y\":163.879},{\"x\":129.612,\"y\":160.962},{\"x\":144.195,\"y\":149.66},{\"x\":161.877,\"y\":134.895},{\"x\":180.106,\"y\":123.775},{\"x\":194.325,\"y\":134.895},{\"x\":173.362,\"y\":178.098},{\"x\":148.57,\"y\":186.483},{\"x\":110.289,\"y\":187.942},{\"x\":48.31,\"y\":184.113},{\"x\":21.33,\"y\":171.171},{\"x\":16.591,\"y\":149.66}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":13,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":12.763,\"y\":138.176},{\"x\":17.502,\"y\":109.738},{\"x\":25.805,\"y\":115.941},{\"x\":46.669,\"y\":130.155},{\"x\":68.544,\"y\":142.733},{\"x\":95.159,\"y\":146.379},{\"x\":120.315,\"y\":144.921},{\"x\":132.893,\"y\":136.9},{\"x\":151.851,\"y\":126.145},{\"x\":170.992,\"y\":119.035},{\"x\":185.575,\"y\":118.488},{\"x\":189.768,\"y\":139.817},{\"x\":173.909,\"y\":178.645},{\"x\":115.393,\"y\":186.848},{\"x\":41.382,\"y\":180.468},{\"x\":16.955,\"y\":161.145}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":16,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":11.117,\"y\":98.211},{\"x\":26.992,\"y\":107.068},{\"x\":52.059,\"y\":122.443},{\"x\":72.28,\"y\":132.469},{\"x\":89.66,\"y\":136.146},{\"x\":106.872,\"y\":137.817},{\"x\":124.753,\"y\":132.469},{\"x\":141.465,\"y\":122.108},{\"x\":159.68,\"y\":116.594},{\"x\":177.394,\"y\":112.416},{\"x\":193.938,\"y\":121.774},{\"x\":184.914,\"y\":172.075},{\"x\":167.033,\"y\":183.439},{\"x\":140.67,\"y\":186.467},{\"x\":74.245,\"y\":185.334},{\"x\":36.386,\"y\":185.107},{\"x\":13.488,\"y\":157.676},{\"x\":8.501,\"y\":117.549}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":14,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":77.613},{\"x\":199.907,\"y\":77.613},{\"x\":199.907,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[2805202,600904],\"hasBorder\":true},{\"id\":15,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":77.203},{\"x\":200,\"y\":77.203},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[1912638,4625100]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 16,
+  "created_at": "2022-03-15T23:44:31.000Z",
+  "updated_at": "2022-04-02T02:11:30.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20699462,
+    "username": "im_not_tasty",
+    "description": "xd get rekt by a retired player kid xd\n",
+    "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-03-02T01:19:18.000Z",
+    "date_last_played": "2025-01-24T22:28:29.000Z",
+    "kill_count": 12302,
+    "play_count": 4423,
+    "highest_score": 6920476,
+    "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 375,
+    "tier": 4,
+    "xp": 238500,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "i'm not tasty"
+    },
+    {
+      "id": "ocean"
+    },
+    {
+      "id": "real"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:22:06.177Z"
+}

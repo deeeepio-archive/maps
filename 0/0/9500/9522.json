@@ -1,0 +1,60 @@
+{
+  "id": 9522,
+  "user_id": 751301,
+  "cloneof_id": null,
+  "string_id": "2007nrendocastro",
+  "title": "Lamprey place",
+  "description": "lots of Lampreys",
+  "data": "{\"screenObjects\":[{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0.206},{\"x\":1181.106,\"y\":0.206},{\"x\":1181.106,\"y\":229.585},{\"x\":0,\"y\":229.585}],\"position\":{\"x\":0,\"y\":0.206},\"size\":{\"width\":1181.106,\"height\":229.379},\"settings\":{\"area\":0}},{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1201.321,\"y\":453.8},{\"x\":1202.321,\"y\":453.8},{\"x\":1202.321,\"y\":454.8},{\"x\":1201.321,\"y\":454.8}],\"position\":{\"x\":1201.321,\"y\":453.8},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":745.021,\"y\":488.192},{\"x\":746.021,\"y\":488.192},{\"x\":746.021,\"y\":489.192},{\"x\":745.021,\"y\":489.192}],\"position\":{\"x\":745.021,\"y\":488.192},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":8,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":584.138,\"y\":534.331},{\"x\":585.138,\"y\":534.331},{\"x\":585.138,\"y\":535.331},{\"x\":584.138,\"y\":535.331}],\"position\":{\"x\":584.138,\"y\":534.331},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":4,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":504.049,\"y\":440.943},{\"x\":733.741,\"y\":440.943},{\"x\":733.741,\"y\":550.987},{\"x\":504.049,\"y\":550.987}],\"position\":{\"x\":504.049,\"y\":440.943},\"size\":{\"width\":229.692,\"height\":110.044},\"settings\":{\"fishLevels\":[26],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":33,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":186.557,\"y\":302.382},{\"x\":431.311,\"y\":302.382},{\"x\":431.311,\"y\":408.168},{\"x\":186.557,\"y\":408.168}],\"position\":{\"x\":186.557,\"y\":302.382},\"size\":{\"width\":244.754,\"height\":105.786},\"settings\":{\"fishLevels\":[18],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":9,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5.492,\"y\":239.581},{\"x\":1170.051,\"y\":239.581},{\"x\":1170.051,\"y\":743.674},{\"x\":5.492,\"y\":743.674}],\"position\":{\"x\":5.492,\"y\":239.581},\"size\":{\"width\":1164.558,\"height\":504.093},\"settings\":{\"foodIds\":[16],\"count\":477,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":5870.461853600483}},{\"id\":20,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3.043,\"y\":579.956},{\"x\":1004.665,\"y\":579.956},{\"x\":1004.665,\"y\":680.305},{\"x\":3.043,\"y\":680.305}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":24,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":267.856},{\"x\":1084.948,\"y\":267.856},{\"x\":1084.948,\"y\":291.037},{\"x\":0,\"y\":291.037}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":81.892,\"y\":221.76},{\"x\":243.698,\"y\":221.76},{\"x\":243.698,\"y\":245.246},{\"x\":81.892,\"y\":245.246}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":11,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":609.632,\"y\":223.885},{\"x\":758.673,\"y\":223.885},{\"x\":758.673,\"y\":250.418},{\"x\":609.632,\"y\":250.418}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":12,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":892.824,\"y\":225.386},{\"x\":966.105,\"y\":225.386},{\"x\":966.105,\"y\":243.249},{\"x\":892.824,\"y\":243.249}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":397.551,\"y\":222.117},{\"x\":469.107,\"y\":222.117},{\"x\":469.107,\"y\":244.838},{\"x\":397.551,\"y\":244.838}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":35,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1181.192,\"y\":0},{\"x\":1237.44,\"y\":0},{\"x\":1237.44,\"y\":750},{\"x\":1181.192,\"y\":750}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":36,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":1.428},{\"x\":20.447,\"y\":1.428},{\"x\":20.447,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":15,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":646.813,\"y\":233.904},{\"x\":717.51,\"y\":233.904},{\"x\":717.51,\"y\":249.801},{\"x\":646.813,\"y\":249.801}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":16,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":709.301,\"y\":316.158},{\"x\":710.301,\"y\":316.158},{\"x\":710.301,\"y\":317.158},{\"x\":709.301,\"y\":317.158}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":2,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":230.557},{\"x\":1182.687,\"y\":230.557},{\"x\":1182.687,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 18,
+  "created_at": "2022-03-22T17:54:04.000Z",
+  "updated_at": "2022-03-22T17:56:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 751301,
+    "username": "Noahrendocastro",
+    "description": "hi, i am normally friendly and don't want to kill, but if i have killed you it means i have done it for a reason.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-06-18T08:59:44.000Z",
+    "date_last_played": "2025-03-06T11:03:02.000Z",
+    "kill_count": 1512,
+    "play_count": 1342,
+    "highest_score": 30583000,
+    "picture": "751301.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 65,
+    "tier": 1,
+    "xp": 7800,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Lamprey"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:22:08.361Z"
+}

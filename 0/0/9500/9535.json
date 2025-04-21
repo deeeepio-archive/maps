@@ -1,0 +1,83 @@
+{
+  "id": 9535,
+  "user_id": 20783576,
+  "cloneof_id": null,
+  "string_id": "reef_sunset_map",
+  "title": "Reef_Sunset",
+  "description": "I tried dude chill out",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":32.693,\"y\":179.709},{\"x\":60.448,\"y\":179.716},{\"x\":82.201,\"y\":175.002},{\"x\":109.476,\"y\":177.171},{\"x\":145.282,\"y\":178.831},{\"x\":174.635,\"y\":176.241},{\"x\":181.798,\"y\":167.895},{\"x\":185.561,\"y\":144.15},{\"x\":188.423,\"y\":130.439},{\"x\":182.79,\"y\":119.382},{\"x\":188.336,\"y\":106.394},{\"x\":186.146,\"y\":91.427},{\"x\":189.13,\"y\":64.893},{\"x\":186.719,\"y\":46.5},{\"x\":171.866,\"y\":24.084},{\"x\":145.15,\"y\":16.693},{\"x\":109.688,\"y\":14.573},{\"x\":77.436,\"y\":19.217},{\"x\":54.511,\"y\":14.047},{\"x\":17.453,\"y\":21.96},{\"x\":10.819,\"y\":48.415},{\"x\":11.425,\"y\":90.576},{\"x\":15.413,\"y\":139.177},{\"x\":12.722,\"y\":166.196},{\"x\":20.415,\"y\":176.587},{\"x\":22.258,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":27.303,\"y\":200}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":4,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":2.95982246,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":37.231,\"y\":181.369},{\"x\":16.611,\"y\":175.458},{\"x\":15.814,\"y\":183.268},{\"x\":19.917,\"y\":200},{\"x\":38.149,\"y\":200}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"A\",\"layerId\":\"animals\",\"x\":55.456,\"y\":138.092,\"rotation\":81.5,\"fLevel\":10},{\"id\":4,\"type\":\"A\",\"layerId\":\"animals\",\"x\":147.296,\"y\":116.722,\"rotation\":240.16,\"fLevel\":32},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.809,\"y\":178.617,\"rotation\":0,\"hSType\":1},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":156.787,\"y\":179.655,\"rotation\":-3.44,\"hSType\":1},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":127.256,\"y\":179.367,\"rotation\":0,\"hSType\":34},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":25.13,\"y\":178.497,\"rotation\":11.66,\"hSType\":30},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":186.85,\"y\":141.627,\"rotation\":-79.66,\"hSType\":30},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":62.054,\"y\":179.273,\"rotation\":-10.73,\"hSType\":44},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":42.977,\"y\":130.013,\"rotation\":37.77,\"hSType\":45},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":185.966,\"y\":115.578,\"rotation\":-55.91,\"hSType\":45},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":10.945,\"y\":118.446,\"rotation\":82.92,\"hSType\":37},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":13.292,\"y\":138.47,\"rotation\":90.97,\"hSType\":33},{\"id\":15,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":1.357,\"y\":101.546},{\"x\":44.482,\"y\":130.335},{\"x\":68.646,\"y\":143.429},{\"x\":91.11,\"y\":147.723},{\"x\":137.305,\"y\":184.894},{\"x\":101.751,\"y\":198.042},{\"x\":3.324,\"y\":198.22},{\"x\":0.485,\"y\":163.963},{\"x\":2.376,\"y\":115.726}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":16,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":121.324,\"y\":180.434},{\"x\":149.06,\"y\":157.356},{\"x\":174.435,\"y\":148.664},{\"x\":187.575,\"y\":123.552},{\"x\":192.628,\"y\":152.607},{\"x\":187.885,\"y\":181.461},{\"x\":124.499,\"y\":183.324}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":17,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":66.593,\"y\":143.582},{\"x\":84.028,\"y\":124.087},{\"x\":117.49,\"y\":124.142},{\"x\":151.681,\"y\":132.55},{\"x\":158.599,\"y\":154.856},{\"x\":126.817,\"y\":176.785},{\"x\":92.241,\"y\":148.392}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":18,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":79.924,\"y\":18.49},{\"x\":141.637,\"y\":33.516},{\"x\":184.299,\"y\":58.201},{\"x\":187.787,\"y\":89.058},{\"x\":195.032,\"y\":89.058},{\"x\":197.447,\"y\":9.904},{\"x\":166.322,\"y\":6.953},{\"x\":125.538,\"y\":4.001},{\"x\":85.29,\"y\":7.221}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":19,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0.298,\"y\":92.754},{\"x\":200,\"y\":92.754},{\"x\":200,\"y\":191.473},{\"x\":0.298,\"y\":191.473}],\"settings\":{\"collidable\":true},\"colors\":[5941728,2522297],\"hasBorder\":true},{\"id\":20,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":45.673},{\"x\":200,\"y\":45.404},{\"x\":200,\"y\":100.771},{\"x\":0,\"y\":100.771}],\"settings\":{\"collidable\":true},\"colors\":[7334647,15963976]},{\"id\":21,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":1.61},{\"x\":200,\"y\":1.61},{\"x\":200,\"y\":46.127},{\"x\":0,\"y\":46.127}],\"settings\":{\"collidable\":true},\"colors\":[4215285,7334647]},{\"id\":22,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":108.902,\"y\":92.278},{\"x\":112.122,\"y\":85.033},{\"x\":115.073,\"y\":83.155},{\"x\":118.025,\"y\":81.277},{\"x\":123.659,\"y\":80.74},{\"x\":128.757,\"y\":82.887},{\"x\":132.514,\"y\":87.985},{\"x\":134.124,\"y\":92.814},{\"x\":128.757,\"y\":92.01},{\"x\":116.683,\"y\":92.01},{\"x\":111.585,\"y\":92.01}],\"settings\":{\"collidable\":true},\"colors\":[16775698,16775698]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 22,
+  "created_at": "2022-03-25T15:06:40.000Z",
+  "updated_at": "2022-06-15T22:22:39.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20783576,
+    "username": "Distracting",
+    "description": "God I Hate the blacks.",
+    "about": "Beluga main, extreme noob, Youtuber, Friend, Male, and loves doggos  <3",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-12-05T00:33:14.000Z",
+    "date_last_played": "2023-08-17T22:42:36.000Z",
+    "kill_count": 12668,
+    "play_count": 6955,
+    "highest_score": 27763483,
+    "picture": "20783576-4927be771b9b7f7f3cffd7999ee68369.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 2098,
+    "tier": 10,
+    "xp": 1136850,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "ish"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:22:09.338Z"
+}
