@@ -1,0 +1,66 @@
+{
+  "id": 11886,
+  "user_id": 21274480,
+  "cloneof_id": null,
+  "string_id": "florida_map_beta_v1",
+  "title": "Florida BETA",
+  "description": "A map base of Florida",
+  "data": "{\"screenObjects\":[{\"id\":24,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":307.719},{\"x\":9981.521,\"y\":307.719},{\"x\":9981.521,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":307.719},\"size\":{\"width\":9981.521,\"height\":692.281},\"settings\":{\"area\":20}},{\"id\":16,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4659.716,\"y\":202.618},{\"x\":5015.444,\"y\":202.618},{\"x\":5015.444,\"y\":378.172},{\"x\":4659.716,\"y\":378.172}],\"position\":{\"x\":4659.716,\"y\":202.618},\"size\":{\"width\":355.728,\"height\":175.554},\"settings\":{\"fishLevels\":[60],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":17,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4119.434,\"y\":336.593},{\"x\":4517.501,\"y\":336.593},{\"x\":4517.501,\"y\":383.552},{\"x\":4119.434,\"y\":383.552}],\"position\":{\"x\":4119.434,\"y\":336.593},\"size\":{\"width\":398.067,\"height\":46.959},\"settings\":{\"fishLevels\":[60],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":30,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4987.725,\"y\":254.091},{\"x\":6627.77,\"y\":254.091},{\"x\":6627.77,\"y\":508.183},{\"x\":4987.725,\"y\":508.183}],\"position\":{\"x\":4987.725,\"y\":254.091},\"size\":{\"width\":1640.045,\"height\":254.091},\"settings\":{\"fishLevels\":[34],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":34,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1241.031,\"y\":502.908},{\"x\":5777.718,\"y\":502.908},{\"x\":5777.718,\"y\":706.942},{\"x\":1241.031,\"y\":706.942}],\"position\":{\"x\":1241.031,\"y\":502.908},\"size\":{\"width\":4536.687,\"height\":204.034},\"settings\":{\"fishLevels\":[79],\"animalCount\":30,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":7,\"restrictMovement\":false}},{\"id\":36,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4738.253,\"y\":616.553},{\"x\":6858.761,\"y\":616.553},{\"x\":6858.761,\"y\":819.826},{\"x\":4738.253,\"y\":819.826}],\"position\":{\"x\":4738.253,\"y\":616.553},\"size\":{\"width\":2120.508,\"height\":203.273},\"settings\":{\"fishLevels\":[80,35,115],\"animalCount\":9,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":41,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1485.883,\"y\":299.635},{\"x\":3500.135,\"y\":299.635},{\"x\":3500.135,\"y\":489.049},{\"x\":1485.883,\"y\":489.049}],\"position\":{\"x\":1485.883,\"y\":299.635},\"size\":{\"width\":2014.252,\"height\":189.414},\"settings\":{\"fishLevels\":[82],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":43,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1027.758,\"y\":0},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":385.561},{\"x\":1027.758,\"y\":385.561}],\"position\":{\"x\":1027.758,\"y\":0},\"size\":{\"width\":8972.242,\"height\":385.561},\"settings\":{\"fishLevels\":[44,77],\"animalCount\":32,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":7,\"restrictMovement\":false}},{\"id\":44,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3500.135,\"y\":801.347},{\"x\":4923.047,\"y\":801.347},{\"x\":4923.047,\"y\":967.661},{\"x\":3500.135,\"y\":967.661}],\"position\":{\"x\":3500.135,\"y\":801.347},\"size\":{\"width\":1422.912,\"height\":166.315},\"settings\":{\"fishLevels\":[38,83],\"animalCount\":15,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":5,\"restrictMovement\":false}},{\"id\":46,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3056.63,\"y\":650.744},{\"x\":3809.665,\"y\":650.744},{\"x\":3809.665,\"y\":879.884},{\"x\":3056.63,\"y\":879.884}],\"position\":{\"x\":3056.63,\"y\":650.744},\"size\":{\"width\":753.034,\"height\":229.14},\"settings\":{\"fishLevels\":[86],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":50,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":201.567,\"y\":410.511},{\"x\":1171.734,\"y\":410.511},{\"x\":1171.734,\"y\":872.496},{\"x\":201.567,\"y\":872.496}],\"position\":{\"x\":201.567,\"y\":410.511},\"size\":{\"width\":970.167,\"height\":461.984},\"settings\":{\"fishLevels\":[40],\"animalCount\":15,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":8,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":7242.209,\"y\":312.339},{\"x\":8836.055,\"y\":312.339},{\"x\":8836.055,\"y\":852.861},{\"x\":7242.209,\"y\":852.861}],\"position\":{\"x\":7242.209,\"y\":312.339},\"size\":{\"width\":1593.846,\"height\":540.522},\"settings\":{\"foodIds\":[1],\"count\":102,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":8615.08382417068}},{\"id\":10,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5301.874,\"y\":271.915},{\"x\":9321.138,\"y\":271.915},{\"x\":9321.138,\"y\":526.767},{\"x\":5301.874,\"y\":526.767}],\"position\":{\"x\":5301.874,\"y\":271.915},\"size\":{\"width\":4019.264,\"height\":254.852},\"settings\":{\"foodIds\":[4],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10243.16167051703}},{\"id\":32,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1684.536,\"y\":22.445},{\"x\":9307.278,\"y\":22.445},{\"x\":9307.278,\"y\":73.263},{\"x\":1684.536,\"y\":73.263}],\"position\":{\"x\":1684.536,\"y\":22.445},\"size\":{\"width\":7622.742,\"height\":50.818},\"settings\":{\"foodIds\":[2],\"count\":23,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":3873.7410736182246}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":935.322},{\"x\":10000,\"y\":963.737},{\"x\":10000,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[1],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":12,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3772.706,\"y\":530.627,\"rotation\":0,\"fLevel\":0},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3749.607,\"y\":526.007,\"rotation\":0,\"fLevel\":60},{\"id\":14,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3823.524,\"y\":378.172,\"rotation\":0,\"fLevel\":60},{\"id\":15,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6563.092,\"y\":345.833,\"rotation\":0,\"fLevel\":60},{\"id\":28,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":6138.066,\"y\":720.185},{\"x\":6147.305,\"y\":720.185},{\"x\":6147.305,\"y\":724.805},{\"x\":6138.066,\"y\":724.805}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":335.077},{\"x\":8177.124,\"y\":390.516},{\"x\":8177.124,\"y\":1000},{\"x\":0,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":5,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8143.078,\"y\":398.6},{\"x\":10000,\"y\":426.319},{\"x\":10000,\"y\":1000},{\"x\":7907.466,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":6,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":9986.396,\"y\":555.675},{\"x\":9991.016,\"y\":555.675},{\"x\":9991.016,\"y\":583.394},{\"x\":9972.536,\"y\":440.179}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":18,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":6161.165,\"y\":0.644},{\"x\":6165.785,\"y\":0.644},{\"x\":6165.785,\"y\":5.264},{\"x\":6161.165,\"y\":5.264}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1000\",\"height\":\"100\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 24,
+  "created_at": "2023-03-12T06:21:14.000Z",
+  "updated_at": "2023-03-12T07:06:43.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21274480,
+    "username": "SeaREXY",
+    "description": "Haha you Died TO A NOOOB",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-03-12T03:43:37.000Z",
+    "date_last_played": "2023-03-12T05:45:45.000Z",
+    "kill_count": 10,
+    "play_count": 17,
+    "highest_score": 324795,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 2,
+    "tier": 1,
+    "xp": 1500,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Freshwater"
+    },
+    {
+      "id": "Freshwater only"
+    },
+    {
+      "id": "No saltwater"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:40:23.147Z"
+}
