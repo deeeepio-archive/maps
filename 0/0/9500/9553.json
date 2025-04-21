@@ -1,0 +1,60 @@
+{
+  "id": 9553,
+  "user_id": 799842,
+  "cloneof_id": null,
+  "string_id": "arctic_bay_v1",
+  "title": "Arctic Bay",
+  "description": "Unfinished and too big :(",
+  "data": "{\"screenObjects\":[{\"id\":36,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3.987,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":800},{\"x\":3.987,\"y\":800}],\"position\":{\"x\":3.987,\"y\":0},\"size\":{\"width\":796.013,\"height\":800},\"settings\":{\"area\":63}},{\"id\":37,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":35.036,\"y\":34.356},{\"x\":695.675,\"y\":34.356},{\"x\":695.675,\"y\":742.041},{\"x\":35.036,\"y\":742.041}],\"position\":{\"x\":35.036,\"y\":34.356},\"size\":{\"width\":660.639,\"height\":707.685},\"settings\":{\"foodIds\":[16],\"count\":30,\"firstSpawnMs\":0,\"reSpawnMs\":\"2000\",\"area\":4675.24310715,\"onlyOnWater\":true}},{\"id\":38,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":65.503,\"y\":65.222},{\"x\":66.503,\"y\":65.222},{\"x\":66.503,\"y\":66.222},{\"x\":65.503,\"y\":66.222}],\"texture\":4,\"settings\":{\"collidable\":true}},{\"id\":39,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":800},{\"x\":53.265,\"y\":342.8},{\"x\":98.696,\"y\":213.239},{\"x\":93.648,\"y\":164.443},{\"x\":147.492,\"y\":90.408},{\"x\":226.17,\"y\":89.47},{\"x\":331.269,\"y\":73.723},{\"x\":426.847,\"y\":47.357},{\"x\":487.636,\"y\":59.808},{\"x\":581.872,\"y\":97.248},{\"x\":656.332,\"y\":144.675},{\"x\":684.422,\"y\":240.136},{\"x\":670.323,\"y\":272.248},{\"x\":660.348,\"y\":357.657},{\"x\":800,\"y\":800},{\"x\":800,\"y\":70.974},{\"x\":800,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":40,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":800},{\"x\":800,\"y\":800},{\"x\":800,\"y\":262.572},{\"x\":659.382,\"y\":358.21},{\"x\":675.299,\"y\":456.053},{\"x\":644.567,\"y\":594.9},{\"x\":593.485,\"y\":661.62},{\"x\":502.787,\"y\":711.66},{\"x\":412.09,\"y\":718.957},{\"x\":258.427,\"y\":705.963},{\"x\":143.792,\"y\":680.078},{\"x\":86.474,\"y\":541.869},{\"x\":39.592,\"y\":327.486}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":41,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":347.489},{\"x\":0,\"y\":745.224},{\"x\":51.055,\"y\":343.884}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":42,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":799.663,\"y\":766.854},{\"x\":800,\"y\":268.182},{\"x\":721.558,\"y\":322.255}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":43,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":34.485,\"y\":349.603},{\"x\":100.067,\"y\":438.629},{\"x\":106.706,\"y\":483.769},{\"x\":135.914,\"y\":497.046},{\"x\":162.468,\"y\":535.548},{\"x\":189.021,\"y\":575.378},{\"x\":236.817,\"y\":605.915},{\"x\":292.579,\"y\":625.83},{\"x\":340.375,\"y\":651.055},{\"x\":373.567,\"y\":700.179},{\"x\":390.826,\"y\":732.043},{\"x\":125.293,\"y\":685.575},{\"x\":44.305,\"y\":434.646}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":44,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":677.326,\"y\":372.711},{\"x\":661.783,\"y\":401.968},{\"x\":644.412,\"y\":433.967},{\"x\":619.727,\"y\":465.053},{\"x\":594.127,\"y\":483.338},{\"x\":549.328,\"y\":492.481},{\"x\":510.014,\"y\":479.681},{\"x\":474.357,\"y\":496.138},{\"x\":442.357,\"y\":543.68},{\"x\":396.644,\"y\":579.337},{\"x\":366.472,\"y\":580.251},{\"x\":338.13,\"y\":600.366},{\"x\":301.559,\"y\":620.48},{\"x\":232.074,\"y\":639.679},{\"x\":164.418,\"y\":688.136},{\"x\":130.589,\"y\":719.221},{\"x\":243.96,\"y\":722.878},{\"x\":641.669,\"y\":737.507},{\"x\":680.069,\"y\":467.796}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":45,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":52.257,\"y\":339.311},{\"x\":663.016,\"y\":336.705},{\"x\":677.097,\"y\":454.666},{\"x\":645.856,\"y\":596.457},{\"x\":577.363,\"y\":726.232},{\"x\":4.299,\"y\":726.649}],\"settings\":{\"collidable\":true},\"colors\":[1344402,141638],\"hasBorder\":true},{\"id\":46,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":45.398,\"y\":342.69},{\"x\":662.275,\"y\":339.226},{\"x\":691.484,\"y\":240.04},{\"x\":659.62,\"y\":135.155},{\"x\":589.254,\"y\":80.72},{\"x\":431.261,\"y\":40.89},{\"x\":149.796,\"y\":80.72},{\"x\":88.723,\"y\":161.708}],\"settings\":{\"collidable\":true},\"colors\":[13836196,1656418]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":\"80\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 11,
+  "created_at": "2022-03-29T01:10:23.000Z",
+  "updated_at": "2025-01-18T22:05:50.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 799842,
+    "username": "Vantari",
+    "description": "Good game and best of luck!\nSorry if I've killed you multiple times or you were a low tier.",
+    "about": "I love geography 🌎\n\nDo not be overcome by evil, but overcome evil with good. \n(Romans 12:21)",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-12-07T23:50:42.000Z",
+    "date_last_played": "2025-04-21T23:19:15.000Z",
+    "kill_count": 15841,
+    "play_count": 4680,
+    "highest_score": 7924187,
+    "picture": "799842-4a9fa910f99a910616f102d7f276c97082b-87ef09d9-edcc-40f8-9e38-32a1d3a7d5f6.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 4545,
+    "tier": 10,
+    "xp": 2530200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:22:37.412Z"
+}

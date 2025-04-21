@@ -1,0 +1,60 @@
+{
+  "id": 9552,
+  "user_id": 20810050,
+  "cloneof_id": null,
+  "string_id": "proggers_map_v3",
+  "title": "Megamanicas",
+  "description": "sdfafs",
+  "data": "{\"screenObjects\":[{\"id\":30,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":352.951},{\"x\":10000,\"y\":352.951},{\"x\":10000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":352.951},\"size\":{\"width\":10000,\"height\":647.049},\"settings\":{\"area\":63}},{\"id\":6,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":416.922},{\"x\":4041.317,\"y\":416.922},{\"x\":4041.317,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":416.922},\"size\":{\"width\":4041.317,\"height\":333.078},\"settings\":{\"fishLevels\":[45],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":8,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2734.948,\"y\":520.296},{\"x\":4754.287,\"y\":520.296},{\"x\":4754.287,\"y\":750},{\"x\":2734.948,\"y\":750}],\"position\":{\"x\":2734.948,\"y\":520.296},\"size\":{\"width\":2019.339,\"height\":229.704},\"settings\":{\"fishLevels\":[3],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":10,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":493.798,\"y\":34.838},{\"x\":7506.063,\"y\":34.838},{\"x\":7506.063,\"y\":193.806},{\"x\":493.798,\"y\":193.806}],\"position\":{\"x\":493.798,\"y\":34.838},\"size\":{\"width\":7012.265,\"height\":158.967},\"settings\":{\"fishLevels\":[42],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":13,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5679.6,\"y\":423.569},{\"x\":7696.594,\"y\":423.569},{\"x\":7696.594,\"y\":750},{\"x\":5679.6,\"y\":750}],\"position\":{\"x\":5679.6,\"y\":423.569},\"size\":{\"width\":2016.995,\"height\":326.431},\"settings\":{\"fishLevels\":[67],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":22,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2859.199,\"y\":96.36},{\"x\":6598.573,\"y\":96.36},{\"x\":6598.573,\"y\":304.711},{\"x\":2859.199,\"y\":304.711}],\"position\":{\"x\":2859.199,\"y\":96.36},\"size\":{\"width\":3739.375,\"height\":208.351},\"settings\":{\"fishLevels\":[44],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":24,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7827.925,\"y\":676.245},{\"x\":8221.942,\"y\":676.245},{\"x\":8221.942,\"y\":768.777},{\"x\":7827.925,\"y\":768.777}],\"position\":{\"x\":7827.925,\"y\":676.245},\"size\":{\"width\":394.017,\"height\":92.532},\"settings\":{\"fishLevels\":[73,29],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":26,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":414.885},{\"x\":10000,\"y\":414.885},{\"x\":10000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":414.885},\"size\":{\"width\":10000,\"height\":585.115},\"settings\":{\"fishLevels\":[50],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":11,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":378.445},{\"x\":8000,\"y\":378.445},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":378.445},\"size\":{\"width\":8000,\"height\":371.555},\"settings\":{\"foodIds\":[1,2,3,25,15,11,10,8,7,5,4,16,17,24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":29724.388277693433,\"onlyOnWater\":true}},{\"id\":3,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":2052.237,\"y\":479.73},{\"x\":7140.228,\"y\":479.73},{\"x\":7140.228,\"y\":580.045},{\"x\":2052.237,\"y\":580.045}],\"settings\":{\"angle\":0,\"strength\":100}},{\"id\":4,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":6163.094,\"y\":207.415},{\"x\":6164.094,\"y\":207.415},{\"x\":6164.094,\"y\":208.415},{\"x\":6163.094,\"y\":208.415}],\"settings\":{\"angle\":0,\"strength\":100}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":863.774,\"y\":594.08},{\"x\":1692.094,\"y\":594.08},{\"x\":1692.094,\"y\":750},{\"x\":863.774,\"y\":750}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":28,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":9096.494,\"y\":787.058},{\"x\":10000,\"y\":413.178},{\"x\":10000,\"y\":1000},{\"x\":8748.403,\"y\":1000}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[4,3],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":385.489},{\"x\":1448.943,\"y\":385.489},{\"x\":1448.943,\"y\":280.775},{\"x\":0,\"y\":280.775}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":5407.848,\"y\":99.149},{\"x\":6138.719,\"y\":99.149},{\"x\":6138.719,\"y\":200.628},{\"x\":5407.848,\"y\":200.628}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":6495.358,\"y\":283.788},{\"x\":6496.358,\"y\":283.788},{\"x\":6496.358,\"y\":284.788},{\"x\":7339.133,\"y\":423.568}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":7282.293,\"y\":517.061},{\"x\":6274.989,\"y\":517.061},{\"x\":6274.989,\"y\":347.901},{\"x\":7282.293,\"y\":347.901}],\"texture\":11,\"settings\":{\"collidable\":false}}],\"settings\":{\"gravity\":9},\"worldSize\":{\"width\":\"1000\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 17,
+  "created_at": "2022-03-29T00:38:30.000Z",
+  "updated_at": "2022-03-29T00:46:17.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20810050,
+    "username": "proggers",
+    "description": "Best strategy is to flank and spank\n-Sun Tzu",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-03-26T01:59:31.000Z",
+    "date_last_played": "2024-07-16T13:21:08.000Z",
+    "kill_count": 624,
+    "play_count": 209,
+    "highest_score": 2744566,
+    "picture": "20810050.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 197,
+    "tier": 1,
+    "xp": 24750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "bogs"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:22:37.287Z"
+}
