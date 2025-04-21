@@ -1,0 +1,60 @@
+{
+  "id": 13295,
+  "user_id": 20948249,
+  "cloneof_id": null,
+  "string_id": "deathmap",
+  "title": "Death",
+  "description": "betta tun ftom the sharks",
+  "data": "{\"screenObjects\":[{\"id\":9,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":3516.827,\"y\":124.249},{\"x\":4698.825,\"y\":124.249},{\"x\":4698.825,\"y\":497.094},{\"x\":3516.827,\"y\":497.094}],\"position\":{\"x\":3516.827,\"y\":124.249},\"size\":{\"width\":1181.998,\"height\":372.845},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":6753.440122044241,\"y\":-669.0389016018305}}}],\"delay\":0,\"when\":1}]},{\"id\":18,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1581.205,\"y\":86.32},{\"x\":2874.264,\"y\":86.32},{\"x\":2874.264,\"y\":633.688},{\"x\":1581.205,\"y\":633.688}],\"position\":{\"x\":1581.205,\"y\":86.32},\"size\":{\"width\":1293.059,\"height\":547.368},\"settings\":{\"fishLevels\":[10],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":2,\"restrictMovement\":false}},{\"id\":33,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5769.764,\"y\":155.98},{\"x\":6570.984,\"y\":155.98},{\"x\":6570.984,\"y\":727.147},{\"x\":5769.764,\"y\":727.147}],\"position\":{\"x\":5769.764,\"y\":155.98},\"size\":{\"width\":801.22,\"height\":571.167},\"settings\":{\"foodIds\":[4],\"count\":372,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":4576.307149327903,\"onlyOnWater\":true}},{\"id\":34,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4905.08,\"y\":243.242},{\"x\":5714.233,\"y\":243.242},{\"x\":5714.233,\"y\":671.617},{\"x\":4905.08,\"y\":671.617}],\"position\":{\"x\":4905.08,\"y\":243.242},\"size\":{\"width\":809.153,\"height\":428.375},\"settings\":{\"foodIds\":[3],\"count\":281,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":3466.2128408275703,\"onlyOnWater\":true}},{\"id\":51,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":4286.316,\"y\":487.674},{\"x\":5515.912,\"y\":487.674},{\"x\":5515.912,\"y\":725.66},{\"x\":4286.316,\"y\":725.66}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":26,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":97.757,\"y\":0},{\"x\":7943.371,\"y\":0},{\"x\":7943.371,\"y\":83.097},{\"x\":97.757,\"y\":83.097}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":750},{\"x\":1438.413,\"y\":750},{\"x\":1430.481,\"y\":0},{\"x\":2.563,\"y\":0}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2572.815,\"y\":267.04,\"rotation\":0,\"fLevel\":0},{\"id\":28,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2580.748,\"y\":267.04,\"rotation\":0,\"fLevel\":0},{\"id\":29,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":18.429,\"y\":733.593},{\"x\":1033.837,\"y\":733.593},{\"x\":1033.837,\"y\":750},{\"x\":18.429,\"y\":750}],\"texture\":7,\"settings\":{\"collidable\":false}},{\"id\":44,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1795.393,\"y\":179.779,\"rotation\":0,\"hSType\":28},{\"id\":45,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2263.432,\"y\":362.235,\"rotation\":0,\"hSType\":28},{\"id\":46,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2080.976,\"y\":409.832,\"rotation\":0,\"hSType\":28},{\"id\":47,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2136.506,\"y\":155.98,\"rotation\":0,\"hSType\":28},{\"id\":48,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1866.789,\"y\":449.497,\"rotation\":0,\"hSType\":28},{\"id\":32,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":750},{\"x\":1446.346,\"y\":685.995},{\"x\":1446.346,\"y\":0},{\"x\":58.093,\"y\":0}],\"texture\":7,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":43,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1977.849,\"y\":43.432},{\"x\":4730.557,\"y\":43.432},{\"x\":4730.557,\"y\":693.928},{\"x\":1977.849,\"y\":693.928}],\"texture\":7,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":49,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1446.346,\"y\":0},{\"x\":8000,\"y\":229.111},{\"x\":8000,\"y\":750},{\"x\":1422.548,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":50,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2128.574,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":435.366},{\"x\":2128.574,\"y\":435.366}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 19,
+  "created_at": "2024-01-01T16:39:12.000Z",
+  "updated_at": "2024-01-01T16:39:12.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20948249,
+    "username": "adavi123555",
+    "description": "i wlll murder you in your grave, i'm your worst nightmare.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-06-19T05:55:45.000Z",
+    "date_last_played": "2024-01-01T17:11:15.000Z",
+    "kill_count": 2,
+    "play_count": 8,
+    "highest_score": 163886,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 10,
+    "tier": 1,
+    "xp": 750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#death"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:49:44.427Z"
+}
