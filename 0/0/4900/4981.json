@@ -1,0 +1,99 @@
+{
+  "id": 4981,
+  "user_id": 785354,
+  "cloneof_id": null,
+  "string_id": "no_air_in_my_mapv1",
+  "title": "No air whatsoever. This is hell.",
+  "description": "Just no air. Seagulls die in this map. So do pelicans or anything that breaths air. Unless they find my secret air pocket ;) Good luck! Anything that can't survive the shallow/deep habitat will die.",
+  "data": "{\"screenObjects\":[{\"id\":224,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":2254.151},{\"x\":10000,\"y\":2254.151},{\"x\":10000,\"y\":10000},{\"x\":0,\"y\":10000}],\"position\":{\"x\":0,\"y\":2254.151},\"size\":{\"width\":10000,\"height\":7745.849},\"settings\":{\"area\":12}},{\"id\":238,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":2244.463},{\"x\":9932.603,\"y\":2244.463},{\"x\":9932.603,\"y\":10000},{\"x\":0,\"y\":10000}],\"position\":{\"x\":0,\"y\":2244.463},\"size\":{\"width\":9932.603,\"height\":7755.537},\"settings\":{\"fishLevels\":[42,32,31,71,83,87,86,73,61,46,37,38,25,24,11,12,10,66,23,22,48,34,74,72,43,81,82,19,20,35,45,28,9,8,57,68,67,30],\"animalCount\":100,\"firstSpawnMs\":\"1\",\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":225,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":953.01,\"y\":2284.675},{\"x\":10000,\"y\":2284.675},{\"x\":10000,\"y\":0},{\"x\":953.01,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":12837,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":157899.63179015002,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":226,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":778.679,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":2321.15},{\"x\":778.679,\"y\":2321.15}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":227,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":2344.814},{\"x\":2674.727,\"y\":2374.019},{\"x\":2674.727,\"y\":0},{\"x\":630.062,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":228,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2535.802,\"y\":2339.324},{\"x\":3793.235,\"y\":2339.324},{\"x\":3793.235,\"y\":1128.925},{\"x\":2535.802,\"y\":1128.925}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":229,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":2067.383},{\"x\":3124.595,\"y\":2287.86},{\"x\":2100.885,\"y\":7491.002},{\"x\":2107.129,\"y\":7467.401}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":230,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":6070.021,\"y\":2150.938},{\"x\":7350.69,\"y\":2150.938},{\"x\":6964.55,\"y\":5530.617},{\"x\":6936.917,\"y\":5542.252}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":231,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4244.417,\"y\":2008.159},{\"x\":5318.996,\"y\":2008.159},{\"x\":4983.658,\"y\":8404.247},{\"x\":5000.553,\"y\":8335.327}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":232,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8419.304,\"y\":2247.152},{\"x\":9345.622,\"y\":2247.152},{\"x\":9345.622,\"y\":8663.295},{\"x\":9206.787,\"y\":7344.692}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":233,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":8655.295},{\"x\":10000,\"y\":9182.54},{\"x\":10000,\"y\":10000},{\"x\":0,\"y\":10000}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[10,7],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":234,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":6895.78,\"y\":7456.539,\"rotation\":0,\"hSType\":21},{\"id\":235,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3032.237,\"y\":7836.989,\"rotation\":0,\"hSType\":21},{\"id\":236,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3976.211,\"y\":6261.283,\"rotation\":0,\"hSType\":21},{\"id\":237,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":270.667,\"y\":2651.41},{\"x\":1274.65,\"y\":3281.039},{\"x\":1776.144,\"y\":4542.856},{\"x\":1328.402,\"y\":5517.718}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":6422528}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1000\",\"height\":\"1000\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 15,
+  "created_at": "2020-11-25T15:02:51.000Z",
+  "updated_at": "2020-11-25T15:31:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 785354,
+    "username": "CuteCakesCool",
+    "description": "My friends on Deeeep are : cat, Griffin, Two-Tailed Fox, Broken, Puppet, f bot, Salahuddin, Switch and Kasa j i z o [cat]. I can't remember the others.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-10-25T03:05:26.000Z",
+    "date_last_played": "2021-01-08T13:43:16.000Z",
+    "kill_count": 73,
+    "play_count": 439,
+    "highest_score": 798951,
+    "picture": "785354.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 11,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "challenge"
+    },
+    {
+      "id": "freeforall"
+    },
+    {
+      "id": "hellworld"
+    },
+    {
+      "id": "No_Airbruh"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T18:01:47.443Z"
+}

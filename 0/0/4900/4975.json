@@ -1,0 +1,90 @@
+{
+  "id": 4975,
+  "user_id": 795392,
+  "cloneof_id": null,
+  "string_id": "ohfancy",
+  "title": "OhFancy",
+  "description": "This is the first map i made, with a LOT of food, there is a lot of foo to enable your ablility to test out different fish. Enjoy",
+  "data": "{\"screenObjects\":[{\"id\":35,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":787.424},{\"x\":5000,\"y\":787.424},{\"x\":5000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":787.424},\"size\":{\"width\":5000,\"height\":212.576},\"settings\":{\"area\":8}},{\"id\":41,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":323.69},{\"x\":1211.093,\"y\":323.69},{\"x\":1211.093,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":323.69},\"size\":{\"width\":1211.093,\"height\":676.31},\"settings\":{\"area\":32}},{\"id\":45,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1208.081,\"y\":792.194},{\"x\":3264.537,\"y\":792.194},{\"x\":3264.537,\"y\":1000},{\"x\":1208.081,\"y\":1000}],\"position\":{\"x\":1208.081,\"y\":792.194},\"size\":{\"width\":2056.456,\"height\":207.806},\"settings\":{\"area\":2}},{\"id\":47,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3119.94,\"y\":338.999},{\"x\":4917.265,\"y\":338.999},{\"x\":4917.265,\"y\":791.857},{\"x\":3119.94,\"y\":791.857}],\"position\":{\"x\":3119.94,\"y\":338.999},\"size\":{\"width\":1797.325,\"height\":452.858},\"settings\":{\"area\":1}},{\"id\":49,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5.528,\"y\":238.875},{\"x\":2625.471,\"y\":238.875},{\"x\":2625.471,\"y\":362.578},{\"x\":5.528,\"y\":362.578}],\"position\":{\"x\":5.528,\"y\":238.875},\"size\":{\"width\":2619.943,\"height\":123.703},\"settings\":{\"area\":4}},{\"id\":50,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3937.501,\"y\":352.704},{\"x\":4907.647,\"y\":352.704},{\"x\":4907.647,\"y\":490.139},{\"x\":3937.501,\"y\":490.139}],\"position\":{\"x\":3937.501,\"y\":352.704},\"size\":{\"width\":970.146,\"height\":137.436},\"settings\":{\"area\":4}},{\"id\":54,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1211.3,\"y\":347.615},{\"x\":3120.284,\"y\":347.615},{\"x\":3120.284,\"y\":789.194},{\"x\":1211.3,\"y\":789.194}],\"position\":{\"x\":1211.3,\"y\":347.615},\"size\":{\"width\":1908.985,\"height\":441.579},\"settings\":{\"area\":16}},{\"id\":25,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":795.261,\"y\":329.031},{\"x\":1456.239,\"y\":329.031},{\"x\":1456.239,\"y\":541.104},{\"x\":795.261,\"y\":541.104}],\"position\":{\"x\":795.261,\"y\":329.031},\"size\":{\"width\":660.979,\"height\":212.073},\"settings\":{\"fishLevels\":[0],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":31,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4300.116,\"y\":540.794},{\"x\":4791.415,\"y\":540.794},{\"x\":4791.415,\"y\":845.713},{\"x\":4300.116,\"y\":845.713}],\"position\":{\"x\":4300.116,\"y\":540.794},\"size\":{\"width\":491.299,\"height\":304.919},\"settings\":{\"fishLevels\":[31],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":66,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1985.802,\"y\":597.126},{\"x\":2719.656,\"y\":597.126},{\"x\":2719.656,\"y\":924.752},{\"x\":1985.802,\"y\":924.752}],\"position\":{\"x\":1985.802,\"y\":597.126},\"size\":{\"width\":733.854,\"height\":327.626},\"settings\":{\"foodIds\":[10],\"count\":195,\"firstSpawnMs\":0,\"reSpawnMs\":\"1\",\"area\":2404.299060478904,\"onlyOnWater\":true}},{\"id\":68,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":128.076},{\"x\":5000,\"y\":128.076},{\"x\":5000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":128.076},\"size\":{\"width\":5000,\"height\":871.924},\"settings\":{\"foodIds\":[5,1,25,4,11],\"count\":1274,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":43596.188658327526}},{\"id\":56,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":735.62},{\"x\":817.285,\"y\":815.306},{\"x\":1935.47,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":58,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2105.138,\"y\":1000},{\"x\":4924.308,\"y\":1000},{\"x\":4924.308,\"y\":779.743},{\"x\":0,\"y\":1000}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":60,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3578.251,\"y\":566.027},{\"x\":3636.891,\"y\":569.114},{\"x\":3688.33,\"y\":659.647},{\"x\":3529.897,\"y\":652.445}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":61,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2886.209,\"y\":369.579},{\"x\":2887.209,\"y\":369.579},{\"x\":2887.209,\"y\":370.579},{\"x\":2886.209,\"y\":370.579}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":63,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3956.751,\"y\":330.659},{\"x\":4941.794,\"y\":373.868},{\"x\":4941.794,\"y\":464.502},{\"x\":4199.544,\"y\":421.293}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[5,1,10,11,17,25,24,3],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":145.3},{\"x\":825.542,\"y\":145.3},{\"x\":825.542,\"y\":233.322},{\"x\":0,\"y\":233.322}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":12,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4205.973,\"y\":244.452},{\"x\":4989.601,\"y\":244.452},{\"x\":4989.601,\"y\":466.098},{\"x\":4205.973,\"y\":466.098}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4673.457,\"y\":395.104},{\"x\":4674.457,\"y\":395.104},{\"x\":4674.457,\"y\":396.104},{\"x\":4673.457,\"y\":396.104}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":238.059},{\"x\":2628.76,\"y\":238.059},{\"x\":2628.76,\"y\":358.948},{\"x\":0,\"y\":358.948}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":819.226,\"y\":273.064},{\"x\":820.226,\"y\":273.064},{\"x\":820.226,\"y\":274.064},{\"x\":819.226,\"y\":274.064}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":800.8,\"y\":144.475},{\"x\":1982.051,\"y\":144.653},{\"x\":2152.829,\"y\":250.35},{\"x\":826.614,\"y\":250.35}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1708.588,\"y\":198.734},{\"x\":1709.588,\"y\":198.734},{\"x\":1709.588,\"y\":199.734},{\"x\":1708.588,\"y\":199.734}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4247.374,\"y\":470.313},{\"x\":4004.775,\"y\":365.377},{\"x\":3924.53,\"y\":320.799},{\"x\":4226.798,\"y\":252.9}],\"texture\":9,\"settings\":{\"collidable\":true}}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"500\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 24,
+  "created_at": "2020-11-25T02:09:06.000Z",
+  "updated_at": "2020-11-25T02:09:07.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 795392,
+    "username": "Little_Squishy",
+    "description": "If i killed you. . . im sorry,\r\nfood, is food.\r\nTry your best tho. . . and dont let the haters getya",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-11-25T01:49:36.000Z",
+    "date_last_played": "2021-01-20T15:12:38.000Z",
+    "kill_count": 192,
+    "play_count": 216,
+    "highest_score": 645889,
+    "picture": "795392.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 13,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Food Test Fish"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T18:01:46.923Z"
+}
