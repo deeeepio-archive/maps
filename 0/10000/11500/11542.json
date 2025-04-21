@@ -1,0 +1,60 @@
+{
+  "id": 11542,
+  "user_id": 20960514,
+  "cloneof_id": null,
+  "string_id": "ovo123",
+  "title": "Chaotic Map",
+  "description": "wooooooo",
+  "data": "{\"screenObjects\":[{\"id\":12,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2000,\"y\":0},{\"x\":2000,\"y\":600},{\"x\":0,\"y\":600}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":2000,\"height\":600},\"settings\":{\"area\":63}},{\"id\":86,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":167.34},{\"x\":1494.277,\"y\":167.34},{\"x\":1494.277,\"y\":600},{\"x\":0,\"y\":600}],\"position\":{\"x\":0,\"y\":167.34},\"size\":{\"width\":1494.277,\"height\":432.66},\"settings\":{\"fishLevels\":[0],\"animalCount\":60,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"30\",\"npcType\":1,\"restrictMovement\":true}},{\"id\":87,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":-0.897,\"y\":153.599},{\"x\":9.103,\"y\":153.599},{\"x\":9.103,\"y\":176.195},{\"x\":-0.897,\"y\":176.195}],\"position\":{\"x\":-0.897,\"y\":153.599},\"size\":{\"width\":10,\"height\":22.595},\"settings\":{\"fishLevels\":[0],\"animalCount\":0,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"30\",\"npcType\":1,\"restrictMovement\":true}},{\"id\":79,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3.523,\"y\":184.515},{\"x\":1358.105,\"y\":184.515},{\"x\":1358.105,\"y\":600},{\"x\":3.523,\"y\":600}],\"position\":{\"x\":3.523,\"y\":184.515},\"size\":{\"width\":1354.582,\"height\":415.485},\"settings\":{\"foodIds\":[25,24,17,16,1,5],\"count\":457,\"firstSpawnMs\":\"10\",\"reSpawnMs\":\"10\",\"area\":5628.082842475477,\"onlyOnWater\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":955.363,\"y\":80.016},{\"x\":952.571,\"y\":80.016},{\"x\":952.571,\"y\":71.641},{\"x\":955.363,\"y\":71.641}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2000,\"y\":137.251},{\"x\":1785.967,\"y\":142.835},{\"x\":1833.43,\"y\":188.902},{\"x\":2000,\"y\":187.506}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":30,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1936.732,\"y\":133.063},{\"x\":1937.732,\"y\":133.063},{\"x\":1937.732,\"y\":134.063},{\"x\":1862.746,\"y\":175.943}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":31,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":914.88,\"y\":123.292},{\"x\":1418.826,\"y\":123.292},{\"x\":1510.96,\"y\":188.902},{\"x\":842.289,\"y\":181.922}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":32,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":233.645,\"y\":120.5},{\"x\":507.256,\"y\":116.312},{\"x\":571.47,\"y\":186.11},{\"x\":176.41,\"y\":179.131}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":33,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":348.115,\"y\":180.527},{\"x\":233.645,\"y\":180.527},{\"x\":233.645,\"y\":174.943},{\"x\":348.115,\"y\":174.943}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":34,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":345.323,\"y\":148.419},{\"x\":346.323,\"y\":148.419},{\"x\":346.323,\"y\":149.419},{\"x\":345.323,\"y\":149.419}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":35,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1118.692,\"y\":600},{\"x\":1120.088,\"y\":600},{\"x\":1122.88,\"y\":600},{\"x\":1120.088,\"y\":596.527}],\"texture\":10,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":36,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1318.316,\"y\":600},{\"x\":1083.793,\"y\":600},{\"x\":1107.524,\"y\":599.318},{\"x\":1308.544,\"y\":599.318}],\"texture\":10,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":39,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1237.35,\"y\":582.567},{\"x\":1238.35,\"y\":582.567},{\"x\":1238.35,\"y\":583.567},{\"x\":1237.35,\"y\":583.567}],\"texture\":10,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":179.676},{\"x\":2000,\"y\":189.448},{\"x\":2000,\"y\":600},{\"x\":0,\"y\":600}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":19,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1993.967,\"y\":192.24},{\"x\":2000,\"y\":192.24},{\"x\":2000,\"y\":151.756},{\"x\":1993.967,\"y\":151.756}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":20,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1978.611,\"y\":208.991},{\"x\":1979.611,\"y\":208.991},{\"x\":1979.611,\"y\":209.991},{\"x\":1978.611,\"y\":209.991}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":21,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":77.296,\"y\":208.991},{\"x\":74.504,\"y\":208.991},{\"x\":74.504,\"y\":213.179},{\"x\":77.296,\"y\":213.179}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":22,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":134.531,\"y\":274.602},{\"x\":137.323,\"y\":274.602},{\"x\":137.323,\"y\":282.978},{\"x\":134.531,\"y\":282.978}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":23,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":154.074,\"y\":291.354},{\"x\":155.074,\"y\":291.354},{\"x\":155.074,\"y\":292.354},{\"x\":154.074,\"y\":292.354}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":40,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2000,\"y\":0},{\"x\":2000,\"y\":195.334},{\"x\":0,\"y\":177.014}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"200\",\"height\":\"60\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 21,
+  "created_at": "2023-01-04T07:20:01.000Z",
+  "updated_at": "2023-01-04T07:20:02.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20960514,
+    "username": "OvO123",
+    "description": "You were unfortunately killed by OvO while fighting with him.\n=)",
+    "about": "Hi, nice to meet you.\nThat’s all.\nYes, it is short.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-08-08T07:27:28.000Z",
+    "date_last_played": "2023-07-05T04:06:37.000Z",
+    "kill_count": 1039,
+    "play_count": 779,
+    "highest_score": 1921194,
+    "picture": "20960514-40862a78f9e67957aebbca35d1927006.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 26,
+    "tier": 4,
+    "xp": 199050,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Caotic"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:37:41.487Z"
+}
