@@ -1,0 +1,90 @@
+{
+  "id": 9396,
+  "user_id": 20798200,
+  "cloneof_id": null,
+  "string_id": "arctic_wars",
+  "title": "Arctic Wars",
+  "description": "fight in the arctic",
+  "data": "{\"screenObjects\":[{\"id\":163,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"area\":0}},{\"id\":164,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":7871.301,\"y\":640.69},{\"x\":7962.709,\"y\":640.69},{\"x\":7962.709,\"y\":750},{\"x\":7871.301,\"y\":750}],\"position\":{\"x\":7871.301,\"y\":640.69},\"size\":{\"width\":91.408,\"height\":109.31},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":4220.211909288191,\"y\":89.63140081251947}}}],\"delay\":0,\"when\":1}]},{\"id\":165,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2650.822,\"y\":380.084},{\"x\":3914.91,\"y\":380.084},{\"x\":3914.91,\"y\":490.632},{\"x\":2650.822,\"y\":490.632}],\"position\":{\"x\":2650.822,\"y\":380.084},\"size\":{\"width\":1264.088,\"height\":110.548},\"settings\":{\"fishLevels\":[25],\"animalCount\":5,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":166,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4101.119,\"y\":61.788},{\"x\":4345.612,\"y\":61.788},{\"x\":4345.612,\"y\":179.221},{\"x\":4101.119,\"y\":179.221}],\"position\":{\"x\":4101.119,\"y\":61.788},\"size\":{\"width\":244.493,\"height\":117.433},\"settings\":{\"foodIds\":[3],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":287.11546469}},{\"id\":167,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4101.119,\"y\":61.788},{\"x\":4345.612,\"y\":61.788},{\"x\":4345.612,\"y\":181.147},{\"x\":4101.119,\"y\":181.147}],\"position\":{\"x\":4101.119,\"y\":61.788},\"size\":{\"width\":244.493,\"height\":119.359},\"settings\":{\"foodIds\":[3],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":291.82439987}},{\"id\":168,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4099.194,\"y\":63.713},{\"x\":4216.627,\"y\":63.713},{\"x\":4216.627,\"y\":175.371},{\"x\":4099.194,\"y\":175.371}],\"position\":{\"x\":4099.194,\"y\":63.713},\"size\":{\"width\":117.433,\"height\":111.658},\"settings\":{\"foodIds\":[3],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":131.12333914}},{\"id\":169,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4228.178,\"y\":57.938},{\"x\":4345.611,\"y\":57.938},{\"x\":4345.611,\"y\":183.072},{\"x\":4228.178,\"y\":183.072}],\"position\":{\"x\":4228.178,\"y\":57.938},\"size\":{\"width\":117.433,\"height\":125.134},\"settings\":{\"foodIds\":[3],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":146.94861022}},{\"id\":170,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"foodIds\":[4,1],\"count\":4718,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":60000}},{\"id\":171,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2880.514,\"y\":276.321},{\"x\":3702.485,\"y\":276.321},{\"x\":3702.485,\"y\":340.095},{\"x\":2880.514,\"y\":340.095}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":172,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2876.971,\"y\":542.044},{\"x\":3702.485,\"y\":542.044},{\"x\":3702.485,\"y\":584.56},{\"x\":2876.971,\"y\":584.56}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":173,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4024.635,\"y\":446.827},{\"x\":4116.876,\"y\":443.989},{\"x\":4148.096,\"y\":405.673},{\"x\":4238.917,\"y\":402.835},{\"x\":4292.842,\"y\":446.827},{\"x\":4358.12,\"y\":445.408},{\"x\":4331.158,\"y\":373.034},{\"x\":4040.245,\"y\":363.101}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":174,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8000,\"y\":560.564},{\"x\":6296.462,\"y\":447.189},{\"x\":6115.77,\"y\":627.88},{\"x\":6271.661,\"y\":631.423},{\"x\":6392.123,\"y\":521.591},{\"x\":6923.569,\"y\":581.822},{\"x\":7536.505,\"y\":634.966},{\"x\":7823.486,\"y\":617.251},{\"x\":7975.834,\"y\":691.654}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":175,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4069.625,\"y\":177.294},{\"x\":4369.844,\"y\":177.294},{\"x\":4369.844,\"y\":203.446},{\"x\":4069.625,\"y\":203.446}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":176,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4074.167,\"y\":184.636},{\"x\":4097.268,\"y\":184.636},{\"x\":4097.268,\"y\":32.55},{\"x\":4074.167,\"y\":32.55}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":177,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4366.788,\"y\":186.561},{\"x\":4347.536,\"y\":186.561},{\"x\":4347.536,\"y\":28.7},{\"x\":4366.788,\"y\":28.7}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":178,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4074.167,\"y\":36.4},{\"x\":4362.938,\"y\":36.4},{\"x\":4362.938,\"y\":59.502},{\"x\":4074.167,\"y\":59.502}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":179,\"type\":\"P\",\"layerId\":\"props\",\"x\":-843.812,\"y\":-1175.847,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":180,\"type\":\"P\",\"layerId\":\"props\",\"x\":1309.47,\"y\":-1021.306,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":181,\"type\":\"P\",\"layerId\":\"props\",\"x\":1726.469,\"y\":446.585,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"HEllo ur name is joe\"}},{\"id\":182,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":566.696,\"y\":765.613,\"rotation\":0,\"hSType\":41},{\"id\":183,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":830.543,\"y\":748.671,\"rotation\":0,\"hSType\":81},{\"id\":184,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":585.649,\"y\":558.604,\"rotation\":39.56,\"hSType\":81},{\"id\":185,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":638.508,\"y\":702.903,\"rotation\":96,\"hSType\":81},{\"id\":186,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":484.531,\"y\":586.029,\"rotation\":0,\"hSType\":81},{\"id\":187,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1228.953,\"y\":652.42,\"rotation\":0,\"hSType\":81},{\"id\":188,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":6321.263,\"y\":588.243},{\"x\":6399.209,\"y\":517.384},{\"x\":6664.932,\"y\":549.271}],\"texture\":9,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":189,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":4119.323,\"y\":438.42},{\"x\":4145.769,\"y\":403.71},{\"x\":4235.023,\"y\":398.752},{\"x\":4273.039,\"y\":430.156}],\"texture\":9,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":190,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":186.374},{\"x\":8000,\"y\":186.374},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":191,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":4099.194,\"y\":112.263},{\"x\":4347.536,\"y\":112.263},{\"x\":4347.536,\"y\":202.744},{\"x\":4099.194,\"y\":202.744}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":192,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":4540.05,\"y\":48.733},{\"x\":4541.05,\"y\":48.733},{\"x\":4541.05,\"y\":49.733},{\"x\":4540.05,\"y\":49.733}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":193,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":209.797},{\"x\":0,\"y\":209.797}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 31,
+  "created_at": "2022-03-01T19:42:40.000Z",
+  "updated_at": "2022-03-01T20:27:34.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20798200,
+    "username": "Typhoon15",
+    "description": "POV: U died\n\nKill all lampreys\n\nHigh scores:\n2.65 mil - Polar Bear\n1.7 mil - Stonefish\n1.6 mil - Tiger Shark\n1 mil - Marlin\n1 mil - GPO\n1.5mil - Moray Eel",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-02-07T15:54:45.000Z",
+    "date_last_played": "2023-09-21T22:15:32.000Z",
+    "kill_count": 1087,
+    "play_count": 564,
+    "highest_score": 2645613,
+    "picture": null,
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 114,
+    "tier": 4,
+    "xp": 194100,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#Arctic wars"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Tacoco & Myhailot Deep Assets",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 4,
+      "created_at": "2021-08-25T00:01:35.000Z",
+      "updated_at": "2021-08-25T00:01:35.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:16:18.372Z"
+}
