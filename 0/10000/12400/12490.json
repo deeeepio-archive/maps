@@ -1,0 +1,70 @@
+{
+  "id": 12490,
+  "user_id": 21269601,
+  "cloneof_id": null,
+  "string_id": "hjjkkk2",
+  "title": "free world",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":26,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":775.296,\"y\":525.521},{\"x\":1698.945,\"y\":525.521},{\"x\":1698.945,\"y\":743.805},{\"x\":775.296,\"y\":743.805}],\"position\":{\"x\":775.296,\"y\":525.521},\"size\":{\"width\":923.648,\"height\":218.284},\"settings\":{\"foodIds\":[3],\"count\":163,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":2016.1775174352827}},{\"id\":27,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1547.409,\"y\":420.889},{\"x\":1732.417,\"y\":420.889},{\"x\":1732.417,\"y\":686.86},{\"x\":1547.409,\"y\":686.86}],\"position\":{\"x\":1547.409,\"y\":420.889},\"size\":{\"width\":185.008,\"height\":265.971},\"settings\":{\"foodIds\":[1],\"count\":40,\"firstSpawnMs\":\"10000\",\"reSpawnMs\":\"100000\",\"area\":492.0686752011884,\"onlyOnWater\":false}},{\"id\":28,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1828.853,\"y\":521.913},{\"x\":2024.665,\"y\":521.913},{\"x\":2024.665,\"y\":750},{\"x\":1828.853,\"y\":750}],\"position\":{\"x\":1828.853,\"y\":521.913},\"size\":{\"width\":195.812,\"height\":228.087},\"settings\":{\"foodIds\":[10],\"count\":40,\"firstSpawnMs\":\"10\",\"reSpawnMs\":1000,\"area\":446.6227534417209}},{\"id\":7,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":6175.173,\"y\":429.936},{\"x\":6554.491,\"y\":373.553},{\"x\":6577.557,\"y\":419.684},{\"x\":6241.807,\"y\":481.193}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":6581.901,\"y\":296.531},{\"x\":6694.151,\"y\":171.728},{\"x\":6889.451,\"y\":173.156},{\"x\":6873.746,\"y\":272.652}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7346.135,\"y\":469.492},{\"x\":7933.85,\"y\":377.486},{\"x\":7933.85,\"y\":512.679},{\"x\":7466.306,\"y\":512.679}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8000,\"y\":373.73},{\"x\":7907.562,\"y\":377.486},{\"x\":7417.486,\"y\":465.737},{\"x\":8000,\"y\":600.859}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7905.684,\"y\":486.391},{\"x\":7906.684,\"y\":486.391},{\"x\":7906.684,\"y\":487.391},{\"x\":8000,\"y\":474.247}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8000,\"y\":463.859},{\"x\":6903.001,\"y\":503.29},{\"x\":6404.73,\"y\":750},{\"x\":8000,\"y\":750}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7387.444,\"y\":621.584},{\"x\":7501.982,\"y\":621.584},{\"x\":7501.982,\"y\":619.707},{\"x\":7387.444,\"y\":619.707}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2241.685,\"y\":476.684},{\"x\":3641.913,\"y\":525.009},{\"x\":3282.129,\"y\":750},{\"x\":2085.826,\"y\":750}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3634.918,\"y\":524.144},{\"x\":3966.546,\"y\":750},{\"x\":3901.692,\"y\":750},{\"x\":3265.143,\"y\":750}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3722.662,\"y\":617.61},{\"x\":3723.662,\"y\":617.61},{\"x\":3723.662,\"y\":618.61},{\"x\":3645.455,\"y\":530.594}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":538.832,\"y\":384.575},{\"x\":0,\"y\":494.514},{\"x\":0,\"y\":750},{\"x\":503.494,\"y\":750}],\"texture\":16,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":5075.867,\"y\":517.149},{\"x\":5254.569,\"y\":582.657},{\"x\":5299.636,\"y\":612.31},{\"x\":4909.101,\"y\":611.341}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4674.392,\"y\":565.017},{\"x\":5080.5,\"y\":517.149},{\"x\":4924.542,\"y\":606.709},{\"x\":4717.628,\"y\":614.43}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":7008.151,\"y\":596.83},{\"x\":7348.012,\"y\":379.019},{\"x\":7571.457,\"y\":448.493},{\"x\":7092.647,\"y\":572.42}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":6979.986,\"y\":544.255},{\"x\":7873.764,\"y\":501.068},{\"x\":7278.538,\"y\":487.925},{\"x\":7105.791,\"y\":574.298}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":11,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":5366.053,\"y\":620.861},{\"x\":6915.843,\"y\":505.558},{\"x\":6888.896,\"y\":750},{\"x\":5604.399,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":12,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":5581.421,\"y\":750},{\"x\":5340.513,\"y\":750},{\"x\":5340.513,\"y\":707.713},{\"x\":5581.421,\"y\":707.713}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":13,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":5325.135,\"y\":702.587},{\"x\":5294.381,\"y\":702.587},{\"x\":5294.381,\"y\":607.761},{\"x\":5325.135,\"y\":607.761}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":14,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":4909.952,\"y\":750},{\"x\":5581.421,\"y\":750},{\"x\":6901.294,\"y\":507.81},{\"x\":5320.01,\"y\":610.324}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":15,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":5435.401,\"y\":750},{\"x\":3962.287,\"y\":750},{\"x\":3690.176,\"y\":562.139},{\"x\":5405.895,\"y\":607.761}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":20,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":762.636,\"y\":377.573},{\"x\":2246.807,\"y\":471.806},{\"x\":2105.458,\"y\":750},{\"x\":762.636,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":21,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":790.12,\"y\":377.573},{\"x\":782.267,\"y\":750},{\"x\":495.642,\"y\":750},{\"x\":515.274,\"y\":385.426}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 25,
+  "created_at": "2023-06-27T13:48:22.000Z",
+  "updated_at": "2023-06-27T13:50:36.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21269601,
+    "username": "Feishler",
+    "description": "Looks like you died to me , welp..\nThats the game idea dont worry maybe you can kill me next time .\n  \n\nGGs if i killed you fairly and..\nIf you were a teamer and you died to me then :\n\nTake the 𝑳 bitch !\n\n\nhttps://beta.deeeep.io/forum/en/41482",
+    "about": "-FFA & PD player.\n\ntier 10 since : 30/11/2023\nOrca Main\nEU player\nLaggiest player alive\nhttps://beta.deeeep.io/forum/en/41482",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-02-19T18:52:00.000Z",
+    "date_last_played": "2025-04-19T08:25:18.000Z",
+    "kill_count": 13757,
+    "play_count": 5970,
+    "highest_score": 4820744,
+    "picture": "21269601-83fd59a13e3107615589815b8129e5e0c-80377976-f145-4244-9bdc-eed10268123f.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1977,
+    "tier": 10,
+    "xp": 2604300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "jjj"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:44:28.520Z"
+}
