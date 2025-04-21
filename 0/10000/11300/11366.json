@@ -1,0 +1,60 @@
+{
+  "id": 11366,
+  "user_id": 570060,
+  "cloneof_id": null,
+  "string_id": "beast_pd",
+  "title": "Untitled",
+  "description": "wip",
+  "data": "{\"screenObjects\":[{\"id\":725,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":90.778},{\"x\":19.258,\"y\":108.763},{\"x\":53.153,\"y\":116.373},{\"x\":74.597,\"y\":129.516},{\"x\":84.973,\"y\":147.501},{\"x\":96.041,\"y\":155.11},{\"x\":102.267,\"y\":175.862},{\"x\":86.357,\"y\":191.772},{\"x\":51.078,\"y\":193.156},{\"x\":26.867,\"y\":215.983},{\"x\":0,\"y\":228.434}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":726,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":214.874},{\"x\":12.869,\"y\":218.633},{\"x\":7.231,\"y\":246.447},{\"x\":13.62,\"y\":281.779},{\"x\":54.59,\"y\":298.693},{\"x\":92.553,\"y\":297.566},{\"x\":115.105,\"y\":276.893},{\"x\":142.543,\"y\":282.531},{\"x\":154.195,\"y\":300.197},{\"x\":187.648,\"y\":302.828},{\"x\":207.406,\"y\":299.538},{\"x\":229.516,\"y\":305.065},{\"x\":245.638,\"y\":330.399},{\"x\":244.716,\"y\":400},{\"x\":0,\"y\":400}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":728,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":233.129,\"y\":318.461},{\"x\":261.917,\"y\":331.444},{\"x\":281.109,\"y\":351.2},{\"x\":325.702,\"y\":353.458},{\"x\":355.368,\"y\":330.577},{\"x\":382.718,\"y\":320.23},{\"x\":395.701,\"y\":307.812},{\"x\":424.489,\"y\":319.101},{\"x\":447.537,\"y\":321.53},{\"x\":465.695,\"y\":348.454},{\"x\":491.097,\"y\":360.872},{\"x\":492.79,\"y\":400},{\"x\":232.005,\"y\":400}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":729,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":324.965,\"y\":280.474},{\"x\":326.347,\"y\":261.128},{\"x\":339.244,\"y\":253.758},{\"x\":346.614,\"y\":231.648},{\"x\":361.814,\"y\":226.121},{\"x\":366.881,\"y\":248.691},{\"x\":365.96,\"y\":266.194},{\"x\":344.311,\"y\":282.316},{\"x\":332.255,\"y\":289.246}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":731,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":432.931,\"y\":251.103},{\"x\":431.427,\"y\":230.806},{\"x\":419.4,\"y\":218.403},{\"x\":414.889,\"y\":200.737},{\"x\":435.562,\"y\":202.616},{\"x\":455.859,\"y\":222.161},{\"x\":458.114,\"y\":244.338},{\"x\":453.98,\"y\":264.515}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":713,\"type\":\"A\",\"layerId\":\"animals\",\"x\":957.134,\"y\":258.398,\"rotation\":0,\"fLevel\":22},{\"id\":735,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":364.083,\"y\":140.461},{\"x\":378.192,\"y\":129.113},{\"x\":399.969,\"y\":126.659},{\"x\":421.439,\"y\":135.554},{\"x\":438.921,\"y\":139.848}],\"texture\":10,\"settings\":{\"collidable\":false}},{\"id\":727,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":157.919,\"y\":302.611,\"rotation\":0,\"hSType\":12},{\"id\":732,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":399.098,\"y\":315.277,\"rotation\":0,\"hSType\":10},{\"id\":733,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":356.724,\"y\":331.652},{\"x\":363.982,\"y\":310.628},{\"x\":380.501,\"y\":295.361},{\"x\":389.011,\"y\":274.087},{\"x\":410.285,\"y\":265.077},{\"x\":429.557,\"y\":295.361},{\"x\":434.813,\"y\":327.147}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":734,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":264.37,\"y\":337.659},{\"x\":300.661,\"y\":335.407},{\"x\":321.685,\"y\":313.382},{\"x\":329.443,\"y\":284.098},{\"x\":356.915,\"y\":226.486},{\"x\":373.183,\"y\":193.216},{\"x\":398.1,\"y\":189.744},{\"x\":426.693,\"y\":204.245},{\"x\":457.941,\"y\":263.882},{\"x\":461.951,\"y\":297.516},{\"x\":477.219,\"y\":318.79},{\"x\":481.223,\"y\":359.086},{\"x\":266.863,\"y\":363.921}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":736,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":365.196,\"y\":140.495},{\"x\":356.508,\"y\":161.174},{\"x\":350.87,\"y\":195.002},{\"x\":318.545,\"y\":241.61},{\"x\":303.135,\"y\":266.041},{\"x\":227.116,\"y\":330.569},{\"x\":376.885,\"y\":389.853},{\"x\":525.094,\"y\":373.678},{\"x\":485.915,\"y\":227.132},{\"x\":441.992,\"y\":169.587},{\"x\":433.591,\"y\":140.738}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":709,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":139.845},{\"x\":1123.453,\"y\":139.845},{\"x\":1123.453,\"y\":400},{\"x\":0,\"y\":400}],\"settings\":{\"collidable\":true},\"colors\":[6073313,327973],\"hasBorder\":true},{\"id\":711,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":872.672,\"y\":139.071},{\"x\":2000,\"y\":139.071},{\"x\":2000,\"y\":400},{\"x\":872.672,\"y\":400}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":715,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":870.189,\"y\":140.35},{\"x\":1141.995,\"y\":140.35},{\"x\":1142.511,\"y\":400},{\"x\":870.189,\"y\":400}],\"settings\":{\"collidable\":true},\"colors\":[1862047,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"200\",\"height\":\"40\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 15,
+  "created_at": "2022-11-29T23:18:00.000Z",
+  "updated_at": "2022-11-29T23:20:12.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 570060,
+    "username": "THE_BEAST_BELOW",
+    "description": "idk who you are, or where you reading this from, but I just hope your having a nice day. (sorry for killing you btw)\n\ncheck out my map if you want (its still a wip): https://mapmaker.deeeep.io/map/beast_ffa_v3  ",
+    "about": "THE BEAST BELOW\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-03-29T03:50:35.000Z",
+    "date_last_played": "2025-04-16T21:00:02.000Z",
+    "kill_count": 48793,
+    "play_count": 6067,
+    "highest_score": 11901825,
+    "picture": "570060.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 4119,
+    "tier": 7,
+    "xp": 691650,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "pd"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:36:54.109Z"
+}
