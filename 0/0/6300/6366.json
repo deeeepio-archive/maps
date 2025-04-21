@@ -1,0 +1,99 @@
+{
+  "id": 6366,
+  "user_id": 734486,
+  "cloneof_id": null,
+  "string_id": "omnigon_1v1",
+  "title": "\"Dusk\" (1v1)",
+  "description": "A 1v1 map, designed to be slow and tense. Patience is a virtue",
+  "data": "{\"screenObjects\":[{\"id\":76,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":97.239},{\"x\":200,\"y\":97.239},{\"x\":200,\"y\":185.133},{\"x\":0,\"y\":185.133}],\"position\":{\"x\":0,\"y\":97.239},\"size\":{\"width\":200,\"height\":87.893},\"settings\":{\"foodIds\":[16,1],\"count\":26,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":175.78653409426178,\"onlyOnWater\":true}},{\"id\":45,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":126.878},{\"x\":12.261,\"y\":138.72},{\"x\":14.414,\"y\":155.677},{\"x\":18.72,\"y\":168.865},{\"x\":32.716,\"y\":179.362},{\"x\":64.476,\"y\":184.207},{\"x\":89.238,\"y\":182.592},{\"x\":120.729,\"y\":167.251},{\"x\":146.029,\"y\":165.366},{\"x\":168.369,\"y\":165.905},{\"x\":184.518,\"y\":144.373},{\"x\":189.631,\"y\":127.954},{\"x\":200,\"y\":120.418},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":51,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":186.521,\"y\":137.39},{\"x\":185.779,\"y\":106.651},{\"x\":176.747,\"y\":77.573},{\"x\":175.137,\"y\":55.149},{\"x\":179.461,\"y\":30.945},{\"x\":172.542,\"y\":20.584},{\"x\":190.61,\"y\":7.033},{\"x\":200,\"y\":1.474},{\"x\":200,\"y\":127.6}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":52,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":11.993,\"y\":138.535},{\"x\":11.457,\"y\":105.344},{\"x\":18.334,\"y\":78.218},{\"x\":12.715,\"y\":55.542},{\"x\":17.522,\"y\":25.808},{\"x\":11.986,\"y\":18.478},{\"x\":0,\"y\":15.468},{\"x\":0,\"y\":15.468},{\"x\":0,\"y\":135.834}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":54,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":17.404,\"y\":26.705},{\"x\":0,\"y\":15.669},{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":28.95},{\"x\":189.378,\"y\":28.913},{\"x\":151.25,\"y\":16.672},{\"x\":117.739,\"y\":24.899},{\"x\":81.016,\"y\":25.702},{\"x\":42.889,\"y\":16.672}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":167.016,\"y\":169.639,\"rotation\":-15.56,\"hSType\":49},{\"id\":63,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.473,\"y\":26.062,\"rotation\":0,\"hSType\":54},{\"id\":69,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":34.376,\"y\":94.691,\"rotation\":0,\"hSType\":2},{\"id\":70,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":92.169,\"y\":182.384,\"rotation\":-14.3,\"hSType\":15},{\"id\":72,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":20.671,\"y\":183.091,\"rotation\":0,\"hSType\":36},{\"id\":73,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":61.466,\"y\":187.4,\"rotation\":0,\"hSType\":36},{\"id\":74,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":39.378,\"y\":186.867,\"rotation\":0,\"hSType\":36},{\"id\":75,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":61.356,\"y\":145.674,\"rotation\":0,\"hSType\":36},{\"id\":79,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":44.917,\"y\":183.895,\"rotation\":6.45,\"hSType\":22},{\"id\":80,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":14.019,\"y\":161.863,\"rotation\":60,\"hSType\":22},{\"id\":81,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":23.659,\"y\":137.254,\"rotation\":-8.63,\"hSType\":50},{\"id\":82,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":117.193,\"y\":171.266,\"rotation\":-21.02,\"hSType\":17},{\"id\":65,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":11.5,\"y\":96.898},{\"x\":25.346,\"y\":94.691},{\"x\":35.981,\"y\":90.276},{\"x\":42.603,\"y\":83.855},{\"x\":52.838,\"y\":82.651},{\"x\":63.674,\"y\":87.266},{\"x\":70.697,\"y\":95.092},{\"x\":78.724,\"y\":97.5}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":66,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":200,\"y\":98.504},{\"x\":193.177,\"y\":94.892},{\"x\":192.977,\"y\":94.892},{\"x\":177.525,\"y\":83.855},{\"x\":154.849,\"y\":73.019},{\"x\":136.588,\"y\":70.209},{\"x\":110.301,\"y\":79.239},{\"x\":91.438,\"y\":93.286},{\"x\":77.391,\"y\":98.102}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":44,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":97.54},{\"x\":200,\"y\":97.54},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[4345976,204080],\"hasBorder\":true},{\"id\":56,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":97.735},{\"x\":0,\"y\":97.735}],\"settings\":{\"collidable\":true},\"colors\":[1320078,13941092]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 21,
+  "created_at": "2021-03-26T16:48:57.000Z",
+  "updated_at": "2021-03-26T17:55:07.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 734486,
+    "username": "Omni-gon",
+    "description": "\n\n\n\n\n\nnow we can slush away theslog together :)\n",
+    "about": "the infamous maryland slog sucker",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-05-03T22:22:23.000Z",
+    "date_last_played": "2023-11-11T03:55:32.000Z",
+    "kill_count": 1591,
+    "play_count": 473,
+    "highest_score": 2528378,
+    "picture": "734486-7d14f8d27dbd90b61741599f786ddbd6.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 49,
+    "tier": 2,
+    "xp": 25350,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1 "
+    },
+    {
+      "id": "Dapper_Snek"
+    },
+    {
+      "id": "Omni-Gon"
+    },
+    {
+      "id": "Sunset"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:19:19.234Z"
+}
