@@ -1,0 +1,83 @@
+{
+  "id": 7482,
+  "user_id": 20714747,
+  "cloneof_id": null,
+  "string_id": "1v1_algae_cove",
+  "title": "Algae Cove",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":40.428,\"y\":136.413},{\"x\":153.062,\"y\":136.413},{\"x\":153.062,\"y\":257.918},{\"x\":40.428,\"y\":257.918}],\"position\":{\"x\":40.428,\"y\":136.413},\"size\":{\"width\":112.634,\"height\":121.505},\"settings\":{\"fishLevels\":[88],\"animalCount\":6,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":2,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":19.586,\"y\":121.808},{\"x\":500,\"y\":121.808},{\"x\":500,\"y\":296.518},{\"x\":19.586,\"y\":296.518}],\"position\":{\"x\":19.586,\"y\":121.808},\"size\":{\"width\":480.414,\"height\":174.71},\"settings\":{\"foodIds\":[1],\"count\":42,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":839.3312994}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":18.628,\"y\":8.2},{\"x\":25.94,\"y\":35.848},{\"x\":21.039,\"y\":71.869},{\"x\":23.637,\"y\":88.817},{\"x\":21.702,\"y\":128.858},{\"x\":27.687,\"y\":148.844},{\"x\":18.553,\"y\":194.935},{\"x\":21.409,\"y\":231.553},{\"x\":16.789,\"y\":269.024},{\"x\":37.519,\"y\":282.935},{\"x\":87.728,\"y\":277.65},{\"x\":121.458,\"y\":281.429},{\"x\":166.015,\"y\":278.66},{\"x\":208.578,\"y\":284.457},{\"x\":243.48,\"y\":278.305},{\"x\":272.831,\"y\":288.797},{\"x\":327.459,\"y\":284.203},{\"x\":367.702,\"y\":279.784},{\"x\":387.653,\"y\":283.517},{\"x\":433.024,\"y\":276.011},{\"x\":455.152,\"y\":281.206},{\"x\":475.518,\"y\":277.479},{\"x\":485.515,\"y\":240.612},{\"x\":472.768,\"y\":199.241},{\"x\":479.602,\"y\":165.314},{\"x\":473.846,\"y\":107.446},{\"x\":473.276,\"y\":81.253},{\"x\":481.115,\"y\":31.793},{\"x\":500,\"y\":0},{\"x\":500,\"y\":300},{\"x\":0,\"y\":300},{\"x\":0,\"y\":0}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"1400\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":17.623,\"y\":10.207},{\"x\":47.048,\"y\":8.599},{\"x\":64.494,\"y\":13.968},{\"x\":96.341,\"y\":13.968},{\"x\":129.572,\"y\":20.925},{\"x\":185.343,\"y\":20.558},{\"x\":215.714,\"y\":28.586},{\"x\":244.266,\"y\":24.775},{\"x\":295.741,\"y\":34.441},{\"x\":339.346,\"y\":29.764},{\"x\":372.053,\"y\":31.393},{\"x\":398.125,\"y\":25.66},{\"x\":424.245,\"y\":36.918},{\"x\":460.827,\"y\":30.857},{\"x\":483.894,\"y\":35.01},{\"x\":500,\"y\":0}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"1400\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":126.417,\"y\":282.618,\"rotation\":0,\"hSType\":65},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":330.805,\"y\":285.003,\"rotation\":-2.54,\"hSType\":65},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":478,\"y\":182.431,\"rotation\":-76.88,\"hSType\":65},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":15.211,\"y\":226.794,\"rotation\":78.76,\"hSType\":65},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":177.511,\"y\":284.196,\"rotation\":0,\"hSType\":36},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":190.168,\"y\":283.53,\"rotation\":0,\"hSType\":36},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":204.775,\"y\":286.054,\"rotation\":0,\"hSType\":36},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":376.705,\"y\":282.732,\"rotation\":0,\"hSType\":37},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":462.823,\"y\":278.792,\"rotation\":-9.03,\"hSType\":50},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.097,\"y\":279.4,\"rotation\":38.12,\"hSType\":22},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":94.718,\"y\":182.964,\"rotation\":0,\"hSType\":21},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":79.952,\"y\":207.484,\"rotation\":0,\"hSType\":21},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":108.181,\"y\":207.46,\"rotation\":0,\"hSType\":21},{\"id\":18,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":313.858,\"y\":123.394,\"rotation\":0,\"hSType\":40},{\"id\":19,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":9.23,\"y\":120.193},{\"x\":500,\"y\":120.193},{\"x\":500,\"y\":292.343},{\"x\":9.23,\"y\":292.343}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":20,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":5.915,\"y\":0},{\"x\":494.765,\"y\":0},{\"x\":494.765,\"y\":178.3},{\"x\":5.915,\"y\":178.3}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"50\",\"height\":\"30\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 20,
+  "created_at": "2021-08-02T20:36:08.000Z",
+  "updated_at": "2022-09-10T17:12:03.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20714747,
+    "username": "zzyx_",
+    "description": "",
+    "about": "high score: 2.606 mil sleeper shark (1 hr)\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-04-10T17:55:58.000Z",
+    "date_last_played": "2025-01-11T20:12:44.000Z",
+    "kill_count": 2666,
+    "play_count": 972,
+    "highest_score": 2606302,
+    "picture": "20714747-aab3f1b2cc3cb18affb9cffefb0a1059d-bac57c15-9e57-4111-875d-d62397e64bec.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 192,
+    "tier": 4,
+    "xp": 224250,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "big"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:38:26.892Z"
+}
