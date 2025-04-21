@@ -1,0 +1,99 @@
+{
+  "id": 6842,
+  "user_id": 20727510,
+  "cloneof_id": null,
+  "string_id": "arena1",
+  "title": "The Arena",
+  "description": "A completely open Body of water with nowhere to hide",
+  "data": "{\"screenObjects\":[{\"id\":23,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":798.902,\"y\":0},{\"x\":798.902,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":798.902,\"height\":750},\"settings\":{\"area\":63}},{\"id\":33,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":746.546},{\"x\":0,\"y\":746.546}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":800,\"height\":746.546},\"settings\":{\"fishLevels\":[88,87,85,86,83,82,81,80,67,68,54,53,39,40,27,26,13,14,1,0,2,15,28,41,70,69,55,56,16,42,29,3,4,17,43,30,57,71,72,44,58,31,18,5,6,32,19,45,59,73,74,60,46,33,20,7,8,21,34,47,61,75,76,62,35,48,22,9,10,23,36,49,63,77,78,64,50,37,24,11,12,25,38,52,66,79],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":34,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":7.012,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":750},{\"x\":7.012,\"y\":750}],\"position\":{\"x\":7.012,\"y\":0},\"size\":{\"width\":792.988,\"height\":750},\"settings\":{\"foodIds\":[1,25,2,3,4,5,7,8,10,11,15,16,17,24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":5947.408536585365}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1.067,\"y\":644.29},{\"x\":800,\"y\":644.29},{\"x\":800,\"y\":750},{\"x\":1.067,\"y\":750}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":557.53,\"y\":127.064},{\"x\":697.835,\"y\":124.686},{\"x\":704.97,\"y\":166.302},{\"x\":557.53,\"y\":169.869}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":150.884,\"y\":122.308},{\"x\":329.238,\"y\":122.308},{\"x\":329.238,\"y\":178.192},{\"x\":150.884,\"y\":178.192}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":446.951,\"y\":280.448},{\"x\":447.951,\"y\":280.448},{\"x\":447.951,\"y\":281.448},{\"x\":446.951,\"y\":281.448}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":8,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":135.549},{\"x\":790.488,\"y\":131.982},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":9,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":181.799,\"y\":34.32},{\"x\":182.799,\"y\":34.32},{\"x\":182.799,\"y\":35.32},{\"x\":181.799,\"y\":35.32}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":18,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":454.085,\"y\":268.558},{\"x\":455.085,\"y\":268.558},{\"x\":455.085,\"y\":269.558},{\"x\":454.085,\"y\":269.558}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":200.823,\"y\":78.314},{\"x\":201.823,\"y\":78.314},{\"x\":201.823,\"y\":79.314},{\"x\":200.823,\"y\":79.314}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":136.918},{\"x\":800,\"y\":134.54},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":35,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":129.442},{\"x\":0,\"y\":130.631}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":36,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":609.848,\"y\":108.04},{\"x\":610.848,\"y\":108.04},{\"x\":610.848,\"y\":109.04},{\"x\":609.848,\"y\":109.04}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 14,
+  "created_at": "2021-05-16T04:13:18.000Z",
+  "updated_at": "2021-05-16T04:16:30.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20727510,
+    "username": "Random",
+    "description": "Yeet",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-05-14T17:10:05.000Z",
+    "date_last_played": "2021-09-15T04:29:35.000Z",
+    "kill_count": 70,
+    "play_count": 131,
+    "highest_score": 395309,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 61,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": " Hard"
+    },
+    {
+      "id": "Arena"
+    },
+    {
+      "id": "Impossible"
+    },
+    {
+      "id": "Super Hard"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:25:27.082Z"
+}
