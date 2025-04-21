@@ -1,0 +1,90 @@
+{
+  "id": 5384,
+  "user_id": 763824,
+  "cloneof_id": null,
+  "string_id": "smulifas_map_v1",
+  "title": "The Volcanic Abyss",
+  "description": "My First Map ! ",
+  "data": "{\"screenObjects\":[{\"id\":61,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":81.289},{\"x\":200,\"y\":81.289},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":81.289},\"size\":{\"width\":200,\"height\":118.711},\"settings\":{\"foodIds\":[16],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":237.422,\"onlyOnWater\":true}},{\"id\":62,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":200},{\"x\":60.222,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":63,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":64,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":65,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":36.158,\"y\":0},{\"x\":14.315,\"y\":34.234},{\"x\":19.172,\"y\":60.647},{\"x\":15.196,\"y\":91.841},{\"x\":19.274,\"y\":119.95},{\"x\":14.124,\"y\":144.226},{\"x\":26.616,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":66,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":21.093},{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":27.206},{\"x\":162.389,\"y\":13.234},{\"x\":144.925,\"y\":20.22},{\"x\":114.362,\"y\":11.051},{\"x\":73.427,\"y\":21.212},{\"x\":30.096,\"y\":9.296}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":67,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":175.488,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":173.054,\"y\":200},{\"x\":184.657,\"y\":154.696},{\"x\":179.532,\"y\":121.383},{\"x\":186.84,\"y\":95.077},{\"x\":181.168,\"y\":69.227},{\"x\":187.276,\"y\":39.868}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":69,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":133.573,\"y\":0.437},{\"x\":200,\"y\":28.516},{\"x\":200,\"y\":0}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":83,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":166.067},{\"x\":52.174,\"y\":173.507},{\"x\":93.924,\"y\":190.869},{\"x\":131.954,\"y\":175.161},{\"x\":200,\"y\":167.72},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":70,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":60.696,\"y\":167.288,\"rotation\":268.52,\"hSType\":50},{\"id\":73,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":127.923,\"y\":10.316,\"rotation\":181.2,\"hSType\":28},{\"id\":74,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":37.186,\"y\":6.631,\"rotation\":182.86,\"hSType\":26},{\"id\":75,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":44.902,\"y\":174.835,\"rotation\":0,\"hSType\":39},{\"id\":76,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":31.034,\"y\":172.968,\"rotation\":0,\"hSType\":39},{\"id\":77,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":171.082,\"y\":11.009,\"rotation\":179.09,\"hSType\":26},{\"id\":78,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":241.906,\"y\":299.218,\"rotation\":-18.44,\"hSType\":41},{\"id\":72,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":145.609,\"y\":4.353,\"rotation\":180.78,\"hSType\":23},{\"id\":71,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":73.355,\"y\":15.52,\"rotation\":181.27,\"hSType\":23},{\"id\":79,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":145.964},{\"x\":51.927,\"y\":142.471},{\"x\":116.545,\"y\":157.753},{\"x\":200,\"y\":122.824},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":81,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":62.096,\"y\":180.083},{\"x\":131.298,\"y\":180.083},{\"x\":131.298,\"y\":194.626},{\"x\":62.096,\"y\":194.626}],\"settings\":{\"collidable\":true},\"colors\":[16718362,7144452],\"hasBorder\":true},{\"id\":96,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":80.344},{\"x\":200,\"y\":80.344},{\"x\":200,\"y\":180.126},{\"x\":0,\"y\":180.126}],\"settings\":{\"collidable\":true},\"colors\":[13922,461603],\"hasBorder\":true},{\"id\":82,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":7.843},{\"x\":200,\"y\":7.843},{\"x\":200,\"y\":80.731},{\"x\":0,\"y\":80.731}],\"settings\":{\"collidable\":true},\"colors\":[1392997,1319228]}],\"settings\":{\"gravity\":10},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 22,
+  "created_at": "2020-12-24T12:18:48.000Z",
+  "updated_at": "2021-08-11T07:13:00.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 763824,
+    "username": "smuli_fas_deeeep",
+    "description": "stay safe out there\n\nDiscord: something4440#4031",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-08-06T02:47:11.000Z",
+    "date_last_played": "2023-07-16T06:23:56.000Z",
+    "kill_count": 18397,
+    "play_count": 12476,
+    "highest_score": 5325393,
+    "picture": "763824-ae2dd4d22b4b2b310109cf441174eca7ca.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 163,
+    "tier": 6,
+    "xp": 502950,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:00:45.987Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": 5367,
+  "user_id": 799404,
+  "cloneof_id": null,
+  "string_id": "1v1_v1",
+  "title": "The Pit",
+  "description": "It's like 1v1 mode, but you can play with your friends.",
+  "data": "{\"screenObjects\":[{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"area\":63}},{\"id\":20,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5567.642,\"y\":0},{\"x\":5625.817,\"y\":0},{\"x\":5625.817,\"y\":750},{\"x\":5567.642,\"y\":750}],\"position\":{\"x\":5567.642,\"y\":0},\"size\":{\"width\":58.175,\"height\":750},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":436.3138126077093,\"onlyOnWater\":false}},{\"id\":23,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5561.942,\"y\":19.309},{\"x\":5619.791,\"y\":19.309},{\"x\":5619.791,\"y\":750},{\"x\":5561.942,\"y\":750}],\"position\":{\"x\":5561.942,\"y\":19.309},\"size\":{\"width\":57.849,\"height\":730.691},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":422.69570891056884,\"onlyOnWater\":false}},{\"id\":24,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5583.692,\"y\":31.021},{\"x\":5659.364,\"y\":31.021},{\"x\":5659.364,\"y\":750},{\"x\":5583.692,\"y\":750}],\"position\":{\"x\":5583.692,\"y\":31.021},\"size\":{\"width\":75.672,\"height\":718.979},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":544.0683743993072,\"onlyOnWater\":false}},{\"id\":25,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2818.799,\"y\":14.402},{\"x\":2885.729,\"y\":14.402},{\"x\":2885.729,\"y\":750},{\"x\":2818.799,\"y\":750}],\"position\":{\"x\":2818.799,\"y\":14.402},\"size\":{\"width\":66.93,\"height\":735.598},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":492.3330413412652,\"onlyOnWater\":false}},{\"id\":26,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2816.008,\"y\":19.864},{\"x\":2897.838,\"y\":19.864},{\"x\":2897.838,\"y\":750},{\"x\":2816.008,\"y\":750}],\"position\":{\"x\":2816.008,\"y\":19.864},\"size\":{\"width\":81.83,\"height\":730.136},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":597.4713372437068,\"onlyOnWater\":false}},{\"id\":27,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2802.722,\"y\":33.004},{\"x\":2897.783,\"y\":33.004},{\"x\":2897.783,\"y\":750},{\"x\":2802.722,\"y\":750}],\"position\":{\"x\":2802.722,\"y\":33.004},\"size\":{\"width\":95.061,\"height\":716.996},\"settings\":{\"foodIds\":[3,1,10],\"count\":40,\"firstSpawnMs\":\"1\",\"reSpawnMs\":\"10\",\"area\":681.5808253501128,\"onlyOnWater\":false}},{\"id\":28,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3780.275,\"y\":211.788},{\"x\":4301.308,\"y\":211.788},{\"x\":4301.308,\"y\":563.272},{\"x\":3780.275,\"y\":563.272}],\"position\":{\"x\":3780.275,\"y\":211.788},\"size\":{\"width\":521.033,\"height\":351.484},\"settings\":{\"foodIds\":[1],\"count\":0,\"firstSpawnMs\":\"1\",\"reSpawnMs\":1000,\"area\":1831.3494572941056}},{\"id\":12,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3316.342,\"y\":0},{\"x\":3660.864,\"y\":0},{\"x\":3667.226,\"y\":750},{\"x\":3315.988,\"y\":750}],\"settings\":{\"angle\":-1,\"strength\":100}},{\"id\":14,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":4429.928,\"y\":0},{\"x\":4769.861,\"y\":0},{\"x\":4778.834,\"y\":750},{\"x\":4430.825,\"y\":750}],\"settings\":{\"angle\":-180,\"strength\":100}},{\"id\":17,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3304.609,\"y\":626.601},{\"x\":4749.186,\"y\":628.469},{\"x\":4754.797,\"y\":750},{\"x\":3307.406,\"y\":750}],\"settings\":{\"angle\":-91,\"strength\":100}},{\"id\":18,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3278.77,\"y\":0},{\"x\":4755.39,\"y\":0},{\"x\":4763.495,\"y\":135.056},{\"x\":3276.913,\"y\":125.121}],\"settings\":{\"angle\":89,\"strength\":100}},{\"id\":19,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":3973.394,\"y\":338.189},{\"x\":4054.981,\"y\":335.326},{\"x\":4053.044,\"y\":416.679},{\"x\":3972.404,\"y\":416.086}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":15,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":0},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 14,
+  "created_at": "2020-12-21T15:46:41.000Z",
+  "updated_at": "2020-12-21T15:46:42.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 799404,
+    "username": "Shaeffen",
+    "description": "All Atlantic TorPEDO players share a brain cell and should quit the game and step on every lego.",
+    "about": "#1 GrAnD_GuArDiAn fan",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-12-06T23:30:40.000Z",
+    "date_last_played": "2022-08-05T00:54:20.000Z",
+    "kill_count": 4989,
+    "play_count": 2029,
+    "highest_score": 4065143,
+    "picture": "799404.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 95,
+    "tier": 2,
+    "xp": 41550,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:00:44.972Z"
+}
