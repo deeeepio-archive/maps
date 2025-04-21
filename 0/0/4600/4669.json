@@ -1,0 +1,73 @@
+{
+  "id": 4669,
+  "user_id": 719649,
+  "cloneof_id": null,
+  "string_id": "0009939383",
+  "title": "Swamp 1v1",
+  "description": "Swamp 1v1, is a artwork no map for be added",
+  "data": "{\"screenObjects\":[{\"id\":13001,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":12.025,\"y\":40.274},{\"x\":14.175,\"y\":22.81},{\"x\":30.817,\"y\":13.684},{\"x\":53.902,\"y\":11.536},{\"x\":101.146,\"y\":14.757},{\"x\":144.095,\"y\":14.22},{\"x\":167.18,\"y\":27.642},{\"x\":187.581,\"y\":35.695},{\"x\":191.875,\"y\":53.948},{\"x\":194.56,\"y\":94.213},{\"x\":189.191,\"y\":131.793},{\"x\":180.601,\"y\":157.025},{\"x\":166.643,\"y\":171.521},{\"x\":137.653,\"y\":183.331},{\"x\":104.904,\"y\":181.184},{\"x\":59.808,\"y\":180.647},{\"x\":35.112,\"y\":182.258},{\"x\":12.564,\"y\":168.299},{\"x\":12.492,\"y\":39.274},{\"x\":0,\"y\":41.6},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":52.439}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":13002,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":69.912,\"y\":181.961,\"rotation\":0,\"hSType\":17},{\"id\":13003,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":11.304,\"y\":110.949,\"rotation\":89.77,\"hSType\":17},{\"id\":13004,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":136.377,\"y\":183.972,\"rotation\":0,\"hSType\":15},{\"id\":13005,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":0.243,\"y\":113.862,\"rotation\":64.48,\"hSType\":51},{\"id\":13006,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":45.797,\"y\":45.455,\"rotation\":0,\"hSType\":2},{\"id\":13007,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":114.716,\"y\":45.156,\"rotation\":0,\"hSType\":2},{\"id\":13008,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":64.413,\"y\":8.679,\"rotation\":0,\"hSType\":18},{\"id\":13009,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":125.715,\"y\":12.442,\"rotation\":0,\"hSType\":18},{\"id\":13010,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.39,\"y\":10.721,\"rotation\":0,\"hSType\":18},{\"id\":13011,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":180.501,\"y\":28.432,\"rotation\":24.42,\"hSType\":18},{\"id\":13012,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":18.026,\"y\":176.142,\"rotation\":-135.93,\"hSType\":18},{\"id\":13013,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":196.693,\"y\":97.986,\"rotation\":-267.45,\"hSType\":18},{\"id\":13014,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":5.517,\"y\":121.71,\"rotation\":73.98,\"hSType\":57},{\"id\":13015,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-8.675,\"y\":94.793,\"rotation\":73.87,\"hSType\":57},{\"id\":13016,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":9.084,\"y\":130.549},{\"x\":22.117,\"y\":142.361},{\"x\":41.667,\"y\":147.248},{\"x\":65.289,\"y\":155.801},{\"x\":79.137,\"y\":170.056},{\"x\":91.763,\"y\":174.129},{\"x\":131.269,\"y\":184.718},{\"x\":15.193,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":121.997},{\"x\":5.419,\"y\":126.884}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":13017,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":65.188,\"y\":155.634},{\"x\":91.608,\"y\":146.027},{\"x\":112.023,\"y\":137.32},{\"x\":138.743,\"y\":139.422},{\"x\":160.359,\"y\":132.217},{\"x\":200,\"y\":119.907},{\"x\":200,\"y\":200},{\"x\":133.32,\"y\":193.737},{\"x\":117.596,\"y\":181.88},{\"x\":78.674,\"y\":170.538},{\"x\":64.526,\"y\":155.781}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":13018,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":7.165,\"y\":110.213},{\"x\":25.466,\"y\":110.213},{\"x\":48.922,\"y\":102.738},{\"x\":73.925,\"y\":106.604},{\"x\":88.102,\"y\":110.471},{\"x\":96.093,\"y\":109.439},{\"x\":115.683,\"y\":105.573},{\"x\":139.654,\"y\":101.449},{\"x\":187.34,\"y\":110.471},{\"x\":198.939,\"y\":104.8},{\"x\":194.039,\"y\":122.189},{\"x\":139.445,\"y\":140.227},{\"x\":112.028,\"y\":137.822},{\"x\":64.65,\"y\":155.94},{\"x\":41.376,\"y\":147.746},{\"x\":21.896,\"y\":142.936},{\"x\":0,\"y\":122.218}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":13019,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":45.127},{\"x\":200,\"y\":45.127},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[7039754,1448196],\"hasBorder\":true},{\"id\":13020,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":46.5},{\"x\":0,\"y\":46.5}],\"settings\":{\"collidable\":true},\"colors\":[15727823,15328123]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 20,
+  "created_at": "2020-10-26T02:25:34.000Z",
+  "updated_at": "2023-06-22T04:13:36.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 719649,
+    "username": "MutantenatuM",
+    "description": "Si tablos fuera un abogado:\n\nTe voy a demandar para que sientas la verdadera esencia",
+    "about": "Soy el tablos de deeeep.io",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-04-01T23:12:08.000Z",
+    "date_last_played": "2025-01-21T06:08:03.000Z",
+    "kill_count": 40688,
+    "play_count": 14523,
+    "highest_score": 20098075,
+    "picture": "719649-10d8f48683610c62108d313a8ff11b55b7.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 9563,
+    "tier": 10,
+    "xp": 2711400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "MTA"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:23:57.697Z"
+}
