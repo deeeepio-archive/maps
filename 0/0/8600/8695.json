@@ -1,0 +1,70 @@
+{
+  "id": 8695,
+  "user_id": 20782452,
+  "cloneof_id": null,
+  "string_id": "1016262",
+  "title": "The deep",
+  "description": "I bet you cant survive >:)",
+  "data": "{\"screenObjects\":[{\"id\":50,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":372.386},{\"x\":8000,\"y\":372.386},{\"x\":8000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":372.386},\"size\":{\"width\":8000,\"height\":627.614},\"settings\":{\"area\":41}},{\"id\":51,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":7278.818,\"y\":0},{\"x\":7278.818,\"y\":364.79},{\"x\":0,\"y\":364.79}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":7278.818,\"height\":364.79},\"settings\":{\"area\":34}},{\"id\":52,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":16.693,\"y\":855.683},{\"x\":7278.818,\"y\":855.683},{\"x\":7278.818,\"y\":1000},{\"x\":16.693,\"y\":1000}],\"position\":{\"x\":16.693,\"y\":855.683},\"size\":{\"width\":7262.125,\"height\":144.317},\"settings\":{\"area\":41}},{\"id\":54,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":847.292,\"y\":0},{\"x\":847.292,\"y\":243.959},{\"x\":0,\"y\":243.959}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":847.292,\"height\":243.959},\"settings\":{\"area\":38}},{\"id\":47,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":12.129,\"y\":2.366},{\"x\":8000,\"y\":2.366},{\"x\":8000,\"y\":398.266},{\"x\":12.129,\"y\":398.266}],\"position\":{\"x\":12.129,\"y\":2.366},\"size\":{\"width\":7987.871,\"height\":395.9},\"settings\":{\"fishLevels\":[88,0,18,1,9],\"animalCount\":54,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":42,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":5.415},{\"x\":8000,\"y\":5.415},{\"x\":8000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":5.415},\"size\":{\"width\":8000,\"height\":994.585},\"settings\":{\"foodIds\":[11],\"count\":40,\"firstSpawnMs\":\"10\",\"reSpawnMs\":\"10\",\"area\":79566.8209384366,\"onlyOnWater\":true}},{\"id\":46,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4474.366,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1000},{\"x\":4474.366,\"y\":1000}],\"position\":{\"x\":4474.366,\"y\":0},\"size\":{\"width\":3525.634,\"height\":1000},\"settings\":{\"foodIds\":[11],\"count\":40,\"firstSpawnMs\":\"10\",\"reSpawnMs\":\"10\",\"area\":35256.33606281457,\"onlyOnWater\":true}},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":739.526},{\"x\":6921.311,\"y\":1000},{\"x\":8000,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3540.906,\"y\":595.167},{\"x\":4912.316,\"y\":907.944},{\"x\":76.291,\"y\":751.556},{\"x\":4852.166,\"y\":944.034}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":29,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4022.102,\"y\":691.406},{\"x\":5213.063,\"y\":879.701},{\"x\":4864.196,\"y\":1000},{\"x\":4286.76,\"y\":1000}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":40,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":201.347},{\"x\":2815.11,\"y\":896.715},{\"x\":8000,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"P\",\"layerId\":\"props\",\"x\":690.01,\"y\":380.571,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Now Leaving The Sunlight Zone\"}},{\"id\":57,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":20.692,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1000},{\"x\":20.692,\"y\":1000}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":59,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":23.973},{\"x\":8000,\"y\":23.973},{\"x\":8000,\"y\":298.871},{\"x\":0,\"y\":298.871}],\"texture\":6,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":62,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":290.003},{\"x\":8000,\"y\":298.871},{\"x\":8000,\"y\":1000},{\"x\":11.825,\"y\":1000}],\"texture\":5,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":63,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":11.473,\"y\":869.221},{\"x\":7293.315,\"y\":869.221},{\"x\":7293.315,\"y\":1000},{\"x\":11.473,\"y\":1000}],\"texture\":2,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":36,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":4067.28,\"y\":943.071},{\"x\":254.185,\"y\":943.071},{\"x\":254.185,\"y\":1000},{\"x\":4067.28,\"y\":1000}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":41,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1000},{\"x\":8.368,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":55,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":6661.482,\"y\":0},{\"x\":6661.482,\"y\":40.869},{\"x\":0,\"y\":40.869}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"800\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 19,
+  "created_at": "2021-12-06T14:24:52.000Z",
+  "updated_at": "2021-12-06T14:40:27.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20782452,
+    "username": "Steakboi",
+    "description": "Mad?  ",
+    "about": "Lol",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-29T13:15:40.000Z",
+    "date_last_played": "2023-10-03T12:48:33.000Z",
+    "kill_count": 53,
+    "play_count": 30,
+    "highest_score": 1338940,
+    "picture": "20782452.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 38,
+    "tier": 1,
+    "xp": 4650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "The Deep Sea"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:09:05.277Z"
+}
