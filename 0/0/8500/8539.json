@@ -1,0 +1,66 @@
+{
+  "id": 8539,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_temple",
+  "title": "Forgotten Ruins 1v1",
+  "description": "Thousands of years ago, this temple was built by an ancient civilization. Now it is home to two feisty fish.",
+  "data": "{\"screenObjects\":[{\"id\":740,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":741,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":77.518},{\"x\":300,\"y\":77.518},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":77.518},\"size\":{\"width\":300,\"height\":172.482},\"settings\":{\"fishLevels\":[2],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":3,\"restrictMovement\":true}},{\"id\":742,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":121.14},{\"x\":300,\"y\":121.14},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":121.14},\"size\":{\"width\":300,\"height\":128.86},\"settings\":{\"foodIds\":[10],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":386.5800000000001,\"onlyOnWater\":true}},{\"id\":743,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":9.318},{\"x\":0,\"y\":9.318}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":744,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":226.414},{\"x\":300,\"y\":226.414},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":745,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":10.642,\"y\":64.223},{\"x\":53.235,\"y\":64.223},{\"x\":42.846,\"y\":75.391},{\"x\":20.77,\"y\":75.391}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":746,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":20.778,\"y\":217.209},{\"x\":43.114,\"y\":217.209},{\"x\":52.982,\"y\":228.377},{\"x\":11.687,\"y\":228.377}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":747,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":244.154,\"y\":64.223},{\"x\":286.747,\"y\":64.223},{\"x\":276.358,\"y\":75.391},{\"x\":254.282,\"y\":75.391}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":748,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":254.29,\"y\":217.209},{\"x\":276.626,\"y\":217.209},{\"x\":286.494,\"y\":228.377},{\"x\":245.199,\"y\":228.377}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":749,\"type\":\"A\",\"layerId\":\"animals\",\"x\":195.572,\"y\":143.788,\"rotation\":-75.37,\"fLevel\":22},{\"id\":750,\"type\":\"A\",\"layerId\":\"animals\",\"x\":126.503,\"y\":165.291,\"rotation\":65.37,\"fLevel\":24},{\"id\":776,\"type\":\"A\",\"layerId\":\"animals\",\"x\":113.001,\"y\":185.027,\"rotation\":22.07,\"fLevel\":2},{\"id\":777,\"type\":\"A\",\"layerId\":\"animals\",\"x\":128.095,\"y\":183.843,\"rotation\":-6.38,\"fLevel\":2},{\"id\":778,\"type\":\"A\",\"layerId\":\"animals\",\"x\":221.319,\"y\":154.84,\"rotation\":-59.62,\"fLevel\":2},{\"id\":754,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":107.652,\"y\":100.666},{\"x\":83.68,\"y\":89.124},{\"x\":74.801,\"y\":69.591},{\"x\":75.985,\"y\":95.931},{\"x\":98.181,\"y\":103.33},{\"x\":73.322,\"y\":103.034},{\"x\":53.493,\"y\":90.012},{\"x\":71.25,\"y\":113.096},{\"x\":99.957,\"y\":108.953},{\"x\":79.537,\"y\":120.199},{\"x\":59.116,\"y\":117.239},{\"x\":79.537,\"y\":131.149},{\"x\":108.836,\"y\":111.024}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":755,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":192.508,\"y\":97.499},{\"x\":213.411,\"y\":85.536},{\"x\":220.642,\"y\":67.931},{\"x\":220.465,\"y\":92.88},{\"x\":198.957,\"y\":100.391},{\"x\":225.171,\"y\":101.997},{\"x\":244.228,\"y\":88.18},{\"x\":228.379,\"y\":110.424},{\"x\":199.76,\"y\":106.414},{\"x\":222.527,\"y\":119.083},{\"x\":243.121,\"y\":113.64},{\"x\":222.986,\"y\":129.12},{\"x\":192.533,\"y\":109.224}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":759,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":126.574,\"y\":128.255},{\"x\":112.612,\"y\":174.999},{\"x\":109.676,\"y\":214.447},{\"x\":120.766,\"y\":250},{\"x\":183.2,\"y\":250},{\"x\":192.914,\"y\":212.197},{\"x\":190.181,\"y\":173},{\"x\":173.424,\"y\":128.53}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":760,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":20.75,\"y\":73.467},{\"x\":42.917,\"y\":73.467},{\"x\":42.917,\"y\":250},{\"x\":20.75,\"y\":250}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":761,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":254.262,\"y\":73.467},{\"x\":276.429,\"y\":73.467},{\"x\":276.429,\"y\":250},{\"x\":254.262,\"y\":250}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":756,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":133.965,\"y\":138.509},{\"x\":171.375,\"y\":137.106},{\"x\":191.483,\"y\":124.48},{\"x\":197.095,\"y\":103.905},{\"x\":190.08,\"y\":87.07},{\"x\":169.037,\"y\":78.185},{\"x\":127.419,\"y\":78.653},{\"x\":107.778,\"y\":90.344},{\"x\":103.102,\"y\":107.646},{\"x\":111.052,\"y\":128.689}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":771,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":125.877,\"y\":155.788},{\"x\":97.315,\"y\":162.731},{\"x\":78.061,\"y\":140.326},{\"x\":47.628,\"y\":201.78},{\"x\":76.783,\"y\":195.821},{\"x\":85.399,\"y\":205.178},{\"x\":98.991,\"y\":193.36},{\"x\":105.54,\"y\":196.807}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":772,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":178.962,\"y\":154.064},{\"x\":201.367,\"y\":162.682},{\"x\":223.376,\"y\":142.222},{\"x\":251.327,\"y\":202.321},{\"x\":222.197,\"y\":190.798},{\"x\":210.33,\"y\":197.152},{\"x\":200.678,\"y\":187.156},{\"x\":196.197,\"y\":193.705}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":773,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":117.572,\"y\":96.336},{\"x\":141.544,\"y\":109.654},{\"x\":119.051,\"y\":110.837}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":774,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":181.825,\"y\":95.673},{\"x\":160.812,\"y\":109.582},{\"x\":181.233,\"y\":110.766}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":764,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":65.521},{\"x\":0,\"y\":65.521},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[0,6624019],\"hasBorder\":true},{\"id\":765,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[1116420,1116420]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 26,
+  "created_at": "2021-11-14T22:49:41.000Z",
+  "updated_at": "2022-02-20T09:59:48.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "ruins"
+    },
+    {
+      "id": "temple"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:08:01.779Z"
+}

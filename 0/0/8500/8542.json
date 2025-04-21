@@ -1,0 +1,76 @@
+{
+  "id": 8542,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_swamp_pond",
+  "title": "Murkwater Pond 1V1",
+  "description": "Catfish dwell in this murky pond. Eat them to regenerate your stamina as you fight your opponent!",
+  "data": "{\"screenObjects\":[{\"id\":779,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":780,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":125.855},{\"x\":300,\"y\":125.855},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":125.855},\"size\":{\"width\":300,\"height\":124.145},\"settings\":{\"fishLevels\":[62],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"3000\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":781,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":126.068},{\"x\":300,\"y\":126.068},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":126.068},\"size\":{\"width\":300,\"height\":123.932},\"settings\":{\"foodIds\":[1],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":371.796,\"onlyOnWater\":true}},{\"id\":782,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":122.163},{\"x\":25.731,\"y\":122.56},{\"x\":35.719,\"y\":132.051},{\"x\":14.483,\"y\":152.453},{\"x\":7.945,\"y\":189.028},{\"x\":13.109,\"y\":210.949},{\"x\":23.813,\"y\":234.544},{\"x\":65.542,\"y\":239.735},{\"x\":116.202,\"y\":239.891},{\"x\":156.667,\"y\":239.646},{\"x\":187.45,\"y\":238.271},{\"x\":219.22,\"y\":238.065},{\"x\":254.096,\"y\":237.333},{\"x\":277.326,\"y\":225.622},{\"x\":284.865,\"y\":198.716},{\"x\":284.949,\"y\":155.274},{\"x\":264.903,\"y\":133.562},{\"x\":274.452,\"y\":122.337},{\"x\":300,\"y\":122.624},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":783,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":294.219,\"y\":153.217},{\"x\":285.862,\"y\":150.606},{\"x\":276.983,\"y\":198.136},{\"x\":259.746,\"y\":205.448},{\"x\":247.793,\"y\":231.161},{\"x\":215.619,\"y\":233.026},{\"x\":189.234,\"y\":229.475},{\"x\":167.013,\"y\":235.208},{\"x\":118.517,\"y\":230.133},{\"x\":74.609,\"y\":234.641},{\"x\":34.49,\"y\":228.592},{\"x\":30.102,\"y\":208.615},{\"x\":14.769,\"y\":191.805},{\"x\":19.978,\"y\":145.627},{\"x\":3.813,\"y\":155.306},{\"x\":10.081,\"y\":244.622},{\"x\":294.219,\"y\":240.443}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":784,\"type\":\"A\",\"layerId\":\"animals\",\"x\":183.627,\"y\":193.93,\"rotation\":-25.14,\"fLevel\":82},{\"id\":785,\"type\":\"A\",\"layerId\":\"animals\",\"x\":140.413,\"y\":161.26,\"rotation\":69.92,\"fLevel\":34},{\"id\":786,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":89.266,\"y\":126.075,\"rotation\":0,\"hSType\":16},{\"id\":787,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":209.367,\"y\":126.688,\"rotation\":0,\"hSType\":16},{\"id\":788,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":72.396,\"y\":235.893,\"rotation\":0,\"hSType\":65},{\"id\":789,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":224.979,\"y\":234.381,\"rotation\":0,\"hSType\":65},{\"id\":790,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":147.926,\"y\":235.958,\"rotation\":0,\"hSType\":65},{\"id\":791,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":286.645,\"y\":126.766,\"rotation\":-180,\"hSType\":2},{\"id\":792,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":274.623,\"y\":198.066,\"rotation\":-50.89,\"hSType\":17},{\"id\":793,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":13.936,\"y\":126.766,\"rotation\":-180,\"hSType\":2},{\"id\":794,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":17.759,\"y\":200.595,\"rotation\":-321.07,\"hSType\":15},{\"id\":795,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":119.961,\"y\":41.186,\"rotation\":0,\"hSType\":56},{\"id\":796,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":51.538,\"y\":85.583,\"rotation\":0,\"hSType\":55},{\"id\":797,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":250.353,\"y\":86.364,\"rotation\":0,\"hSType\":55},{\"id\":798,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":175.98,\"y\":34.965,\"rotation\":0,\"hSType\":55},{\"id\":799,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":126.403},{\"x\":0,\"y\":125.858},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[6060071,1912840],\"hasBorder\":true},{\"id\":800,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[13629436,8911018]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 22,
+  "created_at": "2021-11-15T02:58:25.000Z",
+  "updated_at": "2022-02-20T10:00:13.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "pond"
+    },
+    {
+      "id": "swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:08:02.076Z"
+}

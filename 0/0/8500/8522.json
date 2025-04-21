@@ -1,0 +1,102 @@
+{
+  "id": 8522,
+  "user_id": 20776105,
+  "cloneof_id": 8519,
+  "string_id": "ks_1v1_aquarium",
+  "title": "The Deeeepquarium 1V1",
+  "description": "The aquarium is ready, but the fish don't look friendly... Uh-oh, looks like the glass won't last for long.",
+  "data": "{\"screenObjects\":[{\"id\":671,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":672,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":85.788},{\"x\":300,\"y\":85.788},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":85.788},\"size\":{\"width\":300,\"height\":164.212},\"settings\":{\"foodIds\":[1],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":492.63599999999997,\"onlyOnWater\":true}},{\"id\":673,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4.217,\"y\":221.219},{\"x\":54.882,\"y\":212.862},{\"x\":102.934,\"y\":217.04},{\"x\":147.331,\"y\":209.728},{\"x\":198.518,\"y\":216.518},{\"x\":237.412,\"y\":212.16},{\"x\":295.146,\"y\":221.741},{\"x\":295.668,\"y\":230.098},{\"x\":4.217,\"y\":230.62}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[25,17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":674,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":85.99},{\"x\":8.795,\"y\":85.99},{\"x\":8.795,\"y\":232.151},{\"x\":0,\"y\":232.151}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[3],\"count\":5,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":675,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":291.205,\"y\":85.99},{\"x\":300,\"y\":85.99},{\"x\":300,\"y\":232.151},{\"x\":291.205,\"y\":232.151}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[3],\"count\":5,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":676,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":229.303},{\"x\":300,\"y\":229.303},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":677,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":254.39,\"y\":129.505},{\"x\":236.158,\"y\":136.753},{\"x\":248.283,\"y\":141.898},{\"x\":259.484,\"y\":140.699},{\"x\":271.5,\"y\":143.978},{\"x\":280.434,\"y\":133.097}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":678,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":40.549,\"y\":143.596},{\"x\":49.709,\"y\":139.464},{\"x\":67.85,\"y\":140.901},{\"x\":73.598,\"y\":146.469},{\"x\":55.457,\"y\":150.421},{\"x\":50.805,\"y\":146.015}],\"texture\":5,\"settings\":{\"collidable\":true}},{\"id\":679,\"type\":\"A\",\"layerId\":\"animals\",\"x\":110.421,\"y\":214.578,\"rotation\":20.98,\"fLevel\":32},{\"id\":680,\"type\":\"A\",\"layerId\":\"animals\",\"x\":180.478,\"y\":140.757,\"rotation\":-57.62,\"fLevel\":32},{\"id\":681,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":275.573,\"y\":220.995,\"rotation\":0,\"hSType\":32},{\"id\":682,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":247.413,\"y\":216.593,\"rotation\":0,\"hSType\":34},{\"id\":683,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":261.041,\"y\":131.293,\"rotation\":0,\"hSType\":72},{\"id\":684,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":243.453,\"y\":135.01,\"rotation\":0,\"hSType\":71},{\"id\":685,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":199.889,\"y\":232.683,\"rotation\":0,\"hSType\":49},{\"id\":686,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":94.714,\"y\":228.323,\"rotation\":0,\"hSType\":7},{\"id\":687,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":30.116,\"y\":219,\"rotation\":0,\"hSType\":33},{\"id\":688,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":157.29,\"y\":215.181,\"rotation\":0,\"hSType\":30},{\"id\":689,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":134.11,\"y\":214.138,\"rotation\":0,\"hSType\":45},{\"id\":690,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":57.993,\"y\":140.73,\"rotation\":0,\"hSType\":72},{\"id\":691,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":227.823,\"y\":215.068},{\"x\":236.791,\"y\":195.785},{\"x\":253.832,\"y\":186.368},{\"x\":259.213,\"y\":165.291},{\"x\":241.724,\"y\":150.941},{\"x\":236.343,\"y\":136.591},{\"x\":280.29,\"y\":133.004},{\"x\":291.949,\"y\":125.828},{\"x\":297.331,\"y\":224.485}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":692,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":297.406,\"y\":201.886},{\"x\":264.601,\"y\":209.372},{\"x\":254.376,\"y\":217.906},{\"x\":297.539,\"y\":224.394}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":693,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":4.716,\"y\":129.372},{\"x\":29.742,\"y\":130.527},{\"x\":40.522,\"y\":143.617},{\"x\":74.019,\"y\":146.313},{\"x\":63.238,\"y\":171.724},{\"x\":55.538,\"y\":178.269},{\"x\":67.088,\"y\":190.974},{\"x\":78.254,\"y\":189.819},{\"x\":100.2,\"y\":221.39},{\"x\":2.406,\"y\":224.856}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":694,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":59.178,\"y\":218.203},{\"x\":46.948,\"y\":202.005},{\"x\":4.966,\"y\":196.716},{\"x\":3.644,\"y\":223.822}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":695,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":294.317,\"y\":81.566},{\"x\":297.698,\"y\":81.566},{\"x\":297.698,\"y\":86.099},{\"x\":294.317,\"y\":86.099}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":696,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":294.466,\"y\":83.861},{\"x\":294.466,\"y\":85.876},{\"x\":297.487,\"y\":85.876},{\"x\":297.487,\"y\":83.79},{\"x\":295.904,\"y\":83.933},{\"x\":295.329,\"y\":83.646}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":697,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":296.495,\"y\":83.983},{\"x\":295.632,\"y\":84.343},{\"x\":294.985,\"y\":83.839},{\"x\":295.704,\"y\":83.192},{\"x\":296.424,\"y\":83.552},{\"x\":296.999,\"y\":83.12},{\"x\":296.999,\"y\":84.343}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":698,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":294.17,\"y\":81.066},{\"x\":297.839,\"y\":81.066},{\"x\":297.839,\"y\":81.785},{\"x\":294.17,\"y\":81.785}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":699,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":88.622},{\"x\":0,\"y\":88.622},{\"x\":0,\"y\":227.638},{\"x\":300,\"y\":227.638}],\"settings\":{\"collidable\":true},\"colors\":[7726591,7726591],\"hasBorder\":true},{\"id\":700,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[0,0]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 30,
+  "created_at": "2021-11-11T23:41:07.000Z",
+  "updated_at": "2022-02-20T09:50:17.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "aquarium"
+    },
+    {
+      "id": "fish tank"
+    },
+    {
+      "id": "ocean"
+    },
+    {
+      "id": "reef"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:08:00.208Z"
+}
