@@ -1,0 +1,90 @@
+{
+  "id": 4525,
+  "user_id": 780756,
+  "cloneof_id": null,
+  "string_id": "64753",
+  "title": "Brand New Update",
+  "description": "It's A New Update for Map Maker",
+  "data": "{\"screenObjects\":[{\"id\":10,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3477.158,\"y\":545.48},{\"x\":3579.696,\"y\":545.48},{\"x\":3579.696,\"y\":625.314},{\"x\":3477.158,\"y\":625.314}],\"position\":{\"x\":3477.158,\"y\":545.48},\"size\":{\"width\":102.538,\"height\":79.833},\"settings\":{\"fishLevels\":[13,26],\"animalCount\":15,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":11,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2426.96,\"y\":613.553},{\"x\":2477.496,\"y\":613.553},{\"x\":2477.496,\"y\":653.103},{\"x\":2426.96,\"y\":653.103}],\"position\":{\"x\":2426.96,\"y\":613.553},\"size\":{\"width\":50.537,\"height\":39.55},\"settings\":{\"fishLevels\":[22],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":6,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2561.873,\"y\":544.561},{\"x\":2713.307,\"y\":544.561},{\"x\":2713.307,\"y\":622.393},{\"x\":2561.873,\"y\":622.393}],\"position\":{\"x\":2561.873,\"y\":544.561},\"size\":{\"width\":151.434,\"height\":77.832},\"settings\":{\"foodIds\":[1],\"count\":24,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":117.86436219344549,\"onlyOnWater\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2865.438,\"y\":510.672},{\"x\":3231.309,\"y\":505.252},{\"x\":3499.613,\"y\":750},{\"x\":2600.012,\"y\":750}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":750},{\"x\":8000,\"y\":750},{\"x\":8000,\"y\":535.287},{\"x\":0,\"y\":535.287}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":3.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 5,
+  "created_at": "2020-10-09T18:20:17.000Z",
+  "updated_at": "2020-10-09T18:20:19.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 780756,
+    "username": "1676514_570",
+    "description": "I Love You",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-10-10T10:06:29.000Z",
+    "date_last_played": "2020-10-10T10:39:57.000Z",
+    "kill_count": 2,
+    "play_count": 12,
+    "highest_score": 22325,
+    "picture": "780756.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "New Update"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:08:08.521Z"
+}
