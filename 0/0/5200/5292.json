@@ -1,0 +1,96 @@
+{
+  "id": 5292,
+  "user_id": 800448,
+  "cloneof_id": null,
+  "string_id": "213",
+  "title": "Pscifactoría",
+  "description": "h",
+  "data": "{\"screenObjects\":[{\"id\":48,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":60000}},{\"id\":51,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3465.833,\"y\":343.958},{\"x\":3660.833,\"y\":343.958},{\"x\":3660.833,\"y\":446.875},{\"x\":3465.833,\"y\":446.875}],\"position\":{\"x\":3465.833,\"y\":343.958},\"size\":{\"width\":195,\"height\":102.917},\"settings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":200.68749999999972}},{\"id\":38,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":183.333,\"y\":132.708},{\"x\":184.333,\"y\":132.708},{\"x\":184.333,\"y\":133.708},{\"x\":7961.667,\"y\":130}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":39,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":150.833,\"y\":620.208},{\"x\":1884.167,\"y\":620.208},{\"x\":1884.167,\"y\":750},{\"x\":150.833,\"y\":750}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":40,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4700.833,\"y\":528.125},{\"x\":8000,\"y\":528.125},{\"x\":8000,\"y\":750},{\"x\":4700.833,\"y\":750}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":45,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3460.417,\"y\":349.375},{\"x\":3617.5,\"y\":349.375},{\"x\":3617.5,\"y\":425.208},{\"x\":3460.417,\"y\":425.208}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":47,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3460.417,\"y\":338.542},{\"x\":3617.5,\"y\":338.542},{\"x\":3617.5,\"y\":381.875},{\"x\":3460.417,\"y\":381.875}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":53,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3471.25,\"y\":338.542},{\"x\":3650,\"y\":338.542},{\"x\":3650,\"y\":430.625},{\"x\":3471.25,\"y\":430.625}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1077.083,\"y\":528.125},{\"x\":2068.333,\"y\":528.125},{\"x\":2068.333,\"y\":343.958},{\"x\":1467.083,\"y\":457.708}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3574.167,\"y\":300.625},{\"x\":4045.417,\"y\":414.375},{\"x\":4500.417,\"y\":538.958},{\"x\":3574.167,\"y\":538.958}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2057.5,\"y\":360.208},{\"x\":2058.5,\"y\":360.208},{\"x\":2058.5,\"y\":361.208},{\"x\":2360.833,\"y\":166.208}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3563.333,\"y\":327.708},{\"x\":3564.333,\"y\":327.708},{\"x\":3564.333,\"y\":328.708},{\"x\":3314.167,\"y\":225.792}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":29,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2057.5,\"y\":522.708},{\"x\":2058.5,\"y\":522.708},{\"x\":2058.5,\"y\":523.708},{\"x\":2539.583,\"y\":695.833}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":30,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3568.75,\"y\":533.542},{\"x\":3569.75,\"y\":533.542},{\"x\":3569.75,\"y\":534.542},{\"x\":2631.667,\"y\":718.708}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":32,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2577.5,\"y\":696.042},{\"x\":4061.667,\"y\":696.042},{\"x\":4061.667,\"y\":750},{\"x\":2577.5,\"y\":750}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":34,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":696.042},{\"x\":8000,\"y\":696.042},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":36,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2832.083,\"y\":679.792},{\"x\":2833.083,\"y\":679.792},{\"x\":2833.083,\"y\":680.792},{\"x\":2377.083,\"y\":632.042}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":43,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3449.583,\"y\":441.458},{\"x\":3450.583,\"y\":441.458},{\"x\":3450.583,\"y\":442.458},{\"x\":3617.5,\"y\":437.042}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":41,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":3438.75,\"y\":425.208},{\"x\":3606.667,\"y\":425.208},{\"x\":3606.667,\"y\":457.708},{\"x\":3438.75,\"y\":457.708}],\"texture\":7,\"settings\":{\"collidable\":false}},{\"id\":21,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":538.958},{\"x\":8000,\"y\":538.958},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 20,
+  "created_at": "2020-12-15T19:14:03.000Z",
+  "updated_at": "2020-12-15T19:14:04.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 800448,
+    "username": "LuffyEmily",
+    "description": "I'm the best player of deeeep.io,\r\nyou have no chances against me\r\nI wish you luck\r\nYou're delicouuuuuuuuuuuuuuus\r\nyou can't kill me anymore,\r\nHow long do you think I'm going to stay here ????",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-12-09T15:07:16.000Z",
+    "date_last_played": "2024-04-19T17:06:14.000Z",
+    "kill_count": 79,
+    "play_count": 40,
+    "highest_score": 439145,
+    "picture": "800448.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 49,
+    "tier": 1,
+    "xp": 1650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "big fish farm"
+    },
+    {
+      "id": "Fish farm"
+    },
+    {
+      "id": "Map for eagles"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T21:57:20.451Z"
+}
