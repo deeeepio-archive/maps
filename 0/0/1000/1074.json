@@ -1,0 +1,90 @@
+{
+  "id": 1074,
+  "user_id": 585463,
+  "cloneof_id": null,
+  "string_id": "firstmap_v1",
+  "title": "first map",
+  "description": "first map",
+  "data": "{\"screenObjects\":[{\"id\":22,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":45.127,\"y\":299.521},{\"x\":3466.457,\"y\":299.521},{\"x\":3466.457,\"y\":624.231},{\"x\":45.127,\"y\":624.231}],\"position\":{\"x\":45.127,\"y\":299.521},\"size\":{\"width\":3421.331,\"height\":324.71},\"settings\":{\"foodIds\":[1],\"count\":444,\"firstSpawnMs\":0,\"reSpawnMs\":\"1\",\"area\":11109.38895573083,\"onlyOnWater\":true}},{\"id\":30,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":678.6},{\"x\":0,\"y\":678.6}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":678.6},\"settings\":{\"foodIds\":[17,1,5,7,8,10,11,15,16,3,2],\"count\":1956,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":54287.99353261714,\"onlyOnWater\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":596.693},{\"x\":8000,\"y\":331.716},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":25,\"type\":\"A\",\"layerId\":\"animals\",\"x\":405.435,\"y\":310.38,\"rotation\":0,\"fLevel\":25},{\"id\":26,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1054.855,\"y\":294.541,\"rotation\":0,\"fLevel\":25},{\"id\":27,\"type\":\"A\",\"layerId\":\"animals\",\"x\":635.108,\"y\":437.096,\"rotation\":0,\"fLevel\":25},{\"id\":28,\"type\":\"A\",\"layerId\":\"animals\",\"x\":475.79,\"y\":354.25,\"rotation\":0,\"fLevel\":30},{\"id\":24,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":101.528},{\"x\":8000,\"y\":54.009},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 8,
+  "created_at": "2019-11-09T01:05:29.000Z",
+  "updated_at": "2019-11-09T01:05:30.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 585463,
+    "username": "Stevee",
+    "description": "GG",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-05-03T17:06:41.000Z",
+    "date_last_played": "2022-10-13T13:23:42.000Z",
+    "kill_count": 193,
+    "play_count": 45,
+    "highest_score": 1621168,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 203,
+    "tier": 1,
+    "xp": 1050,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "first map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T09:57:34.226Z"
+}
