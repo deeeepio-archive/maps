@@ -1,0 +1,93 @@
+{
+  "id": 7040,
+  "user_id": 650971,
+  "cloneof_id": null,
+  "string_id": "hintz_map_2",
+  "title": "Hintz FFA v2 (WIP)",
+  "description": "Just for fun. I probably will prioritize the first one still.",
+  "data": "{\"screenObjects\":[{\"id\":2342,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":97.322,\"y\":1023.732},{\"x\":98.322,\"y\":1023.732},{\"x\":98.322,\"y\":1024.732},{\"x\":97.322,\"y\":1024.732}],\"position\":{\"x\":97.322,\"y\":1023.732},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":5}},{\"id\":2344,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1786.941,\"y\":0},{\"x\":1786.941,\"y\":929.925},{\"x\":0,\"y\":929.925}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1786.941,\"height\":929.925},\"settings\":{\"area\":37}},{\"id\":2345,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":83.531,\"y\":1032.029},{\"x\":84.531,\"y\":1032.029},{\"x\":84.531,\"y\":1033.029},{\"x\":83.531,\"y\":1033.029}],\"position\":{\"x\":83.531,\"y\":1032.029},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":5}},{\"id\":2347,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1786.999,\"y\":0},{\"x\":2883.204,\"y\":0},{\"x\":2883.204,\"y\":930.095},{\"x\":1786.999,\"y\":930.095}],\"position\":{\"x\":1786.999,\"y\":0},\"size\":{\"width\":1096.206,\"height\":930.095},\"settings\":{\"area\":39}},{\"id\":2350,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2883.253,\"y\":0},{\"x\":6318.224,\"y\":0},{\"x\":6318.224,\"y\":930.169},{\"x\":2883.253,\"y\":930.169}],\"position\":{\"x\":2883.253,\"y\":0},\"size\":{\"width\":3434.971,\"height\":930.169},\"settings\":{\"area\":38}},{\"id\":2352,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":343.561},{\"x\":441.314,\"y\":343.561},{\"x\":441.314,\"y\":1350},{\"x\":0,\"y\":1350}],\"position\":{\"x\":0,\"y\":343.561},\"size\":{\"width\":441.314,\"height\":1006.439},\"settings\":{\"area\":33}},{\"id\":2353,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":7454.664,\"y\":0},{\"x\":9500,\"y\":0},{\"x\":9500,\"y\":930.685},{\"x\":7454.664,\"y\":930.685}],\"position\":{\"x\":7454.664,\"y\":0},\"size\":{\"width\":2045.336,\"height\":930.685},\"settings\":{\"area\":22}},{\"id\":2354,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6318.047,\"y\":0},{\"x\":7454.614,\"y\":0},{\"x\":7454.614,\"y\":930.917},{\"x\":6318.047,\"y\":930.917}],\"position\":{\"x\":6318.047,\"y\":0},\"size\":{\"width\":1136.567,\"height\":930.917},\"settings\":{\"area\":54}},{\"id\":2356,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":441.459,\"y\":929.826},{\"x\":1787.192,\"y\":929.826},{\"x\":1787.192,\"y\":1350},{\"x\":441.459,\"y\":1350}],\"position\":{\"x\":441.459,\"y\":929.826},\"size\":{\"width\":1345.732,\"height\":420.174},\"settings\":{\"area\":41}},{\"id\":2357,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1787.241,\"y\":930.036},{\"x\":2883.247,\"y\":930.036},{\"x\":2883.247,\"y\":1350},{\"x\":1787.241,\"y\":1350}],\"position\":{\"x\":1787.241,\"y\":930.036},\"size\":{\"width\":1096.006,\"height\":419.964},\"settings\":{\"area\":43}},{\"id\":2358,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2884.707,\"y\":930.148},{\"x\":6318.878,\"y\":930.148},{\"x\":6318.878,\"y\":1350},{\"x\":2884.707,\"y\":1350}],\"position\":{\"x\":2884.707,\"y\":930.148},\"size\":{\"width\":3434.171,\"height\":419.852},\"settings\":{\"area\":43}},{\"id\":2359,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6319.014,\"y\":930.853},{\"x\":7454.731,\"y\":930.853},{\"x\":7454.731,\"y\":1350},{\"x\":6319.014,\"y\":1350}],\"position\":{\"x\":6319.014,\"y\":930.853},\"size\":{\"width\":1135.717,\"height\":419.147},\"settings\":{\"area\":58}},{\"id\":2361,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":7454.516,\"y\":930.837},{\"x\":9500,\"y\":930.837},{\"x\":9500,\"y\":1350},{\"x\":7454.516,\"y\":1350}],\"position\":{\"x\":7454.516,\"y\":930.837},\"size\":{\"width\":2045.484,\"height\":419.163},\"settings\":{\"area\":26}},{\"id\":2337,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":581.947,\"y\":327.209},{\"x\":766.106,\"y\":327.209},{\"x\":766.106,\"y\":396.602},{\"x\":581.947,\"y\":396.602}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":2339,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":109.078},{\"x\":60.889,\"y\":123.517},{\"x\":107.495,\"y\":139.83},{\"x\":133.235,\"y\":162.428},{\"x\":190.322,\"y\":185.379},{\"x\":242.054,\"y\":197.733},{\"x\":277.037,\"y\":219.122},{\"x\":334.402,\"y\":270.63},{\"x\":416.364,\"y\":341.67},{\"x\":446.581,\"y\":361.063},{\"x\":488.776,\"y\":378.401},{\"x\":504.65,\"y\":422.73},{\"x\":494.573,\"y\":485.456},{\"x\":480.008,\"y\":506.749},{\"x\":478.949,\"y\":546.398},{\"x\":452.253,\"y\":640.458},{\"x\":460.487,\"y\":677.584},{\"x\":423.991,\"y\":842.995},{\"x\":441.493,\"y\":904.948},{\"x\":468.784,\"y\":983.176},{\"x\":459.174,\"y\":1029.404},{\"x\":465.484,\"y\":1083.092},{\"x\":445.246,\"y\":1237.239},{\"x\":496.855,\"y\":1350},{\"x\":0,\"y\":1350}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":2365,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":465.067,\"y\":1280.259},{\"x\":6320.934,\"y\":1290.786},{\"x\":6321.155,\"y\":1350},{\"x\":400.357,\"y\":1350},{\"x\":412.624,\"y\":1328.956},{\"x\":452.4,\"y\":1304.506}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":2363,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":932.676},{\"x\":1787.732,\"y\":929.722},{\"x\":1787.595,\"y\":377.88},{\"x\":0,\"y\":377.142}],\"settings\":{\"collidable\":true},\"colors\":[2475519,0],\"hasBorder\":true},{\"id\":2364,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1787.796,\"y\":927.378},{\"x\":0,\"y\":927.378},{\"x\":0,\"y\":1350},{\"x\":1787.796,\"y\":1350}],\"settings\":{\"collidable\":true},\"colors\":[0,0],\"hasBorder\":true},{\"id\":2335,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":4.249},{\"x\":9500,\"y\":4.249},{\"x\":9500,\"y\":378.546},{\"x\":0,\"y\":378.546}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"950\",\"height\":\"135\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 19,
+  "created_at": "2021-06-02T21:20:02.000Z",
+  "updated_at": "2021-06-02T22:04:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 650971,
+    "username": "Hintz_seasons",
+    "description": "Wenomechainsama",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-11-01T21:42:18.000Z",
+    "date_last_played": "2022-10-21T01:47:39.000Z",
+    "kill_count": 1876,
+    "play_count": 1072,
+    "highest_score": 1941135,
+    "picture": "650971.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 54,
+    "tier": 1,
+    "xp": 14700,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "FFA"
+    },
+    {
+      "id": "Hintz"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:28:51.296Z"
+}
