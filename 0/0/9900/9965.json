@@ -1,0 +1,76 @@
+{
+  "id": 9965,
+  "user_id": 20807506,
+  "cloneof_id": null,
+  "string_id": "WiFi_1v1_1",
+  "title": "Swamp 1v1",
+  "description": "My first 1v1 map",
+  "data": "{\"screenObjects\":[{\"id\":10842,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":170,\"y\":0},{\"x\":170,\"y\":190},{\"x\":0,\"y\":190}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":170,\"height\":190},\"settings\":{\"area\":63}},{\"id\":10843,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":82.565},{\"x\":170,\"y\":82.565},{\"x\":170,\"y\":183.427},{\"x\":0,\"y\":183.427}],\"position\":{\"x\":0,\"y\":82.565},\"size\":{\"width\":170,\"height\":100.862},\"settings\":{\"foodIds\":[1],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":171.46540000000002,\"onlyOnWater\":true}},{\"id\":10844,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":21.483,\"y\":0},{\"x\":156.872,\"y\":0},{\"x\":156.872,\"y\":34.468},{\"x\":21.483,\"y\":34.468}],\"position\":{\"x\":21.483,\"y\":0},\"size\":{\"width\":135.389,\"height\":34.468},\"settings\":{\"foodIds\":[7],\"count\":6,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":46.66588052000001}},{\"id\":10845,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":143.463},{\"x\":0,\"y\":113.097},{\"x\":11.966,\"y\":152.43},{\"x\":35.198,\"y\":172.606},{\"x\":68.717,\"y\":179.55},{\"x\":107.39,\"y\":180.001},{\"x\":135.262,\"y\":173.421},{\"x\":157.679,\"y\":152.226},{\"x\":170,\"y\":115.339},{\"x\":170,\"y\":190},{\"x\":0,\"y\":190}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":10846,\"type\":\"A\",\"layerId\":\"animals\",\"x\":91.987,\"y\":23.311,\"rotation\":-69.58,\"fLevel\":41},{\"id\":10847,\"type\":\"A\",\"layerId\":\"animals\",\"x\":81.43,\"y\":121.964,\"rotation\":63.94,\"fLevel\":34},{\"id\":10848,\"type\":\"A\",\"layerId\":\"animals\",\"x\":90.346,\"y\":115.762,\"rotation\":-26.52,\"fLevel\":86},{\"id\":10849,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":88.5,\"y\":82.934,\"rotation\":-0.49,\"hSType\":13},{\"id\":10850,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":120.455,\"y\":176.569,\"rotation\":-11.2,\"hSType\":15},{\"id\":10851,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":53.156,\"y\":177.321,\"rotation\":9.99,\"hSType\":15},{\"id\":10852,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":132.586,\"y\":82.802,\"rotation\":0,\"hSType\":14},{\"id\":10853,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":22.904,\"y\":8.368,\"rotation\":0,\"hSType\":55},{\"id\":10854,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":148.762,\"y\":27.973,\"rotation\":0,\"hSType\":55},{\"id\":10855,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":127.35,\"y\":83.459,\"rotation\":0,\"hSType\":2},{\"id\":10856,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":69.574,\"y\":180.392,\"rotation\":16.7,\"hSType\":17},{\"id\":10857,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":12.006,\"y\":153.077,\"rotation\":62.64,\"hSType\":27},{\"id\":10858,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":158.618,\"y\":151.332,\"rotation\":-41.23,\"hSType\":25},{\"id\":10859,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":124.179,\"y\":169.29,\"rotation\":63.8,\"hSType\":50},{\"id\":10860,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":57.687,\"y\":80.686,\"rotation\":0,\"hSType\":17},{\"id\":10861,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":158.111,\"y\":151.879},{\"x\":132.777,\"y\":146.59},{\"x\":107.863,\"y\":126.43},{\"x\":91.815,\"y\":126.17},{\"x\":77.285,\"y\":139.926},{\"x\":70,\"y\":159.118},{\"x\":35.201,\"y\":172.759},{\"x\":87.045,\"y\":186.935},{\"x\":136.507,\"y\":174.037}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":10862,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":77.363,\"y\":139.932},{\"x\":55.803,\"y\":126.892},{\"x\":49.654,\"y\":107.81},{\"x\":35.592,\"y\":98.091},{\"x\":13.36,\"y\":98.428},{\"x\":0,\"y\":103.224},{\"x\":0,\"y\":149.948},{\"x\":35.363,\"y\":172.727},{\"x\":70.01,\"y\":159.077}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":10863,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":55.946,\"y\":127.031},{\"x\":49.84,\"y\":107.985},{\"x\":92.504,\"y\":103.876},{\"x\":110.415,\"y\":113.899},{\"x\":107.915,\"y\":126.348},{\"x\":92.001,\"y\":126.27},{\"x\":77.461,\"y\":139.939}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":10864,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":170,\"y\":100.263},{\"x\":170,\"y\":115.439},{\"x\":157.897,\"y\":151.866},{\"x\":132.88,\"y\":146.789},{\"x\":107.753,\"y\":126.671},{\"x\":110.237,\"y\":113.768},{\"x\":126.319,\"y\":95.817},{\"x\":145.861,\"y\":92.378},{\"x\":161.99,\"y\":94.422}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":10865,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":190},{\"x\":170,\"y\":190},{\"x\":170,\"y\":81.61},{\"x\":0,\"y\":81.61}],\"settings\":{\"collidable\":true},\"colors\":[2049074,2975030],\"hasBorder\":true},{\"id\":10866,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":170,\"y\":0},{\"x\":170,\"y\":81.199},{\"x\":0,\"y\":80.877}],\"settings\":{\"collidable\":true},\"colors\":[13630692,9419169]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"17\",\"height\":\"19\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 25,
+  "created_at": "2022-06-16T07:52:57.000Z",
+  "updated_at": "2022-09-05T23:48:56.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20807506,
+    "username": "MyWiFiPoo",
+    "description": "Best Flying fish in NA",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-03-15T03:33:44.000Z",
+    "date_last_played": "2025-04-12T21:26:52.000Z",
+    "kill_count": 6877,
+    "play_count": 2763,
+    "highest_score": 10478404,
+    "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 714,
+    "tier": 9,
+    "xp": 1108950,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Swamp"
+    },
+    {
+      "id": "wifi"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:24:53.736Z"
+}

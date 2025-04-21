@@ -1,0 +1,60 @@
+{
+  "id": 10034,
+  "user_id": 20942957,
+  "cloneof_id": null,
+  "string_id": "pvp",
+  "title": "Untitled",
+  "description": "PV片",
+  "data": "{\"screenObjects\":[{\"id\":9,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":695.864,\"y\":451.59},{\"x\":699.637,\"y\":451.59},{\"x\":699.637,\"y\":453.946},{\"x\":695.864,\"y\":453.946}],\"position\":{\"x\":695.864,\"y\":451.59},\"size\":{\"width\":3.773,\"height\":2.356},\"settings\":{\"area\":0}},{\"id\":10,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":897.837,\"y\":512.538},{\"x\":980.014,\"y\":512.538},{\"x\":980.014,\"y\":559.577},{\"x\":897.837,\"y\":559.577}],\"position\":{\"x\":897.837,\"y\":512.538},\"size\":{\"width\":82.178,\"height\":47.039},\"settings\":{\"area\":0}},{\"id\":11,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1043.522,\"y\":565.797},{\"x\":1301.476,\"y\":565.797},{\"x\":1301.476,\"y\":649.912},{\"x\":1043.522,\"y\":649.912}],\"position\":{\"x\":1043.522,\"y\":565.797},\"size\":{\"width\":257.954,\"height\":84.115},\"settings\":{\"area\":0}},{\"id\":12,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2037.927,\"y\":622.197},{\"x\":2350.445,\"y\":622.197},{\"x\":2350.445,\"y\":682.41},{\"x\":2037.927,\"y\":682.41}],\"position\":{\"x\":2037.927,\"y\":622.197},\"size\":{\"width\":312.519,\"height\":60.214},\"settings\":{\"area\":0}},{\"id\":13,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2497.038,\"y\":308.342},{\"x\":2632.954,\"y\":308.342},{\"x\":2632.954,\"y\":396.159},{\"x\":2497.038,\"y\":396.159}],\"position\":{\"x\":2497.038,\"y\":308.342},\"size\":{\"width\":135.916,\"height\":87.817},\"settings\":{\"area\":0}},{\"id\":5,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1500.155,\"y\":413.983},{\"x\":1501.144,\"y\":413.983},{\"x\":1501.144,\"y\":413.994},{\"x\":1500.155,\"y\":413.994}],\"position\":{\"x\":1500.155,\"y\":413.983},\"size\":{\"width\":0.989,\"height\":0.01},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1972.666,\"y\":188.017},{\"x\":2474.584,\"y\":188.017},{\"x\":2474.584,\"y\":165.329},{\"x\":1972.666,\"y\":165.329}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1079.048,\"y\":192.483},{\"x\":442.029,\"y\":192.483},{\"x\":442.029,\"y\":154.459},{\"x\":1079.048,\"y\":154.459}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":14,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":213.279,\"y\":345.806},{\"x\":321.959,\"y\":345.806},{\"x\":321.959,\"y\":422.804},{\"x\":213.279,\"y\":422.804}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":15,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":678.172,\"y\":383.076},{\"x\":942.591,\"y\":383.076},{\"x\":942.591,\"y\":408.192},{\"x\":678.172,\"y\":408.192}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":16,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1292.197,\"y\":338.219},{\"x\":1508.058,\"y\":338.219},{\"x\":1508.058,\"y\":350.619},{\"x\":1292.197,\"y\":350.619}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":17,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1727.029,\"y\":489.829},{\"x\":1797.276,\"y\":489.829},{\"x\":1797.276,\"y\":582.714},{\"x\":1727.029,\"y\":582.714}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":18,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1978.957,\"y\":500.597},{\"x\":2116.189,\"y\":500.597},{\"x\":2116.189,\"y\":491.879},{\"x\":1978.957,\"y\":491.879}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2591.401,\"y\":531.127},{\"x\":2675.282,\"y\":531.127},{\"x\":2675.282,\"y\":608.859},{\"x\":2591.401,\"y\":608.859}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":20,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2840.76,\"y\":621.993},{\"x\":2876.46,\"y\":621.993},{\"x\":2876.46,\"y\":700.49},{\"x\":2840.76,\"y\":700.49}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":21,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2084.782,\"y\":307.761},{\"x\":1981.914,\"y\":307.761},{\"x\":1981.914,\"y\":237.004},{\"x\":2084.782,\"y\":237.004}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":22,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":270.494,\"y\":588.822},{\"x\":334.991,\"y\":588.822},{\"x\":334.991,\"y\":629.845},{\"x\":270.494,\"y\":629.845}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":23,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":437.532,\"y\":391.407},{\"x\":567.3,\"y\":391.407},{\"x\":567.3,\"y\":535.359},{\"x\":437.532,\"y\":535.359}],\"texture\":11,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":158.497},{\"x\":3000,\"y\":158.497},{\"x\":3000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":1,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":4.083},{\"x\":3000,\"y\":156.294},{\"x\":0,\"y\":158.262}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"300\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 20,
+  "created_at": "2022-06-19T13:00:22.000Z",
+  "updated_at": "2022-06-19T13:00:24.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20942957,
+    "username": "杰瑞",
+    "description": "BYE\n[★皿★]",
+    "about": "Hi bro,Thanks for looking this \nAnd I hop to make a friend with u",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-06-03T11:25:31.000Z",
+    "date_last_played": "2025-01-20T02:44:22.000Z",
+    "kill_count": 9377,
+    "play_count": 2120,
+    "highest_score": 4905560,
+    "picture": "20942957-1c692a46f9d76b38526858dc1bc2d4b5-b0133e61-186e-4f0a-9efb-84aa127e0398.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 303,
+    "tier": 9,
+    "xp": 1045650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "PVP"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:24:58.213Z"
+}
