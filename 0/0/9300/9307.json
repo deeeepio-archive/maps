@@ -1,0 +1,80 @@
+{
+  "id": 9307,
+  "user_id": 20769276,
+  "cloneof_id": null,
+  "string_id": "fight",
+  "title": "1vs1",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":1734,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":110.832,\"y\":438.329},{\"x\":460.74,\"y\":438.329},{\"x\":460.74,\"y\":681.226},{\"x\":110.832,\"y\":681.226}],\"position\":{\"x\":110.832,\"y\":438.329},\"size\":{\"width\":349.908,\"height\":242.897},\"settings\":{\"foodIds\":[5,7,8,10,16,17,24,25,1],\"count\":69,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":849.91603476}},{\"id\":1735,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":566.051,\"y\":405.207},{\"x\":567.051,\"y\":405.207},{\"x\":567.051,\"y\":406.207},{\"x\":566.051,\"y\":406.207}],\"position\":{\"x\":566.051,\"y\":405.207},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01,\"onlyOnWater\":true}},{\"id\":1736,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":128.333,\"y\":7.178},{\"x\":0,\"y\":0},{\"x\":0,\"y\":197.393},{\"x\":128.333,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":1737,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":56.526},{\"x\":64.031,\"y\":168.681},{\"x\":64.031,\"y\":451.311},{\"x\":2.719,\"y\":451.311}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1738,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2.719,\"y\":310.744},{\"x\":3.719,\"y\":310.744},{\"x\":3.719,\"y\":311.744},{\"x\":0,\"y\":314.735}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1739,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":5.71,\"y\":168.681},{\"x\":0,\"y\":168.681},{\"x\":0,\"y\":443.834},{\"x\":5.71,\"y\":443.834}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1740,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":59.544,\"y\":430.376},{\"x\":0,\"y\":430.376},{\"x\":0,\"y\":750},{\"x\":255.442,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1741,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":443.862,\"y\":458.788},{\"x\":444.862,\"y\":458.788},{\"x\":444.862,\"y\":459.788},{\"x\":443.862,\"y\":459.788}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1742,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":14.954,\"y\":1.495},{\"x\":700,\"y\":0},{\"x\":700,\"y\":78.957},{\"x\":129.828,\"y\":78.957}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1743,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":252.451,\"y\":93.911},{\"x\":253.451,\"y\":93.911},{\"x\":253.451,\"y\":94.911},{\"x\":252.451,\"y\":94.911}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1744,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":120.856,\"y\":4.187},{\"x\":529.1,\"y\":4.187},{\"x\":529.1,\"y\":0},{\"x\":120.856,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1745,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":478.256,\"y\":0},{\"x\":700,\"y\":59.517},{\"x\":700,\"y\":750},{\"x\":452.834,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1746,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":233.011,\"y\":686.089},{\"x\":491.715,\"y\":686.089},{\"x\":491.715,\"y\":750},{\"x\":129.828,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1749,\"type\":\"P\",\"layerId\":\"props\",\"x\":667.942,\"y\":293.505,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"FIGHT!\"}},{\"id\":1753,\"type\":\"P\",\"layerId\":\"props\",\"x\":238.259,\"y\":692.978,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"FIGHT!\"}},{\"id\":1756,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":268.068,\"y\":689.545,\"rotation\":0,\"hSType\":1},{\"id\":1757,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":412.88,\"y\":688.703,\"rotation\":0,\"hSType\":1},{\"id\":1758,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":341.457,\"y\":685.819,\"rotation\":0,\"hSType\":49},{\"id\":1759,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":67.021,\"y\":435.329},{\"x\":524.613,\"y\":435.329},{\"x\":524.613,\"y\":700.015},{\"x\":67.021,\"y\":700.015}],\"settings\":{\"collidable\":true},\"colors\":[25175,204080],\"hasBorder\":true},{\"id\":1760,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":445.357,\"y\":460.751},{\"x\":446.357,\"y\":460.751},{\"x\":446.357,\"y\":461.751},{\"x\":445.357,\"y\":461.751}],\"settings\":{\"collidable\":true},\"colors\":[25175,206896],\"hasBorder\":true},{\"id\":1761,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":445.357,\"y\":430.843},{\"x\":446.357,\"y\":430.843},{\"x\":446.357,\"y\":431.843},{\"x\":445.357,\"y\":431.843}],\"settings\":{\"collidable\":true},\"colors\":[25175,206896],\"hasBorder\":true},{\"id\":1762,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":53.563,\"y\":80.266},{\"x\":481.672,\"y\":74.284},{\"x\":462.232,\"y\":434.675},{\"x\":53.563,\"y\":434.675}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":1763,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":64.031,\"y\":353.924},{\"x\":65.031,\"y\":353.924},{\"x\":65.031,\"y\":354.924},{\"x\":64.031,\"y\":354.924}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":1764,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":648.732,\"y\":276.163},{\"x\":649.732,\"y\":276.163},{\"x\":649.732,\"y\":277.163},{\"x\":648.732,\"y\":277.163}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"70\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 24,
+  "created_at": "2022-02-18T15:19:17.000Z",
+  "updated_at": "2022-02-21T10:38:09.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20769276,
+    "username": "Apollo11",
+    "description": "Hi! I like space and animals. My top streak in 1vs1 is 10.",
+    "about": "My main animal is Anaconda",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-10-22T10:33:05.000Z",
+    "date_last_played": "2024-10-27T06:47:42.000Z",
+    "kill_count": 560,
+    "play_count": 1036,
+    "highest_score": 1436404,
+    "picture": "20769276.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 12,
+    "tier": 2,
+    "xp": 72450,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1vs1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:15:44.338Z"
+}
