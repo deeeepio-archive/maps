@@ -1,0 +1,63 @@
+{
+  "id": 9763,
+  "user_id": 20804001,
+  "cloneof_id": null,
+  "string_id": "lush_waters_v1",
+  "title": "Lush waters",
+  "description": "normal FFA map",
+  "data": "{\"screenObjects\":[{\"id\":2442,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":1574.172},{\"x\":2922.755,\"y\":1574.172},{\"x\":2922.755,\"y\":2400},{\"x\":0,\"y\":2400}],\"position\":{\"x\":0,\"y\":1574.172},\"size\":{\"width\":2922.755,\"height\":825.828},\"settings\":{\"area\":25}},{\"id\":2443,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":981.106},{\"x\":2923.116,\"y\":981.106},{\"x\":2923.116,\"y\":1572.947},{\"x\":0,\"y\":1572.947}],\"position\":{\"x\":0,\"y\":981.106},\"size\":{\"width\":2923.116,\"height\":591.841},\"settings\":{\"area\":21}},{\"id\":2444,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2916.833,\"y\":1859.54},{\"x\":5479.936,\"y\":1859.54},{\"x\":5479.936,\"y\":2400},{\"x\":2916.833,\"y\":2400}],\"position\":{\"x\":2916.833,\"y\":1859.54},\"size\":{\"width\":2563.103,\"height\":540.46},\"settings\":{\"area\":40}},{\"id\":2445,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2916.13,\"y\":981.72},{\"x\":5483.998,\"y\":981.72},{\"x\":5483.998,\"y\":1192.257},{\"x\":2916.13,\"y\":1192.257}],\"position\":{\"x\":2916.13,\"y\":981.72},\"size\":{\"width\":2567.868,\"height\":210.537},\"settings\":{\"area\":36}},{\"id\":2446,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2907.973,\"y\":1186.236},{\"x\":5486.596,\"y\":1186.236},{\"x\":5486.596,\"y\":1864.053},{\"x\":2907.973,\"y\":1864.053}],\"position\":{\"x\":2907.973,\"y\":1186.236},\"size\":{\"width\":2578.623,\"height\":677.817},\"settings\":{\"area\":44}},{\"id\":2447,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5472.659,\"y\":984.509},{\"x\":8000,\"y\":984.509},{\"x\":8000,\"y\":1402.597},{\"x\":5472.659,\"y\":1402.597}],\"position\":{\"x\":5472.659,\"y\":984.509},\"size\":{\"width\":2527.341,\"height\":418.088},\"settings\":{\"area\":22}},{\"id\":2448,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5461.151,\"y\":1865.914},{\"x\":8000,\"y\":1865.914},{\"x\":8000,\"y\":2400},{\"x\":5461.151,\"y\":2400}],\"position\":{\"x\":5461.151,\"y\":1865.914},\"size\":{\"width\":2538.849,\"height\":534.086},\"settings\":{\"area\":27}},{\"id\":2449,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5477.727,\"y\":1396.134},{\"x\":8000,\"y\":1396.134},{\"x\":8000,\"y\":1867.574},{\"x\":5477.727,\"y\":1867.574}],\"position\":{\"x\":5477.727,\"y\":1396.134},\"size\":{\"width\":2522.273,\"height\":471.44},\"settings\":{\"area\":31}},{\"id\":2450,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":15.847,\"y\":992.69},{\"x\":2903.499,\"y\":992.69},{\"x\":2903.499,\"y\":1575.17},{\"x\":15.847,\"y\":1575.17}],\"position\":{\"x\":15.847,\"y\":992.69},\"size\":{\"width\":2887.652,\"height\":582.48},\"settings\":{\"fishLevels\":[54,63,52],\"animalCount\":10,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"20\",\"npcType\":5,\"restrictMovement\":false}},{\"id\":2451,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":1611.642},{\"x\":2916.687,\"y\":1611.642},{\"x\":2916.687,\"y\":2400},{\"x\":0,\"y\":2400}],\"position\":{\"x\":0,\"y\":1611.642},\"size\":{\"width\":2916.687,\"height\":788.358},\"settings\":{\"fishLevels\":[25],\"animalCount\":1,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"300\",\"npcType\":3,\"restrictMovement\":false}},{\"id\":2452,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2907.463,\"y\":1855.475},{\"x\":5463.689,\"y\":1855.475},{\"x\":5463.689,\"y\":2400},{\"x\":2907.463,\"y\":2400}],\"position\":{\"x\":2907.463,\"y\":1855.475},\"size\":{\"width\":2556.226,\"height\":544.525},\"settings\":{\"fishLevels\":[22],\"animalCount\":1,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"300\",\"npcType\":3,\"restrictMovement\":false}},{\"id\":2453,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2921.772,\"y\":1202.447},{\"x\":5482.347,\"y\":1202.447},{\"x\":5482.347,\"y\":1857.831},{\"x\":2921.772,\"y\":1857.831}],\"position\":{\"x\":2921.772,\"y\":1202.447},\"size\":{\"width\":2560.575,\"height\":655.384},\"settings\":{\"fishLevels\":[57],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":2454,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5492.74,\"y\":982.135},{\"x\":8000,\"y\":982.135},{\"x\":8000,\"y\":1403.811},{\"x\":5492.74,\"y\":1403.811}],\"position\":{\"x\":5492.74,\"y\":982.135},\"size\":{\"width\":2507.26,\"height\":421.676},\"settings\":{\"fishLevels\":[59],\"animalCount\":12,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"20\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":2455,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5473.557,\"y\":1880.18},{\"x\":8000,\"y\":1880.18},{\"x\":8000,\"y\":2400},{\"x\":5473.557,\"y\":2400}],\"position\":{\"x\":5473.557,\"y\":1880.18},\"size\":{\"width\":2526.443,\"height\":519.82},\"settings\":{\"fishLevels\":[34],\"animalCount\":0,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"300\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":2456,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2917.516,\"y\":996.986},{\"x\":5489.402,\"y\":996.986},{\"x\":5489.402,\"y\":1189.841},{\"x\":2917.516,\"y\":1189.841}],\"position\":{\"x\":2917.516,\"y\":996.986},\"size\":{\"width\":2571.886,\"height\":192.855},\"settings\":{\"fishLevels\":[0,2,1,3,13],\"animalCount\":7,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"20\",\"npcType\":5,\"restrictMovement\":false}},{\"id\":2457,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5480.62,\"y\":1409.725},{\"x\":8000,\"y\":1409.725},{\"x\":8000,\"y\":1844.314},{\"x\":5480.62,\"y\":1844.314}],\"position\":{\"x\":5480.62,\"y\":1409.725},\"size\":{\"width\":2519.38,\"height\":434.589},\"settings\":{\"fishLevels\":[40],\"animalCount\":5,\"firstSpawnMs\":\"30\",\"reSpawnMs\":\"120\",\"npcType\":4,\"restrictMovement\":false}},{\"id\":2458,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":989.089},{\"x\":2913.634,\"y\":989.089},{\"x\":2913.634,\"y\":2400},{\"x\":0,\"y\":2400}],\"position\":{\"x\":0,\"y\":989.089},\"size\":{\"width\":2913.634,\"height\":1410.911},\"settings\":{\"foodIds\":[16],\"count\":1370,\"firstSpawnMs\":0,\"reSpawnMs\":\"2\",\"area\":41108.78260574}},{\"id\":2459,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2914.85,\"y\":999.075},{\"x\":5488.881,\"y\":999.075},{\"x\":5488.881,\"y\":2400},{\"x\":2914.85,\"y\":2400}],\"position\":{\"x\":2914.85,\"y\":999.075},\"size\":{\"width\":2574.031,\"height\":1400.925},\"settings\":{\"foodIds\":[1],\"count\":1861,\"firstSpawnMs\":0,\"reSpawnMs\":\"2\",\"area\":36060.24378675}},{\"id\":2460,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5479.587,\"y\":985.106},{\"x\":8000,\"y\":985.106},{\"x\":8000,\"y\":2400},{\"x\":5479.587,\"y\":2400}],\"position\":{\"x\":5479.587,\"y\":985.106},\"size\":{\"width\":2520.413,\"height\":1414.894},\"settings\":{\"foodIds\":[1],\"count\":1503,\"firstSpawnMs\":0,\"reSpawnMs\":\"2\",\"area\":35661.17231222}},{\"id\":2461,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":355.861,\"y\":484.943},{\"x\":356.861,\"y\":484.943},{\"x\":356.861,\"y\":485.943},{\"x\":355.861,\"y\":485.943}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":2462,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1914.677,\"y\":1532.864,\"rotation\":0,\"fLevel\":0},{\"id\":2463,\"type\":\"A\",\"layerId\":\"animals\",\"x\":-54.374,\"y\":-650.652,\"rotation\":0,\"fLevel\":0},{\"id\":2464,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1920.134,\"y\":1639.379,\"rotation\":0,\"fLevel\":0},{\"id\":2465,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3457.984,\"y\":1077.942,\"rotation\":0,\"fLevel\":0},{\"id\":2466,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3337.58,\"y\":1627.343,\"rotation\":0,\"fLevel\":0},{\"id\":2467,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3859.905,\"y\":1090.597,\"rotation\":0,\"fLevel\":0},{\"id\":2468,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3761.035,\"y\":1093.711,\"rotation\":0,\"fLevel\":0},{\"id\":2471,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":1009.939},{\"x\":8000,\"y\":1009.939},{\"x\":8000,\"y\":2400},{\"x\":0,\"y\":2400}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":2472,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":1005.769},{\"x\":8000,\"y\":1005.769},{\"x\":8000,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"800\",\"height\":\"240\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 29,
+  "created_at": "2022-05-03T22:35:38.000Z",
+  "updated_at": "2022-05-04T00:24:17.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20804001,
+    "username": "8110459_617",
+    "description": "Im just better nerd",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-02-28T20:29:38.000Z",
+    "date_last_played": "2022-05-03T21:49:19.000Z",
+    "kill_count": 20,
+    "play_count": 62,
+    "highest_score": 218233,
+    "picture": "20804001.gif",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 16,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "all biomes"
+    },
+    {
+      "id": "lush biome"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:23:45.961Z"
+}
