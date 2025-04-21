@@ -1,0 +1,80 @@
+{
+  "id": 10784,
+  "user_id": 20814230,
+  "cloneof_id": null,
+  "string_id": "vlad_1v1_v3",
+  "title": "Map 1v1",
+  "description": "Map 1 vs 1",
+  "data": "{\"screenObjects\":[{\"id\":1404,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":150,\"height\":150},\"settings\":{\"area\":63}},{\"id\":1405,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":150,\"height\":150},\"settings\":{\"foodIds\":[1],\"count\":18,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":225}},{\"id\":1406,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":150},{\"x\":150,\"y\":150},{\"x\":150,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":125.797},{\"x\":4.608,\"y\":126.872},{\"x\":8.381,\"y\":114.672},{\"x\":5.872,\"y\":86.711},{\"x\":14.117,\"y\":73.985},{\"x\":9.815,\"y\":59.467},{\"x\":9.636,\"y\":42.26},{\"x\":6.19,\"y\":25.703},{\"x\":12.455,\"y\":10.936},{\"x\":32.764,\"y\":8.305},{\"x\":63.067,\"y\":10.854},{\"x\":81.193,\"y\":10.004},{\"x\":109.231,\"y\":14.252},{\"x\":138.684,\"y\":8.022},{\"x\":146.331,\"y\":32.094},{\"x\":137.835,\"y\":48.521},{\"x\":145.481,\"y\":92.984},{\"x\":133.587,\"y\":119.606},{\"x\":136.702,\"y\":134.616},{\"x\":105.549,\"y\":143.679},{\"x\":84.591,\"y\":137.165},{\"x\":51.173,\"y\":143.962},{\"x\":18.037,\"y\":138.864},{\"x\":8.367,\"y\":139.112},{\"x\":3.719,\"y\":131.216},{\"x\":4.622,\"y\":126.71},{\"x\":0,\"y\":125.423}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1407,\"type\":\"P\",\"layerId\":\"props\",\"x\":18.062,\"y\":9.675,\"rotation\":-4.91,\"pType\":1,\"params\":{\"text\":\"\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nMade By ꧁VłVłā2íşŀâv꧂\\n\"}},{\"id\":1408,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":70.797,\"y\":151.787,\"rotation\":0,\"hSType\":24,\"opacity\":0.1},{\"id\":1409,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":65.316,\"y\":7.097,\"rotation\":177.26,\"hSType\":28},{\"id\":1410,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":47.007,\"y\":4.226,\"rotation\":179.82,\"hSType\":27},{\"id\":1411,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":111.363,\"y\":8.438,\"rotation\":179.99,\"hSType\":22},{\"id\":1412,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":124.665,\"y\":6.583,\"rotation\":179.15,\"hSType\":26},{\"id\":1413,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":91.091,\"y\":4.916,\"rotation\":180.25,\"hSType\":23},{\"id\":1414,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.053,\"y\":4.298,\"rotation\":182.64,\"hSType\":25},{\"id\":1415,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":141.079,\"y\":64.365,\"rotation\":259.98,\"hSType\":17},{\"id\":1416,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":5.209,\"y\":103.333,\"rotation\":87.72,\"hSType\":17},{\"id\":1417,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":106.087,\"y\":37.516,\"rotation\":0,\"hSType\":2},{\"id\":1418,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":9.531,\"y\":37.674,\"rotation\":0,\"hSType\":14},{\"id\":1419,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":138.426,\"y\":112.829,\"rotation\":-62.9,\"hSType\":57},{\"id\":1420,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":4.813,\"y\":51.389},{\"x\":19.38,\"y\":48.216},{\"x\":31.207,\"y\":49.226},{\"x\":35.102,\"y\":54.851},{\"x\":42.661,\"y\":59.065},{\"x\":36.051,\"y\":71.393},{\"x\":21.255,\"y\":74.322},{\"x\":9.573,\"y\":73.457}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":1446,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":1447,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":37.477},{\"x\":150,\"y\":37.477},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[25101,210709],\"hasBorder\":true},{\"id\":1448,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":37.414},{\"x\":0,\"y\":37.414}],\"settings\":{\"collidable\":true},\"colors\":[485674,478737]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"15\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 20,
+  "created_at": "2022-08-29T19:39:05.000Z",
+  "updated_at": "2025-02-13T12:37:27.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20814230,
+    "username": "Vl_Vl",
+    "description": "GG. I ripped out your organs. I'm fine fellow. anyway, forgive me, I didn't mean to kill you, I'm very kind. Stay away from me and my second person VlKonfe3nik will give you candy!\nБля извини короче",
+    "about": "I am ready to be friends with anyone. I have been playing since 2018.\nI am the creator of the maps for this game. The only pro map maker among Russians\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi bro",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-04-12T17:49:10.000Z",
+    "date_last_played": "2025-03-24T18:14:13.000Z",
+    "kill_count": 8650,
+    "play_count": 5868,
+    "highest_score": 5644665,
+    "picture": "20814230-7910434b402c4d70348aa9355dc61827e-b8dae385-550c-4ec1-a728-8b2b3dca4449.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 16,
+    "tier": 10,
+    "xp": 1979100,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:33:05.928Z"
+}

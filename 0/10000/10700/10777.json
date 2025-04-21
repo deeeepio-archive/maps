@@ -1,0 +1,70 @@
+{
+  "id": 10777,
+  "user_id": 740211,
+  "cloneof_id": null,
+  "string_id": "noniksz_2",
+  "title": "This İs Map",
+  "description": "This İs Map",
+  "data": "{\"screenObjects\":[{\"id\":38,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":12000,\"y\":0},{\"x\":12000,\"y\":3000},{\"x\":0,\"y\":3000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":12000,\"height\":3000},\"settings\":{\"area\":63}},{\"id\":42,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":1675.385},{\"x\":11968.17,\"y\":1675.385},{\"x\":11968.17,\"y\":2304.032},{\"x\":0,\"y\":2304.032}],\"position\":{\"x\":0,\"y\":1675.385},\"size\":{\"width\":11968.17,\"height\":628.647},\"settings\":{\"fishLevels\":[5,3],\"animalCount\":40,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":39,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":1683.343},{\"x\":12000,\"y\":1683.343},{\"x\":12000,\"y\":2606.42},{\"x\":0,\"y\":2606.42}],\"position\":{\"x\":0,\"y\":1683.343},\"size\":{\"width\":12000,\"height\":923.077},\"settings\":{\"foodIds\":[1],\"count\":5213,\"firstSpawnMs\":0,\"reSpawnMs\":\"1250\",\"area\":110769.25262532118,\"onlyOnWater\":true}},{\"id\":52,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":12000,\"y\":0},{\"x\":12000,\"y\":962.865},{\"x\":0,\"y\":962.865}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":12000,\"height\":962.865},\"settings\":{\"foodIds\":[2],\"count\":3420,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":115543.75200752236}},{\"id\":53,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4040.929,\"y\":1619.682},{\"x\":5831.379,\"y\":1619.682},{\"x\":5831.379,\"y\":1739.045},{\"x\":4040.929,\"y\":1739.045}],\"position\":{\"x\":4040.929,\"y\":1619.682},\"size\":{\"width\":1790.451,\"height\":119.363},\"settings\":{\"foodIds\":[4],\"count\":23,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":2137.1426556268348}},{\"id\":54,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":9738.542,\"y\":1619.682},{\"x\":11656.315,\"y\":1619.682},{\"x\":11656.315,\"y\":1786.791},{\"x\":9738.542,\"y\":1786.791}],\"position\":{\"x\":9738.542,\"y\":1619.682},\"size\":{\"width\":1917.772,\"height\":167.109},\"settings\":{\"foodIds\":[4],\"count\":39,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":3204.7689901517115,\"onlyOnWater\":true}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1001.141,\"y\":1733.326},{\"x\":1685.491,\"y\":1462.769},{\"x\":2791.592,\"y\":1399.108},{\"x\":3165.597,\"y\":1725.369}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":3000},{\"x\":11719.973,\"y\":3000},{\"x\":11727.931,\"y\":2568.87},{\"x\":11186.817,\"y\":2369.931},{\"x\":11003.793,\"y\":2584.785},{\"x\":10359.231,\"y\":2529.082},{\"x\":9730.584,\"y\":2377.889},{\"x\":9253.13,\"y\":2568.87},{\"x\":8568.78,\"y\":2441.549},{\"x\":8035.624,\"y\":2576.828},{\"x\":7176.207,\"y\":2473.379},{\"x\":6674.88,\"y\":2521.124},{\"x\":5759.761,\"y\":2552.955},{\"x\":5115.199,\"y\":2346.058},{\"x\":4494.51,\"y\":2290.355},{\"x\":4144.377,\"y\":2600.7},{\"x\":3587.347,\"y\":2624.573},{\"x\":2871.167,\"y\":2544.997},{\"x\":2680.186,\"y\":2377.889},{\"x\":2417.586,\"y\":2592.743},{\"x\":1844.642,\"y\":2608.657},{\"x\":1502.467,\"y\":2457.464},{\"x\":857.904,\"y\":2513.167},{\"x\":738.541,\"y\":2640.488},{\"x\":388.408,\"y\":2465.422},{\"x\":0,\"y\":2314.228}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":12000,\"y\":3000},{\"x\":12000,\"y\":2449.506},{\"x\":11664.27,\"y\":2616.615},{\"x\":11712.016,\"y\":3000}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":37,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":6651.008,\"y\":1578.402},{\"x\":6889.735,\"y\":1108.906},{\"x\":7144.377,\"y\":1562.487},{\"x\":7406.977,\"y\":925.882},{\"x\":7741.194,\"y\":1554.53},{\"x\":8170.902,\"y\":1618.19},{\"x\":8226.605,\"y\":1872.832},{\"x\":7788.939,\"y\":1928.535},{\"x\":7335.358,\"y\":1856.917},{\"x\":7120.504,\"y\":2000.153},{\"x\":6857.905,\"y\":1872.832},{\"x\":6579.39,\"y\":1864.874}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":55,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3698.753,\"y\":1930.028,\"rotation\":0,\"fLevel\":2},{\"id\":43,\"type\":\"P\",\"layerId\":\"props\",\"x\":1542.255,\"y\":752.308,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":44,\"type\":\"P\",\"layerId\":\"props\",\"x\":1677.533,\"y\":1428.701,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":45,\"type\":\"P\",\"layerId\":\"props\",\"x\":2035.624,\"y\":1253.634,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"This Map Maker Noniksz\"}},{\"id\":46,\"type\":\"P\",\"layerId\":\"props\",\"x\":1844.642,\"y\":1651.512,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":47,\"type\":\"P\",\"layerId\":\"props\",\"x\":2107.242,\"y\":1317.295,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":48,\"type\":\"P\",\"layerId\":\"props\",\"x\":2887.083,\"y\":4372.998,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":49,\"type\":\"P\",\"layerId\":\"props\",\"x\":2218.648,\"y\":1333.21,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":50,\"type\":\"P\",\"layerId\":\"props\",\"x\":2035.624,\"y\":1269.55,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":1001.141,\"y\":1725.369},{\"x\":826.074,\"y\":2075.501},{\"x\":674.881,\"y\":2990.62},{\"x\":3571.432,\"y\":2982.662},{\"x\":3404.324,\"y\":2250.567},{\"x\":3157.639,\"y\":1725.369}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":10,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":3000},{\"x\":11942.785,\"y\":3000},{\"x\":11942.785,\"y\":1680.732},{\"x\":0,\"y\":1680.732}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":11,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":11910.955,\"y\":0},{\"x\":11910.955,\"y\":1677.623},{\"x\":0,\"y\":1677.623}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1200\",\"height\":\"300\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 22,
+  "created_at": "2022-08-28T07:38:17.000Z",
+  "updated_at": "2022-08-28T07:38:18.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 740211,
+    "username": "Noniksz",
+    "description": "My best record is=47M Kill=380\n\n",
+    "about": "Nothing\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-05-17T10:24:43.000Z",
+    "date_last_played": "2025-03-18T07:44:11.000Z",
+    "kill_count": 8020,
+    "play_count": 3792,
+    "highest_score": 46819967,
+    "picture": "740211-310944c742f7e4fdce10b102c13d1b1e6f0.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 53,
+    "tier": 9,
+    "xp": 1093350,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "This İs Map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:33:05.519Z"
+}

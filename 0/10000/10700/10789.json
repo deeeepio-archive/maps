@@ -1,0 +1,86 @@
+{
+  "id": 10789,
+  "user_id": 20825466,
+  "cloneof_id": null,
+  "string_id": "megaptera_tutorial_map_12345",
+  "title": "A Tutorial Map",
+  "description": "egg, for tutorials, hope you enjoy it",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3602.155,\"y\":350.463},{\"x\":3586.943,\"y\":370.642},{\"x\":3593.462,\"y\":392.994},{\"x\":3706.774,\"y\":384.301},{\"x\":3760.792,\"y\":386.785},{\"x\":3832.815,\"y\":394.236},{\"x\":3851.752,\"y\":372.815},{\"x\":3837.471,\"y\":347.048},{\"x\":3703.36,\"y\":337.424},{\"x\":3657.414,\"y\":346.738}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3599.671,\"y\":384.922},{\"x\":3595.635,\"y\":393.615},{\"x\":3599.671,\"y\":405.101},{\"x\":3616.435,\"y\":404.791},{\"x\":3659.897,\"y\":405.101},{\"x\":3681.318,\"y\":415.967},{\"x\":3709.879,\"y\":418.45},{\"x\":3728.195,\"y\":405.101},{\"x\":3768.242,\"y\":400.134},{\"x\":3803.012,\"y\":403.549},{\"x\":3825.674,\"y\":399.513},{\"x\":3833.125,\"y\":393.304},{\"x\":3822.57,\"y\":383.68},{\"x\":3771.657,\"y\":374.678},{\"x\":3724.159,\"y\":376.54},{\"x\":3706.774,\"y\":379.024},{\"x\":3688.148,\"y\":380.886},{\"x\":3636.924,\"y\":385.233}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3697.83,\"y\":329.424,\"rotation\":9.95,\"fLevel\":0},{\"id\":9,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3642.428,\"y\":326.384,\"rotation\":63.29,\"fLevel\":0},{\"id\":10,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3708.072,\"y\":333.772,\"rotation\":5.24,\"fLevel\":1},{\"id\":11,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3616.515,\"y\":345.313,\"rotation\":-4.06,\"fLevel\":97},{\"id\":3,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3633.51,\"y\":349.221,\"rotation\":-3.76,\"hSType\":32},{\"id\":4,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3719.042,\"y\":340.759,\"rotation\":5.92,\"hSType\":34},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3742.535,\"y\":342.724,\"rotation\":10.8,\"hSType\":35},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3677.897,\"y\":347.766,\"rotation\":-12.95,\"hSType\":44},{\"id\":12,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":3764.526,\"y\":344.583},{\"x\":3758.365,\"y\":325.762},{\"x\":3749.75,\"y\":300.268},{\"x\":3720.74,\"y\":290.95},{\"x\":3699.994,\"y\":300.796},{\"x\":3689.269,\"y\":323.125},{\"x\":3685.225,\"y\":345.102},{\"x\":3731.113,\"y\":344.926}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":7,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":3511.036,\"y\":272.905},{\"x\":3921.443,\"y\":272.905},{\"x\":3921.443,\"y\":468.485},{\"x\":3511.036,\"y\":468.485}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 12,
+  "created_at": "2022-08-30T02:57:23.000Z",
+  "updated_at": "2022-08-30T03:01:38.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20825466,
+    "username": "MegapteraOfficial",
+    "description": "March winds and April showers\nMake way for sweet May flowers",
+    "about": "egg",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-12-28T01:10:53.000Z",
+    "date_last_played": "2025-04-15T23:41:20.000Z",
+    "kill_count": 3923,
+    "play_count": 1022,
+    "highest_score": 6825179,
+    "picture": "20825466-4f2ea2c2e17952195ed3538e38fad2f7.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 2127,
+    "tier": 9,
+    "xp": 1029600,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "ffa"
+    },
+    {
+      "id": "map"
+    },
+    {
+      "id": "tutorial"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:33:06.175Z"
+}
