@@ -1,0 +1,63 @@
+{
+  "id": 10548,
+  "user_id": 20951283,
+  "cloneof_id": null,
+  "string_id": "empty_space_ffa",
+  "title": "Outer space",
+  "description": "Empty space with deadly hole sharks trapped in a black hole, go improve it yourself.",
+  "data": "{\"screenObjects\":[{\"id\":1323,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":724.057,\"y\":691.048},{\"x\":796.665,\"y\":691.048},{\"x\":796.665,\"y\":773.078},{\"x\":724.057,\"y\":773.078}],\"position\":{\"x\":724.057,\"y\":691.048},\"size\":{\"width\":72.608,\"height\":82.03},\"settings\":{\"fishLevels\":[10],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":true}},{\"id\":1361,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":614.877,\"y\":0},{\"x\":614.877,\"y\":1500},{\"x\":0,\"y\":1500}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":614.877,\"height\":1500},\"settings\":{\"fishLevels\":[118],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":true}},{\"id\":1362,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":949.056,\"y\":0},{\"x\":1500,\"y\":0},{\"x\":1500,\"y\":1500},{\"x\":949.056,\"y\":1500}],\"position\":{\"x\":949.056,\"y\":0},\"size\":{\"width\":550.944,\"height\":1500},\"settings\":{\"fishLevels\":[118],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":true}},{\"id\":1363,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1500,\"y\":0},{\"x\":1500,\"y\":662.173},{\"x\":0,\"y\":662.173}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1500,\"height\":662.173},\"settings\":{\"fishLevels\":[118],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":true}},{\"id\":1364,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":825.265},{\"x\":1495.27,\"y\":825.265},{\"x\":1495.27,\"y\":1500},{\"x\":0,\"y\":1500}],\"position\":{\"x\":0,\"y\":825.265},\"size\":{\"width\":1495.27,\"height\":674.735},\"settings\":{\"fishLevels\":[118],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":true}},{\"id\":1358,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1500,\"y\":0},{\"x\":1500,\"y\":1500},{\"x\":0,\"y\":1500}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1500,\"height\":1500},\"settings\":{\"foodIds\":[1,24,16,17],\"count\":1829,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":22500,\"onlyOnWater\":true}},{\"id\":1340,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":58.567,\"y\":572.447},{\"x\":59.567,\"y\":572.447},{\"x\":59.567,\"y\":573.447},{\"x\":58.567,\"y\":573.447}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":1336,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1500,\"y\":0},{\"x\":881.448,\"y\":580.333},{\"x\":639.035,\"y\":574.152}],\"settings\":{\"angle\":89,\"strength\":15}},{\"id\":1337,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":1500,\"y\":0},{\"x\":881.258,\"y\":586.868},{\"x\":906.62,\"y\":876.732},{\"x\":1500,\"y\":1500}],\"settings\":{\"angle\":180,\"strength\":15}},{\"id\":1338,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":640.209,\"y\":892.066},{\"x\":906.97,\"y\":875.574},{\"x\":1500,\"y\":1500},{\"x\":0,\"y\":1500}],\"settings\":{\"angle\":-91,\"strength\":15}},{\"id\":1339,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":0},{\"x\":639.155,\"y\":574.357},{\"x\":641.672,\"y\":895.23},{\"x\":0,\"y\":1500}],\"settings\":{\"angle\":0,\"strength\":15}},{\"id\":1354,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":636.824,\"y\":574.64},{\"x\":881.636,\"y\":580.827},{\"x\":869.262,\"y\":669.206},{\"x\":643.011,\"y\":670.09}],\"settings\":{\"angle\":89,\"strength\":100}},{\"id\":1355,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":692.784,\"y\":577.506},{\"x\":639.641,\"y\":573.388},{\"x\":641.013,\"y\":895.247},{\"x\":691.609,\"y\":887.933}],\"settings\":{\"angle\":0,\"strength\":100}},{\"id\":1356,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":639.021,\"y\":789.607},{\"x\":893.406,\"y\":789.437},{\"x\":908.883,\"y\":875.81},{\"x\":638.851,\"y\":892.28}],\"settings\":{\"angle\":-91,\"strength\":100}},{\"id\":1357,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":881.764,\"y\":581.996},{\"x\":822.755,\"y\":581.112},{\"x\":832.768,\"y\":883.379},{\"x\":901.46,\"y\":874.114}],\"settings\":{\"angle\":180,\"strength\":100}},{\"id\":1325,\"type\":\"A\",\"layerId\":\"animals\",\"x\":743.409,\"y\":706.289,\"rotation\":-225.68,\"fLevel\":10},{\"id\":1326,\"type\":\"A\",\"layerId\":\"animals\",\"x\":758.6,\"y\":701.769,\"rotation\":178.14,\"fLevel\":10},{\"id\":1327,\"type\":\"A\",\"layerId\":\"animals\",\"x\":784.434,\"y\":714.567,\"rotation\":251.64,\"fLevel\":10},{\"id\":1328,\"type\":\"A\",\"layerId\":\"animals\",\"x\":783.926,\"y\":730.546,\"rotation\":281.96,\"fLevel\":10},{\"id\":1329,\"type\":\"A\",\"layerId\":\"animals\",\"x\":775.167,\"y\":744.81,\"rotation\":-28.73,\"fLevel\":10},{\"id\":1330,\"type\":\"A\",\"layerId\":\"animals\",\"x\":759.618,\"y\":746.086,\"rotation\":0,\"fLevel\":10},{\"id\":1331,\"type\":\"A\",\"layerId\":\"animals\",\"x\":735.783,\"y\":731.921,\"rotation\":70.43,\"fLevel\":10},{\"id\":1332,\"type\":\"A\",\"layerId\":\"animals\",\"x\":737.223,\"y\":718.001,\"rotation\":108.71,\"fLevel\":10},{\"id\":1333,\"type\":\"A\",\"layerId\":\"animals\",\"x\":773.207,\"y\":704.969,\"rotation\":227.42,\"fLevel\":10},{\"id\":1334,\"type\":\"A\",\"layerId\":\"animals\",\"x\":745.116,\"y\":742.664,\"rotation\":37.31,\"fLevel\":10},{\"id\":1335,\"type\":\"A\",\"layerId\":\"animals\",\"x\":758.198,\"y\":725.197,\"rotation\":0,\"fLevel\":24},{\"id\":1320,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":731.432,\"y\":678.985},{\"x\":786.634,\"y\":677.282},{\"x\":815.523,\"y\":709.433},{\"x\":821.251,\"y\":750.793},{\"x\":791.764,\"y\":787.346},{\"x\":733.008,\"y\":789.381},{\"x\":705.091,\"y\":754.317},{\"x\":704.544,\"y\":711.976}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":1321,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":728.192,\"y\":668.492},{\"x\":729.87,\"y\":675.948},{\"x\":785.826,\"y\":674.084},{\"x\":816.361,\"y\":705.469},{\"x\":822.128,\"y\":749.526},{\"x\":791.346,\"y\":788.624},{\"x\":731.496,\"y\":790.562},{\"x\":702.068,\"y\":755.114},{\"x\":702.157,\"y\":709.674},{\"x\":729.842,\"y\":675.846},{\"x\":728.274,\"y\":668.42},{\"x\":697.847,\"y\":708.274},{\"x\":697.224,\"y\":757.65},{\"x\":729.441,\"y\":795.147},{\"x\":793.002,\"y\":793.452},{\"x\":827.55,\"y\":750.924},{\"x\":822.353,\"y\":704.912},{\"x\":785.836,\"y\":667.887}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":1322,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":727.975,\"y\":653.111},{\"x\":730.07,\"y\":671.458},{\"x\":786.026,\"y\":669.017},{\"x\":819.033,\"y\":702.503},{\"x\":822.602,\"y\":750.131},{\"x\":791.559,\"y\":788.968},{\"x\":730.542,\"y\":790.687},{\"x\":699.767,\"y\":754.469},{\"x\":699.664,\"y\":707.875},{\"x\":730.234,\"y\":671.355},{\"x\":728.057,\"y\":652.685},{\"x\":684.18,\"y\":702.806},{\"x\":683.557,\"y\":759.261},{\"x\":715.42,\"y\":808.793},{\"x\":801.635,\"y\":806.39},{\"x\":845.034,\"y\":751.473},{\"x\":842.315,\"y\":705.815},{\"x\":785.62,\"y\":650.737}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":1316,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1500,\"y\":0},{\"x\":1500,\"y\":1500},{\"x\":0,\"y\":1500}],\"settings\":{\"collidable\":true},\"colors\":[2763306,2763306],\"hasBorder\":false}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"150\",\"height\":\"150\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 30,
+  "created_at": "2022-08-07T05:54:07.000Z",
+  "updated_at": "2022-08-07T05:54:08.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20951283,
+    "username": "nomyC",
+    "description": "Your life is worth everything, you serve ALL purpose... You should love yourself, NOW! And share that oxygen with everyone else so we can live in this blue bubble.",
+    "about": "im that guy you've been seeing recently, wussy. ",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-06-29T07:30:48.000Z",
+    "date_last_played": "2023-01-26T02:18:36.000Z",
+    "kill_count": 1563,
+    "play_count": 829,
+    "highest_score": 5475091,
+    "picture": "20951283-103383897213dd1108d6841f8f75fcf87f.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 41,
+    "tier": 7,
+    "xp": 621300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "DIY"
+    },
+    {
+      "id": "FFA"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:30:46.483Z"
+}

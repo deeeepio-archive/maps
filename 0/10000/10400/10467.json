@@ -1,0 +1,132 @@
+{
+  "id": 10467,
+  "user_id": 20693346,
+  "cloneof_id": null,
+  "string_id": "a_starry_light_show",
+  "title": "A Starry Light Show",
+  "description": "I was bored so I made this",
+  "data": "{\"screenObjects\":[{\"id\":4733,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":800,\"height\":200},\"settings\":{\"area\":63}},{\"id\":4734,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":101.81},{\"x\":800,\"y\":101.81},{\"x\":800,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":101.81},\"size\":{\"width\":800,\"height\":98.19},\"settings\":{\"foodIds\":[16],\"count\":63,\"firstSpawnMs\":0,\"reSpawnMs\":0,\"area\":785.5208692289693,\"onlyOnWater\":true}},{\"id\":4735,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":93.608},{\"x\":800,\"y\":93.608},{\"x\":800,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":93.608},\"size\":{\"width\":800,\"height\":106.392},\"settings\":{\"foodIds\":[1],\"count\":69,\"firstSpawnMs\":0,\"reSpawnMs\":0,\"area\":851.1341946000257,\"onlyOnWater\":true}},{\"id\":4598,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":133.96},{\"x\":22.673,\"y\":159.26},{\"x\":61.598,\"y\":171.678},{\"x\":91.89,\"y\":169.363},{\"x\":120.26,\"y\":163.942},{\"x\":161.521,\"y\":176.108},{\"x\":189.187,\"y\":173.061},{\"x\":199.956,\"y\":173.061},{\"x\":218.11,\"y\":174.514},{\"x\":228.652,\"y\":173.768},{\"x\":243.308,\"y\":174.429},{\"x\":253.41,\"y\":175.044},{\"x\":278.295,\"y\":175.227},{\"x\":296.471,\"y\":171.571},{\"x\":311.434,\"y\":164.142},{\"x\":318.224,\"y\":167.355},{\"x\":334.52,\"y\":171.907},{\"x\":346.417,\"y\":167.344},{\"x\":358.045,\"y\":170.043},{\"x\":369.778,\"y\":168.369},{\"x\":383.109,\"y\":168.605},{\"x\":396.098,\"y\":170.003},{\"x\":408.327,\"y\":169.795},{\"x\":421.238,\"y\":170.18},{\"x\":444.677,\"y\":171.494},{\"x\":456.146,\"y\":172.44},{\"x\":461.628,\"y\":171.627},{\"x\":467.434,\"y\":169.309},{\"x\":477.415,\"y\":169.309},{\"x\":483.216,\"y\":170.478},{\"x\":494.377,\"y\":174.344},{\"x\":512.137,\"y\":171.985},{\"x\":518.366,\"y\":171.051},{\"x\":528.848,\"y\":171.747},{\"x\":534.921,\"y\":173.457},{\"x\":544.34,\"y\":172.43},{\"x\":559.288,\"y\":174.199},{\"x\":569.332,\"y\":173.368},{\"x\":582.659,\"y\":171.669},{\"x\":593.635,\"y\":174.928},{\"x\":606.081,\"y\":176.127},{\"x\":634.159,\"y\":153.933},{\"x\":642.192,\"y\":163.015},{\"x\":659.249,\"y\":172.866},{\"x\":672.997,\"y\":167.936},{\"x\":681.356,\"y\":169.916},{\"x\":699.346,\"y\":165.493},{\"x\":704.461,\"y\":162.98},{\"x\":716.405,\"y\":165.809},{\"x\":731.301,\"y\":151.403},{\"x\":749.26,\"y\":137.051},{\"x\":762.595,\"y\":110.806},{\"x\":777.395,\"y\":91.796},{\"x\":800,\"y\":45.431},{\"x\":800,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":16,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4599,\"type\":\"A\",\"layerId\":\"animals\",\"x\":399.067,\"y\":99.104,\"rotation\":-47.64,\"fLevel\":31},{\"id\":4600,\"type\":\"A\",\"layerId\":\"animals\",\"x\":381.419,\"y\":101.33,\"rotation\":-33.39,\"fLevel\":28},{\"id\":4601,\"type\":\"A\",\"layerId\":\"animals\",\"x\":352.389,\"y\":93.325,\"rotation\":0,\"fLevel\":103},{\"id\":4602,\"type\":\"A\",\"layerId\":\"animals\",\"x\":427.276,\"y\":92.192,\"rotation\":0,\"fLevel\":42},{\"id\":4603,\"type\":\"A\",\"layerId\":\"animals\",\"x\":286.284,\"y\":98.464,\"rotation\":19.84,\"fLevel\":90},{\"id\":4604,\"type\":\"A\",\"layerId\":\"animals\",\"x\":269.214,\"y\":101.077,\"rotation\":27.37,\"fLevel\":0},{\"id\":4605,\"type\":\"A\",\"layerId\":\"animals\",\"x\":384.91,\"y\":101.153,\"rotation\":-19.08,\"fLevel\":29},{\"id\":4606,\"type\":\"A\",\"layerId\":\"animals\",\"x\":378.816,\"y\":100.904,\"rotation\":-8.69,\"fLevel\":29},{\"id\":4607,\"type\":\"A\",\"layerId\":\"animals\",\"x\":373.216,\"y\":100.719,\"rotation\":-29.13,\"fLevel\":29},{\"id\":4608,\"type\":\"A\",\"layerId\":\"animals\",\"x\":413.161,\"y\":100.228,\"rotation\":-18.18,\"fLevel\":50},{\"id\":4609,\"type\":\"A\",\"layerId\":\"animals\",\"x\":506.02,\"y\":101.275,\"rotation\":161.04,\"fLevel\":110},{\"id\":4610,\"type\":\"A\",\"layerId\":\"animals\",\"x\":518.703,\"y\":98.189,\"rotation\":-20.95,\"fLevel\":101},{\"id\":4611,\"type\":\"A\",\"layerId\":\"animals\",\"x\":531.858,\"y\":104.534,\"rotation\":0,\"fLevel\":10},{\"id\":4612,\"type\":\"A\",\"layerId\":\"animals\",\"x\":546.323,\"y\":97.968,\"rotation\":-23.52,\"fLevel\":12},{\"id\":4613,\"type\":\"A\",\"layerId\":\"animals\",\"x\":562.912,\"y\":100.625,\"rotation\":-11.49,\"fLevel\":112},{\"id\":4614,\"type\":\"A\",\"layerId\":\"animals\",\"x\":578.158,\"y\":99.224,\"rotation\":0,\"fLevel\":87},{\"id\":4615,\"type\":\"A\",\"layerId\":\"animals\",\"x\":438.159,\"y\":91.843,\"rotation\":0,\"fLevel\":75},{\"id\":4616,\"type\":\"A\",\"layerId\":\"animals\",\"x\":462.696,\"y\":93.612,\"rotation\":-55.58,\"fLevel\":68},{\"id\":4617,\"type\":\"A\",\"layerId\":\"animals\",\"x\":447.016,\"y\":96.258,\"rotation\":0,\"fLevel\":105},{\"id\":4618,\"type\":\"A\",\"layerId\":\"animals\",\"x\":249.148,\"y\":101.212,\"rotation\":0,\"fLevel\":74},{\"id\":4619,\"type\":\"A\",\"layerId\":\"animals\",\"x\":159.073,\"y\":104.752,\"rotation\":0,\"fLevel\":102},{\"id\":4620,\"type\":\"A\",\"layerId\":\"animals\",\"x\":172.883,\"y\":100.218,\"rotation\":0,\"fLevel\":114},{\"id\":4621,\"type\":\"A\",\"layerId\":\"animals\",\"x\":258.868,\"y\":103.512,\"rotation\":0,\"fLevel\":115},{\"id\":4622,\"type\":\"A\",\"layerId\":\"animals\",\"x\":297.071,\"y\":100.23,\"rotation\":21.81,\"fLevel\":116},{\"id\":4623,\"type\":\"A\",\"layerId\":\"animals\",\"x\":200.706,\"y\":94.413,\"rotation\":-45.2,\"fLevel\":89},{\"id\":4624,\"type\":\"A\",\"layerId\":\"animals\",\"x\":223.694,\"y\":94.554,\"rotation\":0,\"fLevel\":1},{\"id\":4625,\"type\":\"A\",\"layerId\":\"animals\",\"x\":222.335,\"y\":95.046,\"rotation\":0,\"fLevel\":17},{\"id\":4626,\"type\":\"A\",\"layerId\":\"animals\",\"x\":216.41,\"y\":93.785,\"rotation\":0,\"fLevel\":17},{\"id\":4627,\"type\":\"A\",\"layerId\":\"animals\",\"x\":136.176,\"y\":98.539,\"rotation\":382.08,\"fLevel\":45},{\"id\":4628,\"type\":\"A\",\"layerId\":\"animals\",\"x\":207.666,\"y\":91.236,\"rotation\":0,\"fLevel\":81},{\"id\":4629,\"type\":\"A\",\"layerId\":\"animals\",\"x\":114.287,\"y\":104.986,\"rotation\":0,\"fLevel\":11},{\"id\":4630,\"type\":\"A\",\"layerId\":\"animals\",\"x\":101.141,\"y\":100.085,\"rotation\":0,\"fLevel\":93},{\"id\":4631,\"type\":\"A\",\"layerId\":\"animals\",\"x\":102.027,\"y\":98.471,\"rotation\":18.42,\"fLevel\":93},{\"id\":4632,\"type\":\"A\",\"layerId\":\"animals\",\"x\":86.971,\"y\":100.195,\"rotation\":28.6,\"fLevel\":3},{\"id\":4633,\"type\":\"A\",\"layerId\":\"animals\",\"x\":338.276,\"y\":92.195,\"rotation\":0,\"fLevel\":113},{\"id\":4634,\"type\":\"A\",\"layerId\":\"animals\",\"x\":72.331,\"y\":96.947,\"rotation\":20.03,\"fLevel\":73},{\"id\":4635,\"type\":\"A\",\"layerId\":\"animals\",\"x\":57.246,\"y\":102.001,\"rotation\":0,\"fLevel\":49},{\"id\":4636,\"type\":\"A\",\"layerId\":\"animals\",\"x\":40.924,\"y\":101.673,\"rotation\":23.21,\"fLevel\":24},{\"id\":4637,\"type\":\"A\",\"layerId\":\"animals\",\"x\":20.599,\"y\":103.892,\"rotation\":0,\"fLevel\":22},{\"id\":4638,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6.211,\"y\":97.568,\"rotation\":0,\"fLevel\":20},{\"id\":4639,\"type\":\"A\",\"layerId\":\"animals\",\"x\":492.751,\"y\":99.302,\"rotation\":-18.48,\"fLevel\":99},{\"id\":4640,\"type\":\"A\",\"layerId\":\"animals\",\"x\":608.809,\"y\":104.386,\"rotation\":-10.14,\"fLevel\":98},{\"id\":4641,\"type\":\"A\",\"layerId\":\"animals\",\"x\":619.482,\"y\":105.643,\"rotation\":0,\"fLevel\":23},{\"id\":4642,\"type\":\"A\",\"layerId\":\"animals\",\"x\":629.776,\"y\":103.169,\"rotation\":0,\"fLevel\":9},{\"id\":4643,\"type\":\"A\",\"layerId\":\"animals\",\"x\":641.952,\"y\":101.124,\"rotation\":-29.97,\"fLevel\":119},{\"id\":4644,\"type\":\"A\",\"layerId\":\"animals\",\"x\":620.718,\"y\":83.647,\"rotation\":0,\"fLevel\":59},{\"id\":4645,\"type\":\"A\",\"layerId\":\"animals\",\"x\":541.227,\"y\":86.97,\"rotation\":-22.51,\"fLevel\":4},{\"id\":4646,\"type\":\"A\",\"layerId\":\"animals\",\"x\":568.337,\"y\":81.771,\"rotation\":-22.84,\"fLevel\":27},{\"id\":4647,\"type\":\"A\",\"layerId\":\"animals\",\"x\":652.613,\"y\":103.492,\"rotation\":0,\"fLevel\":92},{\"id\":4648,\"type\":\"A\",\"layerId\":\"animals\",\"x\":664.798,\"y\":99.138,\"rotation\":-20.86,\"fLevel\":100},{\"id\":4649,\"type\":\"A\",\"layerId\":\"animals\",\"x\":680.703,\"y\":105.444,\"rotation\":0,\"fLevel\":30},{\"id\":4650,\"type\":\"A\",\"layerId\":\"animals\",\"x\":679.189,\"y\":100.999,\"rotation\":-22.84,\"fLevel\":30},{\"id\":4651,\"type\":\"A\",\"layerId\":\"animals\",\"x\":690.393,\"y\":99.327,\"rotation\":-19.25,\"fLevel\":56},{\"id\":4652,\"type\":\"A\",\"layerId\":\"animals\",\"x\":700.51,\"y\":100.93,\"rotation\":0,\"fLevel\":54},{\"id\":4653,\"type\":\"A\",\"layerId\":\"animals\",\"x\":708.784,\"y\":100.992,\"rotation\":-34.11,\"fLevel\":35},{\"id\":4654,\"type\":\"A\",\"layerId\":\"animals\",\"x\":716.928,\"y\":98.283,\"rotation\":-22.28,\"fLevel\":96},{\"id\":4655,\"type\":\"A\",\"layerId\":\"animals\",\"x\":726.398,\"y\":94.727,\"rotation\":-35.03,\"fLevel\":72},{\"id\":4656,\"type\":\"A\",\"layerId\":\"animals\",\"x\":737.189,\"y\":102.785,\"rotation\":0,\"fLevel\":65},{\"id\":4657,\"type\":\"A\",\"layerId\":\"animals\",\"x\":749.001,\"y\":101.201,\"rotation\":141.72,\"fLevel\":106},{\"id\":4658,\"type\":\"A\",\"layerId\":\"animals\",\"x\":758.091,\"y\":103.337,\"rotation\":0,\"fLevel\":26},{\"id\":4659,\"type\":\"A\",\"layerId\":\"animals\",\"x\":757.736,\"y\":99.978,\"rotation\":-40.98,\"fLevel\":26},{\"id\":4660,\"type\":\"A\",\"layerId\":\"animals\",\"x\":730.75,\"y\":98.969,\"rotation\":0,\"fLevel\":84},{\"id\":4661,\"type\":\"A\",\"layerId\":\"animals\",\"x\":764.455,\"y\":97.125,\"rotation\":0,\"fLevel\":62},{\"id\":4662,\"type\":\"A\",\"layerId\":\"animals\",\"x\":325.652,\"y\":90.881,\"rotation\":0,\"fLevel\":79},{\"id\":4663,\"type\":\"A\",\"layerId\":\"animals\",\"x\":328.839,\"y\":94.212,\"rotation\":301.22,\"fLevel\":79},{\"id\":4664,\"type\":\"A\",\"layerId\":\"animals\",\"x\":318.554,\"y\":94.214,\"rotation\":0,\"fLevel\":80},{\"id\":4665,\"type\":\"A\",\"layerId\":\"animals\",\"x\":190.979,\"y\":92.981,\"rotation\":0,\"fLevel\":36},{\"id\":4666,\"type\":\"A\",\"layerId\":\"animals\",\"x\":234.898,\"y\":92.86,\"rotation\":0,\"fLevel\":97},{\"id\":4667,\"type\":\"A\",\"layerId\":\"animals\",\"x\":330.634,\"y\":106.843,\"rotation\":0,\"fLevel\":67},{\"id\":4668,\"type\":\"A\",\"layerId\":\"animals\",\"x\":596.984,\"y\":95.173,\"rotation\":0,\"fLevel\":91},{\"id\":4669,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":210.004,\"y\":97.759,\"rotation\":0,\"hSType\":16},{\"id\":4670,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":333.665,\"y\":98.05,\"rotation\":0,\"hSType\":16},{\"id\":4671,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":449.931,\"y\":97.807,\"rotation\":0,\"hSType\":16},{\"id\":4672,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":316.843,\"y\":176.305,\"rotation\":-4.87,\"hSType\":65},{\"id\":4673,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":364.433,\"y\":173.101,\"rotation\":-11.92,\"hSType\":65},{\"id\":4674,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":417.758,\"y\":175.538,\"rotation\":7.92,\"hSType\":65},{\"id\":4675,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":208.745,\"y\":178.093,\"rotation\":5.57,\"hSType\":65},{\"id\":4676,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":264.993,\"y\":180.139,\"rotation\":-2.03,\"hSType\":65},{\"id\":4677,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":518.879,\"y\":178.94,\"rotation\":-4.24,\"hSType\":65},{\"id\":4678,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":688.939,\"y\":175.757,\"rotation\":-13.02,\"hSType\":65},{\"id\":4679,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":472.067,\"y\":170.215,\"rotation\":0,\"hSType\":69},{\"id\":4680,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":579.81,\"y\":175.958,\"rotation\":-7.63,\"hSType\":69},{\"id\":4681,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":173.499,\"y\":177.01,\"rotation\":12.97,\"hSType\":69},{\"id\":4682,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":389.179,\"y\":171.573,\"rotation\":0,\"hSType\":86},{\"id\":4683,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":615.47,\"y\":169.867,\"rotation\":-38.36,\"hSType\":86},{\"id\":4684,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":131.719,\"y\":171.356,\"rotation\":22.16,\"hSType\":85},{\"id\":4685,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":236.365,\"y\":174.616,\"rotation\":0,\"hSType\":85},{\"id\":4686,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":72.12,\"y\":171.373,\"rotation\":0,\"hSType\":84},{\"id\":4687,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":38.099,\"y\":164.523,\"rotation\":21.43,\"hSType\":84},{\"id\":4688,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":546.679,\"y\":173.057,\"rotation\":0,\"hSType\":84},{\"id\":4689,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":752.599,\"y\":135.442,\"rotation\":-51.98,\"hSType\":43},{\"id\":4690,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":294.151,\"y\":174.839,\"rotation\":3.65,\"hSType\":43},{\"id\":4691,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":429.933,\"y\":172.923,\"rotation\":-8.48,\"hSType\":43},{\"id\":4692,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":636.817,\"y\":168.56,\"rotation\":0,\"hSType\":44},{\"id\":4693,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":348.792,\"y\":169.391,\"rotation\":7.77,\"hSType\":35},{\"id\":4694,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":208.778,\"y\":176.428,\"rotation\":0,\"hSType\":35},{\"id\":4695,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":92.321,\"y\":170.087,\"rotation\":-6.31,\"hSType\":68},{\"id\":4696,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":110.8,\"y\":166.583,\"rotation\":-10.91,\"hSType\":89},{\"id\":4697,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":8.864,\"y\":145.007,\"rotation\":46.36,\"hSType\":89},{\"id\":4698,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":668.848,\"y\":170.514,\"rotation\":-22.18,\"hSType\":81},{\"id\":4699,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":59.618,\"y\":172.155,\"rotation\":0,\"hSType\":81},{\"id\":4700,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":675.915,\"y\":281.788,\"rotation\":-17.11,\"hSType\":41,\"opacity\":0.3},{\"id\":4701,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":497.702,\"y\":174.188,\"rotation\":0,\"hSType\":80},{\"id\":4702,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":716.67,\"y\":169.862,\"rotation\":0,\"hSType\":80},{\"id\":4703,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":275.169,\"y\":51.293},{\"x\":272.333,\"y\":54.36},{\"x\":275.412,\"y\":57.165},{\"x\":277.892,\"y\":54.137}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4704,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":309.218,\"y\":58.519},{\"x\":306.382,\"y\":61.586},{\"x\":309.461,\"y\":64.391},{\"x\":311.941,\"y\":61.363}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4705,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":190.285,\"y\":26.667},{\"x\":187.449,\"y\":29.734},{\"x\":190.528,\"y\":32.539},{\"x\":193.008,\"y\":29.511}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4706,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":310.222,\"y\":18.187},{\"x\":307.386,\"y\":21.254},{\"x\":310.465,\"y\":24.059},{\"x\":312.945,\"y\":21.031}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4707,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":410.222,\"y\":18.187},{\"x\":407.386,\"y\":21.254},{\"x\":410.465,\"y\":24.059},{\"x\":412.945,\"y\":21.031}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4708,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":364.541,\"y\":40.344},{\"x\":361.705,\"y\":43.411},{\"x\":364.784,\"y\":46.216},{\"x\":367.264,\"y\":43.188}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4709,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":458.789,\"y\":45.895},{\"x\":455.953,\"y\":48.962},{\"x\":459.032,\"y\":51.767},{\"x\":461.512,\"y\":48.739}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4710,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":407.709,\"y\":63.219},{\"x\":404.873,\"y\":66.286},{\"x\":407.952,\"y\":69.091},{\"x\":410.432,\"y\":66.063}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4711,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":141.935,\"y\":51.381},{\"x\":139.099,\"y\":54.448},{\"x\":142.178,\"y\":57.253},{\"x\":144.658,\"y\":54.225}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4712,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":226.613,\"y\":56.932},{\"x\":223.777,\"y\":59.999},{\"x\":226.856,\"y\":62.804},{\"x\":229.336,\"y\":59.776}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4713,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":84.928,\"y\":25.273},{\"x\":82.092,\"y\":28.34},{\"x\":85.171,\"y\":31.145},{\"x\":87.651,\"y\":28.117}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4714,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":46.339,\"y\":57.094},{\"x\":43.503,\"y\":60.161},{\"x\":46.582,\"y\":62.966},{\"x\":49.062,\"y\":59.938}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4715,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":27.555,\"y\":18.304},{\"x\":24.719,\"y\":21.371},{\"x\":27.798,\"y\":24.176},{\"x\":30.278,\"y\":21.148}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4716,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":518.683,\"y\":22.025},{\"x\":515.847,\"y\":25.092},{\"x\":518.926,\"y\":27.897},{\"x\":521.406,\"y\":24.869}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4717,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":507.001,\"y\":58.68},{\"x\":504.165,\"y\":61.747},{\"x\":507.244,\"y\":64.552},{\"x\":509.724,\"y\":61.524}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4718,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":551.788,\"y\":44.169},{\"x\":548.952,\"y\":47.236},{\"x\":552.031,\"y\":50.041},{\"x\":554.511,\"y\":47.013}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4719,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":571.859,\"y\":68.057},{\"x\":569.023,\"y\":71.124},{\"x\":572.102,\"y\":73.929},{\"x\":574.582,\"y\":70.901}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4720,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":591.241,\"y\":32.947},{\"x\":588.405,\"y\":36.014},{\"x\":591.484,\"y\":38.819},{\"x\":593.964,\"y\":35.791}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4721,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":614.878,\"y\":59.847},{\"x\":612.042,\"y\":62.914},{\"x\":615.121,\"y\":65.719},{\"x\":617.601,\"y\":62.691}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4722,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":639.824,\"y\":25.629},{\"x\":636.988,\"y\":28.696},{\"x\":640.067,\"y\":31.501},{\"x\":642.547,\"y\":28.473}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4723,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":661.704,\"y\":57.743},{\"x\":658.868,\"y\":60.81},{\"x\":661.947,\"y\":63.615},{\"x\":664.427,\"y\":60.587}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4724,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":666.23,\"y\":34.354},{\"x\":663.394,\"y\":37.421},{\"x\":666.473,\"y\":40.226},{\"x\":668.953,\"y\":37.198}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4725,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":612.448,\"y\":13.217},{\"x\":609.612,\"y\":16.284},{\"x\":612.691,\"y\":19.089},{\"x\":615.171,\"y\":16.061}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4726,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":697.526,\"y\":44.118},{\"x\":694.69,\"y\":47.185},{\"x\":697.769,\"y\":49.99},{\"x\":700.249,\"y\":46.962}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4727,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":722.898,\"y\":21.706},{\"x\":720.062,\"y\":24.773},{\"x\":723.141,\"y\":27.578},{\"x\":725.621,\"y\":24.55}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4728,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":729.08,\"y\":51.482},{\"x\":726.244,\"y\":54.549},{\"x\":729.323,\"y\":57.354},{\"x\":731.803,\"y\":54.326}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4729,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":760.269,\"y\":21.48},{\"x\":757.433,\"y\":24.547},{\"x\":760.512,\"y\":27.352},{\"x\":762.992,\"y\":24.324}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4730,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":459.972,\"y\":15.051},{\"x\":457.136,\"y\":18.118},{\"x\":460.215,\"y\":20.923},{\"x\":462.695,\"y\":17.895}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":1},{\"id\":4731,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":800,\"y\":101.059},{\"x\":0,\"y\":101.059},{\"x\":0,\"y\":200},{\"x\":800,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[3238238,2448197],\"hasBorder\":true},{\"id\":4732,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[0,4290886]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 135,
+  "created_at": "2022-07-28T23:14:25.000Z",
+  "updated_at": "2022-07-28T23:14:25.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20693346,
+    "username": "LemonLad",
+    "description": "It's a sour world, a sour world it is.\n\nSubscribe to FruitBowl on YouTube please. :)",
+    "about": "Hi, I’m LemonLad! I like to play deeeep.io, my main is the Atlantic Torpedo. (pancake) I love sea life, and I like manta rays, even though I’m not a manta ray main. I have a YouTube channel I share with my cousin known as LimeLad.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-02-16T00:39:35.000Z",
+    "date_last_played": "2022-10-10T20:22:24.000Z",
+    "kill_count": 5779,
+    "play_count": 4669,
+    "highest_score": 6508131,
+    "picture": "20693346.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 112,
+    "tier": 5,
+    "xp": 289500,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "0_0"
+    },
+    {
+      "id": "FruitBowl"
+    },
+    {
+      "id": "LemonLad"
+    },
+    {
+      "id": "Light"
+    },
+    {
+      "id": "Stars"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Tacoco & Myhailot Deep Assets",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 4,
+      "created_at": "2021-08-25T00:01:35.000Z",
+      "updated_at": "2021-08-25T00:01:35.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:30:36.366Z"
+}
