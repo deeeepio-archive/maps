@@ -1,0 +1,90 @@
+{
+  "id": 2493,
+  "user_id": 695485,
+  "cloneof_id": null,
+  "string_id": "desertcrab_ffa_v2",
+  "title": "DesertCrab's FFA v2",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":6125,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":0,\"y\":49.776},{\"x\":68.509,\"y\":61.104},{\"x\":96.47,\"y\":116.56},{\"x\":394.016,\"y\":168.459},{\"x\":387.101,\"y\":230.537},{\"x\":336.64,\"y\":274.42},{\"x\":238.291,\"y\":320.207},{\"x\":77.536,\"y\":337.779},{\"x\":0,\"y\":350.157}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":6111,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":77.757,\"y\":759.201},{\"x\":76.079,\"y\":873.911},{\"x\":137.27,\"y\":1196.339},{\"x\":273.772,\"y\":1328.134},{\"x\":553.836,\"y\":1415.213},{\"x\":939.808,\"y\":1424.627},{\"x\":1415.212,\"y\":1500},{\"x\":0,\"y\":1500},{\"x\":0,\"y\":755.459}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6115,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":611.676},{\"x\":182.617,\"y\":625.471},{\"x\":344.895,\"y\":669.205},{\"x\":496.936,\"y\":762.347},{\"x\":0,\"y\":762.347}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6118,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":34.863,\"y\":108.48},{\"x\":68.845,\"y\":61.334},{\"x\":114.463,\"y\":93.035},{\"x\":172.452,\"y\":105.406},{\"x\":255.957,\"y\":98.447},{\"x\":310.853,\"y\":75.252},{\"x\":375.801,\"y\":77.571},{\"x\":447.708,\"y\":95.355},{\"x\":428.378,\"y\":125.509},{\"x\":375.028,\"y\":147.158},{\"x\":313.173,\"y\":157.21},{\"x\":218.844,\"y\":171.127},{\"x\":103.638,\"y\":181.952},{\"x\":57.733,\"y\":171.879}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6119,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":76.977,\"y\":211.129},{\"x\":112.916,\"y\":200.573},{\"x\":168.586,\"y\":168.873},{\"x\":267.555,\"y\":153.409},{\"x\":306.214,\"y\":154.182},{\"x\":349.513,\"y\":169.646},{\"x\":393.585,\"y\":173.512},{\"x\":422.966,\"y\":147.996},{\"x\":435.337,\"y\":108.564},{\"x\":83.535,\"y\":140.265},{\"x\":57.783,\"y\":171.714}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6124,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":201.476,\"y\":254.003},{\"x\":219.807,\"y\":231.743},{\"x\":244.248,\"y\":217.777},{\"x\":266.764,\"y\":216.307},{\"x\":280.254,\"y\":239.069},{\"x\":298.755,\"y\":247.172},{\"x\":318.838,\"y\":244.752},{\"x\":330.293,\"y\":232.499},{\"x\":337.689,\"y\":213.89},{\"x\":355.107,\"y\":205.556},{\"x\":389.151,\"y\":207.739},{\"x\":418.829,\"y\":202.065},{\"x\":416.211,\"y\":219.959},{\"x\":396.57,\"y\":235.672},{\"x\":366.892,\"y\":248.765},{\"x\":335.903,\"y\":275.389},{\"x\":292.695,\"y\":264.041},{\"x\":230.718,\"y\":261.859}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6122,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":257.849},{\"x\":27.47,\"y\":341.905},{\"x\":20.823,\"y\":485.937},{\"x\":46.773,\"y\":626.581},{\"x\":0,\"y\":619.711}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":6121,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":59.463,\"y\":318.193},{\"x\":101.312,\"y\":297.148},{\"x\":141.208,\"y\":283.1},{\"x\":181.087,\"y\":286.232},{\"x\":241.158,\"y\":318.597},{\"x\":221.115,\"y\":348.832},{\"x\":189.228,\"y\":372.005},{\"x\":162.795,\"y\":383.567},{\"x\":120.1,\"y\":369.329},{\"x\":79.029,\"y\":342.279}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":6120,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":50.235},{\"x\":69.136,\"y\":61.485},{\"x\":96.722,\"y\":97.826},{\"x\":395.723,\"y\":148.72},{\"x\":343.65,\"y\":688.693},{\"x\":0,\"y\":659.26}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.8},{\"id\":6114,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":314.424},{\"x\":8000,\"y\":314.424},{\"x\":8000,\"y\":1500},{\"x\":0,\"y\":1500}],\"settings\":{\"collidable\":true},\"colors\":[1428937,276790],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"800\",\"height\":\"150\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 10,
+  "created_at": "2020-04-06T15:42:15.000Z",
+  "updated_at": "2020-04-06T15:42:15.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 695485,
+    "username": "DesertCrab",
+    "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-02-12T21:19:26.000Z",
+    "date_last_played": "2021-12-28T19:51:34.000Z",
+    "kill_count": 2777,
+    "play_count": 511,
+    "highest_score": 5809809,
+    "picture": "695485.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 129,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "ffa"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T12:55:53.784Z"
+}
