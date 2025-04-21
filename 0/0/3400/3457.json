@@ -1,0 +1,90 @@
+{
+  "id": 3457,
+  "user_id": 542214,
+  "cloneof_id": null,
+  "string_id": "iwbk_1v1",
+  "title": "1v1 Map...",
+  "description": "I Hope this goes LIVE!!! :D!!! (It Won't)",
+  "data": "{\"screenObjects\":[{\"id\":1307,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":1306,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":76.163},{\"x\":200,\"y\":76.163},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":76.163},\"size\":{\"width\":200,\"height\":123.837},\"settings\":{\"foodIds\":[1,24],\"count\":15,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":\"3000\",\"area\":247.6747493758268,\"onlyOnWater\":true}},{\"id\":1279,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":13.838,\"y\":77.65},{\"x\":12.568,\"y\":100.472},{\"x\":13.637,\"y\":122.673},{\"x\":16.44,\"y\":147.732},{\"x\":21.58,\"y\":161.224},{\"x\":27.011,\"y\":171.724},{\"x\":50.6,\"y\":182.268},{\"x\":82.263,\"y\":179.799},{\"x\":115.057,\"y\":183.08},{\"x\":147.465,\"y\":175.28},{\"x\":169.868,\"y\":173.277},{\"x\":183.39,\"y\":154.929},{\"x\":184.733,\"y\":129.432},{\"x\":182.619,\"y\":103.915},{\"x\":183.703,\"y\":87.762},{\"x\":186.997,\"y\":76.344},{\"x\":200,\"y\":75.932},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":77.431}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10},\"settings\":{\"collidable\":true}},{\"id\":1280,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":13.673,\"y\":77.889},{\"x\":19.122,\"y\":60.417},{\"x\":17.568,\"y\":42.036},{\"x\":25.694,\"y\":22.974},{\"x\":54.016,\"y\":16.041},{\"x\":75.818,\"y\":13.409},{\"x\":103.44,\"y\":8.97},{\"x\":125.815,\"y\":9.236},{\"x\":147.526,\"y\":17.84},{\"x\":171.299,\"y\":31.66},{\"x\":174.63,\"y\":51.219},{\"x\":183.051,\"y\":57.282},{\"x\":188.062,\"y\":75.928},{\"x\":189.157,\"y\":81.065},{\"x\":200,\"y\":80.586},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":79.668}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":1281,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":111.448,\"y\":185.818,\"rotation\":-15.2,\"hSType\":7},{\"id\":1282,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":36.508,\"y\":176.35,\"rotation\":23.46,\"hSType\":1},{\"id\":1283,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":151.128,\"y\":175.863,\"rotation\":0,\"hSType\":36},{\"id\":1284,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":151.111,\"y\":134.24,\"rotation\":0,\"hSType\":36},{\"id\":1285,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":161.039,\"y\":198.603,\"rotation\":0,\"hSType\":36},{\"id\":1286,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":160.971,\"y\":156.887,\"rotation\":0,\"hSType\":36},{\"id\":1287,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":171.231,\"y\":174.696,\"rotation\":0,\"hSType\":36},{\"id\":1288,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":179.651,\"y\":160.96,\"rotation\":0,\"hSType\":36},{\"id\":1289,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":171.267,\"y\":148.657,\"rotation\":0,\"hSType\":36},{\"id\":1290,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-3.47,\"y\":89.927,\"rotation\":93.65,\"hSType\":65},{\"id\":1291,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-3.144,\"y\":120.056,\"rotation\":84.31,\"hSType\":65},{\"id\":1292,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":0.626,\"y\":149.753,\"rotation\":80.03,\"hSType\":65},{\"id\":1293,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":200.089,\"y\":92.72,\"rotation\":271.7,\"hSType\":65},{\"id\":1294,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":199.656,\"y\":122.79,\"rotation\":-91.38,\"hSType\":65},{\"id\":1295,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":114.292,\"y\":9.075,\"rotation\":0.8,\"hSType\":18},{\"id\":1296,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":61.55,\"y\":14.931,\"rotation\":-6.84,\"hSType\":18},{\"id\":1297,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":161.82,\"y\":25.777,\"rotation\":29.29,\"hSType\":18},{\"id\":1298,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":141.392,\"y\":10.664,\"rotation\":21.36,\"hSType\":2},{\"id\":1299,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":85.557,\"y\":7.373,\"rotation\":-10.14,\"hSType\":2},{\"id\":1300,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":32.314,\"y\":16.998,\"rotation\":-14.93,\"hSType\":2},{\"id\":1301,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":183.309,\"y\":51.809,\"rotation\":55.74,\"hSType\":2},{\"id\":1302,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4.561,\"y\":44.867,\"rotation\":-72.76,\"hSType\":18},{\"id\":1303,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8.606,\"y\":76.718},{\"x\":200,\"y\":76.718},{\"x\":200,\"y\":200},{\"x\":8.606,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[14946,11854],\"hasBorder\":true},{\"id\":1304,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":8.216},{\"x\":200,\"y\":8.216},{\"x\":200,\"y\":79.172},{\"x\":0,\"y\":79.172}],\"settings\":{\"collidable\":true},\"colors\":[24767,16623638]},{\"id\":1305,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":71.523,\"y\":77.974},{\"x\":74.56,\"y\":70.327},{\"x\":80.353,\"y\":65.151},{\"x\":88.423,\"y\":61.615},{\"x\":95.299,\"y\":60.786},{\"x\":102.823,\"y\":61.53},{\"x\":109.506,\"y\":64.877},{\"x\":113.179,\"y\":69.478},{\"x\":117.815,\"y\":77.753}],\"settings\":{\"collidable\":true},\"colors\":[16764416,16364582]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 29,
+  "created_at": "2020-06-20T04:00:14.000Z",
+  "updated_at": "2020-07-04T01:04:56.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 542214,
+    "username": "6010801_608",
+    "description": "Sorry if I killed you, don't be mad, it is just a game, but sorry anyways, that is just how deeeep.io works :(, but don't give up, get back to being a T-10 and just have fun! Don't die!",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2018-10-27T03:16:11.000Z",
+    "date_last_played": "2020-07-05T18:52:54.000Z",
+    "kill_count": 127,
+    "play_count": 29,
+    "highest_score": 949143,
+    "picture": "542214.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 80,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T14:59:27.180Z"
+}
