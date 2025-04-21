@@ -1,0 +1,96 @@
+{
+  "id": 7677,
+  "user_id": 20738388,
+  "cloneof_id": null,
+  "string_id": "zendikar_ffa",
+  "title": "Zendikar FFA",
+  "description": "A FFA/TFFA map drawing inspiration from Zendikar.",
+  "data": "{\"screenObjects\":[{\"id\":81,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":211.625},{\"x\":0,\"y\":139.518},{\"x\":0,\"y\":88.012},{\"x\":27.763,\"y\":77.711},{\"x\":61.609,\"y\":71.825},{\"x\":96.191,\"y\":74.032},{\"x\":132.245,\"y\":79.919},{\"x\":163.884,\"y\":91.691},{\"x\":165.014,\"y\":106.644},{\"x\":162.84,\"y\":123.012},{\"x\":156.858,\"y\":153.779},{\"x\":156.526,\"y\":188.816},{\"x\":144.018,\"y\":216.04},{\"x\":119.737,\"y\":210.889},{\"x\":94.72,\"y\":199.852},{\"x\":74.854,\"y\":193.23},{\"x\":53.516,\"y\":188.816},{\"x\":29.97,\"y\":193.23},{\"x\":9.368,\"y\":202.795}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":184.69},{\"x\":2255.729,\"y\":187.513},{\"x\":2254.814,\"y\":1000},{\"x\":0,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[2384524,273740],\"hasBorder\":true},{\"id\":2,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2257.193,\"y\":0},{\"x\":2255.616,\"y\":208.018},{\"x\":0,\"y\":204.863}],\"settings\":{\"collidable\":true},\"colors\":[14077389,9079182]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1000\",\"height\":\"100\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 3,
+  "created_at": "2021-08-28T13:51:25.000Z",
+  "updated_at": "2021-08-28T14:13:06.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20738388,
+    "username": "sovereign",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-06-18T18:31:42.000Z",
+    "date_last_played": "2021-06-18T18:46:05.000Z",
+    "kill_count": 29,
+    "play_count": 1,
+    "highest_score": 515041,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 13,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "FFA"
+    },
+    {
+      "id": "TA"
+    },
+    {
+      "id": "TFFA"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:42:01.801Z"
+}
