@@ -1,0 +1,90 @@
+{
+  "id": 7245,
+  "user_id": 20731407,
+  "cloneof_id": null,
+  "string_id": "cove_simple",
+  "title": "simple cove 1v1",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":49,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":5.016},{\"x\":500,\"y\":5.016},{\"x\":500,\"y\":180.182},{\"x\":0,\"y\":180.182}],\"position\":{\"x\":0,\"y\":5.016},\"size\":{\"width\":500,\"height\":175.166},\"settings\":{\"fishLevels\":[44],\"animalCount\":12,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":47,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":187.311},{\"x\":500,\"y\":187.311},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500}],\"position\":{\"x\":0,\"y\":187.311},\"size\":{\"width\":500,\"height\":312.689},\"settings\":{\"foodIds\":[24],\"count\":49,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1563.4449278565887,\"onlyOnWater\":true}},{\"id\":40,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":54.839,\"y\":454.134},{\"x\":83.355,\"y\":468.392},{\"x\":404.154,\"y\":466.355},{\"x\":428.596,\"y\":451.079},{\"x\":466.277,\"y\":411.361},{\"x\":482.572,\"y\":358.404},{\"x\":486.645,\"y\":293.226},{\"x\":500,\"y\":291.189},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500},{\"x\":0,\"y\":285.078},{\"x\":15.121,\"y\":288.134},{\"x\":26.324,\"y\":348.22},{\"x\":33.453,\"y\":408.306}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[25],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":41,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":14.103,\"y\":288.134},{\"x\":15.121,\"y\":206.661},{\"x\":19.195,\"y\":146.575},{\"x\":31.416,\"y\":78.341},{\"x\":64.005,\"y\":29.458},{\"x\":149.552,\"y\":18.255},{\"x\":248.337,\"y\":11.126},{\"x\":328.792,\"y\":23.347},{\"x\":403.136,\"y\":32.513},{\"x\":473.406,\"y\":70.194},{\"x\":476.461,\"y\":150.648},{\"x\":485.627,\"y\":258.6},{\"x\":487.664,\"y\":319.704},{\"x\":499.884,\"y\":330.907},{\"x\":500,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":305.447}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":46,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":92.521,\"y\":275.913},{\"x\":93.521,\"y\":275.913},{\"x\":93.521,\"y\":276.913},{\"x\":92.521,\"y\":276.913}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":35,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":500},{\"x\":500,\"y\":500},{\"x\":500,\"y\":184.256},{\"x\":0,\"y\":184.256}],\"settings\":{\"collidable\":true},\"colors\":[7192309,3574986],\"hasBorder\":true},{\"id\":33,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":202.587},{\"x\":500,\"y\":202.587},{\"x\":500,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[9161979,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"50\",\"height\":\"50\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 7,
+  "created_at": "2021-06-27T03:42:33.000Z",
+  "updated_at": "2021-06-27T03:42:33.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20731407,
+    "username": "deepies",
+    "description": "sorry for killing you, I need the coins, and, anyway, this's an opportunity to learn from the mistake you just made",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-05-26T00:17:43.000Z",
+    "date_last_played": "2022-09-30T22:15:21.000Z",
+    "kill_count": 589,
+    "play_count": 925,
+    "highest_score": 1153724,
+    "picture": "20731407.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 19,
+    "tier": 2,
+    "xp": 59700,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:32:55.047Z"
+}
