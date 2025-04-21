@@ -1,0 +1,89 @@
+{
+  "id": 9103,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_deeeep_cave",
+  "title": "Lair Of The Kraken 1V1",
+  "description": "The lair of a slumbering kraken, this cave is home to many smaller creatures. Dare you challenge the denizens of the deep!",
+  "data": "{\"screenObjects\":[{\"id\":898,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":899,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":85.952},{\"x\":300,\"y\":85.952},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":85.952},\"size\":{\"width\":300,\"height\":164.048},\"settings\":{\"fishLevels\":[2,3,50,55,5,14,49,21,56,57],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"2000\",\"npcType\":2,\"restrictMovement\":false}},{\"id\":900,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"foodIds\":[16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":750,\"onlyOnWater\":true}},{\"id\":901,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":148.9,\"y\":156.448},{\"x\":203.996,\"y\":156.448},{\"x\":203.996,\"y\":225.344},{\"x\":148.9,\"y\":225.344}],\"position\":{\"x\":148.9,\"y\":156.448},\"size\":{\"width\":55.096,\"height\":68.896},\"settings\":{\"foodIds\":[5],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":37.95894016,\"onlyOnWater\":true}},{\"id\":902,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":110.529},{\"x\":18.084,\"y\":76.804},{\"x\":23.362,\"y\":48.279},{\"x\":43.309,\"y\":41.203},{\"x\":59.066,\"y\":29.302},{\"x\":92.912,\"y\":32.695},{\"x\":106.849,\"y\":37.869},{\"x\":143.888,\"y\":36.865},{\"x\":158.514,\"y\":30.313},{\"x\":192.532,\"y\":25.042},{\"x\":230.855,\"y\":34.756},{\"x\":257.547,\"y\":34.727},{\"x\":274.197,\"y\":49.942},{\"x\":280.229,\"y\":76.071},{\"x\":300,\"y\":108.691},{\"x\":300,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":903,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":209.822},{\"x\":72.15,\"y\":222.817},{\"x\":81.962,\"y\":216.644},{\"x\":137.636,\"y\":225.979},{\"x\":150.618,\"y\":221.446},{\"x\":166.351,\"y\":226.999},{\"x\":199.065,\"y\":225.968},{\"x\":224.471,\"y\":216.579},{\"x\":237.431,\"y\":220.568},{\"x\":252.687,\"y\":215.842},{\"x\":300,\"y\":208.202},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":904,\"type\":\"A\",\"layerId\":\"animals\",\"x\":185.955,\"y\":53.921,\"rotation\":-79.7,\"fLevel\":31},{\"id\":905,\"type\":\"A\",\"layerId\":\"animals\",\"x\":110.544,\"y\":119.803,\"rotation\":43.25,\"fLevel\":22},{\"id\":906,\"type\":\"A\",\"layerId\":\"animals\",\"x\":158.795,\"y\":222.69,\"rotation\":-56.26,\"fLevel\":33},{\"id\":907,\"type\":\"A\",\"layerId\":\"animals\",\"x\":87.819,\"y\":155.734,\"rotation\":18.83,\"fLevel\":56},{\"id\":908,\"type\":\"A\",\"layerId\":\"animals\",\"x\":195.935,\"y\":178.65,\"rotation\":-109.48,\"fLevel\":2},{\"id\":909,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":66.851,\"y\":248.513,\"rotation\":0,\"hSType\":7},{\"id\":910,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":235.838,\"y\":249.09,\"rotation\":0,\"hSType\":49},{\"id\":911,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":178.297,\"y\":226.897,\"rotation\":-1.89,\"hSType\":17},{\"id\":912,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":290.01,\"y\":211.645,\"rotation\":0,\"hSType\":5},{\"id\":913,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":9.841,\"y\":213.689,\"rotation\":0,\"hSType\":5},{\"id\":914,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":150.922,\"y\":222.306,\"rotation\":-79.8,\"hSType\":50},{\"id\":915,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":86.017},{\"x\":300,\"y\":86.017}],\"texture\":5,\"settings\":{\"collidable\":true},\"borderColor\":71207},{\"id\":916,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":77.874,\"y\":230.542},{\"x\":99.665,\"y\":205.261},{\"x\":102.728,\"y\":195.343},{\"x\":106.743,\"y\":197.71},{\"x\":113.298,\"y\":190.256},{\"x\":117.246,\"y\":176.766},{\"x\":121.138,\"y\":180.895},{\"x\":128.541,\"y\":174.493},{\"x\":134.404,\"y\":160.421},{\"x\":137.84,\"y\":165.294},{\"x\":147.631,\"y\":157.361},{\"x\":156.5,\"y\":145.59},{\"x\":159.261,\"y\":152.19},{\"x\":174.416,\"y\":147.174},{\"x\":184.964,\"y\":139.182},{\"x\":186.781,\"y\":145.741},{\"x\":230.524,\"y\":135.718},{\"x\":224.543,\"y\":164.493},{\"x\":227.31,\"y\":172.758},{\"x\":221.593,\"y\":182.526},{\"x\":203.046,\"y\":226.178},{\"x\":193.559,\"y\":243.51}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":917,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":141.988},{\"x\":15.997,\"y\":167.362},{\"x\":35.349,\"y\":176.307},{\"x\":49.722,\"y\":224.797},{\"x\":0,\"y\":225.078}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":918,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":300,\"y\":145.866},{\"x\":280.515,\"y\":171.662},{\"x\":277.435,\"y\":193.223},{\"x\":239.318,\"y\":230.57},{\"x\":300,\"y\":219.019}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":919,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":2.089},{\"x\":300,\"y\":2.089}],\"settings\":{\"collidable\":true},\"colors\":[204080,0],\"hasBorder\":true},{\"id\":920,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[0,0]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 23,
+  "created_at": "2022-01-24T13:17:26.000Z",
+  "updated_at": "2022-02-20T10:03:28.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "cave"
+    },
+    {
+      "id": "deeeep"
+    },
+    {
+      "id": "lair"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:14:32.367Z"
+}

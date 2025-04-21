@@ -1,0 +1,82 @@
+{
+  "id": 9098,
+  "user_id": 20776105,
+  "cloneof_id": null,
+  "string_id": "ks_1v1_arctic_cave",
+  "title": "Glacial Cavern 1V1",
+  "description": "Battle in this dark, icy cave to claim your reign!",
+  "data": "{\"screenObjects\":[{\"id\":849,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":250},\"settings\":{\"area\":63}},{\"id\":850,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":124.72},{\"x\":300,\"y\":124.72},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":124.72},\"size\":{\"width\":300,\"height\":125.28},\"settings\":{\"foodIds\":[16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":375.84,\"onlyOnWater\":true}},{\"id\":851,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":65.488},{\"x\":15.707,\"y\":53.605},{\"x\":48.792,\"y\":52.97},{\"x\":74.028,\"y\":33.949},{\"x\":124.064,\"y\":29.741},{\"x\":171.294,\"y\":44.237},{\"x\":230.215,\"y\":33.949},{\"x\":254.177,\"y\":48.711},{\"x\":300,\"y\":56.863},{\"x\":300,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":852,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":31.932},{\"x\":26.223,\"y\":34.54},{\"x\":9.198,\"y\":75.938},{\"x\":18.917,\"y\":98.633},{\"x\":10.843,\"y\":147.071},{\"x\":27.77,\"y\":177.081},{\"x\":31.767,\"y\":209.323},{\"x\":52.963,\"y\":217.915},{\"x\":61.027,\"y\":224.495},{\"x\":89.557,\"y\":222.214},{\"x\":121.881,\"y\":231.033},{\"x\":174.684,\"y\":230.711},{\"x\":214.704,\"y\":221.184},{\"x\":245.302,\"y\":224.958},{\"x\":270.974,\"y\":208.398},{\"x\":273.817,\"y\":182.018},{\"x\":288.566,\"y\":159.914},{\"x\":290.56,\"y\":135.598},{\"x\":276.837,\"y\":110.928},{\"x\":284.131,\"y\":68.153},{\"x\":277.124,\"y\":37.749},{\"x\":300,\"y\":34.436},{\"x\":300,\"y\":229.297},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":853,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":10.843,\"y\":147.071},{\"x\":27.77,\"y\":177.081},{\"x\":31.767,\"y\":209.323},{\"x\":52.963,\"y\":217.915},{\"x\":61.027,\"y\":224.495},{\"x\":89.557,\"y\":222.214},{\"x\":121.881,\"y\":231.033},{\"x\":174.684,\"y\":230.711},{\"x\":214.704,\"y\":221.184},{\"x\":245.302,\"y\":224.958},{\"x\":270.974,\"y\":208.398},{\"x\":273.817,\"y\":182.018},{\"x\":288.566,\"y\":159.914},{\"x\":290.56,\"y\":135.598},{\"x\":300,\"y\":135.932},{\"x\":300,\"y\":229.297},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":148.026}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":854,\"type\":\"A\",\"layerId\":\"animals\",\"x\":153.597,\"y\":179.338,\"rotation\":-16.59,\"fLevel\":12},{\"id\":855,\"type\":\"A\",\"layerId\":\"animals\",\"x\":146.686,\"y\":158.026,\"rotation\":-15.29,\"fLevel\":11},{\"id\":856,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":216.74,\"y\":249.857,\"rotation\":0,\"hSType\":49},{\"id\":857,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":85.007,\"y\":250.115,\"rotation\":0,\"hSType\":7},{\"id\":858,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":40.35,\"y\":217.908,\"rotation\":-156.49,\"hSType\":2},{\"id\":859,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":264.987,\"y\":217.55,\"rotation\":146.15,\"hSType\":2},{\"id\":860,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":151.764,\"y\":235.915,\"rotation\":180.25,\"hSType\":2},{\"id\":861,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":15.178,\"y\":53.999},{\"x\":20.209,\"y\":68.797},{\"x\":23.169,\"y\":52.224},{\"x\":28.2,\"y\":59.622},{\"x\":33.231,\"y\":49.56}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":862,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":95.973,\"y\":30.619},{\"x\":100.116,\"y\":39.202},{\"x\":102.483,\"y\":31.211},{\"x\":108.106,\"y\":50.448},{\"x\":111.954,\"y\":27.956}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":863,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":186.818,\"y\":37.455},{\"x\":190.091,\"y\":52.419},{\"x\":195.235,\"y\":36.987}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":864,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":265.846,\"y\":49.146},{\"x\":266.782,\"y\":61.771},{\"x\":272.861,\"y\":52.887},{\"x\":275.666,\"y\":68.318},{\"x\":281.746,\"y\":49.146}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":865,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":21.616,\"y\":188.949},{\"x\":56.92,\"y\":203.655},{\"x\":89.722,\"y\":210.075},{\"x\":120.697,\"y\":236.815},{\"x\":41.724,\"y\":238.194}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":866,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":280.796,\"y\":196.17},{\"x\":233.475,\"y\":200.624},{\"x\":221.228,\"y\":214.541},{\"x\":194.034,\"y\":216.591},{\"x\":159.432,\"y\":242.934},{\"x\":254.074,\"y\":236.81},{\"x\":280.239,\"y\":208.418}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":867,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":280.961,\"y\":178.558},{\"x\":280.141,\"y\":154.346},{\"x\":294.504,\"y\":138.752},{\"x\":296.145,\"y\":158.45}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":868,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":9.295,\"y\":135.88},{\"x\":22.209,\"y\":149.191},{\"x\":22.187,\"y\":188.169},{\"x\":5.602,\"y\":147.78}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":869,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":239.962,\"y\":35.889},{\"x\":250.337,\"y\":63.772},{\"x\":269.79,\"y\":74.146},{\"x\":281.461,\"y\":104.622},{\"x\":297.672,\"y\":70.256},{\"x\":280.813,\"y\":17.085}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":870,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":64.24,\"y\":29.405},{\"x\":50.154,\"y\":64.036},{\"x\":22.093,\"y\":72.85},{\"x\":11.718,\"y\":102.029},{\"x\":3.288,\"y\":71.553},{\"x\":25.335,\"y\":22.273}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":871,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":105.482,\"y\":27.111},{\"x\":121.177,\"y\":38.322},{\"x\":159.295,\"y\":37.425},{\"x\":126.097,\"y\":24.506}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":872,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":124.767},{\"x\":300,\"y\":124.767}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":873,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":300,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":250},{\"x\":300,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[10566,0]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 25,
+  "created_at": "2022-01-24T02:25:00.000Z",
+  "updated_at": "2022-02-20T10:02:24.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20776105,
+    "username": "7492654_799",
+    "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+    "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-11-05T05:15:19.000Z",
+    "date_last_played": "2024-08-18T13:00:15.000Z",
+    "kill_count": 1235,
+    "play_count": 578,
+    "highest_score": 3505778,
+    "picture": "20776105.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 285,
+    "tier": 3,
+    "xp": 134400,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "arctic"
+    },
+    {
+      "id": "cave"
+    },
+    {
+      "id": "ice"
+    },
+    {
+      "id": "snow"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:14:32.095Z"
+}
