@@ -1,0 +1,90 @@
+{
+  "id": 1750,
+  "user_id": 546829,
+  "cloneof_id": null,
+  "string_id": "rubix_1v1",
+  "title": "Rubix Cube 1v1 Map",
+  "description": "A squary map for 1v1 ! Orange is water, White and Blue are ground, and Red and Green are the sky.",
+  "data": "{\"screenObjects\":[{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":132.76,\"y\":132.99},{\"x\":200,\"y\":133.043},{\"x\":200,\"y\":200},{\"x\":132.76,\"y\":200}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":65.735,\"y\":0},{\"x\":132.975,\"y\":0.053},{\"x\":133.127,\"y\":65.865},{\"x\":65.735,\"y\":65.636}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":65.699,\"y\":133.596},{\"x\":0,\"y\":133.596},{\"x\":0,\"y\":200},{\"x\":65.699,\"y\":200}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":15,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":66.245,\"y\":67.028},{\"x\":200,\"y\":66.798},{\"x\":200,\"y\":133.705},{\"x\":65.954,\"y\":132.801}],\"settings\":{\"collidable\":true},\"colors\":[16752128,16752128],\"hasBorder\":true},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":65.869,\"y\":200},{\"x\":133.357,\"y\":200},{\"x\":133.357,\"y\":65.998},{\"x\":65.869,\"y\":65.568}],\"settings\":{\"collidable\":true},\"colors\":[16752128,16752128],\"hasBorder\":true},{\"id\":19,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":133.115,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":67.925},{\"x\":133.115,\"y\":67.925}],\"settings\":{\"collidable\":true},\"colors\":[3589640,3589640]},{\"id\":25,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":65.916,\"y\":0},{\"x\":65.916,\"y\":133.003},{\"x\":0,\"y\":133.392}],\"settings\":{\"collidable\":true},\"colors\":[14287619,14287619]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 7,
+  "created_at": "2020-02-17T12:18:24.000Z",
+  "updated_at": "2020-02-17T12:18:24.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 546829,
+    "username": "Emegle",
+    "description": ":D",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2018-12-23T15:53:00.000Z",
+    "date_last_played": "2023-09-22T17:29:09.000Z",
+    "kill_count": 2446,
+    "play_count": 281,
+    "highest_score": 3037723,
+    "picture": "546829.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 21,
+    "tier": 1,
+    "xp": 2100,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1 "
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T11:36:51.231Z"
+}
