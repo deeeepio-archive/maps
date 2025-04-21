@@ -1,0 +1,93 @@
+{
+  "id": 1456,
+  "user_id": 680951,
+  "cloneof_id": null,
+  "string_id": "the_hill_map_123",
+  "title": "The Hill",
+  "description": "The big mega hill! Can you fly into up of there?",
+  "data": "{\"screenObjects\":[{\"id\":17,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":10000,\"y\":1121.137},{\"x\":9016.53,\"y\":6000},{\"x\":10000,\"y\":6000}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10},\"settings\":{\"collidable\":true}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8430.488,\"y\":6000},{\"x\":10000,\"y\":1169.973},{\"x\":9040.949,\"y\":6000}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":10000,\"y\":681.605},{\"x\":7356.077,\"y\":6000},{\"x\":8430.488,\"y\":6000},{\"x\":10000,\"y\":1169.973}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[1,16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2579.93,\"y\":4848.47},{\"x\":4133.012,\"y\":4838.105},{\"x\":3981.534,\"y\":5012.663},{\"x\":2696.204,\"y\":5012.044}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":20,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":4905.994},{\"x\":7904.021,\"y\":4897.805},{\"x\":7357.991,\"y\":6000},{\"x\":0,\"y\":6000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":28,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":10000,\"y\":0},{\"x\":7903.625,\"y\":4897.947},{\"x\":0,\"y\":4925.245},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":29,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":10000,\"y\":683.609},{\"x\":7903.521,\"y\":4898.164},{\"x\":10000,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.2},\"worldSize\":{\"width\":\"1000\",\"height\":\"600\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 7,
+  "created_at": "2020-01-13T20:38:21.000Z",
+  "updated_at": "2020-01-13T20:38:22.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 680951,
+    "username": "WERlok_Xij",
+    "description": "Don't worry, i love you ;3\nНе расстраивайся, я люблю тебя ;3",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-01-13T20:06:08.000Z",
+    "date_last_played": "2020-01-13T20:06:08.000Z",
+    "kill_count": 0,
+    "play_count": 0,
+    "highest_score": 0,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "big_map"
+    },
+    {
+      "id": "hill"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T10:58:01.612Z"
+}

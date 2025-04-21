@@ -1,0 +1,90 @@
+{
+  "id": 1496,
+  "user_id": 683428,
+  "cloneof_id": null,
+  "string_id": "chaos_chaos_haha",
+  "title": "CHAOS",
+  "description": "help me",
+  "data": "{\"screenObjects\":[{\"id\":17,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":464.223,\"y\":50.095},{\"x\":465.223,\"y\":50.095},{\"x\":465.223,\"y\":51.095},{\"x\":464.223,\"y\":51.095}],\"position\":{\"x\":464.223,\"y\":50.095},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":18,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":12.972,\"y\":39.071},{\"x\":7078.791,\"y\":39.071},{\"x\":7078.791,\"y\":750},{\"x\":12.972,\"y\":750}],\"position\":{\"x\":12.972,\"y\":39.071},\"size\":{\"width\":7065.819,\"height\":710.929},\"settings\":{\"area\":8}},{\"id\":19,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1398.69,\"y\":344.04},{\"x\":5867.164,\"y\":344.04},{\"x\":5867.164,\"y\":528.634},{\"x\":1398.69,\"y\":528.634}],\"position\":{\"x\":1398.69,\"y\":344.04},\"size\":{\"width\":4468.474,\"height\":184.594},\"settings\":{\"fishLevels\":[22,67,39,0,1,2,3,4,5,6,7,8,9,10,11,12,50,49,25,24,23,21,20,19,18,16,17,15,14,13,26,27,28,29,30,32,31,33,35,34,37,36,38,52,48,46,45,44,43,42,41,40,53,54,55,56,57,58,59,60,61,47,62,63,64,66,78,79,77,76,75,73,74,72,71,70,69,68,80,81,82,83,85,86,87,88],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":20,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1300.542,\"y\":16.248},{\"x\":5482.382,\"y\":16.248},{\"x\":5482.382,\"y\":744.663},{\"x\":1300.542,\"y\":744.663}],\"position\":{\"x\":1300.542,\"y\":16.248},\"size\":{\"width\":4181.84,\"height\":728.415},\"settings\":{\"foodIds\":[1,2,3,4,5,7,8,10,11,15,16,17],\"count\":1218,\"firstSpawnMs\":\"100\",\"reSpawnMs\":\"10\",\"area\":30461.140189494803,\"onlyOnWater\":true}},{\"id\":21,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":2852.209,\"y\":76.917},{\"x\":4061.886,\"y\":76.917},{\"x\":4061.886,\"y\":261.314},{\"x\":2852.209,\"y\":261.314}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3897.118,\"y\":114.746},{\"x\":4336.939,\"y\":114.746},{\"x\":4336.939,\"y\":188.094},{\"x\":3897.118,\"y\":188.094}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2977.476,\"y\":97.73},{\"x\":3279.29,\"y\":97.73},{\"x\":3279.29,\"y\":204.639},{\"x\":2977.476,\"y\":204.639}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":3645.623,\"y\":300.174},{\"x\":4017.488,\"y\":300.174},{\"x\":4017.488,\"y\":385.169},{\"x\":3645.623,\"y\":385.169}],\"texture\":7,\"settings\":{\"collidable\":false}},{\"id\":27,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2763.631,\"y\":246.265,\"rotation\":0,\"hSType\":1},{\"id\":28,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2874.394,\"y\":269.238,\"rotation\":0,\"hSType\":1},{\"id\":29,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2910.385,\"y\":263.462,\"rotation\":0,\"hSType\":1},{\"id\":30,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3083.505,\"y\":181.411,\"rotation\":0,\"hSType\":1},{\"id\":31,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3730.165,\"y\":298.425,\"rotation\":0,\"hSType\":1},{\"id\":32,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3728.121,\"y\":303.22,\"rotation\":0,\"hSType\":1},{\"id\":33,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2423.993,\"y\":443.54,\"rotation\":0,\"hSType\":1},{\"id\":34,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2711.461,\"y\":143.386,\"rotation\":0,\"hSType\":16},{\"id\":35,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2856.569,\"y\":125.393,\"rotation\":0,\"hSType\":16},{\"id\":36,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3719.979,\"y\":-171.001,\"rotation\":0,\"hSType\":16},{\"id\":25,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":1277.491,\"y\":245.063},{\"x\":1546.577,\"y\":245.063},{\"x\":1546.577,\"y\":446.363},{\"x\":1277.491,\"y\":446.363}],\"texture\":7,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":26,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":849.617,\"y\":138.51},{\"x\":6202.394,\"y\":138.51},{\"x\":6202.394,\"y\":750},{\"x\":849.617,\"y\":750}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.2}],\"settings\":{\"gravity\":911.8},\"worldSize\":{\"width\":\"500\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 20,
+  "created_at": "2020-01-19T22:47:59.000Z",
+  "updated_at": "2020-01-19T23:00:25.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 683428,
+    "username": "ChandelureBoi",
+    "description": "this kill message was verified by real deeeepheads\ndeeeep:✅",
+    "about": ":OarfishSpook: \n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-01-19T20:18:37.000Z",
+    "date_last_played": "2024-10-21T00:30:03.000Z",
+    "kill_count": 1616,
+    "play_count": 939,
+    "highest_score": 1910302,
+    "picture": "683428-b345a1d2a332bbe1314114101ec79a60c.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 343,
+    "tier": 4,
+    "xp": 216000,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Crazy "
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T10:58:04.268Z"
+}
