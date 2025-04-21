@@ -1,0 +1,96 @@
+{
+  "id": 1958,
+  "user_id": 706145,
+  "cloneof_id": null,
+  "string_id": "wolfyt1st",
+  "title": "On the Beach",
+  "description": "My first ever map",
+  "data": "{\"screenObjects\":[{\"id\":4,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":479.045},{\"x\":2000,\"y\":479.045},{\"x\":2000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":479.045},\"size\":{\"width\":2000,\"height\":270.955},\"settings\":{\"area\":10}},{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":279.808},{\"x\":2000,\"y\":279.808},{\"x\":2000,\"y\":528.73},{\"x\":0,\"y\":528.73}],\"position\":{\"x\":0,\"y\":279.808},\"size\":{\"width\":2000,\"height\":248.922},\"settings\":{\"area\":9}},{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":965.801,\"y\":247.773},{\"x\":2000,\"y\":247.773},{\"x\":2000,\"y\":322.868},{\"x\":965.801,\"y\":322.868}],\"position\":{\"x\":965.801,\"y\":247.773},\"size\":{\"width\":1034.199,\"height\":75.095},\"settings\":{\"area\":37}},{\"id\":67,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":963.724,\"y\":314.247},{\"x\":2000,\"y\":314.247},{\"x\":2000,\"y\":383.327},{\"x\":963.724,\"y\":383.327}],\"position\":{\"x\":963.724,\"y\":314.247},\"size\":{\"width\":1036.276,\"height\":69.081},\"settings\":{\"area\":38}},{\"id\":69,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0.579,\"y\":247.823},{\"x\":978.337,\"y\":247.823},{\"x\":978.337,\"y\":315.575},{\"x\":0.579,\"y\":315.575}],\"position\":{\"x\":0.579,\"y\":247.823},\"size\":{\"width\":977.757,\"height\":67.752},\"settings\":{\"area\":21}},{\"id\":70,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":312.918},{\"x\":977.757,\"y\":312.918},{\"x\":977.757,\"y\":378.013},{\"x\":0,\"y\":378.013}],\"position\":{\"x\":0,\"y\":312.918},\"size\":{\"width\":977.757,\"height\":65.095},\"settings\":{\"area\":22}},{\"id\":72,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":212.341,\"y\":390.504},{\"x\":520.548,\"y\":390.504},{\"x\":520.548,\"y\":540.622},{\"x\":212.341,\"y\":540.622}],\"position\":{\"x\":212.341,\"y\":390.504},\"size\":{\"width\":308.206,\"height\":150.118},\"settings\":{\"fishLevels\":[0],\"animalCount\":22,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":16,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":310.363,\"y\":398.481},{\"x\":893.894,\"y\":398.481},{\"x\":893.894,\"y\":703.179},{\"x\":310.363,\"y\":703.179}],\"position\":{\"x\":310.363,\"y\":398.481},\"size\":{\"width\":583.531,\"height\":304.698},\"settings\":{\"foodIds\":[1,5],\"count\":42,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1778.0070956819009,\"onlyOnWater\":true}},{\"id\":17,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1237.391,\"y\":420.847},{\"x\":1901.778,\"y\":420.847},{\"x\":1901.778,\"y\":668.549},{\"x\":1237.391,\"y\":668.549}],\"position\":{\"x\":1237.391,\"y\":420.847},\"size\":{\"width\":664.388,\"height\":247.703},\"settings\":{\"foodIds\":[25,24,17],\"count\":36,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1645.7062498150547}},{\"id\":44,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1175.439,\"y\":189.82},{\"x\":1351.383,\"y\":189.82},{\"x\":1351.383,\"y\":231.569},{\"x\":1175.439,\"y\":231.569}],\"position\":{\"x\":1175.439,\"y\":189.82},\"size\":{\"width\":175.944,\"height\":41.749},\"settings\":{\"foodIds\":[4],\"count\":5,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":73.45586961566602}},{\"id\":53,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":761.654,\"y\":126.923},{\"x\":866.954,\"y\":126.923},{\"x\":866.954,\"y\":214.445},{\"x\":761.654,\"y\":214.445}],\"position\":{\"x\":761.654,\"y\":126.923},\"size\":{\"width\":105.3,\"height\":87.522},\"settings\":{\"foodIds\":[10],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":92.16021541014378}},{\"id\":55,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":916.185,\"y\":140.599},{\"x\":1106.272,\"y\":140.599},{\"x\":1106.272,\"y\":222.65},{\"x\":916.185,\"y\":222.65}],\"position\":{\"x\":916.185,\"y\":140.599},\"size\":{\"width\":190.086,\"height\":82.052},\"settings\":{\"foodIds\":[8,7],\"count\":12,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":155.96919572252412}},{\"id\":58,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":860.116,\"y\":157.009},{\"x\":932.595,\"y\":157.009},{\"x\":932.595,\"y\":215.813},{\"x\":860.116,\"y\":215.813}],\"position\":{\"x\":860.116,\"y\":157.009},\"size\":{\"width\":72.479,\"height\":58.804},\"settings\":{\"foodIds\":[8,7],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":42.6203593587089}},{\"id\":60,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":637.209,\"y\":54.444},{\"x\":1319.606,\"y\":54.444},{\"x\":1319.606,\"y\":99.573},{\"x\":637.209,\"y\":99.573}],\"position\":{\"x\":637.209,\"y\":54.444},\"size\":{\"width\":682.397,\"height\":45.128},\"settings\":{\"foodIds\":[2],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":307.955005511128}},{\"id\":63,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1037.895,\"y\":95.47},{\"x\":1229.349,\"y\":95.47},{\"x\":1229.349,\"y\":214.445},{\"x\":1037.895,\"y\":214.445}],\"position\":{\"x\":1037.895,\"y\":95.47},\"size\":{\"width\":191.454,\"height\":118.975},\"settings\":{\"foodIds\":[15],\"count\":10,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":227.78235058757141}},{\"id\":92,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":697.15},{\"x\":2000,\"y\":697.15},{\"x\":2000,\"y\":735.695},{\"x\":0,\"y\":735.695}],\"position\":{\"x\":0,\"y\":697.15},\"size\":{\"width\":2000,\"height\":38.546},\"settings\":{\"foodIds\":[5,11,24,25,1],\"count\":50,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":770.9186178975232}},{\"id\":94,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":282.699},{\"x\":2000,\"y\":282.699},{\"x\":2000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":282.699},\"size\":{\"width\":2000,\"height\":467.301},\"settings\":{\"foodIds\":[11],\"count\":242,\"firstSpawnMs\":0,\"reSpawnMs\":\"3000\",\"area\":9346.02359552448,\"onlyOnWater\":true}},{\"id\":9,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":417.349,\"y\":357.095},{\"x\":1001.405,\"y\":357.095},{\"x\":1001.405,\"y\":518.809},{\"x\":417.349,\"y\":518.809}],\"settings\":{\"angle\":1,\"strength\":31}},{\"id\":10,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":1247.01,\"y\":639.48},{\"x\":1650.512,\"y\":639.48},{\"x\":1653.652,\"y\":507.596},{\"x\":1247.01,\"y\":524.867}],\"settings\":{\"angle\":-143,\"strength\":10}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":717.587,\"y\":215.075},{\"x\":1358.052,\"y\":213.769},{\"x\":1358.052,\"y\":339.373},{\"x\":717.587,\"y\":340.679}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":87,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0.046,\"y\":407.505},{\"x\":964.315,\"y\":407.505},{\"x\":964.315,\"y\":383.954},{\"x\":0,\"y\":383.954}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":88,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":923.818,\"y\":400.937},{\"x\":965.622,\"y\":400.937},{\"x\":965.622,\"y\":339.538},{\"x\":923.818,\"y\":339.538}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":617.765},{\"x\":2000,\"y\":619.093},{\"x\":2000,\"y\":693.059},{\"x\":0,\"y\":694.386}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":83,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":750},{\"x\":2000,\"y\":750},{\"x\":2000,\"y\":685.309},{\"x\":0,\"y\":685.309}],\"texture\":5,\"settings\":{\"collidable\":true}},{\"id\":85,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2.022,\"y\":670.851},{\"x\":2000,\"y\":670.851},{\"x\":2000,\"y\":699.767},{\"x\":2.022,\"y\":699.767}],\"texture\":2,\"settings\":{\"collidable\":true}},{\"id\":79,\"type\":\"A\",\"layerId\":\"animals\",\"x\":929.183,\"y\":397.94,\"rotation\":0,\"fLevel\":84},{\"id\":80,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1125.798,\"y\":420.524,\"rotation\":0,\"fLevel\":84},{\"id\":35,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":999.486,\"y\":217.185,\"rotation\":0,\"hSType\":4},{\"id\":41,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":889.802,\"y\":212.738,\"rotation\":0,\"hSType\":3},{\"id\":47,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":816.993,\"y\":213.698,\"rotation\":0.95,\"hSType\":5},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1132.255,\"y\":211.71,\"rotation\":0,\"hSType\":48},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":716.394,\"y\":125.278},{\"x\":1361.007,\"y\":126.584},{\"x\":1358.05,\"y\":330.507},{\"x\":717.872,\"y\":332.156}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":14,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":249.98},{\"x\":2000,\"y\":256.269},{\"x\":2000,\"y\":750},{\"x\":0.151,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":13,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2000,\"y\":0},{\"x\":2000,\"y\":254.697},{\"x\":0,\"y\":254.697}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"200\",\"height\":\"75\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 34,
+  "created_at": "2020-03-01T20:25:05.000Z",
+  "updated_at": "2020-03-01T20:25:34.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 706145,
+    "username": "LeWolfYT",
+    "description": "How to unalive a fish in 2 easy steps:\n1. Send the fish to the fish facility\n2. After cooking the now save-to-cook fish, eat it.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-03-01T20:18:33.000Z",
+    "date_last_played": "2023-04-17T02:38:24.000Z",
+    "kill_count": 0,
+    "play_count": 37,
+    "highest_score": 30635,
+    "picture": "706145-53ebfe7c629f4c68a98692b60dcdb9b9.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "beach"
+    },
+    {
+      "id": "WIP"
+    },
+    {
+      "id": "Wolf"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T11:59:06.270Z"
+}
