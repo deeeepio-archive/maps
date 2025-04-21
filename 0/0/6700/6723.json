@@ -1,0 +1,90 @@
+{
+  "id": 6723,
+  "user_id": 20723248,
+  "cloneof_id": null,
+  "string_id": "legal",
+  "title": "jogo new",
+  "description": "novo jogo",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3850.417,\"y\":449.583},{\"x\":3851.417,\"y\":449.583},{\"x\":3851.417,\"y\":450.583},{\"x\":3850.417,\"y\":450.583}],\"position\":{\"x\":3850.417,\"y\":449.583},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[0,1,2,3,4,5,6,27,7,8,9,10,11,23,60,73,47,35,86,59,85,72,22,34,46,21,33,83,58,71,45,20,32,70,57,44,82,81,69,43,19,31,56,30,42,18,17,80,68,55,67,53,40,52,50,26,38,14,13,12,15,16,28,39,29,41,54,79,78,66,64,77,63,76,25,37,49,62,75,88,87,74,61,48,36,24],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"20\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":2,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":6377.476,\"y\":241.48},{\"x\":6378.476,\"y\":241.48},{\"x\":6378.476,\"y\":242.48},{\"x\":6377.476,\"y\":242.48}],\"position\":{\"x\":6377.476,\"y\":241.48},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[0,1,2,3,4,5,6,27,7,8,9,10,11,23,60,73,47,35,86,59,85,72,22,34,46,21,33,83,58,71,45,20,32,70,57,44,82,81,69,43,19,31,56,30,42,18,17,80,68,55,67,53,40,52,50,26,38,14,13,12,15,16,28,39,29,41,54,79,78,66,64,77,63,76,25,37,49,62,75,88,87,74,61,48,36,24],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"20\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":3,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2763.756,\"y\":571.698,\"rotation\":0,\"fLevel\":0},{\"id\":4,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4000.78,\"y\":614.95,\"rotation\":0,\"fLevel\":1},{\"id\":5,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4537.113,\"y\":701.455,\"rotation\":0,\"fLevel\":84},{\"id\":6,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1474.829,\"y\":545.746,\"rotation\":0,\"fLevel\":84}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 6,
+  "created_at": "2021-05-03T18:21:35.000Z",
+  "updated_at": "2021-05-03T18:22:02.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20723248,
+    "username": "urielurieluriel",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-05-02T21:49:16.000Z",
+    "date_last_played": "2021-05-03T18:57:17.000Z",
+    "kill_count": 0,
+    "play_count": 4,
+    "highest_score": 118380,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 5,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "tags abril"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:24:03.308Z"
+}
