@@ -1,0 +1,106 @@
+{
+  "id": 8810,
+  "user_id": 20710569,
+  "cloneof_id": null,
+  "string_id": "swamp_1v1_bforbryan",
+  "title": "Swamp 1v1",
+  "description": "As the strongest animals of all, the Tier 10 Animals meet up in swamp 1v1 for a final duel. Let's see how it goes...",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":300},\"settings\":{\"area\":63}},{\"id\":2,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":116.819},{\"x\":0,\"y\":116.819}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":116.819},\"settings\":{\"fishLevels\":[77],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":3,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":12.442},{\"x\":300,\"y\":12.442},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"position\":{\"x\":0,\"y\":12.442},\"size\":{\"width\":300,\"height\":287.558},\"settings\":{\"foodIds\":[1],\"count\":69,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":862.6742035725101}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":118.256},{\"x\":10.906,\"y\":158.4},{\"x\":13.296,\"y\":205.017},{\"x\":22.361,\"y\":248.475},{\"x\":57.335,\"y\":273.459},{\"x\":106.388,\"y\":281.212},{\"x\":160.1,\"y\":283.216},{\"x\":221.711,\"y\":276.897},{\"x\":268.029,\"y\":259.175},{\"x\":286.994,\"y\":216.302},{\"x\":288.062,\"y\":182.11},{\"x\":291.89,\"y\":140.072},{\"x\":300,\"y\":119.123},{\"x\":300,\"y\":299.723},{\"x\":0,\"y\":299.723}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":45,\"type\":\"A\",\"layerId\":\"animals\",\"x\":29.043,\"y\":48.828,\"rotation\":118.26,\"fLevel\":42},{\"id\":46,\"type\":\"A\",\"layerId\":\"animals\",\"x\":193.025,\"y\":112.125,\"rotation\":0,\"fLevel\":36},{\"id\":47,\"type\":\"A\",\"layerId\":\"animals\",\"x\":171.847,\"y\":194.575,\"rotation\":273.22,\"fLevel\":73},{\"id\":48,\"type\":\"A\",\"layerId\":\"animals\",\"x\":94.066,\"y\":169.767,\"rotation\":-53.59,\"fLevel\":86},{\"id\":49,\"type\":\"A\",\"layerId\":\"animals\",\"x\":56.92,\"y\":239.047,\"rotation\":-109.22,\"fLevel\":62},{\"id\":50,\"type\":\"A\",\"layerId\":\"animals\",\"x\":213.031,\"y\":221.009,\"rotation\":-55.19,\"fLevel\":62},{\"id\":51,\"type\":\"A\",\"layerId\":\"animals\",\"x\":266.72,\"y\":223.004,\"rotation\":112.76,\"fLevel\":62},{\"id\":7,\"type\":\"P\",\"layerId\":\"props\",\"x\":41.433,\"y\":269.681,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Welcome to Swamp 1v1. Get ready, and fight for glory!\"}},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":153.546,\"y\":117.519,\"rotation\":0,\"hSType\":13},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":225.069,\"y\":117.134,\"rotation\":0,\"hSType\":14},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":74.196,\"y\":117.134,\"rotation\":0,\"hSType\":14},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":285.212,\"y\":247.964,\"rotation\":312.43,\"hSType\":75},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":78.831,\"y\":279.878,\"rotation\":0,\"hSType\":75},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":219.778,\"y\":279.919,\"rotation\":0,\"hSType\":74},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":252.415,\"y\":21.979,\"rotation\":0,\"hSType\":55},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":173.552,\"y\":283.863,\"rotation\":0,\"hSType\":17},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":58.678,\"y\":147.296,\"rotation\":-1.62,\"hSType\":18},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":239.414,\"y\":153.194,\"rotation\":-11.5,\"hSType\":18},{\"id\":18,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":197.921,\"y\":279.891,\"rotation\":0,\"hSType\":36},{\"id\":19,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":56.144,\"y\":272.227,\"rotation\":0,\"hSType\":36},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":56.114,\"y\":230.938,\"rotation\":0,\"hSType\":36},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":251.019,\"y\":264.016,\"rotation\":0,\"hSType\":36},{\"id\":23,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.221,\"y\":280.265,\"rotation\":0,\"hSType\":36},{\"id\":24,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.153,\"y\":238.692,\"rotation\":0,\"hSType\":36},{\"id\":25,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":197.887,\"y\":238.385,\"rotation\":0,\"hSType\":36},{\"id\":26,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":23.215,\"y\":73.119,\"rotation\":0,\"hSType\":55},{\"id\":27,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":115.072,\"y\":287.086,\"rotation\":0,\"hSType\":15},{\"id\":28,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":226.773,\"y\":276.903,\"rotation\":0,\"hSType\":65},{\"id\":29,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":83.8,\"y\":280.574,\"rotation\":8.12,\"hSType\":65},{\"id\":40,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":121.94,\"y\":219.241,\"rotation\":0,\"hSType\":36},{\"id\":41,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":269.154,\"y\":216.607,\"rotation\":0,\"hSType\":36},{\"id\":42,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":164.492,\"y\":160.723,\"rotation\":14.65,\"hSType\":18},{\"id\":30,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":39.18,\"y\":116.446},{\"x\":13.895,\"y\":116.712},{\"x\":26.404,\"y\":139.868},{\"x\":45.272,\"y\":148.099},{\"x\":109.157,\"y\":145.495},{\"x\":183.953,\"y\":165.083},{\"x\":225.754,\"y\":156.635},{\"x\":257.692,\"y\":148.651},{\"x\":279.517,\"y\":124.963},{\"x\":263.282,\"y\":115.914},{\"x\":196.709,\"y\":114.767},{\"x\":133.971,\"y\":116.398},{\"x\":74.586,\"y\":116.391},{\"x\":45.834,\"y\":115.381}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":39,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":125.397,\"y\":221.119},{\"x\":156.525,\"y\":203.111},{\"x\":183.775,\"y\":195.977},{\"x\":208.705,\"y\":193.57},{\"x\":230.619,\"y\":195.542},{\"x\":252.07,\"y\":204.553},{\"x\":273.905,\"y\":218.647},{\"x\":295.432,\"y\":226.801},{\"x\":283.963,\"y\":249.992},{\"x\":268.057,\"y\":271.979},{\"x\":218.233,\"y\":279.231},{\"x\":201.534,\"y\":284.314},{\"x\":190.257,\"y\":283.735},{\"x\":169.876,\"y\":247.125}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":36,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":10.197,\"y\":224.419},{\"x\":37.992,\"y\":208.349},{\"x\":67.641,\"y\":203.122},{\"x\":85.218,\"y\":202.199},{\"x\":119.044,\"y\":217.135},{\"x\":170.022,\"y\":246.608},{\"x\":189.656,\"y\":285.112},{\"x\":140.79,\"y\":293.794},{\"x\":67.865,\"y\":287.863},{\"x\":32.281,\"y\":277.979},{\"x\":16.247,\"y\":262.603}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":31,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":116.54},{\"x\":300,\"y\":116.54},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":32,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":116.642},{\"x\":300,\"y\":116.642},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"settings\":{\"collidable\":true},\"colors\":[6390093,530694],\"hasBorder\":true},{\"id\":33,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":116.404},{\"x\":0,\"y\":116.404}],\"settings\":{\"collidable\":true},\"colors\":[6711140,11907726]},{\"id\":34,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":7503.394,\"y\":0},{\"x\":7503.212,\"y\":300.864},{\"x\":9100,\"y\":300.669},{\"x\":9100,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[6711140,11907726]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"30\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 43,
+  "created_at": "2021-12-22T04:12:23.000Z",
+  "updated_at": "2021-12-22T13:21:02.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20710569,
+    "username": "BryanTheWikiEditor",
+    "description": "Good game. Let's get better together. \nGG，一起加油吧！",
+    "about": "Content Creator Wanabe\nAverage PD Player\nTypical Nami Enjoyer",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-03-30T03:29:08.000Z",
+    "date_last_played": "2024-12-17T01:59:35.000Z",
+    "kill_count": 1382,
+    "play_count": 1479,
+    "highest_score": 2037353,
+    "picture": "20710569-2a5dc37249b2e96ad52ed17a204aa7d9-eab090f8-0cd9-4e08-8cf6-3176fe71a926.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 126,
+    "tier": 3,
+    "xp": 103350,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "new"
+    },
+    {
+      "id": "swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:09:43.941Z"
+}

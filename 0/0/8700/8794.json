@@ -1,0 +1,60 @@
+{
+  "id": 8794,
+  "user_id": 20787169,
+  "cloneof_id": null,
+  "string_id": "easy_i_think",
+  "title": "Idk",
+  "description": "SHeesh",
+  "data": "{\"screenObjects\":[{\"id\":23,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":2000},\"settings\":{\"area\":63}},{\"id\":25,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":2000},\"settings\":{\"fishLevels\":[0,1,2,3,4,5,6,7,8,9,10,11,12,25,38,52,66,79,78,77,75,76,88,87,86,85,83,82,81,80,67,53,39,26,13,14,15,16,17,18,19,21,20,22,23,24,37,50,64,63,49,36,35,48,62,60,61,47,33,34,46,74,73,72,71,70,69,68,54,40,27,28,30,41,55,56,42,29,43,57,58,59,45,44,31,32],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":28,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":2000},\"settings\":{\"foodIds\":[1,25,2,3,4,5,7,10,8,11,15,16,17,24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":160000}},{\"id\":31,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":615.212},{\"x\":7243.891,\"y\":669.87},{\"x\":7647.535,\"y\":1021.432},{\"x\":0,\"y\":995.073}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":33,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1201.823,\"y\":538.233},{\"x\":1202.823,\"y\":538.233},{\"x\":1202.823,\"y\":539.233},{\"x\":1201.823,\"y\":539.233}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":35,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":965.68},{\"x\":7628.495,\"y\":965.68},{\"x\":7628.495,\"y\":1268.171},{\"x\":0,\"y\":1268.171}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":37,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":1961.097,\"y\":421.038},{\"x\":1962.097,\"y\":421.038},{\"x\":1962.097,\"y\":422.038},{\"x\":1961.097,\"y\":422.038}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":38,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":1244.049},{\"x\":8000,\"y\":1244.049},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":39,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1244.858},{\"x\":0,\"y\":663.607}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":41,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":6398.999,\"y\":881.447},{\"x\":6399.999,\"y\":881.447},{\"x\":6399.999,\"y\":882.447},{\"x\":6398.999,\"y\":882.447}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"200\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 10,
+  "created_at": "2021-12-19T15:38:56.000Z",
+  "updated_at": "2021-12-19T15:38:57.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20787169,
+    "username": "2672087_829",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-12-19T15:16:37.000Z",
+    "date_last_played": "2021-12-19T15:41:45.000Z",
+    "kill_count": 0,
+    "play_count": 6,
+    "highest_score": 11800,
+    "picture": null,
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 0,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "easy"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:09:42.157Z"
+}
