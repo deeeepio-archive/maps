@@ -1,0 +1,96 @@
+{
+  "id": 12044,
+  "user_id": 552423,
+  "cloneof_id": null,
+  "string_id": "halloween_bbb",
+  "title": "Open Void (BBB)",
+  "description": "A demo of the Fish Cult arena for Benthic Boss Bash",
+  "data": "{\"screenObjects\":[{\"id\":435,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1000,\"y\":0},{\"x\":1000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1000,\"height\":1000},\"settings\":{\"area\":63}},{\"id\":436,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1000,\"y\":0},{\"x\":1000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1000,\"height\":1000},\"settings\":{\"foodIds\":[17,1],\"count\":813,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10000}},{\"id\":437,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":944.797},{\"x\":35.801,\"y\":988.076},{\"x\":79.691,\"y\":988.076},{\"x\":127.695,\"y\":972.988},{\"x\":199.017,\"y\":983.961},{\"x\":266.223,\"y\":979.846},{\"x\":364.976,\"y\":967.502},{\"x\":455.499,\"y\":981.218},{\"x\":526.82,\"y\":988.076},{\"x\":592.655,\"y\":981.218},{\"x\":680.436,\"y\":972.988},{\"x\":788.789,\"y\":983.961},{\"x\":845.023,\"y\":983.961},{\"x\":893.028,\"y\":953.787},{\"x\":953.377,\"y\":945.557},{\"x\":987.666,\"y\":904.41},{\"x\":982.18,\"y\":809.772},{\"x\":978.065,\"y\":697.304},{\"x\":984.923,\"y\":621.868},{\"x\":991.781,\"y\":564.262},{\"x\":972.579,\"y\":508.028},{\"x\":971.207,\"y\":431.221},{\"x\":987.666,\"y\":376.358},{\"x\":986.791,\"y\":292.513},{\"x\":986.151,\"y\":223.409},{\"x\":968.235,\"y\":176.699},{\"x\":964.396,\"y\":133.189},{\"x\":979.752,\"y\":88.399},{\"x\":943.152,\"y\":61.98},{\"x\":915.638,\"y\":32.546},{\"x\":868.928,\"y\":28.067},{\"x\":737.758,\"y\":53.022},{\"x\":680.171,\"y\":34.466},{\"x\":548.36,\"y\":15.91},{\"x\":440.224,\"y\":29.987},{\"x\":373.039,\"y\":46.623},{\"x\":310.973,\"y\":46.623},{\"x\":233.55,\"y\":28.067},{\"x\":163.166,\"y\":17.83},{\"x\":59.725,\"y\":22.219},{\"x\":45.649,\"y\":40.135},{\"x\":24.533,\"y\":84.285},{\"x\":32.401,\"y\":159.723},{\"x\":35.574,\"y\":196.74},{\"x\":29.757,\"y\":244.862},{\"x\":20.767,\"y\":317.838},{\"x\":22.82,\"y\":389.215},{\"x\":32.777,\"y\":508.705},{\"x\":24.479,\"y\":618.237},{\"x\":24.479,\"y\":717.812},{\"x\":29.458,\"y\":882.111},{\"x\":21.478,\"y\":971.75},{\"x\":0,\"y\":948.494},{\"x\":0,\"y\":0},{\"x\":1000,\"y\":0},{\"x\":1000,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":438,\"type\":\"A\",\"layerId\":\"animals\",\"x\":486.483,\"y\":424.401,\"rotation\":0,\"fLevel\":51},{\"id\":439,\"type\":\"A\",\"layerId\":\"animals\",\"x\":452.758,\"y\":431.895,\"rotation\":0,\"fLevel\":51},{\"id\":440,\"type\":\"A\",\"layerId\":\"animals\",\"x\":419.768,\"y\":457.543,\"rotation\":0,\"fLevel\":51},{\"id\":441,\"type\":\"A\",\"layerId\":\"animals\",\"x\":397.679,\"y\":496.05,\"rotation\":0,\"fLevel\":51},{\"id\":442,\"type\":\"A\",\"layerId\":\"animals\",\"x\":419.792,\"y\":559.242,\"rotation\":0,\"fLevel\":51},{\"id\":443,\"type\":\"A\",\"layerId\":\"animals\",\"x\":459.982,\"y\":587.269,\"rotation\":0,\"fLevel\":51},{\"id\":444,\"type\":\"A\",\"layerId\":\"animals\",\"x\":513.921,\"y\":597.845,\"rotation\":0,\"fLevel\":51},{\"id\":445,\"type\":\"A\",\"layerId\":\"animals\",\"x\":565.744,\"y\":575.635,\"rotation\":0,\"fLevel\":51},{\"id\":446,\"type\":\"A\",\"layerId\":\"animals\",\"x\":602.761,\"y\":552.896,\"rotation\":0,\"fLevel\":51},{\"id\":447,\"type\":\"A\",\"layerId\":\"animals\",\"x\":615.981,\"y\":515.88,\"rotation\":0,\"fLevel\":51},{\"id\":448,\"type\":\"A\",\"layerId\":\"animals\",\"x\":611.751,\"y\":484.68,\"rotation\":0,\"fLevel\":51},{\"id\":449,\"type\":\"A\",\"layerId\":\"animals\",\"x\":593.771,\"y\":458.239,\"rotation\":0,\"fLevel\":51},{\"id\":450,\"type\":\"A\",\"layerId\":\"animals\",\"x\":562.042,\"y\":435.5,\"rotation\":0,\"fLevel\":51},{\"id\":451,\"type\":\"A\",\"layerId\":\"animals\",\"x\":511.805,\"y\":415.934,\"rotation\":0,\"fLevel\":51},{\"id\":452,\"type\":\"A\",\"layerId\":\"animals\",\"x\":523.439,\"y\":420.694,\"rotation\":0,\"fLevel\":51},{\"id\":453,\"type\":\"A\",\"layerId\":\"animals\",\"x\":543.534,\"y\":428.097,\"rotation\":0,\"fLevel\":51},{\"id\":454,\"type\":\"A\",\"layerId\":\"animals\",\"x\":579.493,\"y\":443.433,\"rotation\":0,\"fLevel\":51},{\"id\":455,\"type\":\"A\",\"layerId\":\"animals\",\"x\":406.043,\"y\":513.235,\"rotation\":0,\"fLevel\":51},{\"id\":456,\"type\":\"A\",\"layerId\":\"animals\",\"x\":408.159,\"y\":530.157,\"rotation\":0,\"fLevel\":51},{\"id\":457,\"type\":\"A\",\"layerId\":\"animals\",\"x\":408.687,\"y\":468.815,\"rotation\":0,\"fLevel\":51},{\"id\":458,\"type\":\"A\",\"layerId\":\"animals\",\"x\":439.887,\"y\":441.317,\"rotation\":0,\"fLevel\":51},{\"id\":459,\"type\":\"A\",\"layerId\":\"animals\",\"x\":470.029,\"y\":422.809,\"rotation\":0,\"fLevel\":51},{\"id\":460,\"type\":\"A\",\"layerId\":\"animals\",\"x\":438.83,\"y\":570.347,\"rotation\":0,\"fLevel\":51},{\"id\":461,\"type\":\"A\",\"layerId\":\"animals\",\"x\":479.019,\"y\":596.787,\"rotation\":0,\"fLevel\":51},{\"id\":462,\"type\":\"A\",\"layerId\":\"animals\",\"x\":546.178,\"y\":594.672,\"rotation\":0,\"fLevel\":51},{\"id\":463,\"type\":\"A\",\"layerId\":\"animals\",\"x\":586.368,\"y\":565.059,\"rotation\":0,\"fLevel\":51},{\"id\":464,\"type\":\"A\",\"layerId\":\"animals\",\"x\":618.096,\"y\":522.754,\"rotation\":0,\"fLevel\":51},{\"id\":465,\"type\":\"P\",\"layerId\":\"props\",\"x\":-131.292,\"y\":471.295,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Codename: Evil Pact\\nA Benthic Boss Bash Demo Map\\nThe Ritual would appear in the very middle of this map\"}},{\"id\":466,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":134.346,\"y\":974.492,\"rotation\":13.49,\"hSType\":45},{\"id\":467,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":23.4,\"y\":630.508,\"rotation\":81.32,\"hSType\":45},{\"id\":468,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":978.191,\"y\":916.033,\"rotation\":-46.94,\"hSType\":45},{\"id\":469,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":988.955,\"y\":553.577,\"rotation\":243.75,\"hSType\":45},{\"id\":470,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":769.603,\"y\":983.52,\"rotation\":7.61,\"hSType\":1},{\"id\":471,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":31.988,\"y\":171.478,\"rotation\":88.34,\"hSType\":1},{\"id\":472,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":238.26,\"y\":982.679,\"rotation\":0,\"hSType\":36},{\"id\":473,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":428.091,\"y\":977.48,\"rotation\":0,\"hSType\":36},{\"id\":474,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":428.136,\"y\":936.079,\"rotation\":0,\"hSType\":36},{\"id\":475,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":238.289,\"y\":941.33,\"rotation\":0,\"hSType\":36},{\"id\":476,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":292.151,\"y\":977.968,\"rotation\":0,\"hSType\":36},{\"id\":477,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":831.975,\"y\":984.681,\"rotation\":0,\"hSType\":36},{\"id\":478,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":740.087,\"y\":938.446,\"rotation\":0,\"hSType\":36},{\"id\":479,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":740.042,\"y\":979.847,\"rotation\":0,\"hSType\":36},{\"id\":480,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":518.144,\"y\":989.672,\"rotation\":12.52,\"hSType\":9},{\"id\":481,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":22.981,\"y\":905.666},{\"x\":126.132,\"y\":912.467},{\"x\":227.017,\"y\":865.992},{\"x\":366.441,\"y\":911.333},{\"x\":503.598,\"y\":842.188},{\"x\":613.55,\"y\":718.633},{\"x\":717.835,\"y\":766.242},{\"x\":766.577,\"y\":848.989},{\"x\":844.79,\"y\":809.316},{\"x\":892.398,\"y\":745.838},{\"x\":980.814,\"y\":719.767},{\"x\":1000,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":482,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":179.019,\"y\":986.088},{\"x\":169.583,\"y\":955.589},{\"x\":170.763,\"y\":943.794},{\"x\":186.096,\"y\":935.369},{\"x\":202.778,\"y\":936.043},{\"x\":209.012,\"y\":943.963},{\"x\":226.199,\"y\":985.245}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":483,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":428.253,\"y\":976.941},{\"x\":436.199,\"y\":953.464},{\"x\":445.951,\"y\":952.019},{\"x\":461.121,\"y\":956.353},{\"x\":462.927,\"y\":965.022},{\"x\":456.426,\"y\":984.165}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":484,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":680.652,\"y\":974.865},{\"x\":671.553,\"y\":940.322},{\"x\":675.091,\"y\":931.897},{\"x\":705.084,\"y\":925.831},{\"x\":713.004,\"y\":930.381},{\"x\":728.506,\"y\":979.751}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":485,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":819.561,\"y\":986.658},{\"x\":831.649,\"y\":956.067},{\"x\":844.971,\"y\":954.34},{\"x\":867.914,\"y\":964.208},{\"x\":873.341,\"y\":979.503},{\"x\":833.623,\"y\":991.838}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.7},{\"id\":486,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1000,\"y\":0},{\"x\":1000,\"y\":1000},{\"x\":0,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[4730465,656654],\"hasBorder\":false}],\"settings\":{\"gravity\":0},\"worldSize\":{\"width\":\"100\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 52,
+  "created_at": "2023-04-16T12:16:20.000Z",
+  "updated_at": "2023-04-22T13:16:40.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 552423,
+    "username": "MEGAmew",
+    "description": "You know who else dies lots playing this game.......\nMY MOM!\n",
+    "about": "Hi i'm MEGAmew, i make art and concepts for this funny game such as\n-Fiddler Crab Art and Ability\n-Water Anole Art\n-Megamouth Shark Ability\n-Whip Spider Ability\n   Co Creator of the abilities for\n-Giant Freshwater Stingray\n-Platypus\n-Wel's Catfish\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-01-16T15:14:52.000Z",
+    "date_last_played": "2025-02-04T17:29:50.000Z",
+    "kill_count": 11987,
+    "play_count": 4775,
+    "highest_score": 23844769,
+    "picture": "552423-c41c7b69d559a4c031189c037ca7f1c1.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 303,
+    "tier": 6,
+    "xp": 480900,
+    "migrated": true,
+    "verified": true,
+    "beta": true
+  },
+  "tags": [
+    {
+      "id": "BBB"
+    },
+    {
+      "id": "Fish Cult"
+    },
+    {
+      "id": "Halloween"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:41:10.120Z"
+}
