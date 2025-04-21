@@ -1,0 +1,86 @@
+{
+  "id": 8975,
+  "user_id": 589683,
+  "cloneof_id": null,
+  "string_id": "cypressmarsh",
+  "title": "Cypress Marsh 1v1",
+  "description": "Pangolin's Swamp Island 1v1",
+  "data": "{\"screenObjects\":[{\"id\":1030,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":1031,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":56.571,\"y\":64.515},{\"x\":187.5,\"y\":64.515},{\"x\":187.5,\"y\":100.072},{\"x\":56.571,\"y\":100.072}],\"position\":{\"x\":56.571,\"y\":64.515},\"size\":{\"width\":130.929,\"height\":35.557},\"settings\":{\"foodIds\":[7],\"count\":12,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":46.554424530000006}},{\"id\":1032,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":84.249},{\"x\":200,\"y\":84.249},{\"x\":200,\"y\":162.112},{\"x\":0,\"y\":162.112}],\"position\":{\"x\":0,\"y\":84.249},\"size\":{\"width\":200,\"height\":77.863},\"settings\":{\"foodIds\":[1],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":155.726}},{\"id\":1033,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":193.223},{\"x\":18.505,\"y\":184.964},{\"x\":61.007,\"y\":184.743},{\"x\":79.836,\"y\":176.849},{\"x\":122.155,\"y\":177.422},{\"x\":138.453,\"y\":189.69},{\"x\":200,\"y\":189.174},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1034,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":19.104,\"y\":151.484},{\"x\":57.383,\"y\":151.836},{\"x\":80.779,\"y\":140.105},{\"x\":153.526,\"y\":139.796},{\"x\":173.799,\"y\":152.211},{\"x\":200,\"y\":152.384},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":138.985}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":1035,\"type\":\"A\",\"layerId\":\"animals\",\"x\":95.448,\"y\":133.505,\"rotation\":0,\"fLevel\":34},{\"id\":1036,\"type\":\"A\",\"layerId\":\"animals\",\"x\":128.887,\"y\":132.786,\"rotation\":0,\"fLevel\":37},{\"id\":1037,\"type\":\"A\",\"layerId\":\"animals\",\"x\":118.989,\"y\":26.66,\"rotation\":244.32,\"fLevel\":42},{\"id\":1038,\"type\":\"A\",\"layerId\":\"animals\",\"x\":66.633,\"y\":28.518,\"rotation\":98.78,\"fLevel\":42},{\"id\":1039,\"type\":\"A\",\"layerId\":\"animals\",\"x\":170.91,\"y\":76.139,\"rotation\":-98.34,\"fLevel\":68},{\"id\":1040,\"type\":\"A\",\"layerId\":\"animals\",\"x\":136.701,\"y\":83.663,\"rotation\":64.08,\"fLevel\":68},{\"id\":1041,\"type\":\"P\",\"layerId\":\"props\",\"x\":41.764,\"y\":152.432,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Cypress Marsh\\n\\nMade By Pangolin\"}},{\"id\":1042,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":22.771,\"y\":152.306,\"rotation\":0,\"hSType\":52},{\"id\":1043,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":173.968,\"y\":155.342,\"rotation\":0,\"hSType\":52},{\"id\":1044,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":95.82,\"y\":149.701,\"rotation\":0,\"hSType\":51},{\"id\":1045,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.382,\"y\":145.263,\"rotation\":0,\"hSType\":13},{\"id\":1046,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":114.498,\"y\":142.082,\"rotation\":0,\"hSType\":14},{\"id\":1047,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":105.593,\"y\":139.905,\"rotation\":0,\"hSType\":2},{\"id\":1048,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":48.609,\"y\":153.204,\"rotation\":0,\"hSType\":14},{\"id\":1049,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":169.147,\"y\":154.777,\"rotation\":0,\"hSType\":14},{\"id\":1050,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":169.121,\"y\":149.198,\"rotation\":-153.61,\"hSType\":2},{\"id\":1051,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":59.333,\"y\":150.683,\"rotation\":-13.06,\"hSType\":17},{\"id\":1052,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":18.296,\"y\":150.886,\"rotation\":-164.53,\"hSType\":2},{\"id\":1053,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-35.789,\"y\":151.155,\"rotation\":0,\"hSType\":13},{\"id\":1054,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":159.472},{\"x\":0,\"y\":159.472}],\"settings\":{\"collidable\":true},\"colors\":[10865040,8911044]},{\"id\":1055,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":77.883},{\"x\":200,\"y\":77.883},{\"x\":200,\"y\":161.769},{\"x\":0,\"y\":161.769}],\"settings\":{\"collidable\":true},\"colors\":[4216883,3102788]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 26,
+  "created_at": "2022-01-09T21:23:10.000Z",
+  "updated_at": "2022-06-09T17:59:46.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 589683,
+    "username": "Pangolin",
+    "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+    "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-05-10T14:00:07.000Z",
+    "date_last_played": "2025-04-21T16:25:27.000Z",
+    "kill_count": 17878,
+    "play_count": 6005,
+    "highest_score": 10867282,
+    "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 123,
+    "tier": 9,
+    "xp": 1002000,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Island"
+    },
+    {
+      "id": "Swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:13:56.080Z"
+}
