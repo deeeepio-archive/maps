@@ -1,0 +1,90 @@
+{
+  "id": 4556,
+  "user_id": 650294,
+  "cloneof_id": null,
+  "string_id": "kay_map_v2",
+  "title": "Test",
+  "description": "Just a test",
+  "data": "{\"screenObjects\":[{\"id\":15,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":641.221,\"y\":311.94},{\"x\":764.247,\"y\":311.94},{\"x\":764.247,\"y\":418.646},{\"x\":641.221,\"y\":418.646}],\"position\":{\"x\":641.221,\"y\":311.94},\"size\":{\"width\":123.026,\"height\":106.707},\"settings\":{\"fishLevels\":[0,44],\"animalCount\":28,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":7,\"restrictMovement\":false}},{\"id\":16,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":31.11,\"y\":20.693},{\"x\":100.156,\"y\":20.693},{\"x\":100.156,\"y\":57.099},{\"x\":31.11,\"y\":57.099}],\"position\":{\"x\":31.11,\"y\":20.693},\"size\":{\"width\":69.045,\"height\":36.406},\"settings\":{\"foodIds\":[2],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":25.136525851219968}},{\"id\":18,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":68.771,\"y\":402.326},{\"x\":231.97,\"y\":402.326},{\"x\":231.97,\"y\":638.336},{\"x\":68.771,\"y\":638.336}],\"position\":{\"x\":68.771,\"y\":402.326},\"size\":{\"width\":163.198,\"height\":236.01},\"settings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":385.1640700964365}},{\"id\":19,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":62.494,\"y\":392.283},{\"x\":244.523,\"y\":392.283},{\"x\":244.523,\"y\":663.444},{\"x\":62.494,\"y\":663.444}],\"position\":{\"x\":62.494,\"y\":392.283},\"size\":{\"width\":182.029,\"height\":271.16},\"settings\":{\"foodIds\":[3],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":493.58996216941046}},{\"id\":21,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":250.8,\"y\":392.283},{\"x\":534.514,\"y\":392.283},{\"x\":534.514,\"y\":635.825},{\"x\":250.8,\"y\":635.825}],\"position\":{\"x\":250.8,\"y\":392.283},\"size\":{\"width\":283.714,\"height\":243.542},\"settings\":{\"foodIds\":[24],\"count\":56,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":690.9629087278296}},{\"id\":12,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":343.324},{\"x\":800,\"y\":343.324},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":13,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 7,
+  "created_at": "2020-10-14T15:29:04.000Z",
+  "updated_at": "2020-10-14T15:29:04.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 650294,
+    "username": "7294_553",
+    "description": "",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-10-31T14:28:06.000Z",
+    "date_last_played": "2021-09-06T15:25:44.000Z",
+    "kill_count": 46,
+    "play_count": 13,
+    "highest_score": 574268,
+    "picture": "650294.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 83,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "test"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:13:32.680Z"
+}

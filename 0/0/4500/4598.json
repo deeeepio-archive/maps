@@ -1,0 +1,90 @@
+{
+  "id": 4598,
+  "user_id": 781317,
+  "cloneof_id": null,
+  "string_id": "1v1_coral_map",
+  "title": "1v1 coral map",
+  "description": "This is a map of the reef. It features a sunset, some coral, and a big island.",
+  "data": "{\"screenObjects\":[{\"id\":396,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":8.551,\"y\":115.135},{\"x\":187.251,\"y\":115.135},{\"x\":187.251,\"y\":194.826},{\"x\":8.551,\"y\":194.826}],\"position\":{\"x\":8.551,\"y\":115.135},\"size\":{\"width\":178.7,\"height\":79.69},\"settings\":{\"foodIds\":[24],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":142.40650250649387}},{\"id\":382,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":49.335,\"y\":11.296},{\"x\":18.479,\"y\":19.077},{\"x\":16.064,\"y\":39.738},{\"x\":15.796,\"y\":90.987},{\"x\":17.137,\"y\":124.526},{\"x\":17.406,\"y\":171.214},{\"x\":31.626,\"y\":178.19},{\"x\":52.824,\"y\":184.898},{\"x\":104.877,\"y\":187.044},{\"x\":179.201,\"y\":185.434},{\"x\":185.909,\"y\":174.97},{\"x\":184.031,\"y\":163.432},{\"x\":178.128,\"y\":127.746},{\"x\":183.494,\"y\":108.696},{\"x\":185.641,\"y\":94.475},{\"x\":183.763,\"y\":81.864},{\"x\":182.153,\"y\":34.103},{\"x\":185.373,\"y\":12.369},{\"x\":177.591,\"y\":7.54},{\"x\":165.517,\"y\":7.54},{\"x\":130.904,\"y\":9.15},{\"x\":45.311,\"y\":11.564},{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":0}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":10,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":27.85248747,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":398,\"type\":\"A\",\"layerId\":\"animals\",\"x\":73.268,\"y\":111.139,\"rotation\":267.84,\"fLevel\":11},{\"id\":399,\"type\":\"A\",\"layerId\":\"animals\",\"x\":61.508,\"y\":111.565,\"rotation\":-2.21,\"fLevel\":87},{\"id\":388,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":34.846,\"y\":116.477},{\"x\":57.385,\"y\":93.67},{\"x\":142.442,\"y\":93.133},{\"x\":170.615,\"y\":119.428}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":389,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":80.729,\"y\":115.672,\"rotation\":-13.38,\"hSType\":48},{\"id\":390,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":120.44,\"y\":118.623,\"rotation\":15.64,\"hSType\":48},{\"id\":391,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":101.121,\"y\":116.477,\"rotation\":0,\"hSType\":48},{\"id\":392,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":62.483,\"y\":186.776,\"rotation\":0,\"hSType\":42},{\"id\":393,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":90.388,\"y\":187.581,\"rotation\":-0.33,\"hSType\":43},{\"id\":394,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":148.613,\"y\":188.118,\"rotation\":0,\"hSType\":35},{\"id\":395,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":34.041,\"y\":178.995,\"rotation\":22.61,\"hSType\":32},{\"id\":384,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":115.404},{\"x\":200,\"y\":121.038},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[38911,34279],\"hasBorder\":true},{\"id\":386,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":130.161},{\"x\":0,\"y\":126.405}],\"settings\":{\"collidable\":true},\"colors\":[16574159,16307591]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 14,
+  "created_at": "2020-10-18T05:06:19.000Z",
+  "updated_at": "2020-10-18T05:06:19.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 781317,
+    "username": "CuteKitty",
+    "description": "Meow ;3. Oh, hey! I am sorry to kill you but I was just hungry.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-10-12T17:53:08.000Z",
+    "date_last_played": "2020-10-12T17:53:08.000Z",
+    "kill_count": 0,
+    "play_count": 0,
+    "highest_score": 0,
+    "picture": "781317.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "coral"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:13:38.269Z"
+}
