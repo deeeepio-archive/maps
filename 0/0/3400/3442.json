@@ -1,0 +1,90 @@
+{
+  "id": 3442,
+  "user_id": 751545,
+  "cloneof_id": null,
+  "string_id": "doggos_dumbmap_v1",
+  "title": "new",
+  "description": "IM DUMB AT THIS",
+  "data": "{\"screenObjects\":[{\"id\":16,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":59.025,\"y\":4001.119},{\"x\":8000,\"y\":4001.119},{\"x\":8000,\"y\":7000},{\"x\":59.025,\"y\":7000}],\"position\":{\"x\":59.025,\"y\":4001.119},\"size\":{\"width\":7940.975,\"height\":2998.881},\"settings\":{\"area\":8}},{\"id\":17,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":4864.391,\"y\":2966.036},{\"x\":8000,\"y\":2966.036},{\"x\":8000,\"y\":4087.446},{\"x\":4864.391,\"y\":4087.446}],\"position\":{\"x\":4864.391,\"y\":2966.036},\"size\":{\"width\":3135.609,\"height\":1121.41},\"settings\":{\"area\":2}},{\"id\":18,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":3116.926},{\"x\":2129.857,\"y\":3116.926},{\"x\":2129.857,\"y\":4189.572},{\"x\":0,\"y\":4189.572}],\"position\":{\"x\":0,\"y\":3116.926},\"size\":{\"width\":2129.857,\"height\":1072.646},\"settings\":{\"area\":1}},{\"id\":19,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":928.194,\"y\":3565.916},{\"x\":4418.175,\"y\":3565.916},{\"x\":4418.175,\"y\":5822.671},{\"x\":928.194,\"y\":5822.671}],\"position\":{\"x\":928.194,\"y\":3565.916},\"size\":{\"width\":3489.981,\"height\":2256.755},\"settings\":{\"area\":63}},{\"id\":20,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":255.417,\"y\":239.493},{\"x\":4196.768,\"y\":239.493},{\"x\":4196.768,\"y\":3562.145},{\"x\":255.417,\"y\":3562.145}],\"position\":{\"x\":255.417,\"y\":239.493},\"size\":{\"width\":3941.352,\"height\":3322.652},\"settings\":{\"area\":63}},{\"id\":23,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":114.222,\"y\":4020.275},{\"x\":7706.016,\"y\":4020.275},{\"x\":7706.016,\"y\":6891.832},{\"x\":114.222,\"y\":6891.832}],\"position\":{\"x\":114.222,\"y\":4020.275},\"size\":{\"width\":7591.794,\"height\":2871.557},\"settings\":{\"area\":63}},{\"id\":7,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3634.959,\"y\":5181.239},{\"x\":8000,\"y\":5181.239},{\"x\":8000,\"y\":7000},{\"x\":3634.959,\"y\":7000}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":8,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":2972.891,\"y\":4130.316},{\"x\":0,\"y\":4130.316},{\"x\":0,\"y\":7000},{\"x\":2972.891,\"y\":7000}],\"settings\":{\"angle\":0,\"strength\":10}},{\"id\":9,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":57.348,\"y\":1788.353},{\"x\":8000,\"y\":1788.353},{\"x\":8000,\"y\":0},{\"x\":57.348,\"y\":0}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":10,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":70.527,\"y\":3706.17},{\"x\":8000,\"y\":3706.17},{\"x\":8000,\"y\":7000},{\"x\":70.527,\"y\":7000}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":11,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":2101.47,\"y\":5008.771},{\"x\":2102.47,\"y\":5008.771},{\"x\":2102.47,\"y\":5009.771},{\"x\":8000,\"y\":4313.197}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":234.695,\"y\":4613.365},{\"x\":8000,\"y\":4613.365},{\"x\":8000,\"y\":7000},{\"x\":234.695,\"y\":7000}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":6651.122,\"y\":6767.778},{\"x\":5927.289,\"y\":6767.778},{\"x\":5927.289,\"y\":5343.433},{\"x\":6651.122,\"y\":5343.433}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":3859.246},{\"x\":8000,\"y\":3901.452},{\"x\":8000,\"y\":7000},{\"x\":0,\"y\":7000}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":3919.223},{\"x\":0,\"y\":3963.771}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":61.573,\"y\":6780.839},{\"x\":8000,\"y\":6780.839},{\"x\":8000,\"y\":7000},{\"x\":61.573,\"y\":7000}],\"texture\":5,\"settings\":{\"collidable\":false}},{\"id\":12,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":6608.814,\"y\":6125.563},{\"x\":8000,\"y\":6125.563},{\"x\":8000,\"y\":7000},{\"x\":6608.814,\"y\":7000}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":13,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":109.786,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":3700.499},{\"x\":109.786,\"y\":3700.499}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":24,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":287.455,\"y\":3398.255},{\"x\":8000,\"y\":3398.255},{\"x\":8000,\"y\":0},{\"x\":287.455,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":25,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":8000,\"y\":3057.049},{\"x\":0,\"y\":3057.049},{\"x\":0,\"y\":3046.247},{\"x\":8000,\"y\":3046.247}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"700\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 20,
+  "created_at": "2020-06-19T02:02:35.000Z",
+  "updated_at": "2020-06-19T02:02:35.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 751545,
+    "username": "CHEESE9090",
+    "description": "dont worry about him he points at people who play deeeep.io",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-06-19T01:21:35.000Z",
+    "date_last_played": "2020-06-19T20:31:51.000Z",
+    "kill_count": 1,
+    "play_count": 7,
+    "highest_score": 10010,
+    "picture": "751545.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 0,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "BAD"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T14:54:04.523Z"
+}
