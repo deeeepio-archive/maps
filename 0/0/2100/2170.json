@@ -1,0 +1,90 @@
+{
+  "id": 2170,
+  "user_id": 509292,
+  "cloneof_id": null,
+  "string_id": "desert_oasis_1v1",
+  "title": "Desert Oasis",
+  "description": "Two animals stuck in an Oasis, they must fight it out to claim it for themselves.",
+  "data": "{\"screenObjects\":[{\"id\":10,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":150,\"height\":150},\"settings\":{\"area\":63}},{\"id\":15,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":107.385,\"y\":8.137},{\"x\":142.144,\"y\":8.137},{\"x\":142.144,\"y\":38.439},{\"x\":107.385,\"y\":38.439}],\"position\":{\"x\":107.385,\"y\":8.137},\"size\":{\"width\":34.759,\"height\":30.302},\"settings\":{\"foodIds\":[15],\"count\":2,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10.53272501423322}},{\"id\":18,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":13.673,\"y\":66.216},{\"x\":133.479,\"y\":66.216},{\"x\":133.479,\"y\":138.604},{\"x\":13.673,\"y\":138.604}],\"position\":{\"x\":13.673,\"y\":66.216},\"size\":{\"width\":119.806,\"height\":72.388},\"settings\":{\"foodIds\":[1,16,24],\"count\":16,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":86.72516728000001,\"onlyOnWater\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":56.817},{\"x\":34.154,\"y\":66.075},{\"x\":22.37,\"y\":78.141},{\"x\":20.407,\"y\":88.241},{\"x\":20.126,\"y\":102.27},{\"x\":20.968,\"y\":112.932},{\"x\":30.507,\"y\":125.277},{\"x\":36.96,\"y\":133.133},{\"x\":58.845,\"y\":134.536},{\"x\":74.558,\"y\":138.745},{\"x\":88.025,\"y\":135.939},{\"x\":99.529,\"y\":135.658},{\"x\":112.155,\"y\":137.342},{\"x\":123.378,\"y\":126.119},{\"x\":132.356,\"y\":119.104},{\"x\":127.025,\"y\":100.025},{\"x\":132.076,\"y\":91.327},{\"x\":120.852,\"y\":83.191},{\"x\":114.399,\"y\":66.075},{\"x\":142.457,\"y\":58.781},{\"x\":150,\"y\":58.781},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1440.647,\"y\":1203.669,\"rotation\":0,\"fLevel\":0},{\"id\":3,\"type\":\"A\",\"layerId\":\"animals\",\"x\":62.05,\"y\":88.942,\"rotation\":55.48,\"fLevel\":10},{\"id\":20,\"type\":\"A\",\"layerId\":\"animals\",\"x\":126.183,\"y\":58.219,\"rotation\":338.58,\"fLevel\":42},{\"id\":30,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":16.198,\"y\":60.745,\"rotation\":13.78,\"hSType\":3},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":146.104,\"y\":105.076,\"rotation\":-14.93,\"hSType\":48},{\"id\":50,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":90.831,\"y\":66.076,\"rotation\":0,\"hSType\":2},{\"id\":43,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":52.047},{\"x\":13.112,\"y\":53.45},{\"x\":24.615,\"y\":48.96},{\"x\":36.399,\"y\":52.608},{\"x\":42.011,\"y\":52.047},{\"x\":59.968,\"y\":53.169},{\"x\":70.91,\"y\":55.694},{\"x\":77.924,\"y\":58.781},{\"x\":93.356,\"y\":55.975},{\"x\":112.435,\"y\":54.011},{\"x\":121.133,\"y\":56.536},{\"x\":146.104,\"y\":56.817},{\"x\":149.752,\"y\":59.061},{\"x\":150,\"y\":65.795},{\"x\":0,\"y\":64.673}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":44,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0.205,\"y\":59.342},{\"x\":0,\"y\":45.313},{\"x\":9.464,\"y\":49.522},{\"x\":22.371,\"y\":45.594},{\"x\":30.227,\"y\":47.558},{\"x\":43.694,\"y\":49.522},{\"x\":56.32,\"y\":49.241},{\"x\":67.263,\"y\":49.241},{\"x\":76.522,\"y\":52.608},{\"x\":91.953,\"y\":49.802},{\"x\":111.874,\"y\":50.644},{\"x\":137.126,\"y\":50.644},{\"x\":150,\"y\":55.975},{\"x\":150,\"y\":62.709},{\"x\":16.759,\"y\":61.306}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":6,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":65.514},{\"x\":150,\"y\":65.514},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[6202322,204080],\"hasBorder\":true},{\"id\":7,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":64.953},{\"x\":0,\"y\":64.953}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"15\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 14,
+  "created_at": "2020-03-16T19:12:34.000Z",
+  "updated_at": "2020-03-16T19:19:21.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 509292,
+    "username": "Sunfishy",
+    "description": "I am totally, very much, 100%, always a Sunfish.\n\nWhat is there to say? GG? You died? Honestly, who even cares?",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2018-03-31T17:21:40.000Z",
+    "date_last_played": "2025-01-12T20:13:25.000Z",
+    "kill_count": 10678,
+    "play_count": 1587,
+    "highest_score": 2112068256,
+    "picture": "509292.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 481,
+    "tier": 5,
+    "xp": 262500,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T12:21:49.136Z"
+}
