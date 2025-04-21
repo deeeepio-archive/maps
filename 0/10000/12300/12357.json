@@ -1,0 +1,60 @@
+{
+  "id": 12357,
+  "user_id": 21294360,
+  "cloneof_id": null,
+  "string_id": "kill_v3",
+  "title": "hell",
+  "description": "welcome to ohio",
+  "data": "{\"screenObjects\":[{\"id\":3,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"area\":63}},{\"id\":6,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3848.643,\"y\":378.259},{\"x\":4199.52,\"y\":378.259},{\"x\":4199.52,\"y\":593.471},{\"x\":3848.643,\"y\":593.471}],\"position\":{\"x\":3848.643,\"y\":378.259},\"size\":{\"width\":350.876,\"height\":215.212},\"settings\":{\"fishLevels\":[118],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4262.748,\"y\":666.976},{\"x\":4492.161,\"y\":664.369},{\"x\":4561.68,\"y\":749.53},{\"x\":4187.147,\"y\":749.53}],\"texture\":17,\"foodSpawnSettings\":{\"foodIds\":[17,25],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 4,
+  "created_at": "2023-05-31T17:30:55.000Z",
+  "updated_at": "2023-05-31T17:30:56.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21294360,
+    "username": "scuffed-io",
+    "description": "SQUID GAMES!!!",
+    "about": "there is a nuclear warhead at [REDACTED]",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-05-24T20:05:08.000Z",
+    "date_last_played": "2023-06-07T13:55:23.000Z",
+    "kill_count": 24,
+    "play_count": 81,
+    "highest_score": 304920,
+    "picture": "21294360-4fd7374f2da86b69f65bb1e11ee52576.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 37,
+    "tier": 1,
+    "xp": 4050,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "unrealisticskins"
+    }
+  ],
+  "packs": [
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:43:48.912Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 12363,
+  "user_id": 20957224,
+  "cloneof_id": null,
+  "string_id": "409664",
+  "title": "Survival Reef",
+  "description": "Very hard",
+  "data": "{\"screenObjects\":[{\"id\":27,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":190.95},{\"x\":3000,\"y\":190.95},{\"x\":3000,\"y\":630.657},{\"x\":0,\"y\":630.657}],\"position\":{\"x\":0,\"y\":190.95},\"size\":{\"width\":3000,\"height\":439.707},\"settings\":{\"fishLevels\":[67,10,11,86,96,95,103,91,111,113,116,118,110,87],\"animalCount\":60,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":32,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":194.159},{\"x\":3000,\"y\":194.159},{\"x\":3000,\"y\":630.657},{\"x\":0,\"y\":630.657}],\"position\":{\"x\":0,\"y\":194.159},\"size\":{\"width\":3000,\"height\":436.498},\"settings\":{\"fishLevels\":[113,31,32,80,100,112,99,102,115,83,22,45,68],\"animalCount\":30,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":34,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":0},{\"x\":3000,\"y\":205.411},{\"x\":0,\"y\":205.411}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":3000,\"height\":205.411},\"settings\":{\"fishLevels\":[42],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":21,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":198.623},{\"x\":3000,\"y\":198.623},{\"x\":3000,\"y\":619.073},{\"x\":0,\"y\":619.073}],\"position\":{\"x\":0,\"y\":198.623},\"size\":{\"width\":3000,\"height\":420.45},\"settings\":{\"foodIds\":[1],\"count\":756,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":12613.500381294516,\"onlyOnWater\":true}},{\"id\":23,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":0},{\"x\":3000,\"y\":28.886},{\"x\":0,\"y\":28.886}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":3000,\"height\":28.886},\"settings\":{\"foodIds\":[2],\"count\":70,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":866.5765639501433}},{\"id\":25,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":185.784},{\"x\":3000,\"y\":185.784},{\"x\":3000,\"y\":208.251},{\"x\":0,\"y\":208.251}],\"position\":{\"x\":0,\"y\":185.784},\"size\":{\"width\":3000,\"height\":22.467},\"settings\":{\"foodIds\":[4],\"count\":30,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":674.0069326076639,\"onlyOnWater\":true}},{\"id\":36,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":0},{\"x\":3000,\"y\":43.712},{\"x\":0,\"y\":43.712}],\"settings\":{\"angle\":-1,\"strength\":10}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":297.266},{\"x\":0,\"y\":292.068},{\"x\":167.412,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3000,\"y\":319.733},{\"x\":3000,\"y\":322.942},{\"x\":2844.17,\"y\":750},{\"x\":3000,\"y\":750}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":93.592,\"y\":615.011},{\"x\":2950.085,\"y\":615.011},{\"x\":2950.085,\"y\":750},{\"x\":93.592,\"y\":750}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":39,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":315.053,\"y\":225.342},{\"x\":388.796,\"y\":196.263},{\"x\":314.138,\"y\":175.201},{\"x\":233.59,\"y\":198.093}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":45,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":693.097,\"y\":225.848},{\"x\":766.839,\"y\":196.769},{\"x\":692.182,\"y\":175.707},{\"x\":611.634,\"y\":198.599}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":46,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1081.902,\"y\":227.972},{\"x\":1155.644,\"y\":198.893},{\"x\":1080.987,\"y\":177.831},{\"x\":1000.439,\"y\":200.723}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":47,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1491.751,\"y\":225.848},{\"x\":1565.493,\"y\":196.769},{\"x\":1490.836,\"y\":175.707},{\"x\":1410.288,\"y\":198.599}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":48,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1872.932,\"y\":225.848},{\"x\":1946.674,\"y\":196.769},{\"x\":1872.017,\"y\":175.707},{\"x\":1791.469,\"y\":198.599}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":49,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2313.507,\"y\":224.17},{\"x\":2387.249,\"y\":195.091},{\"x\":2312.592,\"y\":174.029},{\"x\":2232.044,\"y\":196.921}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":50,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2743,\"y\":229.203},{\"x\":2816.742,\"y\":200.124},{\"x\":2742.085,\"y\":179.062},{\"x\":2661.537,\"y\":201.954}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":11,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":198.974},{\"x\":3000,\"y\":198.974},{\"x\":3000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":12,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":3000,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":204.189},{\"x\":3000,\"y\":204.189}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"300\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 19,
+  "created_at": "2023-06-01T12:21:03.000Z",
+  "updated_at": "2023-06-01T12:26:23.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20957224,
+    "username": "Spin4team4096",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-07-24T16:10:26.000Z",
+    "date_last_played": "2023-09-09T11:33:47.000Z",
+    "kill_count": 91,
+    "play_count": 93,
+    "highest_score": 746575,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 150,
+    "tier": 1,
+    "xp": 21000,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#hard"
+    },
+    {
+      "id": "#impossible"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:43:49.240Z"
+}
