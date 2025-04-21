@@ -1,0 +1,93 @@
+{
+  "id": 2201,
+  "user_id": 695485,
+  "cloneof_id": null,
+  "string_id": "arctic_strait_1v1",
+  "title": "Arctic Strait 1v1",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":120,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":17.547,\"y\":14.719},{\"x\":147.618,\"y\":14.719},{\"x\":147.618,\"y\":44.801},{\"x\":17.547,\"y\":44.801}],\"position\":{\"x\":17.547,\"y\":14.719},\"size\":{\"width\":130.072,\"height\":30.083},\"settings\":{\"fishLevels\":[44],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":\"5000\",\"npcType\":7,\"restrictMovement\":true}},{\"id\":118,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":14.871,\"y\":86.667},{\"x\":193.074,\"y\":86.667},{\"x\":193.074,\"y\":190.667},{\"x\":14.871,\"y\":190.667}],\"position\":{\"x\":14.871,\"y\":86.667},\"size\":{\"width\":178.204,\"height\":104},\"settings\":{\"foodIds\":[16,24,17],\"count\":15,\"firstSpawnMs\":0,\"reSpawnMs\":\"2000\",\"area\":185.33201508047526,\"onlyOnWater\":true}},{\"id\":95,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":26.202,\"y\":200},{\"x\":71.98,\"y\":189.083},{\"x\":83.503,\"y\":185.657},{\"x\":109.662,\"y\":181.297},{\"x\":145.475,\"y\":173.512},{\"x\":166.339,\"y\":160.432},{\"x\":183.156,\"y\":135.83},{\"x\":186.27,\"y\":101.886},{\"x\":186.27,\"y\":82.578},{\"x\":188.926,\"y\":60.583},{\"x\":200,\"y\":37.199},{\"x\":200,\"y\":200}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":96,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":54.745,\"y\":193.296},{\"x\":26.289,\"y\":200},{\"x\":0,\"y\":200},{\"x\":0,\"y\":54.348},{\"x\":17.536,\"y\":69.611},{\"x\":25.503,\"y\":96.588},{\"x\":20.073,\"y\":116.689},{\"x\":30.555,\"y\":145.376},{\"x\":50.415,\"y\":169.65},{\"x\":85.723,\"y\":185.098}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":97,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":189.473,\"y\":60.98},{\"x\":182.178,\"y\":27.697},{\"x\":160.749,\"y\":9.459},{\"x\":85.063,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":78.762}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":98,\"type\":\"A\",\"layerId\":\"animals\",\"x\":55.803,\"y\":110.997,\"rotation\":42.93,\"fLevel\":46},{\"id\":99,\"type\":\"A\",\"layerId\":\"animals\",\"x\":86.275,\"y\":76.253,\"rotation\":69.49,\"fLevel\":11},{\"id\":100,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":21.173,\"y\":94.369},{\"x\":63.897,\"y\":90.251},{\"x\":94.524,\"y\":89.994},{\"x\":82.427,\"y\":78.927},{\"x\":49.999,\"y\":75.838},{\"x\":20.659,\"y\":70.434},{\"x\":4.444,\"y\":65.544}],\"texture\":9,\"settings\":{\"collidable\":false}},{\"id\":101,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":127.179,\"y\":4.226,\"rotation\":1.22,\"hSType\":58},{\"id\":102,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":149.912,\"y\":6.718,\"rotation\":2.07,\"hSType\":58},{\"id\":103,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":147.233,\"y\":166.958,\"rotation\":47.53,\"hSType\":10},{\"id\":104,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":48.175,\"y\":75.369,\"rotation\":8.11,\"hSType\":6},{\"id\":105,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":107.484,\"y\":182.853,\"rotation\":0,\"hSType\":36},{\"id\":106,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":114.818,\"y\":181.562,\"rotation\":0,\"hSType\":36},{\"id\":107,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":101.875,\"y\":201.457,\"rotation\":0,\"hSType\":36},{\"id\":108,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":120.735,\"y\":150.421,\"rotation\":0,\"hSType\":36},{\"id\":109,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":120.782,\"y\":181.066,\"rotation\":0,\"hSType\":36},{\"id\":110,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":114.789,\"y\":171.413,\"rotation\":0,\"hSType\":36},{\"id\":111,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":190.853,\"y\":111.133,\"rotation\":87.01,\"hSType\":2},{\"id\":112,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":108.35,\"y\":1.583,\"rotation\":2.78,\"hSType\":58},{\"id\":113,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":191.183},{\"x\":0,\"y\":177.885},{\"x\":39.608,\"y\":157.914},{\"x\":110.072,\"y\":134.928},{\"x\":158.662,\"y\":97.394},{\"x\":189.705,\"y\":35.774},{\"x\":200,\"y\":180.924},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":114,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":133.231},{\"x\":37.751,\"y\":171.07},{\"x\":53.564,\"y\":106.231},{\"x\":75.986,\"y\":91.283},{\"x\":88.754,\"y\":83.497},{\"x\":0,\"y\":82.563}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":115,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":57.484,\"y\":77.419},{\"x\":30.861,\"y\":63.317},{\"x\":13.092,\"y\":31.04},{\"x\":0,\"y\":14.38},{\"x\":0,\"y\":80.322}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":116,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":85.189},{\"x\":200,\"y\":85.189},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[8702199,2721481],\"hasBorder\":true},{\"id\":117,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":85.278},{\"x\":0,\"y\":85.278}],\"settings\":{\"collidable\":true},\"colors\":[3746790,14838378]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 25,
+  "created_at": "2020-03-18T16:01:32.000Z",
+  "updated_at": "2020-03-19T22:47:23.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 695485,
+    "username": "DesertCrab",
+    "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-02-12T21:19:26.000Z",
+    "date_last_played": "2021-12-28T19:51:34.000Z",
+    "kill_count": 2777,
+    "play_count": 511,
+    "highest_score": 5809809,
+    "picture": "695485.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 129,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "arctic"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T12:27:38.849Z"
+}

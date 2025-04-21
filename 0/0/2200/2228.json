@@ -1,0 +1,99 @@
+{
+  "id": 2228,
+  "user_id": 612060,
+  "cloneof_id": null,
+  "string_id": "boreal_canyon_1v1",
+  "title": "Boreal Canyon 1v1",
+  "description": "Theme: Arctic/Arctic+Ocean",
+  "data": "{\"screenObjects\":[{\"id\":49,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":8.099,\"y\":132.037},{\"x\":182.224,\"y\":132.037},{\"x\":182.224,\"y\":234.544},{\"x\":8.099,\"y\":234.544}],\"position\":{\"x\":8.099,\"y\":132.037},\"size\":{\"width\":174.125,\"height\":102.507},\"settings\":{\"foodIds\":[5],\"count\":40,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":\"400\",\"area\":178.49031375,\"onlyOnWater\":true}},{\"id\":50,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":39.34,\"y\":0},{\"x\":25.077,\"y\":19.098},{\"x\":18.822,\"y\":38.615},{\"x\":16.069,\"y\":78.901},{\"x\":33.084,\"y\":83.655},{\"x\":22.825,\"y\":115.683},{\"x\":21.074,\"y\":135.951},{\"x\":16.57,\"y\":173.485},{\"x\":26.519,\"y\":209.191},{\"x\":42.783,\"y\":226.957},{\"x\":71.809,\"y\":224.205},{\"x\":111.845,\"y\":227.207},{\"x\":155.383,\"y\":223.204},{\"x\":171.648,\"y\":206.439},{\"x\":175.651,\"y\":169.656},{\"x\":156.885,\"y\":130.121},{\"x\":172.649,\"y\":122.114},{\"x\":167.265,\"y\":82.141},{\"x\":154.504,\"y\":71.632},{\"x\":170.518,\"y\":66.878},{\"x\":172.52,\"y\":31.847},{\"x\":159.758,\"y\":13.831},{\"x\":140.241,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":250},{\"x\":0,\"y\":250},{\"x\":0,\"y\":0}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":51,\"type\":\"A\",\"layerId\":\"animals\",\"x\":39.468,\"y\":158.061,\"rotation\":103.13,\"fLevel\":48},{\"id\":52,\"type\":\"A\",\"layerId\":\"animals\",\"x\":133.196,\"y\":167.773,\"rotation\":248.6,\"fLevel\":10},{\"id\":53,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":17.098,\"y\":114.15,\"rotation\":15.47,\"hSType\":60},{\"id\":54,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":177.741,\"y\":105.642,\"rotation\":-15.29,\"hSType\":63},{\"id\":55,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":168.232,\"y\":127.412,\"rotation\":-17.1,\"hSType\":61},{\"id\":56,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":18.85,\"y\":116.402,\"rotation\":3.27,\"hSType\":60},{\"id\":57,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":95.975,\"y\":18.627,\"rotation\":0,\"hSType\":56},{\"id\":58,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":91.272,\"y\":71.107,\"rotation\":0,\"hSType\":55},{\"id\":59,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.012,\"y\":240.4,\"rotation\":0,\"hSType\":49},{\"id\":60,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":126.175,\"y\":227.45,\"rotation\":-15.6,\"hSType\":50},{\"id\":61,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":47.812,\"y\":228.094,\"rotation\":3.87,\"hSType\":65},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":67.838,\"y\":226.736,\"rotation\":-4.48,\"hSType\":65},{\"id\":63,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":99.405,\"y\":229.112,\"rotation\":-2.41,\"hSType\":65},{\"id\":64,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":147.603,\"y\":227.415,\"rotation\":-10.35,\"hSType\":65},{\"id\":65,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":158.125,\"y\":220.966,\"rotation\":-17.15,\"hSType\":65},{\"id\":66,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":28.465,\"y\":214.178,\"rotation\":26.2,\"hSType\":65},{\"id\":67,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.165,\"y\":228.094,\"rotation\":0,\"hSType\":36},{\"id\":68,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":68.517,\"y\":225.379,\"rotation\":0.49,\"hSType\":36},{\"id\":69,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":68.856,\"y\":183.969,\"rotation\":2.14,\"hSType\":36},{\"id\":70,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.822,\"y\":216.214,\"rotation\":3.88,\"hSType\":36},{\"id\":71,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":157.446,\"y\":220.287,\"rotation\":-5.83,\"hSType\":36},{\"id\":72,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":24.34,\"y\":59.694},{\"x\":41.104,\"y\":73.956},{\"x\":60.872,\"y\":97.727},{\"x\":90.398,\"y\":104.984},{\"x\":128.933,\"y\":80.712},{\"x\":164.214,\"y\":81.713},{\"x\":200,\"y\":62.196},{\"x\":200,\"y\":234.486},{\"x\":0,\"y\":234.486},{\"x\":0,\"y\":24.532},{\"x\":20.547,\"y\":15.774}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":73,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":20.7,\"y\":22.671},{\"x\":33.461,\"y\":40.437},{\"x\":61.486,\"y\":41.188},{\"x\":95.016,\"y\":52.448},{\"x\":129.797,\"y\":39.436},{\"x\":188.099,\"y\":39.436},{\"x\":178.034,\"y\":227.433},{\"x\":22.145,\"y\":232.438},{\"x\":2.649,\"y\":125.927}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":74,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":131.983},{\"x\":200,\"y\":131.983},{\"x\":200,\"y\":250},{\"x\":0,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[64767,215138],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 26,
+  "created_at": "2020-03-21T09:33:12.000Z",
+  "updated_at": "2020-03-22T05:35:34.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 612060,
+    "username": "1NF35T10N",
+    "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-07-01T08:11:01.000Z",
+    "date_last_played": "2020-10-12T07:39:16.000Z",
+    "kill_count": 447,
+    "play_count": 387,
+    "highest_score": 1875583,
+    "picture": "612060.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 48,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "arctic"
+    },
+    {
+      "id": "canyon"
+    },
+    {
+      "id": "ocean"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T12:27:40.180Z"
+}
