@@ -1,0 +1,70 @@
+{
+  "id": 12104,
+  "user_id": 20971729,
+  "cloneof_id": null,
+  "string_id": "ie_my_map_v13",
+  "title": "timebottle (secret place)",
+  "description": "fid the secret  place in 6 minues",
+  "data": "{\"screenObjects\":[{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":12.178},{\"x\":8000,\"y\":12.178},{\"x\":8000,\"y\":3447.043},{\"x\":0,\"y\":3447.043}],\"position\":{\"x\":0,\"y\":12.178},\"size\":{\"width\":8000,\"height\":3434.865},\"settings\":{\"area\":21}},{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":536.997,\"y\":5731.051},{\"x\":8000,\"y\":5731.051},{\"x\":8000,\"y\":7500},{\"x\":536.997,\"y\":7500}],\"position\":{\"x\":536.997,\"y\":5731.051},\"size\":{\"width\":7463.003,\"height\":1768.949},\"settings\":{\"area\":42}},{\"id\":8,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":342.237,\"y\":5731.05},{\"x\":908.812,\"y\":5731.05},{\"x\":908.812,\"y\":7500},{\"x\":342.237,\"y\":7500}],\"position\":{\"x\":342.237,\"y\":5731.05},\"size\":{\"width\":566.576,\"height\":1768.95},\"settings\":{\"area\":21}},{\"id\":9,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":5784.167},{\"x\":749.463,\"y\":5784.167},{\"x\":749.463,\"y\":7466.188},{\"x\":0,\"y\":7466.188}],\"position\":{\"x\":0,\"y\":5784.167},\"size\":{\"width\":749.463,\"height\":1682.021},\"settings\":{\"area\":42}},{\"id\":10,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1599.326,\"y\":6191.394},{\"x\":1600.326,\"y\":6191.394},{\"x\":1600.326,\"y\":6192.394},{\"x\":1599.326,\"y\":6192.394}],\"position\":{\"x\":1599.326,\"y\":6191.394},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":42}},{\"id\":26,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6096.521,\"y\":4544.783},{\"x\":7548.372,\"y\":4544.783},{\"x\":7548.372,\"y\":4916.598},{\"x\":6096.521,\"y\":4916.598}],\"position\":{\"x\":6096.521,\"y\":4544.783},\"size\":{\"width\":1451.851,\"height\":371.815},\"settings\":{\"area\":63}},{\"id\":17,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":6238.164,\"y\":4462.895},{\"x\":7991.008,\"y\":4462.895},{\"x\":7991.008,\"y\":5082.587},{\"x\":6238.164,\"y\":5082.587}],\"position\":{\"x\":6238.164,\"y\":4462.895},\"size\":{\"width\":1752.843,\"height\":619.692},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":6875.56189889571,\"y\":4781.593563794895}}}],\"delay\":0,\"when\":3}]},{\"id\":18,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":2838.71,\"y\":1913.305},{\"x\":6043.403,\"y\":1913.305},{\"x\":6043.403,\"y\":3028.75},{\"x\":2838.71,\"y\":3028.75}],\"position\":{\"x\":2838.71,\"y\":1913.305},\"size\":{\"width\":3204.693,\"height\":1115.445},\"triggers\":[{\"actions\":[{\"type\":2,\"data\":null}],\"delay\":0,\"when\":1}]},{\"id\":30,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2785.596,\"y\":5251.402},{\"x\":4325.973,\"y\":5251.402},{\"x\":4325.973,\"y\":7269.829},{\"x\":2785.596,\"y\":7269.829}],\"position\":{\"x\":2785.596,\"y\":5251.402},\"size\":{\"width\":1540.377,\"height\":2018.427},\"settings\":{\"fishLevels\":[11,13,0,115,102,103,104,105,91,117,116,119,106],\"animalCount\":16,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":31,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1988.847,\"y\":1457.388},{\"x\":3936.451,\"y\":1457.388},{\"x\":3936.451,\"y\":2980.06},{\"x\":1988.847,\"y\":2980.06}],\"position\":{\"x\":1988.847,\"y\":1457.388},\"size\":{\"width\":1947.604,\"height\":1522.672},\"settings\":{\"fishLevels\":[79,93,92,78,36,37,38,35,34,83,82,81,80,60,62],\"animalCount\":16,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":4,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":242.35},{\"x\":7861.237,\"y\":242.35},{\"x\":7861.237,\"y\":3234.577},{\"x\":0,\"y\":3234.577}],\"position\":{\"x\":0,\"y\":242.35},\"size\":{\"width\":7861.237,\"height\":2992.227},\"settings\":{\"foodIds\":[16,11],\"count\":314,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":235226.0803043782}},{\"id\":5,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":5.832,\"y\":5766.462},{\"x\":8000,\"y\":5766.462},{\"x\":8000,\"y\":7500},{\"x\":5.832,\"y\":7500}],\"position\":{\"x\":5.832,\"y\":5766.462},\"size\":{\"width\":7994.168,\"height\":1733.538},\"settings\":{\"foodIds\":[3,2,4,7,5,8,10],\"count\":1236,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":138581.97335932736}},{\"id\":12,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":6379.81,\"y\":3917.067},{\"x\":8000,\"y\":3917.067},{\"x\":8000,\"y\":4465.938},{\"x\":6397.514,\"y\":4448.233}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":94.359,\"y\":0},{\"x\":8000,\"y\":136.116},{\"x\":8000,\"y\":915.157},{\"x\":271.415,\"y\":915.157}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":28,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":289.12,\"y\":773.514},{\"x\":0,\"y\":773.514},{\"x\":0,\"y\":0},{\"x\":289.12,\"y\":0}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":29,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":7023.551},{\"x\":8000,\"y\":7023.551},{\"x\":8000,\"y\":7500},{\"x\":0,\"y\":7500}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":7813.952,\"y\":3899.362},{\"x\":6025.702,\"y\":3899.362},{\"x\":6025.702,\"y\":4554.465},{\"x\":7813.952,\"y\":4554.465}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":6007.993,\"y\":4908.575},{\"x\":8000,\"y\":4908.575},{\"x\":8000,\"y\":5351.212},{\"x\":6007.993,\"y\":5351.212}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":5600.767,\"y\":4306.589},{\"x\":6202.755,\"y\":4306.589},{\"x\":6202.755,\"y\":4961.693},{\"x\":5600.767,\"y\":4961.693}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":7690.015,\"y\":4625.287},{\"x\":8000,\"y\":4625.287},{\"x\":8000,\"y\":5014.808},{\"x\":7690.015,\"y\":5014.808}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":32,\"type\":\"P\",\"layerId\":\"props\",\"x\":2342.957,\"y\":3234.577,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"this is a timeflow do not leave intill u found the secret place here u may not tell others where it is or do anything else\"}},{\"id\":33,\"type\":\"P\",\"layerId\":\"props\",\"x\":11461.282,\"y\":1782.727,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":34,\"type\":\"P\",\"layerId\":\"props\",\"x\":1634.737,\"y\":3092.933,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"hello find the secret place and you can leave you have 6 minutes to find it do not tell othe's :)\"}},{\"id\":35,\"type\":\"P\",\"layerId\":\"props\",\"x\":-14919.895,\"y\":-341.932,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":36,\"type\":\"P\",\"layerId\":\"props\",\"x\":359.941,\"y\":738.103,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":37,\"type\":\"P\",\"layerId\":\"props\",\"x\":926.517,\"y\":3057.522,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":23,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":6185.049,\"y\":5829.26},{\"x\":8000,\"y\":5829.26},{\"x\":8000,\"y\":7500},{\"x\":6185.049,\"y\":7500}],\"texture\":9,\"settings\":{\"collidable\":true},\"borderColor\":9072522},{\"id\":20,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":3722.307},{\"x\":8000,\"y\":3722.307},{\"x\":8000,\"y\":5758.44},{\"x\":0,\"y\":5758.44}],\"texture\":17,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":21,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":8000,\"y\":5740.732},{\"x\":106.233,\"y\":5900.082},{\"x\":0,\"y\":3332.787},{\"x\":7831.658,\"y\":3332.787}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.8},{\"id\":22,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":4644.67,\"y\":5280.39},{\"x\":4645.67,\"y\":5280.39},{\"x\":4645.67,\"y\":5281.39},{\"x\":4644.67,\"y\":5281.39}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.8},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":323.135},{\"x\":8000,\"y\":323.135},{\"x\":8000,\"y\":3423.717},{\"x\":0,\"y\":3656.469}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":2,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8000,\"y\":861.212},{\"x\":0,\"y\":595.63},{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":5801.042},{\"x\":8000,\"y\":5801.042},{\"x\":8000,\"y\":7500},{\"x\":0,\"y\":7500}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":11,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2767.888,\"y\":3924.261},{\"x\":4432.205,\"y\":3924.261},{\"x\":4432.205,\"y\":5623.987},{\"x\":2767.888,\"y\":5623.987}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":25,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":6291.282,\"y\":4579.365},{\"x\":7707.721,\"y\":4579.365},{\"x\":7707.721,\"y\":4986.59},{\"x\":6291.282,\"y\":4986.59}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":1},\"worldSize\":{\"width\":800,\"height\":\"750\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 35,
+  "created_at": "2023-04-24T21:23:55.000Z",
+  "updated_at": "2023-04-24T21:23:56.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20971729,
+    "username": "snakeFishmomo143",
+    "description": "new death message : i have wanted to like you but i cant\nlike i wish i could meet you but i had no choice because you went in my mouth or i wanted to but mainly you attacked me ⨀⁔⨀ if you are meme i am PD player BEWARE OF FAKE FRIENDS AND DONT BE ONE YALL",
+    "about": "hey yall i just wanted to say how much i enjoyed spending my last times playing with yall i really loved this game even when i was mad in 2023 i might quit forever when i am older....goodbye maybe? ",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-09-17T20:28:48.000Z",
+    "date_last_played": "2025-03-22T01:38:40.000Z",
+    "kill_count": 6395,
+    "play_count": 3793,
+    "highest_score": 2250500,
+    "picture": "20971729-85f810bb105df8e579c040f27d10e95f2fe.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 361,
+    "tier": 9,
+    "xp": 1113300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "savetheworld"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:41:49.477Z"
+}

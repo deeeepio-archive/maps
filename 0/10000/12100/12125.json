@@ -1,0 +1,70 @@
+{
+  "id": 12125,
+  "user_id": 21278296,
+  "cloneof_id": null,
+  "string_id": "test_v3_map",
+  "title": "V3_Map",
+  "description": "test",
+  "data": "{\"screenObjects\":[{\"id\":12,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":4198.425},{\"x\":3704.192,\"y\":4198.425},{\"x\":3704.192,\"y\":6017.329},{\"x\":0,\"y\":6017.329}],\"position\":{\"x\":0,\"y\":4198.425},\"size\":{\"width\":3704.192,\"height\":1818.904},\"settings\":{\"area\":37}},{\"id\":15,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3670.654,\"y\":4179.978},{\"x\":8000,\"y\":4179.978},{\"x\":8000,\"y\":6075.239},{\"x\":3670.654,\"y\":6075.239}],\"position\":{\"x\":3670.654,\"y\":4179.978},\"size\":{\"width\":4329.346,\"height\":1895.261},\"settings\":{\"area\":41}},{\"id\":17,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":6328.441},{\"x\":3681.703,\"y\":6328.441},{\"x\":3681.703,\"y\":8000},{\"x\":0,\"y\":8000}],\"position\":{\"x\":0,\"y\":6328.441},\"size\":{\"width\":3681.703,\"height\":1671.559},\"settings\":{\"area\":23}},{\"id\":19,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3634.381,\"y\":6301.945},{\"x\":8000,\"y\":6301.945},{\"x\":8000,\"y\":8000},{\"x\":3634.381,\"y\":8000}],\"position\":{\"x\":3634.381,\"y\":6301.945},\"size\":{\"width\":4365.619,\"height\":1698.055},\"settings\":{\"area\":38}},{\"id\":21,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":4168.875},{\"x\":0,\"y\":4168.875}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":4168.875},\"settings\":{\"area\":63}},{\"id\":25,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3676.246,\"y\":6021.699},{\"x\":3677.246,\"y\":6021.699},{\"x\":3677.246,\"y\":6022.699},{\"x\":3676.246,\"y\":6022.699}],\"position\":{\"x\":3676.246,\"y\":6021.699},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01}},{\"id\":28,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3821.434,\"y\":5053.591},{\"x\":3822.434,\"y\":5053.591},{\"x\":3822.434,\"y\":5054.591},{\"x\":3821.434,\"y\":5054.591}],\"position\":{\"x\":3821.434,\"y\":5053.591},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01}},{\"id\":30,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4084.002,\"y\":6772.211},{\"x\":4085.002,\"y\":6772.211},{\"x\":4085.002,\"y\":6773.211},{\"x\":4084.002,\"y\":6773.211}],\"position\":{\"x\":4084.002,\"y\":6772.211},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[16],\"count\":20,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01}},{\"id\":23,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":4208.051},{\"x\":0,\"y\":4208.051}],\"settings\":{\"angle\":86,\"strength\":100}},{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":522.866,\"y\":0},{\"x\":1062.395,\"y\":0},{\"x\":1062.395,\"y\":1843.135},{\"x\":522.866,\"y\":1843.135}],\"texture\":16,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":507.466,\"y\":1829.276},{\"x\":8000,\"y\":1829.276},{\"x\":8000,\"y\":4173.814},{\"x\":507.466,\"y\":4173.814}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1058.604,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1868.498},{\"x\":1058.604,\"y\":1868.498}],\"texture\":17,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":505.693,\"y\":0},{\"x\":505.693,\"y\":4234.196},{\"x\":0,\"y\":4234.196}],\"settings\":{\"collidable\":true},\"colors\":[6422528,3151875],\"hasBorder\":true},{\"id\":10,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":4192.92},{\"x\":8000,\"y\":4192.92},{\"x\":8000,\"y\":7746.09},{\"x\":0,\"y\":7700.748}],\"settings\":{\"collidable\":true},\"colors\":[6422528,3151875],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"800\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 14,
+  "created_at": "2023-04-27T12:07:19.000Z",
+  "updated_at": "2023-04-27T12:11:50.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21278296,
+    "username": "blankicon",
+    "description": "I like Sunfish, Giant Softshell Turtle and Bowhead Whale!",
+    "about": "https://beta.deeeep.io/u/BlueBanana\nhttps://beta.deeeep.io/inventory/skins/a/0\nOrange Clownfish vs Baby Shark.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-03-28T13:23:36.000Z",
+    "date_last_played": "2023-11-05T17:02:38.000Z",
+    "kill_count": 205,
+    "play_count": 374,
+    "highest_score": 1174324,
+    "picture": "21278296-e36d87ae3310d8e9026549da4100a053b5.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 25,
+    "tier": 2,
+    "xp": 71700,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "testmap"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:41:50.608Z"
+}

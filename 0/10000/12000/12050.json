@@ -1,0 +1,106 @@
+{
+  "id": 12050,
+  "user_id": 552423,
+  "cloneof_id": null,
+  "string_id": "christmasboss2_bbb",
+  "title": "Jingling Fjord",
+  "description": "A demo of the PROJECT: MISTLETOE arena for Benthic Boss Bash",
+  "data": "{\"screenObjects\":[{\"id\":88,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":450,\"y\":0},{\"x\":450,\"y\":450},{\"x\":0,\"y\":450}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":450,\"height\":450},\"settings\":{\"area\":63}},{\"id\":87,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":450,\"y\":0},{\"x\":450,\"y\":450},{\"x\":0,\"y\":450}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":450,\"height\":450},\"settings\":{\"foodIds\":[24],\"count\":164,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":2025,\"onlyOnWater\":true}},{\"id\":58,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":396.418},{\"x\":23.351,\"y\":411.748},{\"x\":54.01,\"y\":417.323},{\"x\":84.321,\"y\":404.083},{\"x\":129.265,\"y\":395.373},{\"x\":173.163,\"y\":395.373},{\"x\":216.365,\"y\":403.386},{\"x\":253.644,\"y\":403.735},{\"x\":285,\"y\":389.799},{\"x\":339.535,\"y\":398.69},{\"x\":366.936,\"y\":417.239},{\"x\":392.651,\"y\":415.553},{\"x\":418.367,\"y\":409.229},{\"x\":450,\"y\":415.553},{\"x\":450,\"y\":450},{\"x\":0,\"y\":450}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[10,5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":60,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":22.835,\"y\":411.713},{\"x\":24.184,\"y\":385.644},{\"x\":30.356,\"y\":363.425},{\"x\":23.566,\"y\":330.096},{\"x\":16.16,\"y\":276.399},{\"x\":21.715,\"y\":225.789},{\"x\":39.614,\"y\":170.24},{\"x\":32.824,\"y\":122.715},{\"x\":17.394,\"y\":90.004},{\"x\":8.269,\"y\":42.898},{\"x\":6.254,\"y\":34.704},{\"x\":0,\"y\":18.182},{\"x\":0,\"y\":396.257}],\"texture\":13,\"foodSpawnSettings\":{\"foodIds\":[10,5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":61,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":450,\"y\":36.846},{\"x\":439.666,\"y\":46.477},{\"x\":427.713,\"y\":59.682},{\"x\":427.713,\"y\":78.816},{\"x\":436.971,\"y\":139.919},{\"x\":426.479,\"y\":192.381},{\"x\":421.541,\"y\":233.734},{\"x\":423.393,\"y\":276.938},{\"x\":431.416,\"y\":355.94},{\"x\":430.502,\"y\":388.888},{\"x\":438.653,\"y\":413.531},{\"x\":450,\"y\":415.594}],\"texture\":13,\"foodSpawnSettings\":{\"foodIds\":[10,5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":89,\"type\":\"P\",\"layerId\":\"props\",\"x\":-23.743,\"y\":262.865,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Codename: Unpleasant Gift\\nA Benthic Boss Bash Demo Map\\nThe large factory props would be added replacing most of the side walls.\"}},{\"id\":65,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":144.746,\"y\":396.817,\"rotation\":0,\"hSType\":44,\"opacity\":0.1},{\"id\":66,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":70.329,\"y\":411.239,\"rotation\":-25.13,\"hSType\":44},{\"id\":67,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":383.213,\"y\":418.527,\"rotation\":0,\"hSType\":44,\"opacity\":0.5},{\"id\":68,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":432.277,\"y\":95.981,\"rotation\":262.83,\"hSType\":44,\"opacity\":0.1},{\"id\":69,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":270.672,\"y\":397.199,\"rotation\":-25.7,\"hSType\":32},{\"id\":70,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":26.167,\"y\":210.79,\"rotation\":109.65,\"hSType\":32},{\"id\":71,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":312.526,\"y\":396.485,\"rotation\":7.57,\"hSType\":30},{\"id\":72,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":25.714,\"y\":108.787,\"rotation\":56.73,\"hSType\":30},{\"id\":73,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":19.304,\"y\":310.052,\"rotation\":76.85,\"hSType\":37},{\"id\":74,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":432.975,\"y\":363.762,\"rotation\":-90.42,\"hSType\":37},{\"id\":75,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":213.059,\"y\":403.41,\"rotation\":9.5,\"hSType\":1},{\"id\":76,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":423.406,\"y\":249.793,\"rotation\":-456.68,\"hSType\":1,\"opacity\":0.5},{\"id\":77,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":131.465,\"y\":396.436,\"rotation\":-12.65,\"hSType\":72},{\"id\":78,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":345.868,\"y\":403.824,\"rotation\":38.35,\"hSType\":72},{\"id\":79,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":168.434,\"y\":396.455,\"rotation\":0,\"hSType\":36},{\"id\":80,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":168.381,\"y\":354.779,\"rotation\":0,\"hSType\":36},{\"id\":81,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":336.183,\"y\":399.943,\"rotation\":0,\"hSType\":36},{\"id\":82,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":179.413,\"y\":397.672,\"rotation\":0,\"hSType\":36},{\"id\":83,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":108.476,\"y\":345.064,\"rotation\":12.32,\"hSType\":30,\"opacity\":0.2},{\"id\":84,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":333.192,\"y\":213.289,\"rotation\":-5.61,\"hSType\":30,\"opacity\":0.1},{\"id\":85,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":237.402,\"y\":356.371,\"rotation\":-7.78,\"hSType\":1,\"opacity\":0.4},{\"id\":86,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":143.743,\"y\":270.302,\"rotation\":-7.62,\"hSType\":37,\"opacity\":0.2},{\"id\":63,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":9.684,\"y\":415.818},{\"x\":28.99,\"y\":358.863},{\"x\":96.442,\"y\":342.447},{\"x\":146.143,\"y\":353.316},{\"x\":220.085,\"y\":358.935},{\"x\":279.333,\"y\":350.46},{\"x\":316.066,\"y\":349.16},{\"x\":379.987,\"y\":378.261},{\"x\":437.414,\"y\":413.857},{\"x\":399.457,\"y\":427.821},{\"x\":325.708,\"y\":429.197}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":64,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":6.393,\"y\":415.207},{\"x\":444.772,\"y\":418.194},{\"x\":434.316,\"y\":202.365},{\"x\":316.32,\"y\":215.061},{\"x\":275.245,\"y\":253.148},{\"x\":199.07,\"y\":262.11},{\"x\":127.376,\"y\":272.566},{\"x\":78.833,\"y\":295.717},{\"x\":11.62,\"y\":309.159}],\"texture\":13,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":54,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":43.379},{\"x\":450,\"y\":43.379},{\"x\":450,\"y\":450},{\"x\":0,\"y\":450}],\"settings\":{\"collidable\":true},\"colors\":[9355492,5014447],\"hasBorder\":true},{\"id\":56,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":450,\"y\":0},{\"x\":450,\"y\":59.248},{\"x\":0,\"y\":59.248}],\"settings\":{\"collidable\":true},\"colors\":[16768505,13675472]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"45\",\"height\":\"45\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 32,
+  "created_at": "2023-04-17T11:22:50.000Z",
+  "updated_at": "2023-04-22T13:15:54.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 552423,
+    "username": "MEGAmew",
+    "description": "You know who else dies lots playing this game.......\nMY MOM!\n",
+    "about": "Hi i'm MEGAmew, i make art and concepts for this funny game such as\n-Fiddler Crab Art and Ability\n-Water Anole Art\n-Megamouth Shark Ability\n-Whip Spider Ability\n   Co Creator of the abilities for\n-Giant Freshwater Stingray\n-Platypus\n-Wel's Catfish\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-01-16T15:14:52.000Z",
+    "date_last_played": "2025-02-04T17:29:50.000Z",
+    "kill_count": 11987,
+    "play_count": 4775,
+    "highest_score": 23844769,
+    "picture": "552423-c41c7b69d559a4c031189c037ca7f1c1.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 303,
+    "tier": 6,
+    "xp": 480900,
+    "migrated": true,
+    "verified": true,
+    "beta": true
+  },
+  "tags": [
+    {
+      "id": "BBB"
+    },
+    {
+      "id": "Christmas"
+    },
+    {
+      "id": "PROJECTMISTLETOE"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:41:46.406Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 12054,
+  "user_id": 552423,
+  "cloneof_id": null,
+  "string_id": "fede_bbb",
+  "title": "City Facility",
+  "description": "A demo of the PROJECT: ULTIMATUM arena for Benthic Boss Bash",
+  "data": "{\"screenObjects\":[{\"id\":21,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":800},{\"x\":0,\"y\":800}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":400,\"height\":800},\"settings\":{\"area\":63}},{\"id\":22,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":352.496},{\"x\":0,\"y\":352.496}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":400,\"height\":352.496},\"settings\":{\"foodIds\":[1],\"count\":114,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1409.982805394209,\"onlyOnWater\":true}},{\"id\":31,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":366.139},{\"x\":400,\"y\":366.139},{\"x\":400,\"y\":800},{\"x\":0,\"y\":800}],\"position\":{\"x\":0,\"y\":366.139},\"size\":{\"width\":400,\"height\":433.861},\"settings\":{\"foodIds\":[16],\"count\":141,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1735.4458419525954}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":335.741},{\"x\":400,\"y\":335.741},{\"x\":400,\"y\":357.067},{\"x\":0,\"y\":357.067}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":316.107},{\"x\":103.747,\"y\":316.107},{\"x\":103.747,\"y\":335.935},{\"x\":0,\"y\":335.935}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":16.251,\"y\":0},{\"x\":16.251,\"y\":318.763},{\"x\":0,\"y\":318.763}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":296.253,\"y\":316.107},{\"x\":400,\"y\":316.107},{\"x\":400,\"y\":335.935},{\"x\":296.253,\"y\":335.935}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":383.749,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":318.763},{\"x\":383.749,\"y\":318.763}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":348.895},{\"x\":400,\"y\":348.895},{\"x\":400,\"y\":383.458},{\"x\":0,\"y\":383.458}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":754.726},{\"x\":32.485,\"y\":762.028},{\"x\":92.23,\"y\":748.751},{\"x\":137.371,\"y\":759.372},{\"x\":214.376,\"y\":767.338},{\"x\":268.146,\"y\":759.372},{\"x\":312.623,\"y\":743.44},{\"x\":358.428,\"y\":756.717},{\"x\":400,\"y\":755.389},{\"x\":400,\"y\":800},{\"x\":0,\"y\":800}],\"texture\":2,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":32,\"type\":\"P\",\"layerId\":\"props\",\"x\":-56.38,\"y\":355.264,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Codename: Project: ULTIMATUM\\nA Benthic Boss Bash Demo Map\\nThe floor would break in between stages (and the top of the map would then be inaccessable)\"}},{\"id\":33,\"type\":\"P\",\"layerId\":\"props\",\"x\":-20.613,\"y\":322.785,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Special props added\\ndeep terrain replaced with F.E.D.E terrainm\"}},{\"id\":34,\"type\":\"P\",\"layerId\":\"props\",\"x\":-19.767,\"y\":432.143,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Broken buildings added\"}},{\"id\":11,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":28.446},{\"x\":0,\"y\":28.446}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":12,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":225.724},{\"x\":400,\"y\":225.724},{\"x\":400,\"y\":338.17},{\"x\":0,\"y\":338.17}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":14,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":14.488,\"y\":0},{\"x\":80.872,\"y\":0},{\"x\":80.872,\"y\":354.27},{\"x\":14.488,\"y\":354.27}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":15,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":114.488,\"y\":0},{\"x\":180.872,\"y\":0},{\"x\":180.872,\"y\":354.27},{\"x\":114.488,\"y\":354.27}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":19,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":217.706,\"y\":0},{\"x\":284.09,\"y\":0},{\"x\":284.09,\"y\":354.27},{\"x\":217.706,\"y\":354.27}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":20,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":317.706,\"y\":0},{\"x\":384.09,\"y\":0},{\"x\":384.09,\"y\":354.27},{\"x\":317.706,\"y\":354.27}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":28,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":662.105},{\"x\":23.131,\"y\":667.351},{\"x\":41.867,\"y\":660.981},{\"x\":31.374,\"y\":609.644},{\"x\":50.485,\"y\":600.651},{\"x\":46.738,\"y\":591.657},{\"x\":51.609,\"y\":590.158},{\"x\":73.718,\"y\":653.112},{\"x\":105.944,\"y\":654.985},{\"x\":110.066,\"y\":597.278},{\"x\":154.658,\"y\":601.4},{\"x\":132.549,\"y\":654.236},{\"x\":162.527,\"y\":664.353},{\"x\":195.503,\"y\":653.112},{\"x\":177.516,\"y\":616.764},{\"x\":199.25,\"y\":599.152},{\"x\":205.995,\"y\":614.89},{\"x\":199.999,\"y\":625.382},{\"x\":201.498,\"y\":634.001},{\"x\":217.611,\"y\":634.001},{\"x\":226.23,\"y\":641.495},{\"x\":255.458,\"y\":654.236},{\"x\":248.713,\"y\":596.529},{\"x\":253.21,\"y\":579.292},{\"x\":277.942,\"y\":580.041},{\"x\":280.19,\"y\":561.68},{\"x\":285.811,\"y\":561.68},{\"x\":284.312,\"y\":583.413},{\"x\":289.183,\"y\":583.788},{\"x\":289.558,\"y\":575.544},{\"x\":295.179,\"y\":577.043},{\"x\":294.43,\"y\":584.538},{\"x\":288.809,\"y\":650.489},{\"x\":307.545,\"y\":652.362},{\"x\":318.786,\"y\":635.125},{\"x\":343.143,\"y\":605.897},{\"x\":360.381,\"y\":619.012},{\"x\":353.261,\"y\":657.608},{\"x\":377.618,\"y\":656.859},{\"x\":400,\"y\":643.369},{\"x\":400,\"y\":785.389},{\"x\":0,\"y\":783.515}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":29,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":714.191},{\"x\":33.315,\"y\":725.073},{\"x\":26.06,\"y\":692.427},{\"x\":46.464,\"y\":685.173},{\"x\":48.731,\"y\":722.806},{\"x\":82.737,\"y\":722.353},{\"x\":113.115,\"y\":705.576},{\"x\":160.724,\"y\":707.39},{\"x\":199.717,\"y\":679.278},{\"x\":246.419,\"y\":686.533},{\"x\":248.232,\"y\":715.098},{\"x\":294.48,\"y\":729.607},{\"x\":303.095,\"y\":694.695},{\"x\":348.89,\"y\":694.241},{\"x\":359.318,\"y\":727.34},{\"x\":400,\"y\":718.725},{\"x\":400,\"y\":777.215},{\"x\":0,\"y\":780.389}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":30,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":565.164},{\"x\":32.647,\"y\":577.406},{\"x\":18.138,\"y\":489.898},{\"x\":61.666,\"y\":480.83},{\"x\":66.2,\"y\":621.841},{\"x\":108.367,\"y\":601.891},{\"x\":91.591,\"y\":534.786},{\"x\":129.677,\"y\":529.345},{\"x\":144.64,\"y\":594.183},{\"x\":181.366,\"y\":605.518},{\"x\":199.503,\"y\":521.183},{\"x\":235.322,\"y\":519.37},{\"x\":260.713,\"y\":571.512},{\"x\":287.465,\"y\":556.096},{\"x\":289.278,\"y\":471.761},{\"x\":341.421,\"y\":466.774},{\"x\":340.061,\"y\":509.395},{\"x\":322.831,\"y\":512.115},{\"x\":316.937,\"y\":526.624},{\"x\":321.017,\"y\":533.425},{\"x\":336.433,\"y\":535.239},{\"x\":338.247,\"y\":547.935},{\"x\":343.688,\"y\":611.866},{\"x\":382.228,\"y\":545.214},{\"x\":400,\"y\":552.922},{\"x\":400,\"y\":767.839},{\"x\":0,\"y\":773.734}],\"texture\":2,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":352.53},{\"x\":0,\"y\":352.53}],\"settings\":{\"collidable\":true},\"colors\":[1252634,3580775],\"hasBorder\":false},{\"id\":24,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":374.495},{\"x\":400,\"y\":374.495},{\"x\":400,\"y\":800},{\"x\":0,\"y\":800}],\"settings\":{\"collidable\":true},\"colors\":[16750848,16766561],\"hasBorder\":false}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"40\",\"height\":\"80\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 24,
+  "created_at": "2023-04-18T19:45:45.000Z",
+  "updated_at": "2023-04-22T13:15:46.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 552423,
+    "username": "MEGAmew",
+    "description": "You know who else dies lots playing this game.......\nMY MOM!\n",
+    "about": "Hi i'm MEGAmew, i make art and concepts for this funny game such as\n-Fiddler Crab Art and Ability\n-Water Anole Art\n-Megamouth Shark Ability\n-Whip Spider Ability\n   Co Creator of the abilities for\n-Giant Freshwater Stingray\n-Platypus\n-Wel's Catfish\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-01-16T15:14:52.000Z",
+    "date_last_played": "2025-02-04T17:29:50.000Z",
+    "kill_count": 11987,
+    "play_count": 4775,
+    "highest_score": 23844769,
+    "picture": "552423-c41c7b69d559a4c031189c037ca7f1c1.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 303,
+    "tier": 6,
+    "xp": 480900,
+    "migrated": true,
+    "verified": true,
+    "beta": true
+  },
+  "tags": [
+    {
+      "id": "BBB"
+    },
+    {
+      "id": "F.E.D.E"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:41:46.639Z"
+}
