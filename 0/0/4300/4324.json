@@ -1,0 +1,90 @@
+{
+  "id": 4324,
+  "user_id": 774791,
+  "cloneof_id": null,
+  "string_id": "op_world",
+  "title": "map#12_12_12",
+  "description": "op",
+  "data": "{\"screenObjects\":[{\"id\":38,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":13.58},{\"x\":10000,\"y\":13.58},{\"x\":10000,\"y\":3533.392},{\"x\":0,\"y\":3533.392}],\"position\":{\"x\":0,\"y\":13.58},\"size\":{\"width\":10000,\"height\":3519.813},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":37,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":12.208,\"y\":30.749},{\"x\":10000,\"y\":30.749},{\"x\":10000,\"y\":7000},{\"x\":12.208,\"y\":7000}],\"position\":{\"x\":12.208,\"y\":30.749},\"size\":{\"width\":9987.792,\"height\":6969.251},\"settings\":{\"foodIds\":[1,2,3,4,5,7,8,10,11,15,16,17,24,25],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":696074.280992391}},{\"id\":43,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":0},{\"x\":9953.532,\"y\":0},{\"x\":9953.532,\"y\":3516.222},{\"x\":0,\"y\":3516.222}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":44,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":0},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":3507.847},{\"x\":0,\"y\":3507.847}],\"texture\":6,\"settings\":{\"collidable\":false}},{\"id\":46,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":6041.813,\"y\":3498.497},{\"x\":6042.813,\"y\":3498.497},{\"x\":6042.813,\"y\":3499.497},{\"x\":8651.043,\"y\":919.75}],\"texture\":6,\"settings\":{\"collidable\":false}}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1000\",\"height\":\"700\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 5,
+  "created_at": "2020-09-19T09:50:41.000Z",
+  "updated_at": "2020-09-19T12:25:13.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 774791,
+    "username": "player1_223",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-09-19T09:48:21.000Z",
+    "date_last_played": "2020-09-19T11:03:54.000Z",
+    "kill_count": 4,
+    "play_count": 4,
+    "highest_score": 204528,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 8,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "op"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T16:46:31.679Z"
+}
