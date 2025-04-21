@@ -1,0 +1,90 @@
+{
+  "id": 5491,
+  "user_id": 809779,
+  "cloneof_id": null,
+  "string_id": "2345",
+  "title": "Untitled",
+  "description": "2345",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1301.586,\"y\":155.132},{\"x\":2484.308,\"y\":155.132},{\"x\":2484.308,\"y\":382.23},{\"x\":1301.586,\"y\":382.23}],\"position\":{\"x\":1301.586,\"y\":155.132},\"size\":{\"width\":1182.722,\"height\":227.097},\"settings\":{\"area\":0}},{\"id\":3,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4164.484,\"y\":324.842},{\"x\":4165.484,\"y\":324.842},{\"x\":4165.484,\"y\":325.842},{\"x\":4164.484,\"y\":325.842}],\"position\":{\"x\":4164.484,\"y\":324.842},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":4,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3610.11,\"y\":333.319},{\"x\":3611.11,\"y\":333.319},{\"x\":3611.11,\"y\":334.319},{\"x\":3610.11,\"y\":334.319}],\"position\":{\"x\":3610.11,\"y\":333.319},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[24],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":344.861,\"y\":128.108},{\"x\":690.18,\"y\":128.108},{\"x\":690.18,\"y\":150.313},{\"x\":344.861,\"y\":150.313}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":212.177,\"y\":118.958},{\"x\":866.718,\"y\":118.958},{\"x\":866.718,\"y\":313.372},{\"x\":212.177,\"y\":313.372}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4713.605,\"y\":100.819},{\"x\":6070.94,\"y\":105.377},{\"x\":7016.599,\"y\":301.817},{\"x\":4716.673,\"y\":239.414}],\"texture\":1,\"settings\":{\"collidable\":true}}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 6,
+  "created_at": "2021-01-06T02:29:46.000Z",
+  "updated_at": "2021-01-06T02:29:46.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 809779,
+    "username": "Excaligoat",
+    "description": "",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-01-06T01:14:07.000Z",
+    "date_last_played": "2022-04-14T23:36:45.000Z",
+    "kill_count": 392,
+    "play_count": 329,
+    "highest_score": 976837,
+    "picture": "809779.gif",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 278,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "432"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:01:43.927Z"
+}
