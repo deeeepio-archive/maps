@@ -1,0 +1,70 @@
+{
+  "id": 11131,
+  "user_id": 20805880,
+  "cloneof_id": null,
+  "string_id": "e_e_3",
+  "title": "crab",
+  "description": "crab",
+  "data": "{\"screenObjects\":[{\"id\":1440,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":1.064},{\"x\":5000,\"y\":1.064},{\"x\":5000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":1.064},\"size\":{\"width\":5000,\"height\":998.936},\"settings\":{\"area\":63}},{\"id\":1453,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":5000,\"y\":0},{\"x\":5000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":5000,\"height\":1000},\"settings\":{\"fishLevels\":[103,113,1,17,105],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":1447,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":0,\"y\":692.19},{\"x\":894.673,\"y\":872.552},{\"x\":968.913,\"y\":1000},{\"x\":0,\"y\":1000}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":1441,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":949.435},{\"x\":5000,\"y\":944.888},{\"x\":5000,\"y\":1000},{\"x\":0.778,\"y\":1000}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1443,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":5000,\"y\":693.617},{\"x\":4881.663,\"y\":702.438},{\"x\":4785.553,\"y\":755.412},{\"x\":4593.173,\"y\":815.64},{\"x\":4558.365,\"y\":900.398},{\"x\":4678.683,\"y\":864.829},{\"x\":4836.834,\"y\":836.828},{\"x\":5000,\"y\":798.988}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1446,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3.64,\"y\":572.245},{\"x\":240.02,\"y\":655.912},{\"x\":400.592,\"y\":737.558},{\"x\":594.927,\"y\":796.513},{\"x\":829.431,\"y\":783.711},{\"x\":970.079,\"y\":842.301},{\"x\":885.723,\"y\":890.971},{\"x\":655.582,\"y\":877.049},{\"x\":456.433,\"y\":847.31},{\"x\":70.444,\"y\":746.008},{\"x\":0,\"y\":710.839}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1430,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1214.825,\"y\":411.324},{\"x\":1368.164,\"y\":349.825},{\"x\":1498.752,\"y\":288.478},{\"x\":1674.897,\"y\":290.313},{\"x\":1907.782,\"y\":280.259},{\"x\":2181.489,\"y\":287.974},{\"x\":2544.923,\"y\":267.743},{\"x\":2893.264,\"y\":300.744},{\"x\":3193.522,\"y\":431.335},{\"x\":3422.197,\"y\":385.44},{\"x\":3518.684,\"y\":240.612},{\"x\":3643.933,\"y\":170.05},{\"x\":3765.228,\"y\":121.521},{\"x\":3926.816,\"y\":81.926},{\"x\":4080.854,\"y\":86.967},{\"x\":4290.344,\"y\":108.274},{\"x\":4446.214,\"y\":126.372},{\"x\":4709.658,\"y\":326.703},{\"x\":4854.774,\"y\":440.951},{\"x\":4808.296,\"y\":642.677},{\"x\":4251.164,\"y\":664.654},{\"x\":3517.821,\"y\":582.544},{\"x\":3176.443,\"y\":591.983},{\"x\":2470.239,\"y\":583.665},{\"x\":2061.679,\"y\":631.926},{\"x\":1745.748,\"y\":687.947}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":1450,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":181.659,\"y\":868.269},{\"x\":244.824,\"y\":871.808},{\"x\":225.625,\"y\":888.484},{\"x\":200.64,\"y\":883.683}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":1433,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1776.766,\"y\":290.689,\"rotation\":0,\"hSType\":29},{\"id\":1434,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1844.845,\"y\":287.32,\"rotation\":0,\"hSType\":29},{\"id\":1435,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1960.536,\"y\":283.161,\"rotation\":0,\"hSType\":29},{\"id\":1436,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2091.967,\"y\":292.88,\"rotation\":0,\"hSType\":29},{\"id\":1437,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2201.53,\"y\":291.545,\"rotation\":0,\"hSType\":29},{\"id\":1438,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2322.391,\"y\":282.744,\"rotation\":0,\"hSType\":29},{\"id\":1439,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":2467.71,\"y\":274.612,\"rotation\":0,\"hSType\":29},{\"id\":1431,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":355.636},{\"x\":5000,\"y\":355.636},{\"x\":5000,\"y\":1000},{\"x\":0,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":1432,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":5000,\"y\":0},{\"x\":5000,\"y\":357.591},{\"x\":0,\"y\":360.334}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"500\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 17,
+  "created_at": "2022-10-19T14:16:12.000Z",
+  "updated_at": "2022-10-19T14:16:13.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20805880,
+    "username": "pikminboi7",
+    "description": "i was #1 once \ni know funny story tho\ni was #1 as axolotl on ffa\ni reached 1.3 million score until a player named snek ate me\ni did this all for my late golden albino axolotl thor",
+    "about": "am fren :) \ni don't attack unless threatened provoked or attacked\nI like playing creb\ni also MAY or MAY NOT have started a mafia on more than one ocasion",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-03-08T17:38:32.000Z",
+    "date_last_played": "2024-09-20T11:59:32.000Z",
+    "kill_count": 1365,
+    "play_count": 1165,
+    "highest_score": 2191397,
+    "picture": "20805880-fce8710defa6634b0bb6621bd0db9d426.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 139,
+    "tier": 5,
+    "xp": 322050,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "crab"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:35:04.001Z"
+}
