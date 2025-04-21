@@ -1,0 +1,60 @@
+{
+  "id": 10698,
+  "user_id": 20759180,
+  "cloneof_id": null,
+  "string_id": "biosquare_v1",
+  "title": "Biosquare",
+  "description": "Includes all habitat combinations (Terrain coming soon)",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":2000},\"settings\":{\"area\":0}},{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":3991.222},{\"x\":8000,\"y\":3991.222},{\"x\":8000,\"y\":7991.222},{\"x\":0,\"y\":7991.222}],\"position\":{\"x\":0,\"y\":3991.222},\"size\":{\"width\":8000,\"height\":4000},\"settings\":{\"area\":8}},{\"id\":3,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":2000},{\"x\":8000,\"y\":2000},{\"x\":8000,\"y\":6000},{\"x\":0,\"y\":6000}],\"position\":{\"x\":0,\"y\":2000},\"size\":{\"width\":8000,\"height\":4000},\"settings\":{\"area\":4}},{\"id\":4,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5000,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":8000},{\"x\":5000,\"y\":8000}],\"position\":{\"x\":5000,\"y\":0},\"size\":{\"width\":3000,\"height\":8000},\"settings\":{\"area\":32}},{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":0},{\"x\":3000,\"y\":8000},{\"x\":0,\"y\":8000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":3000,\"height\":8000},\"settings\":{\"area\":32}},{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1000,\"y\":0},{\"x\":7000,\"y\":0},{\"x\":7000,\"y\":8000},{\"x\":1000,\"y\":8000}],\"position\":{\"x\":1000,\"y\":0},\"size\":{\"width\":6000,\"height\":8000},\"settings\":{\"area\":16}},{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":6000,\"y\":0},{\"x\":6000,\"y\":8000},{\"x\":0,\"y\":8000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":6000,\"height\":8000},\"settings\":{\"area\":1}},{\"id\":8,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2000,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":8000},{\"x\":2000,\"y\":8000}],\"position\":{\"x\":2000,\"y\":0},\"size\":{\"width\":6000,\"height\":8000},\"settings\":{\"area\":2}},{\"id\":30,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":2000},{\"x\":2000,\"y\":2000},{\"x\":2000,\"y\":8000},{\"x\":0,\"y\":8000}],\"position\":{\"x\":0,\"y\":2000},\"size\":{\"width\":2000,\"height\":6000},\"settings\":{\"foodIds\":[16],\"count\":9756,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":120000,\"onlyOnWater\":true}},{\"id\":35,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2000,\"y\":2000},{\"x\":4000,\"y\":2000},{\"x\":4000,\"y\":8000},{\"x\":2000,\"y\":8000}],\"position\":{\"x\":2000,\"y\":2000},\"size\":{\"width\":2000,\"height\":6000},\"settings\":{\"foodIds\":[17],\"count\":9756,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":120000}},{\"id\":24,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":5000,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":8000},{\"x\":5000,\"y\":8000}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":26,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3000,\"y\":0},{\"x\":3000,\"y\":8000},{\"x\":0,\"y\":8000}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":28,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2000,\"y\":0},{\"x\":6000,\"y\":0},{\"x\":6000,\"y\":8000},{\"x\":2000,\"y\":8000}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":9,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":2000},{\"x\":8000,\"y\":2000},{\"x\":8000,\"y\":8000},{\"x\":0,\"y\":8000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":10,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"400\",\"height\":\"800\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 15,
+  "created_at": "2022-08-19T21:36:28.000Z",
+  "updated_at": "2022-08-30T00:26:01.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20759180,
+    "username": "Ouro6oros",
+    "description": "Well that happened.",
+    "about": "",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-09-16T03:52:54.000Z",
+    "date_last_played": "2024-11-28T22:06:15.000Z",
+    "kill_count": 2763,
+    "play_count": 1732,
+    "highest_score": 2499858,
+    "picture": "20759180-faa81f56da25ccfc108d72072c22c82f7.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 24,
+    "tier": 6,
+    "xp": 438450,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "WIP"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:32:23.696Z"
+}
