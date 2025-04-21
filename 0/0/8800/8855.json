@@ -1,0 +1,106 @@
+{
+  "id": 8855,
+  "user_id": 662517,
+  "cloneof_id": null,
+  "string_id": "venom_1v1_fjord",
+  "title": "Venom's 1v1 Map",
+  "description": "Electric Boogaloo ",
+  "data": "{\"screenObjects\":[{\"id\":50,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":51,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"foodIds\":[16,24],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":400,\"onlyOnWater\":true}},{\"id\":52,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":107.99,\"y\":0},{\"x\":107.659,\"y\":17.337},{\"x\":69.496,\"y\":16.009},{\"x\":31.001,\"y\":20.324},{\"x\":18.059,\"y\":40.567},{\"x\":20.382,\"y\":78.066},{\"x\":16.399,\"y\":122.534},{\"x\":18.39,\"y\":166.67},{\"x\":34.319,\"y\":182.267},{\"x\":61.863,\"y\":179.613},{\"x\":100.358,\"y\":182.267},{\"x\":100.358,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[5,17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":53,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":107.572,\"y\":17.308},{\"x\":105.999,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":98.035,\"y\":200},{\"x\":100.026,\"y\":182.599},{\"x\":134.87,\"y\":181.604},{\"x\":165.733,\"y\":181.936},{\"x\":183.653,\"y\":171.98},{\"x\":183.653,\"y\":141.781},{\"x\":186.971,\"y\":111.251},{\"x\":182.989,\"y\":71.097},{\"x\":187.967,\"y\":34.261},{\"x\":172.37,\"y\":18.664},{\"x\":138.853,\"y\":20.324}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[5,17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":54,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":136.238,\"y\":183.222,\"rotation\":0,\"hSType\":37},{\"id\":55,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":184.863,\"y\":171.152,\"rotation\":-35.39,\"hSType\":76},{\"id\":56,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":174.685,\"y\":182.355,\"rotation\":-50.04,\"hSType\":76},{\"id\":57,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":90.435,\"y\":183.073,\"rotation\":5.25,\"hSType\":42},{\"id\":58,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":62.984,\"y\":196.56,\"rotation\":0,\"hSType\":36},{\"id\":59,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":113.264,\"y\":185.65,\"rotation\":0,\"hSType\":36},{\"id\":60,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":152.669,\"y\":183.608,\"rotation\":0,\"hSType\":36},{\"id\":61,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":113.492,\"y\":144.208,\"rotation\":0,\"hSType\":36},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":63.06,\"y\":160.424,\"rotation\":0,\"hSType\":36},{\"id\":63,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":25.619,\"y\":177.703,\"rotation\":39.01,\"hSType\":65},{\"id\":64,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":120.917,\"y\":163.328},{\"x\":137.289,\"y\":148.575},{\"x\":160.958,\"y\":138.627},{\"x\":179.047,\"y\":109.192},{\"x\":193.566,\"y\":104.386},{\"x\":190.587,\"y\":160.876},{\"x\":184.572,\"y\":180.424},{\"x\":165.357,\"y\":182.181},{\"x\":155.917,\"y\":174.345},{\"x\":131.857,\"y\":170.172}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":65,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":10.718,\"y\":116.268},{\"x\":45.668,\"y\":125.472},{\"x\":73.362,\"y\":148.255},{\"x\":112.125,\"y\":157.547},{\"x\":132.199,\"y\":170.15},{\"x\":155.824,\"y\":174.143},{\"x\":171.721,\"y\":187.844},{\"x\":29.203,\"y\":188.331},{\"x\":9.881,\"y\":172.579}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":66,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":175.083,\"y\":115.201},{\"x\":142.484,\"y\":125.781},{\"x\":117.411,\"y\":128.437},{\"x\":92.807,\"y\":137.61},{\"x\":62.257,\"y\":139.674},{\"x\":73.139,\"y\":148.101},{\"x\":112.891,\"y\":158.058},{\"x\":121.053,\"y\":163.25},{\"x\":137.546,\"y\":148.295},{\"x\":160.495,\"y\":139.088}],\"texture\":3,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":67,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":18.507,\"y\":79.735},{\"x\":40.172,\"y\":76.545},{\"x\":59.711,\"y\":68.57},{\"x\":75.396,\"y\":70.829},{\"x\":88.688,\"y\":69.766},{\"x\":97.859,\"y\":73.621},{\"x\":115.138,\"y\":70.696},{\"x\":131.886,\"y\":75.614},{\"x\":150.362,\"y\":70.165},{\"x\":167.375,\"y\":77.342},{\"x\":187.313,\"y\":79.336},{\"x\":190.902,\"y\":92.096},{\"x\":11.728,\"y\":91.299}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":68,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":59.476,\"y\":68.836},{\"x\":74.195,\"y\":62.188},{\"x\":84.991,\"y\":54.359},{\"x\":97.491,\"y\":52.166},{\"x\":109.045,\"y\":53.381},{\"x\":120.207,\"y\":52.149},{\"x\":128.092,\"y\":55.83},{\"x\":137.13,\"y\":64.211},{\"x\":150.661,\"y\":70.458},{\"x\":132.296,\"y\":75.323},{\"x\":114.848,\"y\":71.093},{\"x\":97.189,\"y\":73.736},{\"x\":88.624,\"y\":69.824},{\"x\":75.195,\"y\":70.881}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":69,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":91.38},{\"x\":200,\"y\":91.38},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[830922,548463],\"hasBorder\":true},{\"id\":70,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":93.454},{\"x\":0,\"y\":93.454}],\"settings\":{\"collidable\":true},\"colors\":[3199728,11656441]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 21,
+  "created_at": "2021-12-26T16:49:18.000Z",
+  "updated_at": "2022-02-25T03:45:04.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 662517,
+    "username": "Venom583",
+    "description": "gg man",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-11-24T18:58:42.000Z",
+    "date_last_played": "2024-12-29T23:00:02.000Z",
+    "kill_count": 46543,
+    "play_count": 7973,
+    "highest_score": 22007822,
+    "picture": "662517.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 26393,
+    "tier": 10,
+    "xp": 1272600,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Fjord"
+    },
+    {
+      "id": "Venom"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:13:23.027Z"
+}
