@@ -1,0 +1,90 @@
+{
+  "id": 943,
+  "user_id": 645349,
+  "cloneof_id": null,
+  "string_id": "swampheaven",
+  "title": "Swamp Heaven",
+  "description": "Swamp Heaven",
+  "data": "{\"screenObjects\":[{\"id\":3206,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":692.45,\"y\":529.253},{\"x\":693.45,\"y\":529.253},{\"x\":693.45,\"y\":530.253},{\"x\":692.45,\"y\":530.253}],\"position\":{\"x\":692.45,\"y\":529.253},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":3207,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":9.056,\"y\":333.851},{\"x\":10.056,\"y\":333.851},{\"x\":10.056,\"y\":334.851},{\"x\":9.056,\"y\":334.851}],\"position\":{\"x\":9.056,\"y\":333.851},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":3208,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":742.498},{\"x\":7892,\"y\":742.498},{\"x\":7892,\"y\":752.498},{\"x\":0,\"y\":752.498}],\"position\":{\"x\":0,\"y\":742.498},\"size\":{\"width\":7892,\"height\":10},\"settings\":{\"area\":0}},{\"id\":3209,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2.517,\"y\":314.806},{\"x\":8000,\"y\":314.806},{\"x\":8000,\"y\":750},{\"x\":2.517,\"y\":750}],\"position\":{\"x\":2.517,\"y\":314.806},\"size\":{\"width\":7997.483,\"height\":435.194},\"settings\":{\"area\":0}},{\"id\":3223,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1095.061,\"y\":7.731},{\"x\":1897.928,\"y\":7.731},{\"x\":1897.928,\"y\":372.306},{\"x\":1095.061,\"y\":372.306}],\"position\":{\"x\":1095.061,\"y\":7.731},\"size\":{\"width\":802.867,\"height\":364.575},\"settings\":{\"fishLevels\":[67],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":3228,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3058.207,\"y\":40.596},{\"x\":3822.048,\"y\":40.596},{\"x\":3822.048,\"y\":379.89},{\"x\":3058.207,\"y\":379.89}],\"position\":{\"x\":3058.207,\"y\":40.596},\"size\":{\"width\":763.841,\"height\":339.293},\"settings\":{\"fishLevels\":[40],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":3231,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5609.529,\"y\":80.578},{\"x\":6322.99,\"y\":80.578},{\"x\":6322.99,\"y\":365.915},{\"x\":5609.529,\"y\":365.915}],\"position\":{\"x\":5609.529,\"y\":80.578},\"size\":{\"width\":713.461,\"height\":285.337},\"settings\":{\"fishLevels\":[34],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":3219,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":356.882,\"y\":0},{\"x\":7759.771,\"y\":0},{\"x\":7759.771,\"y\":504.354},{\"x\":356.882,\"y\":504.354}],\"position\":{\"x\":356.882,\"y\":0},\"size\":{\"width\":7402.889,\"height\":504.354},\"settings\":{\"foodIds\":[1],\"count\":446,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":37336.7383029074}},{\"id\":3210,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":7444.106,\"y\":422.396},{\"x\":6956.417,\"y\":408.28},{\"x\":7284.085,\"y\":4.104},{\"x\":7756.745,\"y\":0}],\"settings\":{\"angle\":140,\"strength\":66}},{\"id\":3211,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":367.508,\"y\":0},{\"x\":539.313,\"y\":387.066},{\"x\":956.188,\"y\":399.966},{\"x\":768.487,\"y\":0}],\"settings\":{\"angle\":68,\"strength\":66}},{\"id\":3212,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":1275.51,\"y\":327.03},{\"x\":1276.51,\"y\":327.03},{\"x\":1276.51,\"y\":328.03},{\"x\":1275.51,\"y\":328.03}],\"settings\":{\"angle\":0,\"strength\":66}},{\"id\":3213,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":643.032,\"y\":208.264},{\"x\":644.032,\"y\":208.264},{\"x\":644.032,\"y\":209.264},{\"x\":643.032,\"y\":209.264}],\"settings\":{\"angle\":0,\"strength\":66}},{\"id\":3214,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":375.777},{\"x\":8000,\"y\":393.931},{\"x\":8000,\"y\":750},{\"x\":2.425,\"y\":750}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":3215,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7403.942,\"y\":441.128},{\"x\":7795.627,\"y\":0},{\"x\":8100,\"y\":0},{\"x\":8092.908,\"y\":419.91}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3216,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":538.672,\"y\":376.372},{\"x\":350.214,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":395.203}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3217,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":73.952},{\"x\":8000,\"y\":73.952},{\"x\":8000,\"y\":391.372},{\"x\":0,\"y\":379.27}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":3218,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":8000,\"y\":80.691},{\"x\":4.671,\"y\":80.691},{\"x\":4.671,\"y\":0},{\"x\":8000,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"800\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 17,
+  "created_at": "2019-10-28T21:43:27.000Z",
+  "updated_at": "2019-10-28T21:49:43.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 645349,
+    "username": "CrazyBoi1479",
+    "description": "Bow down to your king, nevermind DIEE! ",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-10-18T19:19:50.000Z",
+    "date_last_played": "2022-06-16T23:00:44.000Z",
+    "kill_count": 682,
+    "play_count": 20,
+    "highest_score": 1983848,
+    "picture": "645349.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 49,
+    "tier": 1,
+    "xp": 750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Swamp Heaven"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T09:34:48.099Z"
+}

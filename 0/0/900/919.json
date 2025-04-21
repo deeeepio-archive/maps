@@ -1,0 +1,90 @@
+{
+  "id": 919,
+  "user_id": 548155,
+  "cloneof_id": null,
+  "string_id": "large_sea",
+  "title": "Huge Ocean",
+  "description": "This body of water can hold millions of creatures, but, only some creatures can live this environment...",
+  "data": "{\"screenObjects\":[{\"id\":32,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":8116.283,\"y\":2954.008},{\"x\":10705.621,\"y\":2954.008},{\"x\":10705.621,\"y\":3595.762},{\"x\":8116.283,\"y\":3595.762}],\"position\":{\"x\":8116.283,\"y\":2954.008},\"size\":{\"width\":2589.338,\"height\":641.754},\"settings\":{\"area\":4}},{\"id\":34,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":2833.088},{\"x\":8123.988,\"y\":2833.088},{\"x\":8123.988,\"y\":4150.532},{\"x\":0,\"y\":4150.532}],\"position\":{\"x\":0,\"y\":2833.088},\"size\":{\"width\":8123.988,\"height\":1317.444},\"settings\":{\"area\":48}},{\"id\":37,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":4116.471},{\"x\":10789.735,\"y\":4116.471},{\"x\":10789.735,\"y\":5000},{\"x\":0,\"y\":5000}],\"position\":{\"x\":0,\"y\":4116.471},\"size\":{\"width\":10789.735,\"height\":883.529},\"settings\":{\"area\":8}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":5000},{\"x\":12000,\"y\":2753.134},{\"x\":12000,\"y\":5000}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":26,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4814.189,\"y\":3531.068,\"rotation\":0,\"fLevel\":0},{\"id\":27,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4926.803,\"y\":3638.853,\"rotation\":0,\"fLevel\":0},{\"id\":28,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4242.68,\"y\":3672.834,\"rotation\":0,\"fLevel\":84},{\"id\":30,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4745.696,\"y\":3911.199,\"rotation\":0,\"fLevel\":87},{\"id\":31,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6481.096,\"y\":3626.442,\"rotation\":0,\"fLevel\":24},{\"id\":39,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2190.346,\"y\":3596.481,\"rotation\":0,\"fLevel\":24},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":4309.13,\"y\":2991.816},{\"x\":6473.885,\"y\":2960.458},{\"x\":5932.547,\"y\":2575.103},{\"x\":4903.614,\"y\":2566.577}],\"texture\":6,\"settings\":{\"collidable\":false}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":885.729,\"y\":2559.074},{\"x\":2347.556,\"y\":2540.576},{\"x\":2893.267,\"y\":2994.278},{\"x\":452.456,\"y\":3030.211}],\"texture\":6,\"settings\":{\"collidable\":false}},{\"id\":25,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":10798.486,\"y\":2951.636},{\"x\":0,\"y\":2883.734},{\"x\":0,\"y\":4978.69}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1200\",\"height\":\"500\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 13,
+  "created_at": "2019-10-26T22:47:49.000Z",
+  "updated_at": "2019-10-26T22:47:49.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 548155,
+    "username": "2403496_789",
+    "description": "",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2018-12-28T19:56:02.000Z",
+    "date_last_played": "2021-11-07T21:17:22.000Z",
+    "kill_count": 560,
+    "play_count": 13,
+    "highest_score": 1535022,
+    "picture": "548155.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 61,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Large"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T09:34:46.996Z"
+}
