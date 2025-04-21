@@ -1,0 +1,90 @@
+{
+  "id": 3721,
+  "user_id": 759671,
+  "cloneof_id": null,
+  "string_id": "swamp_1v1",
+  "title": "Swamp 1v1",
+  "description": "Just a swamp 1v1",
+  "data": "{\"screenObjects\":[{\"id\":668,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":67.044,\"y\":19.614},{\"x\":46.116,\"y\":31.152},{\"x\":31.626,\"y\":43.494},{\"x\":16.601,\"y\":91.255},{\"x\":19.552,\"y\":132.039},{\"x\":31.626,\"y\":175.507},{\"x\":50.945,\"y\":185.434},{\"x\":116.951,\"y\":193.484},{\"x\":153.174,\"y\":177.922},{\"x\":164.712,\"y\":155.115},{\"x\":177.86,\"y\":120.77},{\"x\":176.25,\"y\":74.619},{\"x\":163.102,\"y\":50.202},{\"x\":144.052,\"y\":29.273},{\"x\":127.416,\"y\":21.224},{\"x\":96.023,\"y\":14.248},{\"x\":85.022,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":199.655},{\"x\":0,\"y\":0},{\"x\":161.492,\"y\":0},{\"x\":116.951,\"y\":13.443}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":669,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":49.862,\"y\":86.087},{\"x\":68.669,\"y\":71.507},{\"x\":110.95,\"y\":70.195},{\"x\":124.072,\"y\":85.941}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":670,\"type\":\"A\",\"layerId\":\"animals\",\"x\":61.319,\"y\":122.248,\"rotation\":78.42,\"fLevel\":34},{\"id\":671,\"type\":\"A\",\"layerId\":\"animals\",\"x\":115.123,\"y\":112.33,\"rotation\":-98.95,\"fLevel\":86},{\"id\":672,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":93.071,\"y\":13.174,\"rotation\":177.71,\"hSType\":23},{\"id\":673,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":69.191,\"y\":190.264,\"rotation\":0,\"hSType\":15},{\"id\":674,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":32.431,\"y\":38.128,\"rotation\":142.58,\"hSType\":25},{\"id\":675,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":142.228,\"y\":184.623,\"rotation\":-26.64,\"hSType\":17},{\"id\":676,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":137.615,\"y\":15.227,\"rotation\":0,\"hSType\":18},{\"id\":677,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":56.046,\"y\":6.373,\"rotation\":0,\"hSType\":18},{\"id\":678,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":88.446,\"y\":75.431,\"rotation\":0,\"hSType\":18},{\"id\":679,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":200,\"y\":83.742},{\"x\":0,\"y\":86.425},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[10671238,10068323],\"hasBorder\":true},{\"id\":680,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":85.084},{\"x\":200,\"y\":85.084}],\"settings\":{\"collidable\":true},\"colors\":[13888943,14416007]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 13,
+  "created_at": "2020-07-19T05:42:59.000Z",
+  "updated_at": "2020-07-23T19:49:39.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 759671,
+    "username": "KingGar",
+    "description": "GG! You had a good game!",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-07-19T05:36:19.000Z",
+    "date_last_played": "2020-08-03T22:44:09.000Z",
+    "kill_count": 120,
+    "play_count": 118,
+    "highest_score": 1814588,
+    "picture": "759671.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 28,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "swamp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T15:31:43.134Z"
+}
