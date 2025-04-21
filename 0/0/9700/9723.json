@@ -1,0 +1,72 @@
+{
+  "id": 9723,
+  "user_id": 20819157,
+  "cloneof_id": null,
+  "string_id": "the_landia_studios",
+  "title": "Ice Landia's Ocean",
+  "description": "Join the Group!",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1051.092},{\"x\":0,\"y\":1051.092}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":1051.092},\"settings\":{\"area\":17}},{\"id\":17,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6505.379,\"y\":1469.767},{\"x\":8000,\"y\":1469.767},{\"x\":8000,\"y\":2000},{\"x\":6505.379,\"y\":2000}],\"position\":{\"x\":6505.379,\"y\":1469.767},\"size\":{\"width\":1494.621,\"height\":530.233},\"settings\":{\"area\":26}},{\"id\":18,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":11.455,\"y\":1013.979},{\"x\":3808.721,\"y\":1013.979},{\"x\":3808.721,\"y\":2000},{\"x\":11.455,\"y\":2000}],\"position\":{\"x\":11.455,\"y\":1013.979},\"size\":{\"width\":3797.266,\"height\":986.021},\"settings\":{\"area\":41}},{\"id\":19,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3768.02,\"y\":1039.346},{\"x\":6500.401,\"y\":1039.346},{\"x\":6500.401,\"y\":1990.128},{\"x\":3768.02,\"y\":1990.128}],\"position\":{\"x\":3768.02,\"y\":1039.346},\"size\":{\"width\":2732.381,\"height\":950.783},\"settings\":{\"area\":25}},{\"id\":20,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6463.693,\"y\":1022.712},{\"x\":8000,\"y\":1022.712},{\"x\":8000,\"y\":1439.596},{\"x\":6463.693,\"y\":1439.596}],\"position\":{\"x\":6463.693,\"y\":1022.712},\"size\":{\"width\":1536.307,\"height\":416.885},\"settings\":{\"area\":31}},{\"id\":26,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7049.595,\"y\":1729.02},{\"x\":7425.929,\"y\":1729.02},{\"x\":7425.929,\"y\":1904.799},{\"x\":7049.595,\"y\":1904.799}],\"position\":{\"x\":7049.595,\"y\":1729.02},\"size\":{\"width\":376.334,\"height\":175.779},\"settings\":{\"fishLevels\":[49],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":27,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3678.739,\"y\":467.907},{\"x\":3679.739,\"y\":467.907},{\"x\":3679.739,\"y\":468.907},{\"x\":3678.739,\"y\":468.907}],\"position\":{\"x\":3678.739,\"y\":467.907},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":28,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1444.677,\"y\":84.587},{\"x\":7857.883,\"y\":84.587},{\"x\":7857.883,\"y\":313.968},{\"x\":1444.677,\"y\":313.968}],\"position\":{\"x\":1444.677,\"y\":84.587},\"size\":{\"width\":6413.206,\"height\":229.381},\"settings\":{\"fishLevels\":[4],\"animalCount\":14,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":24,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":6713.791,\"y\":1623.121},{\"x\":7665.342,\"y\":1623.121},{\"x\":7665.342,\"y\":1901.764},{\"x\":6713.791,\"y\":1901.764}],\"position\":{\"x\":6713.791,\"y\":1623.121},\"size\":{\"width\":951.551,\"height\":278.643},\"settings\":{\"foodIds\":[10],\"count\":22,\"firstSpawnMs\":\"5000\",\"reSpawnMs\":1000,\"area\":2651.431524746544}},{\"id\":29,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":6528.806,\"y\":1494.507},{\"x\":8000,\"y\":1494.507},{\"x\":8000,\"y\":2000},{\"x\":6528.806,\"y\":2000}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8000,\"y\":1217.232},{\"x\":6507.658,\"y\":1242.757},{\"x\":6507.658,\"y\":1488.357},{\"x\":8000,\"y\":1716.301}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":1621.039},{\"x\":943.613,\"y\":1621.039},{\"x\":8000,\"y\":2000},{\"x\":0,\"y\":2000}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":7113.305,\"y\":1498.384},{\"x\":7770.185,\"y\":1498.384},{\"x\":7770.185,\"y\":1690.358},{\"x\":7113.305,\"y\":1690.358}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":7959.297,\"y\":632.801},{\"x\":0,\"y\":632.801},{\"x\":0,\"y\":2000},{\"x\":7959.297,\"y\":2000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":9,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":5470.689,\"y\":1817.878},{\"x\":8000,\"y\":678.106},{\"x\":8000,\"y\":665.64},{\"x\":8000,\"y\":2000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":11,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":7837.336,\"y\":675.711},{\"x\":7838.336,\"y\":675.711},{\"x\":8000,\"y\":869.368},{\"x\":8000,\"y\":629.932}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":14,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":16.126,\"y\":641.956},{\"x\":8000,\"y\":641.956},{\"x\":8000,\"y\":0},{\"x\":16.126,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"200\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 17,
+  "created_at": "2022-04-27T14:01:57.000Z",
+  "updated_at": "2022-04-27T14:01:58.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20819157,
+    "username": "KittyCatBlacky",
+    "description": "Subscribe to KittyCatBlacky on YouTube\n",
+    "about": "I'm Da Real KittyCatBlacky",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-04-26T13:58:59.000Z",
+    "date_last_played": "2022-06-02T13:32:54.000Z",
+    "kill_count": 44,
+    "play_count": 88,
+    "highest_score": 357905,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 47,
+    "tier": 1,
+    "xp": 1950,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Cold"
+    },
+    {
+      "id": "Ice"
+    },
+    {
+      "id": "Ice Landia"
+    },
+    {
+      "id": "Landia"
+    },
+    {
+      "id": "Ocean"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:23:19.801Z"
+}
