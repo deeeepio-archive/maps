@@ -1,0 +1,86 @@
+{
+  "id": 8411,
+  "user_id": 801122,
+  "cloneof_id": null,
+  "string_id": "cold_caverns2",
+  "title": "Cold Caverns",
+  "description": "My first 1v1 map :D",
+  "data": "{\"screenObjects\":[{\"id\":82,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":250,\"y\":0},{\"x\":250,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":250,\"height\":150},\"settings\":{\"area\":63}},{\"id\":105,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0.307,\"y\":17.079},{\"x\":250,\"y\":17.079},{\"x\":250,\"y\":150},{\"x\":0.307,\"y\":150}],\"position\":{\"x\":0.307,\"y\":17.079},\"size\":{\"width\":249.693,\"height\":132.921},\"settings\":{\"foodIds\":[16],\"count\":30,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":1000,\"area\":331.8952546160974,\"onlyOnWater\":true}},{\"id\":83,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":150},{\"x\":124.434,\"y\":150},{\"x\":124.434,\"y\":139.996},{\"x\":106.695,\"y\":144.89},{\"x\":78.192,\"y\":135.589},{\"x\":48.489,\"y\":135.589},{\"x\":26.287,\"y\":139.489},{\"x\":16.386,\"y\":135.589},{\"x\":16.686,\"y\":112.786},{\"x\":22.986,\"y\":89.984},{\"x\":19.686,\"y\":44.98},{\"x\":24.486,\"y\":21.277},{\"x\":43.388,\"y\":14.976},{\"x\":66.191,\"y\":17.977},{\"x\":70.691,\"y\":29.378},{\"x\":87.593,\"y\":30.012},{\"x\":91.153,\"y\":20.697},{\"x\":98.594,\"y\":10.176},{\"x\":131.897,\"y\":5.075},{\"x\":161.9,\"y\":12.876},{\"x\":168.501,\"y\":25.478},{\"x\":170.601,\"y\":35.679},{\"x\":173.602,\"y\":39.279},{\"x\":177.502,\"y\":35.979},{\"x\":179.002,\"y\":29.378},{\"x\":181.102,\"y\":17.677},{\"x\":192.503,\"y\":11.076},{\"x\":214.706,\"y\":13.176},{\"x\":230.307,\"y\":24.577},{\"x\":236.008,\"y\":53.08},{\"x\":230.907,\"y\":97.185},{\"x\":234.808,\"y\":122.687},{\"x\":209.005,\"y\":134.389},{\"x\":174.202,\"y\":140.689},{\"x\":124.764,\"y\":139.713},{\"x\":124.697,\"y\":150},{\"x\":250,\"y\":150},{\"x\":250,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":36,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":1000,\"area\":779.2360000000001},\"settings\":{\"collidable\":true}},{\"id\":84,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":72.701,\"y\":59.732},{\"x\":74.227,\"y\":82.953},{\"x\":78.429,\"y\":99.54},{\"x\":80.42,\"y\":100.646},{\"x\":81.968,\"y\":98.434},{\"x\":82.853,\"y\":90.915},{\"x\":83.295,\"y\":77.866},{\"x\":85.728,\"y\":66.808},{\"x\":86.612,\"y\":59.731},{\"x\":85.295,\"y\":55.049},{\"x\":79.409,\"y\":58.13},{\"x\":73.119,\"y\":55.03}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":85,\"type\":\"A\",\"layerId\":\"animals\",\"x\":49.948,\"y\":68.582,\"rotation\":26.26,\"fLevel\":11},{\"id\":86,\"type\":\"A\",\"layerId\":\"animals\",\"x\":72.75,\"y\":109.118,\"rotation\":-31.7,\"fLevel\":28},{\"id\":87,\"type\":\"A\",\"layerId\":\"animals\",\"x\":51.773,\"y\":85.01,\"rotation\":-5.43,\"fLevel\":29},{\"id\":88,\"type\":\"A\",\"layerId\":\"animals\",\"x\":55.321,\"y\":84.488,\"rotation\":-20.73,\"fLevel\":29},{\"id\":89,\"type\":\"A\",\"layerId\":\"animals\",\"x\":48.016,\"y\":86.053,\"rotation\":10.19,\"fLevel\":29},{\"id\":90,\"type\":\"A\",\"layerId\":\"animals\",\"x\":60.435,\"y\":83.757,\"rotation\":-23.89,\"fLevel\":29},{\"id\":91,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":199.679,\"y\":11.386,\"rotation\":0,\"hSType\":58},{\"id\":92,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":132.762,\"y\":5.092,\"rotation\":0,\"hSType\":58},{\"id\":93,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":44.075,\"y\":15.087,\"rotation\":0,\"hSType\":58},{\"id\":94,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":106.775,\"y\":6.579,\"rotation\":0,\"hSType\":58},{\"id\":95,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":192.339,\"y\":138.558,\"rotation\":-10.63,\"hSType\":77},{\"id\":96,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":148.075,\"y\":141.135,\"rotation\":0,\"hSType\":75},{\"id\":97,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":62.5,\"y\":136.409,\"rotation\":0,\"hSType\":75},{\"id\":98,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":106.395,\"y\":144.859,\"rotation\":0,\"hSType\":74},{\"id\":99,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":149.324,\"y\":7.339,\"rotation\":180.93,\"hSType\":73},{\"id\":100,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":70.749,\"y\":28.929},{\"x\":72.036,\"y\":40.345},{\"x\":73.041,\"y\":55.815},{\"x\":79.316,\"y\":58.325},{\"x\":85.354,\"y\":55.031},{\"x\":87.442,\"y\":29.899}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":101,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":56.318},{\"x\":76.658,\"y\":56.913},{\"x\":78.695,\"y\":88.675},{\"x\":0,\"y\":89.132}],\"settings\":{\"collidable\":true},\"colors\":[8963032,2654883],\"hasBorder\":false},{\"id\":102,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":88.772},{\"x\":250,\"y\":88.472},{\"x\":250,\"y\":150},{\"x\":0,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[2654883,3028798],\"hasBorder\":false},{\"id\":103,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":250,\"y\":0},{\"x\":250,\"y\":57.233},{\"x\":0,\"y\":56.638}],\"settings\":{\"collidable\":true},\"colors\":[10211315,7048613]},{\"id\":104,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":76.691,\"y\":56.894},{\"x\":250,\"y\":57.158},{\"x\":250,\"y\":89.006},{\"x\":76.427,\"y\":89.006}],\"settings\":{\"collidable\":true},\"colors\":[7048613,3295837]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"25\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 24,
+  "created_at": "2021-10-30T21:46:18.000Z",
+  "updated_at": "2021-10-30T21:50:39.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 801122,
+    "username": "DanieltheDaniel",
+    "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+    "about": "My name is Daniel",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-12-11T02:24:30.000Z",
+    "date_last_played": "2023-10-01T21:09:53.000Z",
+    "kill_count": 10150,
+    "play_count": 2843,
+    "highest_score": 3458981,
+    "picture": "801122.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1766,
+    "tier": 5,
+    "xp": 318000,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Cave"
+    },
+    {
+      "id": "Cold"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:59:45.951Z"
+}

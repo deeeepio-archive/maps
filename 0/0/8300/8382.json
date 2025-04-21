@@ -1,0 +1,70 @@
+{
+  "id": 8382,
+  "user_id": 20770671,
+  "cloneof_id": 8381,
+  "string_id": "kk2265982",
+  "title": "EVOLVE",
+  "description": "I made this map so you can have fun and level up with your friends or by yourself!Have fun!",
+  "data": "{\"screenObjects\":[{\"id\":25,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":8000},{\"x\":0,\"y\":8000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":10000,\"height\":8000},\"settings\":{\"area\":0}},{\"id\":11,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":9047.576,\"y\":5870.602},{\"x\":10000,\"y\":5870.602},{\"x\":10000,\"y\":6857.491},{\"x\":9047.576,\"y\":6857.491}],\"position\":{\"x\":9047.576,\"y\":5870.602},\"size\":{\"width\":952.424,\"height\":986.889},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":12,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":9658.333,\"y\":6292.551},{\"x\":9659.333,\"y\":6292.551},{\"x\":9659.333,\"y\":6293.551},{\"x\":9658.333,\"y\":6293.551}],\"position\":{\"x\":9658.333,\"y\":6292.551},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"fishLevels\":[],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":13,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2073.726,\"y\":5793.763},{\"x\":8555.771,\"y\":5793.763},{\"x\":8555.771,\"y\":7173.475},{\"x\":2073.726,\"y\":7173.475}],\"position\":{\"x\":2073.726,\"y\":5793.763},\"size\":{\"width\":6482.045,\"height\":1379.712},\"settings\":{\"foodIds\":[3],\"count\":7271,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"0\",\"area\":89433.54116524644,\"onlyOnWater\":false}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2360.848,\"y\":4915.231},{\"x\":8609.844,\"y\":4828.523},{\"x\":7529.616,\"y\":5338.612},{\"x\":4265.115,\"y\":5338.612}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2985.173,\"y\":1408.236},{\"x\":8834.359,\"y\":1734.326},{\"x\":7867.355,\"y\":2628.15},{\"x\":2985.173,\"y\":2628.15}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2999.428,\"y\":1330.619},{\"x\":0,\"y\":2092.339},{\"x\":2406.454,\"y\":2654.018},{\"x\":2999.428,\"y\":2654.018}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":8249.188,\"y\":2001.926},{\"x\":8250.188,\"y\":2001.926},{\"x\":8250.188,\"y\":2002.926},{\"x\":8291.256,\"y\":2073.902}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":8661.627,\"y\":1762.908},{\"x\":8662.627,\"y\":1762.908},{\"x\":8662.627,\"y\":1763.908},{\"x\":9706.885,\"y\":2527.858}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":10000,\"y\":2523.832},{\"x\":8004.408,\"y\":2535.934},{\"x\":8004.408,\"y\":1707.468},{\"x\":10000,\"y\":1712.635}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":27,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2777.453,\"y\":808.021,\"rotation\":0,\"fLevel\":42},{\"id\":28,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4307.58,\"y\":508.572,\"rotation\":0,\"fLevel\":42},{\"id\":29,\"type\":\"A\",\"layerId\":\"animals\",\"x\":7862.107,\"y\":898.649,\"rotation\":0,\"fLevel\":42},{\"id\":30,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5450.172,\"y\":493.381,\"rotation\":0,\"fLevel\":42},{\"id\":31,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6676.421,\"y\":493.381,\"rotation\":0,\"fLevel\":42},{\"id\":32,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3621.138,\"y\":691.933,\"rotation\":0,\"fLevel\":42},{\"id\":33,\"type\":\"A\",\"layerId\":\"animals\",\"x\":9577.849,\"y\":6367.43,\"rotation\":0,\"fLevel\":42},{\"id\":34,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3736.346,\"y\":986.608,\"rotation\":0,\"fLevel\":42},{\"id\":35,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3729.321,\"y\":5941.296,\"rotation\":0,\"fLevel\":59},{\"id\":36,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2427.052,\"y\":3902.492,\"rotation\":0,\"fLevel\":0},{\"id\":37,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3134.056,\"y\":3063.66,\"rotation\":0,\"fLevel\":0},{\"id\":38,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3794.396,\"y\":4049.763,\"rotation\":0,\"fLevel\":0},{\"id\":39,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5524.355,\"y\":3327.145,\"rotation\":0,\"fLevel\":0},{\"id\":40,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6858.788,\"y\":4831.305,\"rotation\":0,\"fLevel\":0},{\"id\":41,\"type\":\"A\",\"layerId\":\"animals\",\"x\":6062.299,\"y\":4144.283,\"rotation\":0,\"fLevel\":0},{\"id\":42,\"type\":\"A\",\"layerId\":\"animals\",\"x\":4997.959,\"y\":3721.481,\"rotation\":0,\"fLevel\":0},{\"id\":43,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5056.865,\"y\":4346.255,\"rotation\":0,\"fLevel\":0},{\"id\":44,\"type\":\"A\",\"layerId\":\"animals\",\"x\":5056.865,\"y\":4346.255,\"rotation\":0,\"fLevel\":0},{\"id\":45,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3098.883,\"y\":5932.664,\"rotation\":0,\"fLevel\":0},{\"id\":46,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3098.883,\"y\":5932.664,\"rotation\":0,\"fLevel\":0},{\"id\":47,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3147.931,\"y\":5932.664,\"rotation\":0,\"fLevel\":0},{\"id\":48,\"type\":\"A\",\"layerId\":\"animals\",\"x\":9291.2,\"y\":6504.213,\"rotation\":0,\"fLevel\":0},{\"id\":49,\"type\":\"A\",\"layerId\":\"animals\",\"x\":9291.2,\"y\":6504.213,\"rotation\":0,\"fLevel\":0},{\"id\":50,\"type\":\"A\",\"layerId\":\"animals\",\"x\":7533.885,\"y\":5880.226,\"rotation\":0,\"fLevel\":0},{\"id\":51,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3025.019,\"y\":4568.863,\"rotation\":0,\"fLevel\":68},{\"id\":52,\"type\":\"P\",\"layerId\":\"props\",\"x\":4903.695,\"y\":4659.518,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Hi I made this map so u can keep leveling up with your friends or by yourself!Have fun!\"}},{\"id\":53,\"type\":\"P\",\"layerId\":\"props\",\"x\":8105.42,\"y\":4135.422,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":54,\"type\":\"P\",\"layerId\":\"props\",\"x\":5111.84,\"y\":4655.792,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":55,\"type\":\"P\",\"layerId\":\"props\",\"x\":5451.689,\"y\":4757.149,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"Have fun!\"}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":4207.894,\"y\":5189.774},{\"x\":6461.159,\"y\":5189.774},{\"x\":6461.159,\"y\":4925.749},{\"x\":4207.894,\"y\":4925.749}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":338.032,\"y\":5818.05},{\"x\":10000,\"y\":5818.05},{\"x\":10000,\"y\":8000},{\"x\":338.032,\"y\":8000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":17,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":367.462,\"y\":5847.512},{\"x\":0,\"y\":5856.587},{\"x\":0,\"y\":8000},{\"x\":349.309,\"y\":8000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":18,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":6372.957,\"y\":6683.241},{\"x\":6373.957,\"y\":6683.241},{\"x\":6373.957,\"y\":6684.241},{\"x\":4375.698,\"y\":5220.97}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":19,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":10000,\"y\":4951.05},{\"x\":0,\"y\":4951.051},{\"x\":0,\"y\":6431.907},{\"x\":10000,\"y\":6431.907}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":0},\"worldSize\":{\"width\":\"1000\",\"height\":\"800\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 44,
+  "created_at": "2021-10-29T00:58:03.000Z",
+  "updated_at": "2021-10-29T00:58:03.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20770671,
+    "username": "Kk226598",
+    "description": "DONT TELL BIG BIRD I KILLED COOKIE MONSTER",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-10-25T19:12:47.000Z",
+    "date_last_played": "2022-11-06T23:34:31.000Z",
+    "kill_count": 75,
+    "play_count": 173,
+    "highest_score": 560159,
+    "picture": "20770671.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 56,
+    "tier": 1,
+    "xp": 150,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "hi"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:59:44.418Z"
+}
