@@ -1,0 +1,99 @@
+{
+  "id": 523,
+  "user_id": 562858,
+  "cloneof_id": null,
+  "string_id": "englishcoast",
+  "title": "English Coast WIP",
+  "description": "Sort of a psuedo-unrealistic English Coast.",
+  "data": "{\"screenObjects\":[{\"id\":18,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":500},{\"x\":8000,\"y\":500},{\"x\":8000,\"y\":1250},{\"x\":0,\"y\":1250}],\"position\":{\"x\":0,\"y\":500},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"area\":41}},{\"id\":45,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":534.087},{\"x\":1423.055,\"y\":534.087},{\"x\":1423.055,\"y\":997.557},{\"x\":0,\"y\":997.557}],\"position\":{\"x\":0,\"y\":534.087},\"size\":{\"width\":1423.055,\"height\":463.469},\"settings\":{\"fishLevels\":[67],\"animalCount\":3,\"firstSpawnMs\":\"3000\",\"reSpawnMs\":\"10000\",\"npcType\":5,\"restrictMovement\":true}},{\"id\":47,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":98.172,\"y\":501.14},{\"x\":8000,\"y\":501.14},{\"x\":8000,\"y\":885.36},{\"x\":98.172,\"y\":885.36}],\"position\":{\"x\":98.172,\"y\":501.14},\"size\":{\"width\":7901.828,\"height\":384.22},\"settings\":{\"fishLevels\":[54,13,47,1],\"animalCount\":40,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":58,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3660.429,\"y\":982.94},{\"x\":5497.655,\"y\":982.94},{\"x\":5497.655,\"y\":1137.803},{\"x\":3660.429,\"y\":1137.803}],\"position\":{\"x\":3660.429,\"y\":982.94},\"size\":{\"width\":1837.227,\"height\":154.863},\"settings\":{\"fishLevels\":[17],\"animalCount\":12,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"npcType\":2,\"restrictMovement\":false}},{\"id\":59,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2068.852,\"y\":506.102},{\"x\":8000,\"y\":506.102},{\"x\":8000,\"y\":870.743},{\"x\":2068.852,\"y\":870.743}],\"position\":{\"x\":2068.852,\"y\":506.102},\"size\":{\"width\":5931.148,\"height\":364.64},\"settings\":{\"fishLevels\":[1],\"animalCount\":15,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"npcType\":2,\"restrictMovement\":false}},{\"id\":60,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7467.064,\"y\":548.768},{\"x\":8000,\"y\":548.768},{\"x\":8000,\"y\":1109.754},{\"x\":7467.064,\"y\":1109.754}],\"position\":{\"x\":7467.064,\"y\":548.768},\"size\":{\"width\":532.936,\"height\":560.985},\"settings\":{\"fishLevels\":[12],\"animalCount\":1,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"1000\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":61,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1802.384,\"y\":968.915},{\"x\":3050.576,\"y\":968.915},{\"x\":3050.576,\"y\":1151.235},{\"x\":1802.384,\"y\":1151.235}],\"position\":{\"x\":1802.384,\"y\":968.915},\"size\":{\"width\":1248.192,\"height\":182.32},\"settings\":{\"fishLevels\":[22],\"animalCount\":1,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"15000\",\"npcType\":3,\"restrictMovement\":true}},{\"id\":64,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":904.808,\"y\":0},{\"x\":4298.768,\"y\":0},{\"x\":4298.768,\"y\":478.053},{\"x\":904.808,\"y\":478.053}],\"position\":{\"x\":904.808,\"y\":0},\"size\":{\"width\":3393.961,\"height\":478.053},\"settings\":{\"fishLevels\":[4],\"animalCount\":10,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"15000\",\"npcType\":6,\"restrictMovement\":false}},{\"id\":65,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5785.379,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":490.862},{\"x\":5785.379,\"y\":490.862}],\"position\":{\"x\":5785.379,\"y\":0},\"size\":{\"width\":2214.621,\"height\":490.862},\"settings\":{\"fishLevels\":[4],\"animalCount\":5,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"15000\",\"npcType\":6,\"restrictMovement\":false}},{\"id\":40,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":481.697},{\"x\":8000,\"y\":481.697},{\"x\":8000,\"y\":1250},{\"x\":0,\"y\":1250}],\"position\":{\"x\":0,\"y\":481.697},\"size\":{\"width\":8000,\"height\":768.303},\"settings\":{\"foodIds\":[11,16,5],\"count\":900,\"firstSpawnMs\":0,\"reSpawnMs\":\"5000\",\"area\":61464.20172411443}},{\"id\":49,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":1168.85},{\"x\":3325.98,\"y\":1168.85},{\"x\":8000,\"y\":1168.85},{\"x\":8000,\"y\":1250},{\"x\":0,\"y\":1250}],\"texture\":\"assets/terrains/deepterrain.png\",\"foodSpawnSettings\":{\"foodIds\":[16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0}},{\"id\":51,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":5822.397,\"y\":1096.511},{\"x\":6336.821,\"y\":1250},{\"x\":6515.155,\"y\":1250},{\"x\":5664.641,\"y\":1250}],\"texture\":\"assets/terrains/deepterrain.png\",\"foodSpawnSettings\":{\"foodIds\":[16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0}},{\"id\":52,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1135.992,\"y\":1049.181},{\"x\":1540.672,\"y\":1086.067},{\"x\":1773.877,\"y\":1195.811},{\"x\":1135.992,\"y\":1195.811}],\"texture\":\"assets/terrains/deepterrain.png\",\"foodSpawnSettings\":{\"foodIds\":[16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0}},{\"id\":54,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2903.129,\"y\":1250},{\"x\":3423.342,\"y\":1099.219},{\"x\":3217.424,\"y\":1250},{\"x\":2827.265,\"y\":1250}],\"texture\":\"assets/terrains/deepterrain.png\",\"foodSpawnSettings\":{\"foodIds\":[16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0}},{\"id\":55,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":6988.966,\"y\":1023.355},{\"x\":7379.125,\"y\":946.543},{\"x\":7400.801,\"y\":1250},{\"x\":6522.942,\"y\":1250}],\"texture\":\"assets/terrains/deepterrain.png\",\"foodSpawnSettings\":{\"foodIds\":[16],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0}},{\"id\":36,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4370.588,\"y\":495.051},{\"x\":5542.461,\"y\":493.312},{\"x\":5069.539,\"y\":425.503},{\"x\":4747.882,\"y\":329.876}],\"texture\":\"assets/terrains/terrain_back.png\"},{\"id\":37,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":954.032,\"y\":500.227},{\"x\":0,\"y\":500.227},{\"x\":266.019,\"y\":420.248},{\"x\":307.242,\"y\":239.425}],\"texture\":\"assets/terrains/terrain_back.png\"},{\"id\":33,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":478.728},{\"x\":8000,\"y\":478.728},{\"x\":8000,\"y\":1250},{\"x\":0,\"y\":1250}],\"texture\":\"assets/terrains/terrain.png\",\"opacity\":0.9},{\"id\":23,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":500.081},{\"x\":0,\"y\":499.884}],\"texture\":\"13625852|8898552\",\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"125\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 19,
+  "created_at": "2019-09-14T18:09:30.000Z",
+  "updated_at": "2019-09-14T18:10:08.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 562858,
+    "username": "The_Swampfather",
+    "description": "This is the Swampfather, godfather of the Swamp Mafia. We use the swarms [Swamp], [Lamp] and we recently dominated with [Pale].\n\nIf you remember us, it's probably from the golden age of chaos in the swamp.\n",
+    "about": "I've been with this game since the very beginning. Every time this game is updated, I think I'll quit for good. That is, of course, until I realise just how great the changes are. \nThanks for everything, Fed.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-03-10T11:11:09.000Z",
+    "date_last_played": "2021-10-24T15:26:19.000Z",
+    "kill_count": 844,
+    "play_count": 214,
+    "highest_score": 3741907,
+    "picture": "562858.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 229,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Britain"
+    },
+    {
+      "id": "British"
+    },
+    {
+      "id": "England"
+    },
+    {
+      "id": "English"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T08:49:44.079Z"
+}
