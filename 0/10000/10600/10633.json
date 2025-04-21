@@ -1,0 +1,63 @@
+{
+  "id": 10633,
+  "user_id": 20939893,
+  "cloneof_id": null,
+  "string_id": "1v1_butv1",
+  "title": "1V1 But V1 Version",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":29,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":102.219},{\"x\":200,\"y\":102.219},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":102.219},\"size\":{\"width\":200,\"height\":97.781},\"settings\":{\"fishLevels\":[3],\"animalCount\":1,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":10,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":102.414},{\"x\":200,\"y\":102.414},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":102.414},\"size\":{\"width\":200,\"height\":97.586},\"settings\":{\"foodIds\":[24,1,16],\"count\":16,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":195.1724180024246}},{\"id\":11,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":6.621,\"y\":19.31},{\"x\":192.276,\"y\":19.31},{\"x\":192.276,\"y\":57.103},{\"x\":6.621,\"y\":57.103}],\"position\":{\"x\":6.621,\"y\":19.31},\"size\":{\"width\":185.655,\"height\":37.793},\"settings\":{\"foodIds\":[2],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":70.16485447941432}},{\"id\":12,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":11.744,\"y\":91.583},{\"x\":189.653,\"y\":91.583},{\"x\":189.653,\"y\":111.147},{\"x\":11.744,\"y\":111.147}],\"position\":{\"x\":11.744,\"y\":91.583},\"size\":{\"width\":177.909,\"height\":19.563},\"settings\":{\"foodIds\":[4],\"count\":8,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":34.80484219133452}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":19.103,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":19.103,\"y\":200}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":182.69,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":182.69,\"y\":200}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0.345,\"y\":178},{\"x\":200,\"y\":178},{\"x\":200,\"y\":200},{\"x\":0.345,\"y\":200}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":21.401},{\"x\":0,\"y\":21.401}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":18,\"type\":\"A\",\"layerId\":\"animals\",\"x\":101.642,\"y\":117.657,\"rotation\":34.21,\"fLevel\":10},{\"id\":19,\"type\":\"A\",\"layerId\":\"animals\",\"x\":111.65,\"y\":124.008,\"rotation\":-58.85,\"fLevel\":11},{\"id\":30,\"type\":\"A\",\"layerId\":\"animals\",\"x\":53.493,\"y\":151.068,\"rotation\":234.11,\"fLevel\":3},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":34.698,\"y\":179.147,\"rotation\":0,\"hSType\":1},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":166.806,\"y\":179.562,\"rotation\":0,\"hSType\":1},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":62.001,\"y\":181.334,\"rotation\":0,\"hSType\":7,\"opacity\":0.4},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":149.606,\"y\":19.319,\"rotation\":0,\"hSType\":19},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":49.986,\"y\":16.838,\"rotation\":0,\"hSType\":19},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":35.602,\"y\":103.126,\"rotation\":0,\"hSType\":2},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":165.161,\"y\":102.035,\"rotation\":0,\"hSType\":2},{\"id\":23,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":100.258,\"y\":179.673,\"rotation\":0,\"hSType\":1},{\"id\":26,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":142.634,\"y\":179.012,\"rotation\":0,\"hSType\":9,\"opacity\":0.6},{\"id\":28,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":106.665,\"y\":179.485,\"rotation\":0,\"hSType\":10,\"opacity\":0.6},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":102.047},{\"x\":200,\"y\":102.047},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":4,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":0,\"y\":103.595},{\"x\":200,\"y\":103.595}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 24,
+  "created_at": "2022-08-13T15:29:54.000Z",
+  "updated_at": "2022-08-13T15:29:55.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20939893,
+    "username": "燄Draco🔥Flame",
+    "description": "百合賽高",
+    "about": "已退 偶爾逛論壇\nTaming.io: \nRED (id1217180) [已退坑]\n\nMine-Craft.io: \n燄Draco🔥Flame\n\nStabfish2: \n✪🔥𝘼𝙣𝙩𝙖𝙧𝙚𝙨🔥✪\n𝘽𝙡𝙖𝙯𝙚🔥𝘾𝙖𝙩\n𝙎𝙊𝙇𝘼𝙍🔥𝙁𝙄𝙂𝙃𝙏𝙀𝙍\n做事阿李育群\n♠️♥️ Decko ♦️♣️\n\n\n\"我到這裡 是為了照亮你們生命的\"\n<RED>🔥DRACO🔥\n<RED>🔥烈焰鯊🔥\n<RED>Onifugu",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-05-25T09:12:27.000Z",
+    "date_last_played": "2025-03-31T17:45:29.000Z",
+    "kill_count": 2856,
+    "play_count": 508,
+    "highest_score": 4779356,
+    "picture": "20939893-944263f72974c81cc1010ff6d613ba10a56.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 3268,
+    "tier": 8,
+    "xp": 880800,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:31:32.488Z"
+}
