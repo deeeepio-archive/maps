@@ -1,0 +1,93 @@
+{
+  "id": 6020,
+  "user_id": 662517,
+  "cloneof_id": null,
+  "string_id": "Venom_1v1_Old",
+  "title": "Venom's 1v1 Map",
+  "description": "My first attempt at making a 1v1 map :)",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":2,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":81.424},{\"x\":198.784,\"y\":81.424},{\"x\":198.784,\"y\":196.336},{\"x\":0,\"y\":196.336}],\"position\":{\"x\":0,\"y\":81.424},\"size\":{\"width\":198.784,\"height\":114.912},\"settings\":{\"foodIds\":[1],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":228.42667008,\"onlyOnWater\":false}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":36.019,\"y\":23.465},{\"x\":64.508,\"y\":12.86},{\"x\":97.796,\"y\":8.471},{\"x\":128.984,\"y\":11.469},{\"x\":153.574,\"y\":19.866},{\"x\":175.166,\"y\":40.258},{\"x\":184.762,\"y\":62.15},{\"x\":189.86,\"y\":88.54},{\"x\":187.461,\"y\":128.724},{\"x\":174.266,\"y\":156.014},{\"x\":149.376,\"y\":174.907},{\"x\":120.587,\"y\":185.103},{\"x\":82.202,\"y\":184.803},{\"x\":49.814,\"y\":172.807},{\"x\":30.921,\"y\":160.812},{\"x\":16.827,\"y\":141.919},{\"x\":11.429,\"y\":114.63},{\"x\":10.229,\"y\":80.743},{\"x\":13.528,\"y\":58.251},{\"x\":29.857,\"y\":29.775},{\"x\":50.714,\"y\":9.97},{\"x\":8.13,\"y\":1.573}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"A\",\"layerId\":\"animals\",\"x\":81.689,\"y\":97.604,\"rotation\":90.82,\"fLevel\":86},{\"id\":5,\"type\":\"A\",\"layerId\":\"animals\",\"x\":141.53,\"y\":103.744,\"rotation\":-84.01,\"fLevel\":11},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":39.842,\"y\":167.157,\"rotation\":30.18,\"hSType\":7},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":183.45,\"y\":141.497,\"rotation\":-69.4,\"hSType\":32},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":163.186,\"y\":164.384,\"rotation\":-34.46,\"hSType\":33},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":131.24,\"y\":181.073,\"rotation\":-16.53,\"hSType\":34},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":104.641,\"y\":185.39,\"rotation\":0,\"hSType\":45},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":189.036,\"y\":113.153,\"rotation\":-79.06,\"hSType\":45},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":153.153,\"y\":31.975,\"rotation\":0,\"hSType\":55},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":53.938,\"y\":22.031,\"rotation\":360.02,\"hSType\":55},{\"id\":14,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":12.82,\"y\":120.746},{\"x\":32.715,\"y\":122.736},{\"x\":53.515,\"y\":120.566},{\"x\":75.942,\"y\":128.704},{\"x\":94.028,\"y\":142.993},{\"x\":118.264,\"y\":160.356},{\"x\":150.095,\"y\":169.037},{\"x\":163.841,\"y\":165.962},{\"x\":162.937,\"y\":178.804},{\"x\":122.966,\"y\":189.837},{\"x\":60.026,\"y\":186.762},{\"x\":9.746,\"y\":150.046}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.2},{\"id\":15,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":129.688,\"y\":136.951},{\"x\":104.721,\"y\":150.974},{\"x\":118.197,\"y\":160.432},{\"x\":150.066,\"y\":169.019},{\"x\":159.979,\"y\":166.656},{\"x\":165.454,\"y\":170.766},{\"x\":194.21,\"y\":133.996},{\"x\":194.354,\"y\":113.996},{\"x\":179.352,\"y\":118.788},{\"x\":164.703,\"y\":124.575},{\"x\":150.233,\"y\":131.267}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":82.315},{\"x\":200,\"y\":82.315},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[352158,215679],\"hasBorder\":true},{\"id\":17,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":88.837,\"y\":31.791},{\"x\":89.837,\"y\":31.791},{\"x\":89.837,\"y\":32.791},{\"x\":88.837,\"y\":32.791}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":18,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0.862,\"y\":3.462},{\"x\":198.719,\"y\":3.462},{\"x\":198.339,\"y\":82.7},{\"x\":1.574,\"y\":82.938}],\"settings\":{\"collidable\":true},\"colors\":[11656443,8768255]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 18,
+  "created_at": "2021-02-21T16:25:27.000Z",
+  "updated_at": "2021-07-05T15:08:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 662517,
+    "username": "Venom583",
+    "description": "gg man",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-11-24T18:58:42.000Z",
+    "date_last_played": "2024-12-29T23:00:02.000Z",
+    "kill_count": 46543,
+    "play_count": 7973,
+    "highest_score": 22007822,
+    "picture": "662517.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 26393,
+    "tier": 10,
+    "xp": 1272600,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "first map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:11:41.456Z"
+}
