@@ -1,0 +1,80 @@
+{
+  "id": 10921,
+  "user_id": 20937023,
+  "cloneof_id": null,
+  "string_id": "my_small_map1treeofparadise",
+  "title": "The Tree",
+  "description": "Tree",
+  "data": "{\"screenObjects\":[{\"id\":211,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":65.468},{\"x\":100,\"y\":65.468},{\"x\":100,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":65.468},\"size\":{\"width\":100,\"height\":84.532},\"settings\":{\"area\":63}},{\"id\":212,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":87.901,\"y\":0},{\"x\":100,\"y\":0},{\"x\":100,\"y\":66.3},{\"x\":87.901,\"y\":66.3}],\"position\":{\"x\":87.901,\"y\":0},\"size\":{\"width\":12.099,\"height\":66.3},\"settings\":{\"area\":3}},{\"id\":205,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":75.414},{\"x\":100,\"y\":75.414},{\"x\":100,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":75.414},\"size\":{\"width\":100,\"height\":74.586},\"settings\":{\"fishLevels\":[26,2,13,29,59,35,114,67,64,68,69,70,71,72,73,66,63,62,61],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":206,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":64.966},{\"x\":100,\"y\":64.966},{\"x\":100,\"y\":90.004},{\"x\":0,\"y\":90.004}],\"position\":{\"x\":0,\"y\":64.966},\"size\":{\"width\":100,\"height\":25.037},\"settings\":{\"fishLevels\":[26,2,13,29,59,35,114,67],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":217,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":41.505,\"y\":85.523},{\"x\":61.496,\"y\":85.523},{\"x\":61.496,\"y\":107.497},{\"x\":41.505,\"y\":107.497}],\"position\":{\"x\":41.505,\"y\":85.523},\"size\":{\"width\":19.992,\"height\":21.974},\"settings\":{\"foodIds\":[8,7,1,25,10],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":4.392898885863377,\"onlyOnWater\":true}},{\"id\":203,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":42.297},{\"x\":6.654,\"y\":44.286},{\"x\":18.47,\"y\":42.793},{\"x\":24.81,\"y\":37.26},{\"x\":38.706,\"y\":33.283},{\"x\":50.531,\"y\":31.675},{\"x\":62.629,\"y\":31.451},{\"x\":67.723,\"y\":34.805},{\"x\":64.49,\"y\":40.942},{\"x\":57.967,\"y\":43.354},{\"x\":49.752,\"y\":41.865},{\"x\":40.148,\"y\":42.296},{\"x\":28.517,\"y\":44.788},{\"x\":25.61,\"y\":49.952},{\"x\":25.309,\"y\":55.366},{\"x\":22.203,\"y\":60.236},{\"x\":12.073,\"y\":62.455},{\"x\":7.132,\"y\":62.348},{\"x\":0,\"y\":58.079}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":204,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":30.712,\"y\":57.78},{\"x\":29.173,\"y\":62.9},{\"x\":32.293,\"y\":65.148},{\"x\":38.41,\"y\":66.234},{\"x\":45.517,\"y\":66.682},{\"x\":54.296,\"y\":67.958},{\"x\":56.14,\"y\":65.871},{\"x\":59.892,\"y\":62.3},{\"x\":62.949,\"y\":56.137},{\"x\":65.299,\"y\":51.991},{\"x\":58.976,\"y\":53.237},{\"x\":53.718,\"y\":54.788},{\"x\":49.244,\"y\":55.429},{\"x\":44.126,\"y\":54.846},{\"x\":38.952,\"y\":54.33},{\"x\":34.811,\"y\":53.683}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":210,\"type\":\"P\",\"layerId\":\"props\",\"x\":12.695,\"y\":53.371,\"rotation\":-6.81,\"pType\":1,\"params\":{\"text\":\"Small map made by Plan\"}},{\"id\":199,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":17.079,\"y\":153.778,\"rotation\":0,\"hSType\":14},{\"id\":200,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":71.509,\"y\":152.218,\"rotation\":0,\"hSType\":14},{\"id\":213,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":56.648,\"y\":153.517,\"rotation\":0,\"hSType\":81},{\"id\":214,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":98.209,\"y\":154.713,\"rotation\":0,\"hSType\":81},{\"id\":215,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":12.199,\"y\":156.509,\"rotation\":0,\"hSType\":81},{\"id\":216,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":52.804,\"y\":158.71,\"rotation\":0,\"hSType\":4},{\"id\":201,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":56.948},{\"x\":100,\"y\":68.872},{\"x\":100,\"y\":150},{\"x\":0,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[20875,271421],\"hasBorder\":false},{\"id\":202,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":48.911,\"y\":63.852},{\"x\":47.627,\"y\":62.939},{\"x\":62.181,\"y\":60.336},{\"x\":71.255,\"y\":52.125},{\"x\":77.784,\"y\":43.53},{\"x\":83.009,\"y\":31.78},{\"x\":85.755,\"y\":18.904},{\"x\":85.882,\"y\":9.76},{\"x\":83.765,\"y\":0},{\"x\":100,\"y\":0},{\"x\":100,\"y\":68.91}],\"settings\":{\"collidable\":true},\"colors\":[20875,211556],\"hasBorder\":false},{\"id\":207,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0.352,\"y\":0.412},{\"x\":100,\"y\":0.412},{\"x\":100,\"y\":150},{\"x\":0.352,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":208,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0.965,\"y\":2.045},{\"x\":0,\"y\":2.045},{\"x\":0,\"y\":0},{\"x\":0.965,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[15595775,12444415]}],\"settings\":{\"gravity\":8.5},\"worldSize\":{\"width\":\"10\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 18,
+  "created_at": "2022-09-16T23:13:44.000Z",
+  "updated_at": "2022-09-16T23:13:45.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20937023,
+    "username": "plan",
+    "description": "sorry",
+    "about": "...",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-04-28T03:44:06.000Z",
+    "date_last_played": "2022-09-18T03:02:02.000Z",
+    "kill_count": 31,
+    "play_count": 48,
+    "highest_score": 539780,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 548,
+    "tier": 1,
+    "xp": 11400,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Tree"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Tacoco & Myhailot Deep Assets",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 4,
+      "created_at": "2021-08-25T00:01:35.000Z",
+      "updated_at": "2021-08-25T00:01:35.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:33:39.424Z"
+}

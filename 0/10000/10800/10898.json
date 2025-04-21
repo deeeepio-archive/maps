@@ -1,0 +1,63 @@
+{
+  "id": 10898,
+  "user_id": 768690,
+  "cloneof_id": null,
+  "string_id": "artic_pvp_map",
+  "title": "Cool artic in progress pvp map",
+  "description": "A regular pvp map",
+  "data": "{\"screenObjects\":[{\"id\":27,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":51.119},{\"x\":800,\"y\":51.119},{\"x\":800,\"y\":800},{\"x\":0,\"y\":800}],\"position\":{\"x\":0,\"y\":51.119},\"size\":{\"width\":800,\"height\":748.881},\"settings\":{\"foodIds\":[24,16],\"count\":126,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":5991.0512206209205}},{\"id\":29,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":435.484,\"y\":691.934},{\"x\":513.591,\"y\":678.025},{\"x\":513.591,\"y\":757.202},{\"x\":429.053,\"y\":749.712}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":32,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":513.591,\"y\":715.279},{\"x\":588.488,\"y\":718.489},{\"x\":669.805,\"y\":767.707},{\"x\":492.192,\"y\":752.727}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":33,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":573.509,\"y\":721.699},{\"x\":683.714,\"y\":707.789},{\"x\":677.295,\"y\":761.287},{\"x\":610.957,\"y\":744.168}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":36,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":682.644,\"y\":763.427},{\"x\":638.776,\"y\":763.427},{\"x\":734.003,\"y\":625.402},{\"x\":768.241,\"y\":606.143}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":71.687,\"y\":567.934},{\"x\":174.074,\"y\":530.37},{\"x\":0,\"y\":0},{\"x\":1.268,\"y\":793.696}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":53.509,\"y\":576.468},{\"x\":0,\"y\":794.74},{\"x\":800,\"y\":799.02},{\"x\":794.99,\"y\":583.958},{\"x\":653.756,\"y\":688.814},{\"x\":528.57,\"y\":679.184},{\"x\":388.406,\"y\":699.514},{\"x\":249.311,\"y\":701.654},{\"x\":197.953,\"y\":567.909},{\"x\":170.134,\"y\":534.74},{\"x\":72.768,\"y\":552.929},{\"x\":54.579,\"y\":587.168}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2.151,\"y\":766.921},{\"x\":800,\"y\":766.921},{\"x\":800,\"y\":800},{\"x\":2.151,\"y\":800}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":797.13,\"y\":592.518},{\"x\":800,\"y\":592.518},{\"x\":800,\"y\":800},{\"x\":797.13,\"y\":800}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":11,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":798.2,\"y\":588.238},{\"x\":793.92,\"y\":588.238},{\"x\":793.92,\"y\":800},{\"x\":798.2,\"y\":800}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":73.838,\"y\":589.308},{\"x\":51.369,\"y\":589.308},{\"x\":51.369,\"y\":565.769},{\"x\":73.838,\"y\":565.769}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":16.06,\"y\":758.361},{\"x\":0,\"y\":758.361},{\"x\":0,\"y\":800},{\"x\":16.06,\"y\":800}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":410.875,\"y\":703.793,\"rotation\":0,\"hSType\":28},{\"id\":23,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":685.854,\"y\":667.415,\"rotation\":-33.69,\"hSType\":28},{\"id\":24,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":243.961,\"y\":688.814,\"rotation\":70.68,\"hSType\":28},{\"id\":25,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":282.48,\"y\":702.724,\"rotation\":0,\"hSType\":28},{\"id\":26,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":544.62,\"y\":685.604,\"rotation\":0,\"hSType\":28},{\"id\":39,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":165.802,\"y\":71.046},{\"x\":176.985,\"y\":118.179},{\"x\":248.084,\"y\":154.926},{\"x\":284.032,\"y\":125.369},{\"x\":321.578,\"y\":116.581},{\"x\":344.745,\"y\":142.943},{\"x\":367.113,\"y\":95.811},{\"x\":386.286,\"y\":111.788},{\"x\":430.223,\"y\":79.834},{\"x\":433.418,\"y\":50.276},{\"x\":395.872,\"y\":25.512},{\"x\":307.998,\"y\":27.908},{\"x\":249.681,\"y\":24.713},{\"x\":206.543,\"y\":26.31},{\"x\":157.813,\"y\":44.684}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":40,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":7.92,\"y\":35.43},{\"x\":87.261,\"y\":54.321},{\"x\":239.645,\"y\":642.449},{\"x\":214.457,\"y\":676.452}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":53.523},{\"x\":800,\"y\":49.529},{\"x\":800,\"y\":800},{\"x\":0,\"y\":800}],\"settings\":{\"collidable\":true},\"colors\":[13692159,4550025],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":\"80\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 20,
+  "created_at": "2022-09-12T22:10:20.000Z",
+  "updated_at": "2022-09-12T22:11:58.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 768690,
+    "username": "Archei",
+    "description": "                       I am the X event",
+    "about": "I am a xtale enjoyer ",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-08-27T14:32:49.000Z",
+    "date_last_played": "2022-09-22T22:03:58.000Z",
+    "kill_count": 451,
+    "play_count": 512,
+    "highest_score": 1067303,
+    "picture": "768690.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 8,
+    "tier": 1,
+    "xp": 3750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "artic"
+    },
+    {
+      "id": "pvp"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:33:37.967Z"
+}
