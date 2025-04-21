@@ -1,0 +1,93 @@
+{
+  "id": 6503,
+  "user_id": 807327,
+  "cloneof_id": 6500,
+  "string_id": "bbiyoob_v2",
+  "title": "BBIYOOB_1vs1",
+  "description": "첫번째 작품",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":16.878,\"y\":54.757},{\"x\":31.166,\"y\":54.757},{\"x\":31.166,\"y\":79.711},{\"x\":16.878,\"y\":79.711}],\"position\":{\"x\":16.878,\"y\":54.757},\"size\":{\"width\":14.288,\"height\":24.954},\"settings\":{\"fishLevels\":[77],\"animalCount\":1,\"firstSpawnMs\":\"3000\",\"reSpawnMs\":\"10000\",\"npcType\":4,\"restrictMovement\":true}},{\"id\":2,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":96.615,\"y\":31.212},{\"x\":125.345,\"y\":31.212},{\"x\":125.345,\"y\":58.127},{\"x\":96.615,\"y\":58.127}],\"position\":{\"x\":96.615,\"y\":31.212},\"size\":{\"width\":28.73,\"height\":26.915},\"settings\":{\"foodIds\":[15],\"count\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"20000\",\"area\":7.732679500000001,\"onlyOnWater\":false}},{\"id\":3,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":10.841,\"y\":82.528},{\"x\":144.061,\"y\":82.528},{\"x\":144.061,\"y\":146.924},{\"x\":10.841,\"y\":146.924}],\"position\":{\"x\":10.841,\"y\":82.528},\"size\":{\"width\":133.22,\"height\":64.396},\"settings\":{\"foodIds\":[1,16,5,25,17],\"count\":15,\"firstSpawnMs\":0,\"reSpawnMs\":\"3000\",\"area\":85.7883512,\"onlyOnWater\":true}},{\"id\":4,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":15.268,\"y\":84.138},{\"x\":32.172,\"y\":84.138},{\"x\":32.172,\"y\":112.11},{\"x\":15.268,\"y\":112.11}],\"settings\":{\"angle\":-91,\"strength\":50}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":112.063,\"y\":77.899},{\"x\":150,\"y\":77.899},{\"x\":150,\"y\":86.278},{\"x\":112.063,\"y\":86.069}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"A\",\"layerId\":\"animals\",\"x\":399.618,\"y\":480.423,\"rotation\":0,\"fLevel\":22},{\"id\":7,\"type\":\"A\",\"layerId\":\"animals\",\"x\":50.937,\"y\":77.403,\"rotation\":28.61,\"fLevel\":11},{\"id\":8,\"type\":\"A\",\"layerId\":\"animals\",\"x\":120.169,\"y\":74.4,\"rotation\":-6.11,\"fLevel\":50},{\"id\":9,\"type\":\"A\",\"layerId\":\"animals\",\"x\":107.386,\"y\":76.716,\"rotation\":46.82,\"fLevel\":50},{\"id\":10,\"type\":\"A\",\"layerId\":\"animals\",\"x\":132.007,\"y\":73.997,\"rotation\":-14.82,\"fLevel\":50},{\"id\":11,\"type\":\"A\",\"layerId\":\"animals\",\"x\":29.662,\"y\":44.026,\"rotation\":-4.53,\"fLevel\":50},{\"id\":12,\"type\":\"A\",\"layerId\":\"animals\",\"x\":22.294,\"y\":43.752,\"rotation\":16.07,\"fLevel\":50},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":13.372,\"y\":42.011,\"rotation\":375.02,\"fLevel\":50},{\"id\":14,\"type\":\"A\",\"layerId\":\"animals\",\"x\":95.821,\"y\":125.518,\"rotation\":-43.12,\"fLevel\":37},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":1.228},{\"x\":6.011,\"y\":1.228},{\"x\":13.457,\"y\":150},{\"x\":0,\"y\":150}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":150,\"y\":12.296},{\"x\":0,\"y\":6.259},{\"x\":0,\"y\":0},{\"x\":150,\"y\":0}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":149.896,\"y\":10.485},{\"x\":140.639,\"y\":11.088},{\"x\":144.664,\"y\":150},{\"x\":149.896,\"y\":150}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":141.491},{\"x\":150,\"y\":147.93},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":2.791,\"y\":7.466},{\"x\":14.06,\"y\":17.125},{\"x\":23.519,\"y\":3.642},{\"x\":2.791,\"y\":3.642}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":53.906,\"y\":5.252},{\"x\":61.351,\"y\":5.252},{\"x\":61.351,\"y\":14.107},{\"x\":53.906,\"y\":14.107}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":150},{\"x\":6.011,\"y\":114.726},{\"x\":27.745,\"y\":146.924},{\"x\":28.251,\"y\":150}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":130.376,\"y\":6.259},{\"x\":150,\"y\":6.259},{\"x\":150,\"y\":18.937},{\"x\":113.673,\"y\":7.466}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":150,\"y\":130.02},{\"x\":132.187,\"y\":130.02},{\"x\":132.187,\"y\":150},{\"x\":150,\"y\":150}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":78.859,\"y\":147.125},{\"x\":90.732,\"y\":149.339},{\"x\":99.385,\"y\":146.723},{\"x\":84.494,\"y\":135.856}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":25,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":73.472},{\"x\":13.885,\"y\":73.472},{\"x\":13.885,\"y\":80.515},{\"x\":0,\"y\":80.515}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":17.28,\"y\":53.348},{\"x\":36.593,\"y\":54.757},{\"x\":34.782,\"y\":47.506},{\"x\":14.865,\"y\":47.909}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":27,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":8.05,\"y\":77.899},{\"x\":7.218,\"y\":60.995},{\"x\":7.218,\"y\":47.714},{\"x\":19.494,\"y\":47.714}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":28,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":36.599,\"y\":47.512},{\"x\":31.971,\"y\":47.512},{\"x\":31.971,\"y\":72.868},{\"x\":36.599,\"y\":72.868}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":29,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":97.776,\"y\":38.658,\"rotation\":-0.41,\"hSType\":55},{\"id\":30,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":56.119,\"y\":32.42,\"rotation\":0,\"hSType\":55},{\"id\":31,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":174.447,\"y\":101.444,\"rotation\":-46.87,\"hSType\":48},{\"id\":32,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":72.822,\"y\":144.912,\"rotation\":0,\"hSType\":46},{\"id\":33,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.153,\"y\":142.698,\"rotation\":0,\"hSType\":46},{\"id\":34,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":128.163,\"y\":149.943,\"rotation\":-18.79,\"hSType\":47},{\"id\":35,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":12.048,\"y\":127.807,\"rotation\":37.4,\"hSType\":47},{\"id\":36,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":108.642,\"y\":147.528,\"rotation\":0,\"hSType\":36},{\"id\":37,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":47.934,\"y\":149.544,\"rotation\":0,\"hSType\":15},{\"id\":38,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":138.794,\"y\":131.209,\"rotation\":0,\"hSType\":45},{\"id\":39,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":15.074,\"y\":50.929,\"rotation\":-155.16,\"hSType\":2},{\"id\":40,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":81.522},{\"x\":150,\"y\":81.723},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":41,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":150,\"y\":0},{\"x\":150,\"y\":81.522},{\"x\":0,\"y\":81.522}],\"settings\":{\"collidable\":true},\"colors\":[8759490,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"15\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 41,
+  "created_at": "2021-04-12T01:43:22.000Z",
+  "updated_at": "2021-04-12T23:31:50.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 807327,
+    "username": "bbbbbb",
+    "description": "자고로 인간은 모두 악(惡)이며\n스스로를 정의라 착각하기 위해서는\n내가 아닌 누군가를 나 이상의 악이라\n착각하는 것 외에는 달리 방법이 없다.\n\n확신하는 정의는 악(惡)이다.\n정의가 정의이기 위해서는\n늘 자신의 정의를 끝없이 의심하지 않으면 안 된다.",
+    "about": "삐윱이임",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-12-28T13:30:12.000Z",
+    "date_last_played": "2025-03-09T10:29:27.000Z",
+    "kill_count": 7001,
+    "play_count": 3565,
+    "highest_score": 3838806,
+    "picture": "807327-e3ae68152c44518228eed648bb2eedd3-4c50bca8-6dc8-4592-8ea0-c7ad970b9322.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 357,
+    "tier": 6,
+    "xp": 380550,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1vs1"
+    },
+    {
+      "id": "like_pls"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:20:23.408Z"
+}
