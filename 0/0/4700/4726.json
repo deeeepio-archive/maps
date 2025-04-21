@@ -1,0 +1,96 @@
+{
+  "id": 4726,
+  "user_id": 785924,
+  "cloneof_id": null,
+  "string_id": "bylife1v1",
+  "title": "Death Arena",
+  "description": "One Of My Coolest 1v1!",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":2,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":116.552,\"y\":13.063},{\"x\":152.699,\"y\":13.063},{\"x\":152.699,\"y\":30.215},{\"x\":116.552,\"y\":30.215}],\"position\":{\"x\":116.552,\"y\":13.063},\"size\":{\"width\":36.147,\"height\":17.152},\"settings\":{\"fishLevels\":[22,10],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":5,\"restrictMovement\":false}},{\"id\":3,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":53.698,\"y\":91.304},{\"x\":161.146,\"y\":91.304},{\"x\":161.146,\"y\":175.788},{\"x\":53.698,\"y\":175.788}],\"position\":{\"x\":53.698,\"y\":91.304},\"size\":{\"width\":107.448,\"height\":84.484},\"settings\":{\"foodIds\":[3],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":90.77636831999999,\"onlyOnWater\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0.288,\"y\":22.039},{\"x\":34.283,\"y\":81.385},{\"x\":50.416,\"y\":199.424},{\"x\":0.288,\"y\":199.424}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":170.753,\"y\":179.623},{\"x\":82.393,\"y\":176.166},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":200,\"y\":45.95},{\"x\":165.28,\"y\":135.834},{\"x\":161.247,\"y\":200},{\"x\":200,\"y\":200}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":9.939},{\"x\":200,\"y\":44.222},{\"x\":199.136,\"y\":68.709},{\"x\":0,\"y\":58.338}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":170.102,\"y\":10.795},{\"x\":200,\"y\":45.099}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":11.505573281534794},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":12.78},{\"x\":30.083,\"y\":18.308},{\"x\":25.122,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":10,\"type\":\"A\",\"layerId\":\"animals\",\"x\":113.424,\"y\":117.396,\"rotation\":0,\"fLevel\":84},{\"id\":11,\"type\":\"A\",\"layerId\":\"animals\",\"x\":89.801,\"y\":117.684,\"rotation\":0,\"fLevel\":84},{\"id\":12,\"type\":\"A\",\"layerId\":\"animals\",\"x\":95.562,\"y\":123.158,\"rotation\":0,\"fLevel\":84},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":121.487,\"y\":143.261,\"rotation\":0,\"fLevel\":10},{\"id\":14,\"type\":\"A\",\"layerId\":\"animals\",\"x\":112.132,\"y\":96.058,\"rotation\":0,\"fLevel\":24},{\"id\":15,\"type\":\"A\",\"layerId\":\"animals\",\"x\":145.47,\"y\":21.852,\"rotation\":-89.96,\"fLevel\":22},{\"id\":16,\"type\":\"A\",\"layerId\":\"animals\",\"x\":96.14,\"y\":17.741,\"rotation\":97.86,\"fLevel\":10},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":93.834,\"y\":178.183,\"rotation\":0,\"hSType\":9},{\"id\":18,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":190.343,\"y\":83.978,\"rotation\":-248.06,\"hSType\":2},{\"id\":19,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":165.28,\"y\":130.072,\"rotation\":-70.54,\"hSType\":2},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.59,\"y\":75.911,\"rotation\":-122.83,\"hSType\":58},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":31.319,\"y\":121.717,\"rotation\":-73.54,\"hSType\":58},{\"id\":22,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":37.08,\"y\":147.357,\"rotation\":-59.16,\"hSType\":58},{\"id\":23,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":32.759,\"y\":90.604,\"rotation\":-100.07,\"hSType\":58},{\"id\":24,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":33.623,\"y\":104.432,\"rotation\":-90.08,\"hSType\":58},{\"id\":25,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":91.756},{\"x\":200,\"y\":90.604},{\"x\":200,\"y\":59.778},{\"x\":0,\"y\":59.202}],\"texture\":6,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":26,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0.873},{\"x\":200,\"y\":49.777},{\"x\":0,\"y\":46.942}],\"settings\":{\"collidable\":true},\"colors\":[6443776,3151619],\"hasBorder\":true},{\"id\":27,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":200,\"y\":89.528},{\"x\":0,\"y\":90.095},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[6424832,16740608],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 27,
+  "created_at": "2020-11-01T14:02:30.000Z",
+  "updated_at": "2020-11-03T19:55:26.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 785924,
+    "username": "Bylife",
+    "description": "Everyone Dies Someday",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-10-27T06:38:33.000Z",
+    "date_last_played": "2022-06-12T15:12:52.000Z",
+    "kill_count": 4616,
+    "play_count": 1619,
+    "highest_score": 2068918,
+    "picture": "785924.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 65,
+    "tier": 1,
+    "xp": 7200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Bylife"
+    },
+    {
+      "id": "Cool"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:34:33.479Z"
+}

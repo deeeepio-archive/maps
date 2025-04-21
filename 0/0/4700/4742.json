@@ -1,0 +1,90 @@
+{
+  "id": 4742,
+  "user_id": 581914,
+  "cloneof_id": null,
+  "string_id": "birdy_nile_river",
+  "title": "nile river",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":1250,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":0,\"y\":300},{\"x\":1000,\"y\":300},{\"x\":1000,\"y\":124.427},{\"x\":0,\"y\":124.427}],\"settings\":{\"angle\":180,\"strength\":20}},{\"id\":1252,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":244.017},{\"x\":59.976,\"y\":232.576},{\"x\":115.677,\"y\":246.193},{\"x\":184.304,\"y\":246.767},{\"x\":241.609,\"y\":262.834},{\"x\":314.451,\"y\":268.363},{\"x\":374.985,\"y\":263.693},{\"x\":431.883,\"y\":269.297},{\"x\":465.408,\"y\":287.888},{\"x\":471.448,\"y\":300},{\"x\":545.664,\"y\":300},{\"x\":557.687,\"y\":284.853},{\"x\":613.524,\"y\":273.691},{\"x\":672.242,\"y\":269.884},{\"x\":729.563,\"y\":251.857},{\"x\":799.116,\"y\":245.666},{\"x\":866.571,\"y\":253.243},{\"x\":903.556,\"y\":270.767},{\"x\":954.821,\"y\":270.32},{\"x\":1000,\"y\":254.028},{\"x\":1000,\"y\":300},{\"x\":0,\"y\":300}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1254,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":101.059},{\"x\":19.078,\"y\":101.099},{\"x\":38.957,\"y\":116.658},{\"x\":81.629,\"y\":117.363},{\"x\":97.217,\"y\":131.65},{\"x\":0,\"y\":131.303}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":1262,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":367.62,\"y\":130.389},{\"x\":464.642,\"y\":130.389},{\"x\":481.233,\"y\":113.804},{\"x\":506.946,\"y\":106.384},{\"x\":533.64,\"y\":112.32},{\"x\":544.731,\"y\":130.273},{\"x\":568.807,\"y\":130.389},{\"x\":530.659,\"y\":94.77},{\"x\":481.227,\"y\":94.337},{\"x\":454.149,\"y\":117.014},{\"x\":382.598,\"y\":116.676}],\"texture\":10,\"settings\":{\"collidable\":true}},{\"id\":1247,\"type\":\"A\",\"layerId\":\"animals\",\"x\":835.826,\"y\":181.133,\"rotation\":-74.29,\"fLevel\":34},{\"id\":1273,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":67.987,\"y\":123.81},{\"x\":404.228,\"y\":123.81},{\"x\":373.851,\"y\":103.168},{\"x\":312.909,\"y\":104.1},{\"x\":288.402,\"y\":86.038},{\"x\":167.488,\"y\":86.932},{\"x\":144.837,\"y\":106.882},{\"x\":88.136,\"y\":107.439}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":1256,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":95.609,\"y\":115.86,\"rotation\":0,\"hSType\":48},{\"id\":1257,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":21.32,\"y\":110.353,\"rotation\":0,\"hSType\":48},{\"id\":1259,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-2.865,\"y\":101.873,\"rotation\":0,\"hSType\":3},{\"id\":1260,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":64.911,\"y\":118.292,\"rotation\":0,\"hSType\":3},{\"id\":1261,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":30.655,\"y\":110.881,\"rotation\":38.86,\"hSType\":3},{\"id\":1263,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":318.782,\"y\":110.81,\"rotation\":0,\"hSType\":48},{\"id\":1264,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":496.12,\"y\":96.86,\"rotation\":0,\"hSType\":48},{\"id\":1265,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":446.026,\"y\":128.677,\"rotation\":0,\"hSType\":48},{\"id\":1266,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":548.245,\"y\":120.554,\"rotation\":0,\"hSType\":48},{\"id\":1267,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":506.275,\"y\":95.506,\"rotation\":0,\"hSType\":3},{\"id\":1268,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":544.861,\"y\":108.707,\"rotation\":43.67,\"hSType\":3},{\"id\":1269,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":405.472,\"y\":118.137,\"rotation\":0,\"hSType\":3},{\"id\":1270,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":442.98,\"y\":117.507,\"rotation\":0,\"hSType\":3},{\"id\":1271,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":376.639,\"y\":129.354},{\"x\":411.163,\"y\":134.092},{\"x\":424.025,\"y\":147.293},{\"x\":449.072,\"y\":152.37},{\"x\":466.335,\"y\":162.524},{\"x\":494.428,\"y\":167.263},{\"x\":522.183,\"y\":158.463},{\"x\":529.968,\"y\":147.293},{\"x\":549.599,\"y\":138.831},{\"x\":558.4,\"y\":129.354},{\"x\":531.66,\"y\":103.968},{\"x\":489.012,\"y\":101.599},{\"x\":453.134,\"y\":126.646}],\"texture\":10,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":1249,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":300},{\"x\":1000,\"y\":300},{\"x\":1000,\"y\":123},{\"x\":0,\"y\":123}],\"settings\":{\"collidable\":true},\"colors\":[1490114,71732],\"hasBorder\":true},{\"id\":1255,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":467.845,\"y\":298.979},{\"x\":547.805,\"y\":298.979},{\"x\":548.222,\"y\":300},{\"x\":468.262,\"y\":300}],\"settings\":{\"collidable\":true},\"colors\":[71732,71732],\"hasBorder\":false},{\"id\":1248,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1000,\"y\":0},{\"x\":1000,\"y\":124.438},{\"x\":0,\"y\":124.438}],\"settings\":{\"collidable\":true},\"colors\":[2718969,8899067]},{\"id\":1272,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":470.058,\"y\":123.6},{\"x\":547.568,\"y\":123.6},{\"x\":534.706,\"y\":103.968},{\"x\":475.135,\"y\":105.322}],\"settings\":{\"collidable\":true},\"colors\":[0,0]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"100\",\"height\":\"30\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 24,
+  "created_at": "2020-11-02T20:39:39.000Z",
+  "updated_at": "2020-11-02T21:07:58.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 581914,
+    "username": "SuperBirdyFlee",
+    "description": "",
+    "about": "",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-04-28T04:22:52.000Z",
+    "date_last_played": "2025-03-21T19:19:05.000Z",
+    "kill_count": 9631,
+    "play_count": 2673,
+    "highest_score": 4512163,
+    "picture": "581914-510faab4a2a1bb29678b39ac3bbb4dafb.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 555,
+    "tier": 6,
+    "xp": 437400,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "wip"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T17:34:35.696Z"
+}
