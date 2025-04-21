@@ -1,0 +1,96 @@
+{
+  "id": 7377,
+  "user_id": 761722,
+  "cloneof_id": null,
+  "string_id": "hamsters",
+  "title": "Untitled",
+  "description": "a map for hamsters",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":7126.942,\"y\":0},{\"x\":9000,\"y\":0},{\"x\":9000,\"y\":1000},{\"x\":7126.942,\"y\":1000}],\"position\":{\"x\":7126.942,\"y\":0},\"size\":{\"width\":1873.058,\"height\":1000},\"settings\":{\"area\":38}},{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":5850.527,\"y\":0},{\"x\":7127.791,\"y\":0},{\"x\":7127.791,\"y\":693.248},{\"x\":5850.527,\"y\":693.248}],\"position\":{\"x\":5850.527,\"y\":0},\"size\":{\"width\":1277.264,\"height\":693.248},\"settings\":{\"area\":54}},{\"id\":3,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1115.22,\"y\":0},{\"x\":2681.313,\"y\":0},{\"x\":2681.313,\"y\":697.83},{\"x\":1115.22,\"y\":697.83}],\"position\":{\"x\":1115.22,\"y\":0},\"size\":{\"width\":1566.093,\"height\":697.83},\"settings\":{\"area\":37}},{\"id\":4,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2681.183,\"y\":0},{\"x\":3868.811,\"y\":0},{\"x\":3868.811,\"y\":695.277},{\"x\":2681.183,\"y\":695.277}],\"position\":{\"x\":2681.183,\"y\":0},\"size\":{\"width\":1187.628,\"height\":695.277},\"settings\":{\"area\":39}},{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3866.457,\"y\":0},{\"x\":5850.928,\"y\":0},{\"x\":5850.928,\"y\":692.411},{\"x\":3866.457,\"y\":692.411}],\"position\":{\"x\":3866.457,\"y\":0},\"size\":{\"width\":1984.471,\"height\":692.411},\"settings\":{\"area\":38}},{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":692.215},{\"x\":7127.024,\"y\":692.215},{\"x\":7127.024,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":692.215},\"size\":{\"width\":7127.024,\"height\":307.785},\"settings\":{\"area\":43}},{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1115.156,\"y\":0},{\"x\":1115.156,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1115.156,\"height\":1000},\"settings\":{\"area\":53}},{\"id\":8,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":295.741},{\"x\":9000,\"y\":315.54},{\"x\":9000,\"y\":0},{\"x\":11.746,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"900\",\"height\":\"100\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 8,
+  "created_at": "2021-07-15T10:58:20.000Z",
+  "updated_at": "2021-07-15T19:16:42.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 761722,
+    "username": "Floraa",
+    "description": "This is not Flora, this is floraa.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-07-27T11:59:05.000Z",
+    "date_last_played": "2024-07-17T09:28:04.000Z",
+    "kill_count": 1008,
+    "play_count": 2376,
+    "highest_score": 2797085,
+    "picture": "761722.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 122,
+    "tier": 2,
+    "xp": 44400,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "hamster"
+    },
+    {
+      "id": "land"
+    },
+    {
+      "id": "map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:34:56.392Z"
+}
