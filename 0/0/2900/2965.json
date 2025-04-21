@@ -1,0 +1,93 @@
+{
+  "id": 2965,
+  "user_id": 737916,
+  "cloneof_id": null,
+  "string_id": "teamffartic",
+  "title": "deep arena",
+  "description": "this is a arena for the bravest of the flyers",
+  "data": "{\"screenObjects\":[{\"id\":18,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":307.291,\"y\":222.517},{\"x\":460.986,\"y\":222.517},{\"x\":460.986,\"y\":394.93},{\"x\":307.291,\"y\":394.93}],\"position\":{\"x\":307.291,\"y\":222.517},\"size\":{\"width\":153.695,\"height\":172.413},\"settings\":{\"foodIds\":[1,10],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":264.98904173983783}},{\"id\":19,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":289.719,\"y\":204.896},{\"x\":290.719,\"y\":204.896},{\"x\":290.719,\"y\":205.896},{\"x\":289.719,\"y\":205.896}],\"position\":{\"x\":289.719,\"y\":204.896},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[10],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01}},{\"id\":20,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":370.087,\"y\":64.799},{\"x\":412.004,\"y\":64.799},{\"x\":412.004,\"y\":85.363},{\"x\":370.087,\"y\":85.363}],\"position\":{\"x\":370.087,\"y\":64.799},\"size\":{\"width\":41.917,\"height\":20.563},\"settings\":{\"foodIds\":[7,8],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":8.619451350455469}},{\"id\":21,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":291.789,\"y\":141.516},{\"x\":351.501,\"y\":141.516},{\"x\":351.501,\"y\":148.238},{\"x\":291.789,\"y\":148.238}],\"position\":{\"x\":291.789,\"y\":141.516},\"size\":{\"width\":59.712,\"height\":6.723},\"settings\":{\"foodIds\":[4],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":4.014174821592734}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":136.5},{\"x\":338.24,\"y\":270.66},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":540.24,\"y\":311.22},{\"x\":541.24,\"y\":311.22},{\"x\":541.24,\"y\":312.22},{\"x\":499.68,\"y\":340.3}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":800,\"y\":386.1},{\"x\":0,\"y\":457.86},{\"x\":0,\"y\":743.34},{\"x\":800,\"y\":750}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":390.48,\"y\":415.74},{\"x\":800,\"y\":432.9},{\"x\":800,\"y\":230.1},{\"x\":800,\"y\":234.78}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":357.72,\"y\":138.06},{\"x\":501.24,\"y\":138.06},{\"x\":465.36,\"y\":170.82},{\"x\":382.68,\"y\":164.58}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"A\",\"layerId\":\"animals\",\"x\":339.234,\"y\":177.438,\"rotation\":0,\"fLevel\":0},{\"id\":25,\"type\":\"A\",\"layerId\":\"animals\",\"x\":313.53,\"y\":133.939,\"rotation\":0,\"fLevel\":0},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":387.938,\"y\":137.314,\"rotation\":0,\"hSType\":3},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":416.805,\"y\":138.501,\"rotation\":0,\"hSType\":3},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":401.778,\"y\":138.896,\"rotation\":0,\"hSType\":3},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":445.277,\"y\":138.501,\"rotation\":0,\"hSType\":3},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":379.238,\"y\":137.314,\"rotation\":0,\"hSType\":4},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":404.546,\"y\":138.896,\"rotation\":0,\"hSType\":4},{\"id\":16,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":355.773,\"y\":269.655},{\"x\":365.833,\"y\":277.554},{\"x\":372.946,\"y\":309.266},{\"x\":344.684,\"y\":281.611}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":17,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":309.543,\"y\":263.167},{\"x\":359.347,\"y\":252.906},{\"x\":386.125,\"y\":308.715},{\"x\":356.594,\"y\":336.245}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":22,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":410.422,\"y\":147.447},{\"x\":461.039,\"y\":162.87},{\"x\":469.739,\"y\":166.033},{\"x\":385.509,\"y\":164.451}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":23,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":415.959,\"y\":151.006},{\"x\":449.176,\"y\":153.774},{\"x\":465.785,\"y\":162.87},{\"x\":406.863,\"y\":162.87}],\"texture\":6,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":7,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0.48,\"y\":148.98},{\"x\":800,\"y\":139.62},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 22,
+  "created_at": "2020-05-11T20:18:44.000Z",
+  "updated_at": "2020-05-11T20:20:54.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 737916,
+    "username": "articlover123",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-05-11T20:08:35.000Z",
+    "date_last_played": "2020-05-11T20:23:17.000Z",
+    "kill_count": 0,
+    "play_count": 2,
+    "highest_score": 800,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 0,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "arena "
+    },
+    {
+      "id": "articlover"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T13:55:14.577Z"
+}
