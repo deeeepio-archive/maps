@@ -1,0 +1,90 @@
+{
+  "id": 1660,
+  "user_id": 545336,
+  "cloneof_id": null,
+  "string_id": "112233445566",
+  "title": "1v1 map",
+  "description": "Hiding Spaces on Shipwreck Don't Work On This Map.",
+  "data": "{\"screenObjects\":[{\"id\":13,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":28.598,\"y\":160.028},{\"x\":35.706,\"y\":168.453},{\"x\":44.921,\"y\":173.718},{\"x\":54.399,\"y\":177.141},{\"x\":63.35,\"y\":178.984},{\"x\":74.145,\"y\":180.827},{\"x\":83.096,\"y\":181.88},{\"x\":98.366,\"y\":183.196},{\"x\":107.581,\"y\":183.196},{\"x\":116.796,\"y\":181.617},{\"x\":129.433,\"y\":178.984},{\"x\":137.068,\"y\":176.351},{\"x\":144.703,\"y\":172.139},{\"x\":154.971,\"y\":168.189},{\"x\":166.818,\"y\":163.714},{\"x\":173.927,\"y\":159.765},{\"x\":178.929,\"y\":158.711},{\"x\":200,\"y\":159.501},{\"x\":200,\"y\":199.783},{\"x\":0,\"y\":200},{\"x\":0,\"y\":159.765}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":68.328},{\"x\":9.222,\"y\":66.995},{\"x\":14.387,\"y\":64.996},{\"x\":16.886,\"y\":62.163},{\"x\":18.553,\"y\":58.331},{\"x\":18.886,\"y\":54.165},{\"x\":16.886,\"y\":51.666},{\"x\":13.554,\"y\":49.166},{\"x\":10.388,\"y\":46.667},{\"x\":7.889,\"y\":43.168},{\"x\":5.223,\"y\":41.002},{\"x\":2.724,\"y\":40.835},{\"x\":0.058,\"y\":40.669}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":200,\"y\":60.392},{\"x\":190.982,\"y\":60.392},{\"x\":185.783,\"y\":61.522},{\"x\":181.036,\"y\":62.878},{\"x\":177.42,\"y\":60.392},{\"x\":177.194,\"y\":56.549},{\"x\":179.906,\"y\":53.159},{\"x\":184.201,\"y\":51.124},{\"x\":187.365,\"y\":49.316},{\"x\":190.982,\"y\":49.09},{\"x\":193.921,\"y\":50.22},{\"x\":198.215,\"y\":50.672},{\"x\":200,\"y\":49.994}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":102.075,\"y\":315.55,\"rotation\":0.1,\"hSType\":41},{\"id\":2,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":90.385,\"y\":103.31,\"rotation\":-44.74,\"hSType\":33},{\"id\":3,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":55.284,\"y\":122.607,\"rotation\":0,\"hSType\":37},{\"id\":4,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":169.487,\"y\":135.429,\"rotation\":0,\"hSType\":34},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":126.474,\"y\":139.655,\"rotation\":45.77,\"hSType\":42},{\"id\":6,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":50.049,\"y\":145.012,\"rotation\":-50.92,\"hSType\":44},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":117.623,\"y\":107.943,\"rotation\":26.2,\"hSType\":30},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":20.669,\"y\":135.137,\"rotation\":0,\"hSType\":46},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":94.062,\"y\":171.875,\"rotation\":0,\"hSType\":35},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":93.142,\"y\":139.37,\"rotation\":0,\"hSType\":35},{\"id\":11,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":147.428,\"y\":163.433,\"rotation\":32.87,\"hSType\":32},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":95.207,\"y\":204.258,\"rotation\":0,\"hSType\":35},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":0.219,\"y\":58.605,\"rotation\":0,\"hSType\":31},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":-0.276,\"y\":161.41,\"rotation\":5.74,\"hSType\":36},{\"id\":22,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4.077,\"y\":119.794,\"rotation\":0,\"hSType\":36},{\"id\":24,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":206.215,\"y\":54.998,\"rotation\":20.89,\"hSType\":18},{\"id\":25,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":217.758,\"y\":107.109,\"rotation\":0,\"hSType\":51},{\"id\":26,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":191.693,\"y\":54.672,\"rotation\":0,\"hSType\":57},{\"id\":27,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":200.781,\"y\":159.221,\"rotation\":0,\"hSType\":17},{\"id\":28,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":45.462,\"y\":178.448,\"rotation\":22.25,\"hSType\":65},{\"id\":32,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":102.388,\"y\":-11.927,\"rotation\":0,\"hSType\":56},{\"id\":33,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":76.388,\"y\":15.583,\"rotation\":0,\"hSType\":55},{\"id\":34,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":139.461,\"y\":37.513,\"rotation\":0,\"hSType\":55},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":200,\"y\":51.7},{\"x\":0,\"y\":51.7}],\"settings\":{\"collidable\":true},\"colors\":[5473963,732746],\"hasBorder\":true},{\"id\":29,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":51.55},{\"x\":200,\"y\":51.55},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,11056318]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 28,
+  "created_at": "2020-02-09T20:16:33.000Z",
+  "updated_at": "2020-02-09T20:16:34.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 545336,
+    "username": "Brickwall",
+    "description": "F",
+    "about": "Shaaaallow",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2018-12-06T22:41:23.000Z",
+    "date_last_played": "2023-09-27T19:38:21.000Z",
+    "kill_count": 5023,
+    "play_count": 1324,
+    "highest_score": 2867479,
+    "picture": "545336.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 170,
+    "tier": 3,
+    "xp": 78450,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T11:26:01.653Z"
+}
