@@ -1,0 +1,63 @@
+{
+  "id": 8212,
+  "user_id": 20767404,
+  "cloneof_id": null,
+  "string_id": "my_first_mapv1_original",
+  "title": "welcome",
+  "description": "nothing",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":6571.799,\"y\":0},{\"x\":6571.799,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":6571.799,\"height\":750},\"settings\":{\"area\":50}},{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6578.33,\"y\":10.878},{\"x\":7787.724,\"y\":10.878},{\"x\":7787.724,\"y\":750},{\"x\":6578.33,\"y\":750}],\"position\":{\"x\":6578.33,\"y\":10.878},\"size\":{\"width\":1209.394,\"height\":739.122},\"settings\":{\"area\":5}},{\"id\":7,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":6418.599,\"y\":0},{\"x\":6798.911,\"y\":0},{\"x\":6798.911,\"y\":750},{\"x\":6418.599,\"y\":750}],\"position\":{\"x\":6418.599,\"y\":0},\"size\":{\"width\":380.312,\"height\":750},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":7103.161409429594,\"y\":397.846112235738}}}],\"delay\":5,\"when\":1}]},{\"id\":9,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":6677.211,\"y\":0},{\"x\":6874.974,\"y\":0},{\"x\":6874.974,\"y\":737.808},{\"x\":6677.211,\"y\":737.808}],\"position\":{\"x\":6677.211,\"y\":0},\"size\":{\"width\":197.763,\"height\":737.808},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":2128.674298277496,\"y\":435.8775141506162}}}],\"delay\":1,\"when\":3}]},{\"id\":10,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1337.625,\"y\":114.988},{\"x\":2980.574,\"y\":114.988},{\"x\":2980.574,\"y\":750},{\"x\":1337.625,\"y\":750}],\"position\":{\"x\":1337.625,\"y\":114.988},\"size\":{\"width\":1642.95,\"height\":635.012},\"settings\":{\"fishLevels\":[0],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":11,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":6258.867,\"y\":259.507},{\"x\":7224.861,\"y\":259.507},{\"x\":7224.861,\"y\":624.608},{\"x\":6258.867,\"y\":624.608}],\"position\":{\"x\":6258.867,\"y\":259.507},\"size\":{\"width\":965.994,\"height\":365.1},\"settings\":{\"fishLevels\":[0,1],\"animalCount\":40,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":16,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":691.093,\"y\":0.894},{\"x\":8000,\"y\":0.894},{\"x\":8000,\"y\":750},{\"x\":691.093,\"y\":750}],\"position\":{\"x\":691.093,\"y\":0.894},\"size\":{\"width\":7308.907,\"height\":749.106},\"settings\":{\"foodIds\":[1],\"count\":1226,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":54751.43018638741}},{\"id\":19,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":6578.33,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":6578.33,\"y\":750}],\"position\":{\"x\":6578.33,\"y\":0},\"size\":{\"width\":1421.67,\"height\":750},\"settings\":{\"foodIds\":[2],\"count\":217,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10662.52486980899}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":744.337,\"y\":596.56},{\"x\":1162.681,\"y\":558.528},{\"x\":1238.743,\"y\":657.41},{\"x\":1535.387,\"y\":626.985},{\"x\":1657.087,\"y\":703.047},{\"x\":1938.518,\"y\":649.804},{\"x\":2235.162,\"y\":581.347},{\"x\":2486.168,\"y\":634.591},{\"x\":2782.812,\"y\":619.378},{\"x\":3330.461,\"y\":581.347},{\"x\":3665.136,\"y\":604.166},{\"x\":3786.836,\"y\":611.772},{\"x\":3999.811,\"y\":611.772},{\"x\":4342.093,\"y\":626.985},{\"x\":4798.468,\"y\":619.378},{\"x\":5292.874,\"y\":611.772},{\"x\":6053.499,\"y\":642.197},{\"x\":6471.842,\"y\":665.016},{\"x\":6578.33,\"y\":665.016},{\"x\":6684.818,\"y\":611.772},{\"x\":7011.886,\"y\":436.828},{\"x\":7338.955,\"y\":459.647},{\"x\":7536.717,\"y\":588.954},{\"x\":7924.635,\"y\":695.441},{\"x\":7818.148,\"y\":710.654}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":22,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":668.275,\"y\":275.671},{\"x\":8000,\"y\":275.671},{\"x\":8000,\"y\":750},{\"x\":668.275,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":23,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":675.881,\"y\":7.669},{\"x\":2934.937,\"y\":7.669},{\"x\":2934.937,\"y\":106.55},{\"x\":675.881,\"y\":106.55}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":24,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":5437.393,\"y\":0},{\"x\":7513.899,\"y\":0},{\"x\":7513.899,\"y\":471.651},{\"x\":5437.393,\"y\":471.651}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":25,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":7574.748,\"y\":0},{\"x\":7947.455,\"y\":0},{\"x\":7947.455,\"y\":106.55},{\"x\":7574.748,\"y\":106.55}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":26,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":668.275,\"y\":15.275},{\"x\":7977.88,\"y\":15.275},{\"x\":7977.88,\"y\":319.525},{\"x\":668.275,\"y\":319.525}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 14,
+  "created_at": "2021-10-15T17:38:17.000Z",
+  "updated_at": "2021-10-15T17:38:17.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20767404,
+    "username": "lolcatsgatos",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-10-15T17:36:11.000Z",
+    "date_last_played": "2022-08-19T20:39:07.000Z",
+    "kill_count": 0,
+    "play_count": 3,
+    "highest_score": 23930,
+    "picture": "20767404-da82fdec10a75a17dc109a84bc9fc399ca.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 0,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "45"
+    },
+    {
+      "id": "67"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:50:46.069Z"
+}

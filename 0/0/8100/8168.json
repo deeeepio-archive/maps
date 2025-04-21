@@ -1,0 +1,60 @@
+{
+  "id": 8168,
+  "user_id": 20766224,
+  "cloneof_id": null,
+  "string_id": "3021184",
+  "title": "My first map",
+  "description": "This is my first map",
+  "data": "{\"screenObjects\":[{\"id\":18,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":6.972,\"y\":2384.712},{\"x\":2656.946,\"y\":2384.712},{\"x\":2656.946,\"y\":4000},{\"x\":6.972,\"y\":4000}],\"position\":{\"x\":6.972,\"y\":2384.712},\"size\":{\"width\":2649.974,\"height\":1615.288},\"settings\":{\"area\":34}},{\"id\":19,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2612.304,\"y\":2039.45},{\"x\":8000,\"y\":2039.45},{\"x\":8000,\"y\":4000},{\"x\":2612.304,\"y\":4000}],\"position\":{\"x\":2612.304,\"y\":2039.45},\"size\":{\"width\":5387.696,\"height\":1960.55},\"settings\":{\"area\":17}},{\"id\":15,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":11.142,\"y\":2804.524},{\"x\":1757.271,\"y\":2804.524},{\"x\":1757.271,\"y\":3423.239},{\"x\":11.142,\"y\":3423.239}],\"position\":{\"x\":11.142,\"y\":2804.524},\"size\":{\"width\":1746.129,\"height\":618.715},\"settings\":{\"foodIds\":[1],\"count\":48,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"999999\",\"area\":10803.56608123939}},{\"id\":17,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1770.497,\"y\":2794.912},{\"x\":7989.384,\"y\":2794.912},{\"x\":7989.384,\"y\":3391.346},{\"x\":1770.497,\"y\":3391.346}],\"position\":{\"x\":1770.497,\"y\":2794.912},\"size\":{\"width\":6218.887,\"height\":596.434},\"settings\":{\"foodIds\":[16],\"count\":38,\"firstSpawnMs\":0,\"reSpawnMs\":\"9999\",\"area\":37091.5455270955}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":1882.663,\"y\":2009.397},{\"x\":5913.768,\"y\":1235.008},{\"x\":5757.225,\"y\":1947.224},{\"x\":1765.418,\"y\":2794.194}],\"texture\":2,\"settings\":{\"collidable\":false}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":3454.933},{\"x\":4837.82,\"y\":3527.417},{\"x\":4865.821,\"y\":4000},{\"x\":0,\"y\":4000}],\"texture\":2,\"settings\":{\"collidable\":false}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":4789.842,\"y\":3515.621},{\"x\":8000,\"y\":3482.418},{\"x\":8000,\"y\":4000},{\"x\":4853.151,\"y\":4000}],\"texture\":2,\"settings\":{\"collidable\":false}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":4552.611,\"y\":3626.313},{\"x\":4553.611,\"y\":3626.313},{\"x\":4553.611,\"y\":3627.313},{\"x\":4552.611,\"y\":3627.313}],\"texture\":2,\"settings\":{\"collidable\":false}},{\"id\":13,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":155.713,\"y\":2715.875},{\"x\":162.584,\"y\":2715.875},{\"x\":162.584,\"y\":2757.776},{\"x\":155.713,\"y\":2757.776}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":14,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":2743.478},{\"x\":8000,\"y\":2397.819},{\"x\":8000,\"y\":4000},{\"x\":0,\"y\":4000}],\"texture\":7,\"settings\":{\"collidable\":true},\"opacity\":0.4},{\"id\":11,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":2454.416},{\"x\":8000,\"y\":2048.943},{\"x\":8000,\"y\":4000},{\"x\":0,\"y\":4000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":12,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2057.8},{\"x\":0,\"y\":2462.876}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":8},\"worldSize\":{\"width\":800,\"height\":\"400\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 12,
+  "created_at": "2021-10-12T05:08:20.000Z",
+  "updated_at": "2021-10-12T05:09:33.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20766224,
+    "username": "ArturM7",
+    "description": "hi",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-10-12T05:06:38.000Z",
+    "date_last_played": "2021-10-13T18:53:27.000Z",
+    "kill_count": 13,
+    "play_count": 20,
+    "highest_score": 262763,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 6,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#First map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:50:42.725Z"
+}
