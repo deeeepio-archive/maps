@@ -1,0 +1,90 @@
+{
+  "id": 10434,
+  "user_id": 20951283,
+  "cloneof_id": null,
+  "string_id": "background_v2",
+  "title": "Remastered menu background",
+  "description": "Decided to remaster the menu background cuz' a lot of people were complaining about the current one being really empty.",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":145.891},{\"x\":42.123,\"y\":131.531},{\"x\":90.373,\"y\":156.805},{\"x\":168.494,\"y\":157.954},{\"x\":243.742,\"y\":121.191},{\"x\":370,\"y\":143.847},{\"x\":370,\"y\":200},{\"x\":0,\"y\":200}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"A\",\"layerId\":\"animals\",\"x\":203.47,\"y\":142.563,\"rotation\":-28,\"fLevel\":32},{\"id\":18,\"type\":\"A\",\"layerId\":\"animals\",\"x\":213.495,\"y\":58.042,\"rotation\":286.66,\"fLevel\":10},{\"id\":4,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":325.166,\"y\":154.322,\"rotation\":8.02,\"hSType\":49},{\"id\":5,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":333.826,\"y\":89.804,\"rotation\":-33.09,\"hSType\":34},{\"id\":7,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":96.813,\"y\":255.474,\"rotation\":8.89,\"hSType\":41,\"opacity\":0.3},{\"id\":8,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":246.303,\"y\":123.766,\"rotation\":8.08,\"hSType\":43},{\"id\":9,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":59.758,\"y\":141.086,\"rotation\":27.82,\"hSType\":30},{\"id\":10,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":170.072,\"y\":159.598,\"rotation\":-8.9,\"hSType\":37},{\"id\":12,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":198.353,\"y\":88.73,\"rotation\":8.75,\"hSType\":72,\"opacity\":0.3},{\"id\":13,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":24.714,\"y\":141.048,\"rotation\":-4.84,\"hSType\":44},{\"id\":14,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":101.724,\"y\":163.664,\"rotation\":1.42,\"hSType\":42},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":177.445,\"y\":47.061,\"rotation\":225.27,\"hSType\":21,\"opacity\":0.3},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":271.495,\"y\":128.791,\"rotation\":-4.37,\"hSType\":32},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":287.341,\"y\":133.532,\"rotation\":45.33,\"hSType\":32},{\"id\":19,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":222.978,\"y\":133.906,\"rotation\":0.67,\"hSType\":35},{\"id\":20,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":46.312,\"y\":100.43,\"rotation\":-80.39,\"hSType\":33,\"opacity\":0.3},{\"id\":21,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":353.955,\"y\":112.133,\"rotation\":13.86,\"hSType\":47,\"opacity\":0.3},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":370,\"y\":0},{\"x\":370,\"y\":162.509},{\"x\":0,\"y\":162.509}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":false}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"37\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 19,
+  "created_at": "2022-07-25T07:39:36.000Z",
+  "updated_at": "2022-07-25T07:39:38.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20951283,
+    "username": "nomyC",
+    "description": "Your life is worth everything, you serve ALL purpose... You should love yourself, NOW! And share that oxygen with everyone else so we can live in this blue bubble.",
+    "about": "im that guy you've been seeing recently, wussy. ",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-06-29T07:30:48.000Z",
+    "date_last_played": "2023-01-26T02:18:36.000Z",
+    "kill_count": 1563,
+    "play_count": 829,
+    "highest_score": 5475091,
+    "picture": "20951283-103383897213dd1108d6841f8f75fcf87f.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 41,
+    "tier": 7,
+    "xp": 621300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Background"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:30:01.348Z"
+}
