@@ -1,0 +1,113 @@
+{
+  "id": 8272,
+  "user_id": 20758016,
+  "cloneof_id": null,
+  "string_id": "colder_1v1",
+  "title": "Arctic 1v1 V2",
+  "description": "1v1 Map based on Arctic (changed gravity to prevent airpins)",
+  "data": "{\"screenObjects\":[{\"id\":128,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":300},\"settings\":{\"area\":63}},{\"id\":129,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":300,\"height\":300},\"settings\":{\"foodIds\":[1,16],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":900,\"onlyOnWater\":true}},{\"id\":130,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":72.517,\"y\":273.31},{\"x\":38.172,\"y\":226.552},{\"x\":37.759,\"y\":100.759},{\"x\":36.517,\"y\":61.862},{\"x\":0,\"y\":0},{\"x\":0,\"y\":299.793},{\"x\":300,\"y\":300},{\"x\":300,\"y\":0},{\"x\":266.586,\"y\":61.034},{\"x\":265.345,\"y\":99.103},{\"x\":266.586,\"y\":229.034},{\"x\":234.724,\"y\":271.241}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[17,5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":131,\"type\":\"A\",\"layerId\":\"animals\",\"x\":145.313,\"y\":156.606,\"rotation\":-133.1,\"fLevel\":25},{\"id\":132,\"type\":\"A\",\"layerId\":\"animals\",\"x\":131.133,\"y\":170.711,\"rotation\":39.49,\"fLevel\":12},{\"id\":133,\"type\":\"P\",\"layerId\":\"props\",\"x\":277.539,\"y\":45.677,\"rotation\":-58.63,\"pType\":1,\"params\":{\"text\":\"Map by CrocNet\"}},{\"id\":134,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":230.586,\"y\":3.103,\"rotation\":0,\"hSType\":55},{\"id\":135,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":69.971,\"y\":272.251,\"rotation\":27.96,\"hSType\":7},{\"id\":136,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":55.451,\"y\":265.742,\"rotation\":0,\"hSType\":36},{\"id\":137,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":89.498,\"y\":275.255,\"rotation\":0,\"hSType\":36},{\"id\":138,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":139.566,\"y\":274.254,\"rotation\":0,\"hSType\":36},{\"id\":139,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":178.119,\"y\":275.756,\"rotation\":0,\"hSType\":36},{\"id\":140,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":223.181,\"y\":273.252,\"rotation\":0,\"hSType\":36},{\"id\":141,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":251.72,\"y\":257.731,\"rotation\":0,\"hSType\":36},{\"id\":142,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":268.967,\"y\":61.136,\"rotation\":-72.27,\"hSType\":61},{\"id\":143,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":34.932,\"y\":65.323,\"rotation\":71.12,\"hSType\":61},{\"id\":144,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":232.902,\"y\":97.106,\"rotation\":0,\"hSType\":55},{\"id\":145,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":153.21,\"y\":98.09,\"rotation\":0,\"hSType\":55},{\"id\":146,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":70.96,\"y\":98.877,\"rotation\":0,\"hSType\":55},{\"id\":147,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":267.902,\"y\":205.54,\"rotation\":54.08,\"hSType\":58},{\"id\":148,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":35.86,\"y\":169.284,\"rotation\":-60.43,\"hSType\":58},{\"id\":149,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":267.149,\"y\":126.115,\"rotation\":-270.81,\"hSType\":58},{\"id\":150,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":123.38,\"y\":274.271,\"rotation\":-43.49,\"hSType\":50},{\"id\":151,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":160.738,\"y\":274.278,\"rotation\":0,\"hSType\":65},{\"id\":152,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":251.528,\"y\":252.012,\"rotation\":-56.92,\"hSType\":65},{\"id\":153,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":55.171,\"y\":257.251,\"rotation\":42.88,\"hSType\":65},{\"id\":154,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":204.694,\"y\":274.052,\"rotation\":0,\"hSType\":81},{\"id\":155,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":256.966,\"y\":243.784,\"rotation\":-57.71,\"hSType\":86},{\"id\":156,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":241.646,\"y\":263.549,\"rotation\":-45.57,\"hSType\":86},{\"id\":157,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":136.361,\"y\":274.131,\"rotation\":0,\"hSType\":72},{\"id\":158,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":176.459,\"y\":273.354,\"rotation\":0,\"hSType\":72},{\"id\":159,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":139.59,\"y\":232.696,\"rotation\":0,\"hSType\":36},{\"id\":160,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":178.022,\"y\":234.162,\"rotation\":0,\"hSType\":36},{\"id\":161,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":145.345,\"y\":63.517,\"rotation\":0,\"hSType\":54},{\"id\":162,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":110.89},{\"x\":300,\"y\":110.89},{\"x\":300,\"y\":300},{\"x\":0,\"y\":300}],\"settings\":{\"collidable\":true},\"colors\":[47840,204080],\"hasBorder\":true},{\"id\":163,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":300,\"y\":0},{\"x\":300,\"y\":111.996},{\"x\":0,\"y\":111.996}],\"settings\":{\"collidable\":true},\"colors\":[16735573,16733630]}],\"settings\":{\"gravity\":8.87},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 36,
+  "created_at": "2021-10-20T19:01:22.000Z",
+  "updated_at": "2022-06-10T12:31:43.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20758016,
+    "username": "Crocnet",
+    "description": "Monkey don't kill monkey;\nGamer kill gamer.",
+    "about": "I'm a big noob that got T10",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-09-11T20:07:17.000Z",
+    "date_last_played": "2023-11-10T21:10:50.000Z",
+    "kill_count": 13585,
+    "play_count": 3918,
+    "highest_score": 5315740,
+    "picture": "20758016-191b2ee3c76432fee47314930b0b4185.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1476,
+    "tier": 10,
+    "xp": 1440300,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1 "
+    },
+    {
+      "id": "Arctic"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 4,
+      "name": "FllllSH Deep",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-24T21:41:59.000Z",
+      "updated_at": "2021-08-24T21:41:59.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Tacoco & Myhailot Deep Assets",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 4,
+      "created_at": "2021-08-25T00:01:35.000Z",
+      "updated_at": "2021-08-25T00:01:35.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:51:59.826Z"
+}

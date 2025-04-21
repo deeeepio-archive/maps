@@ -1,0 +1,63 @@
+{
+  "id": 8291,
+  "user_id": 20755608,
+  "cloneof_id": null,
+  "string_id": "shark_hell",
+  "title": "shark hell",
+  "description": "shark hell",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":105.111,\"y\":78.086},{\"x\":365.368,\"y\":78.086},{\"x\":365.368,\"y\":173.936},{\"x\":105.111,\"y\":173.936}],\"position\":{\"x\":105.111,\"y\":78.086},\"size\":{\"width\":260.257,\"height\":95.85},\"settings\":{\"fishLevels\":[10],\"animalCount\":12,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":6,\"restrictMovement\":false}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":500},{\"x\":0,\"y\":115.455},{\"x\":148.868,\"y\":330.72},{\"x\":242.424,\"y\":360.611},{\"x\":366.916,\"y\":324.368},{\"x\":500,\"y\":120.042},{\"x\":500,\"y\":500}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[3,4],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":209.177},{\"x\":500,\"y\":207.603},{\"x\":500,\"y\":500},{\"x\":1.022,\"y\":500}],\"settings\":{\"collidable\":true},\"colors\":[6445312,16711680],\"hasBorder\":true},{\"id\":4,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0.68,\"y\":1.91},{\"x\":500,\"y\":1.91},{\"x\":500,\"y\":500},{\"x\":0.68,\"y\":500}],\"settings\":{\"collidable\":true},\"colors\":[16568271,16305031]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"50\",\"height\":\"50\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 4,
+  "created_at": "2021-10-21T17:38:25.000Z",
+  "updated_at": "2021-10-21T17:44:53.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20755608,
+    "username": "PhilRodman",
+    "description": "Better luck next time! :)",
+    "about": "Whale Shark - 3m\nSleeper Shark - 2.3m\nMarlin - 1.1m\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-09-01T14:32:31.000Z",
+    "date_last_played": "2023-12-13T16:33:41.000Z",
+    "kill_count": 1565,
+    "play_count": 415,
+    "highest_score": 3073431,
+    "picture": "20755608.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 960,
+    "tier": 1,
+    "xp": 22650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "hell"
+    },
+    {
+      "id": "shark"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:52:01.440Z"
+}
