@@ -1,0 +1,99 @@
+{
+  "id": 1331,
+  "user_id": 562858,
+  "cloneof_id": null,
+  "string_id": "swampmafiadomain",
+  "title": "The Swamp Mafia's Domain",
+  "description": "This arena/map is the territory of the Swamp Mafia. Swamp Power!",
+  "data": "{\"screenObjects\":[{\"id\":19,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1638.784,\"y\":580.16},{\"x\":1639.784,\"y\":580.16},{\"x\":1639.784,\"y\":581.16},{\"x\":1638.784,\"y\":581.16}],\"position\":{\"x\":1638.784,\"y\":580.16},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":20,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2087.572,\"y\":64.053},{\"x\":2088.572,\"y\":64.053},{\"x\":2088.572,\"y\":65.053},{\"x\":2087.572,\"y\":65.053}],\"position\":{\"x\":2087.572,\"y\":64.053},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":21,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2872.951,\"y\":389.425},{\"x\":2873.951,\"y\":389.425},{\"x\":2873.951,\"y\":390.425},{\"x\":2872.951,\"y\":390.425}],\"position\":{\"x\":2872.951,\"y\":389.425},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":25,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1750.981,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":1000},{\"x\":1750.981,\"y\":1000}],\"position\":{\"x\":1750.981,\"y\":0},\"size\":{\"width\":6249.019,\"height\":1000},\"settings\":{\"area\":22}},{\"id\":29,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1751.003,\"y\":0},{\"x\":1751.003,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1751.003,\"height\":1000},\"settings\":{\"area\":38}},{\"id\":32,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1410.923,\"y\":0},{\"x\":2645.09,\"y\":0},{\"x\":2645.09,\"y\":1000},{\"x\":1410.923,\"y\":1000}],\"position\":{\"x\":1410.923,\"y\":0},\"size\":{\"width\":1234.168,\"height\":1000},\"settings\":{\"area\":54}},{\"id\":91,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":409.838},{\"x\":1706.342,\"y\":409.838},{\"x\":1706.342,\"y\":905.628},{\"x\":0,\"y\":905.628}],\"position\":{\"x\":0,\"y\":409.838},\"size\":{\"width\":1706.342,\"height\":495.791},\"settings\":{\"fishLevels\":[88],\"animalCount\":30,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":94,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1797.965,\"y\":120.959},{\"x\":8000,\"y\":120.959},{\"x\":8000,\"y\":348.181},{\"x\":1797.965,\"y\":348.181}],\"position\":{\"x\":1797.965,\"y\":120.959},\"size\":{\"width\":6202.035,\"height\":227.223},\"settings\":{\"fishLevels\":[44],\"animalCount\":50,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":99,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":4.969},{\"x\":1583.421,\"y\":4.969},{\"x\":1583.421,\"y\":319.666},{\"x\":0,\"y\":319.666}],\"position\":{\"x\":0,\"y\":4.969},\"size\":{\"width\":1583.421,\"height\":314.697},\"settings\":{\"fishLevels\":[27],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":\"10000\",\"npcType\":1,\"restrictMovement\":true}},{\"id\":101,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2162.519,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":454.874},{\"x\":2162.519,\"y\":454.874}],\"position\":{\"x\":2162.519,\"y\":0},\"size\":{\"width\":5837.481,\"height\":454.874},\"settings\":{\"fishLevels\":[60],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":\"5000\",\"npcType\":1,\"restrictMovement\":true}},{\"id\":102,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2666.177,\"y\":424.187},{\"x\":8000,\"y\":424.187},{\"x\":8000,\"y\":840.658},{\"x\":2666.177,\"y\":840.658}],\"position\":{\"x\":2666.177,\"y\":424.187},\"size\":{\"width\":5333.823,\"height\":416.471},\"settings\":{\"foodIds\":[1],\"count\":458,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":22213.820583941764,\"onlyOnWater\":true}},{\"id\":107,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":6155.142,\"y\":457.783},{\"x\":5757.344,\"y\":771.834},{\"x\":5715.471,\"y\":881.752},{\"x\":5919.604,\"y\":845.113}],\"settings\":{\"angle\":134,\"strength\":50}},{\"id\":47,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":8000,\"y\":1000},{\"x\":7066.572,\"y\":1000},{\"x\":7225.068,\"y\":968.256},{\"x\":8000,\"y\":942.377}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":50,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7080.005,\"y\":1000},{\"x\":6103.973,\"y\":1000},{\"x\":6297.767,\"y\":926.187},{\"x\":6992.099,\"y\":975.582}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":66,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":6306.979,\"y\":1000},{\"x\":5193.946,\"y\":1000},{\"x\":6265.91,\"y\":880.441},{\"x\":6306.979,\"y\":931.719}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":76,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":5469.788,\"y\":1000},{\"x\":2513.94,\"y\":1000},{\"x\":2857.732,\"y\":932.207},{\"x\":5673.183,\"y\":979.006}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":79,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2563.095,\"y\":1000},{\"x\":1550.87,\"y\":1000},{\"x\":1550.87,\"y\":939.359},{\"x\":2612.062,\"y\":994.202}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":88,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1566.451,\"y\":1000},{\"x\":0,\"y\":1000},{\"x\":0,\"y\":975.501},{\"x\":1557.21,\"y\":939.352}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":89,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2555.121,\"y\":958.28},{\"x\":2556.121,\"y\":958.28},{\"x\":2556.121,\"y\":959.28},{\"x\":2555.121,\"y\":959.28}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":103,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":5232.015,\"y\":973.633},{\"x\":6225.794,\"y\":973.633},{\"x\":6225.794,\"y\":426.921},{\"x\":5947.536,\"y\":864.318}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":122,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3659.891,\"y\":429.11},{\"x\":4614.841,\"y\":429.11},{\"x\":4528.239,\"y\":361.83},{\"x\":3735.863,\"y\":362.029}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":127,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":6476.166,\"y\":361.844},{\"x\":6581.644,\"y\":361.971},{\"x\":6625,\"y\":384.706},{\"x\":6438.887,\"y\":384.706}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":129,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3993.165,\"y\":361.676,\"rotation\":0,\"hSType\":13},{\"id\":153,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4324.523,\"y\":362.195,\"rotation\":0,\"hSType\":13},{\"id\":154,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3873.632,\"y\":362.175,\"rotation\":0,\"hSType\":14},{\"id\":155,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4153.542,\"y\":361.989,\"rotation\":0,\"hSType\":14},{\"id\":156,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4462.77,\"y\":362.012,\"rotation\":0,\"hSType\":14},{\"id\":157,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4187.06,\"y\":429.161,\"rotation\":0,\"hSType\":18},{\"id\":158,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3933.783,\"y\":429.091,\"rotation\":0,\"hSType\":18},{\"id\":159,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4507.593,\"y\":429.084,\"rotation\":0,\"hSType\":18},{\"id\":160,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4362.114,\"y\":429.046,\"rotation\":0,\"hSType\":18},{\"id\":161,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3772.116,\"y\":429.21,\"rotation\":0,\"hSType\":18},{\"id\":109,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8000,\"y\":362.692},{\"x\":2651.47,\"y\":362.692},{\"x\":2651.47,\"y\":1000},{\"x\":8000,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[6130777,2969183],\"hasBorder\":true},{\"id\":114,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2662.367,\"y\":362.868},{\"x\":1706.376,\"y\":362.868},{\"x\":1706.376,\"y\":1000},{\"x\":2662.367,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[2459720,1521222],\"hasBorder\":true},{\"id\":120,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1706.385,\"y\":362.213},{\"x\":0,\"y\":364.812},{\"x\":0,\"y\":1000},{\"x\":1708.064,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[3194341,1521222],\"hasBorder\":true},{\"id\":38,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":371.698},{\"x\":0,\"y\":362.31}],\"settings\":{\"collidable\":true},\"colors\":[15577098,15460623]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"100\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 36,
+  "created_at": "2019-12-19T11:23:11.000Z",
+  "updated_at": "2019-12-19T11:23:12.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 562858,
+    "username": "The_Swampfather",
+    "description": "This is the Swampfather, godfather of the Swamp Mafia. We use the swarms [Swamp], [Lamp] and we recently dominated with [Pale].\n\nIf you remember us, it's probably from the golden age of chaos in the swamp.\n",
+    "about": "I've been with this game since the very beginning. Every time this game is updated, I think I'll quit for good. That is, of course, until I realise just how great the changes are. \nThanks for everything, Fed.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-03-10T11:11:09.000Z",
+    "date_last_played": "2021-10-24T15:26:19.000Z",
+    "kill_count": 844,
+    "play_count": 214,
+    "highest_score": 3741907,
+    "picture": "562858.jpg",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 229,
+    "tier": 1,
+    "xp": 0,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "[Swamp]"
+    },
+    {
+      "id": "new"
+    },
+    {
+      "id": "Swamp"
+    },
+    {
+      "id": "W.I.P."
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T10:40:13.382Z"
+}
