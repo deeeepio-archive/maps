@@ -1,0 +1,60 @@
+{
+  "id": 13150,
+  "user_id": 21337077,
+  "cloneof_id": null,
+  "string_id": "santinozpt",
+  "title": "BATLE ROYAL",
+  "description": "modo de juego rapido",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":134.852},{\"x\":622.706,\"y\":134.852},{\"x\":622.706,\"y\":583.686},{\"x\":0,\"y\":583.686}],\"position\":{\"x\":0,\"y\":134.852},\"size\":{\"width\":622.706,\"height\":448.834},\"settings\":{\"area\":0}},{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":628.631,\"y\":597.838},{\"x\":1000,\"y\":597.838},{\"x\":1000,\"y\":866.734},{\"x\":628.631,\"y\":866.734}],\"position\":{\"x\":628.631,\"y\":597.838},\"size\":{\"width\":371.369,\"height\":268.896},\"settings\":{\"area\":0}},{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1.882,\"y\":128.787},{\"x\":1000,\"y\":128.787},{\"x\":1000,\"y\":1000},{\"x\":1.882,\"y\":1000}],\"position\":{\"x\":1.882,\"y\":128.787},\"size\":{\"width\":998.118,\"height\":871.213},\"settings\":{\"area\":63}},{\"id\":9,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":32.208,\"y\":213.543},{\"x\":161.602,\"y\":213.543},{\"x\":171.711,\"y\":243.87},{\"x\":54.448,\"y\":268.131}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":155.537,\"y\":452.113},{\"x\":311.213,\"y\":452.113},{\"x\":250.56,\"y\":520.853},{\"x\":155.537,\"y\":565.332}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":11,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":137.341,\"y\":450.091},{\"x\":173.733,\"y\":450.091},{\"x\":173.733,\"y\":458.178},{\"x\":137.341,\"y\":458.178}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":12,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":810.591,\"y\":571.397},{\"x\":612.457,\"y\":555.223},{\"x\":737.807,\"y\":634.072},{\"x\":899.549,\"y\":731.117}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":341.54,\"y\":876.685},{\"x\":531.586,\"y\":876.685},{\"x\":531.586,\"y\":539.049},{\"x\":440.607,\"y\":710.9}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":456.781,\"y\":791.771},{\"x\":474.977,\"y\":858.489},{\"x\":474.977,\"y\":787.727},{\"x\":515.412,\"y\":787.727}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":503.281,\"y\":868.598},{\"x\":507.325,\"y\":868.598},{\"x\":507.325,\"y\":874.663},{\"x\":503.281,\"y\":874.663}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":867.201,\"y\":953.512},{\"x\":780.264,\"y\":868.598},{\"x\":683.219,\"y\":767.509},{\"x\":867.201,\"y\":767.509}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":855.07,\"y\":779.64},{\"x\":851.026,\"y\":779.64},{\"x\":851.026,\"y\":781.662},{\"x\":855.07,\"y\":781.662}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":24.121,\"y\":761.444},{\"x\":220.233,\"y\":761.444},{\"x\":220.233,\"y\":967.665},{\"x\":24.121,\"y\":967.665}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":232.364,\"y\":765.487},{\"x\":167.667,\"y\":765.487},{\"x\":167.667,\"y\":852.424},{\"x\":232.364,\"y\":852.424}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":119.145,\"y\":884.772},{\"x\":120.145,\"y\":884.772},{\"x\":120.145,\"y\":885.772},{\"x\":119.145,\"y\":885.772}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":464.868,\"y\":177.152},{\"x\":911.68,\"y\":177.152},{\"x\":911.68,\"y\":318.676},{\"x\":464.868,\"y\":318.676}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":897.527,\"y\":320.697},{\"x\":606.392,\"y\":320.697},{\"x\":606.392,\"y\":247.914},{\"x\":897.527,\"y\":247.914}],\"texture\":11,\"settings\":{\"collidable\":false}},{\"id\":6,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":115.101,\"y\":664.399},{\"x\":288.974,\"y\":664.399},{\"x\":288.974,\"y\":757.4},{\"x\":115.101,\"y\":757.4}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":7,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":921.788,\"y\":389.438},{\"x\":570,\"y\":389.438},{\"x\":570,\"y\":403.59},{\"x\":921.788,\"y\":403.59}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"100\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 19,
+  "created_at": "2023-11-28T21:55:01.000Z",
+  "updated_at": "2023-11-28T21:55:02.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21337077,
+    "username": "SANTINOZPT",
+    "description": "Es verdad. He matado a mujeres y niños. He matado casi cualquier cosa que camina o se arrastra, en una u otra oportunidad. Y estoy aquí para matarte, por lo que le hiciste a Amigo.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-11-26T11:27:26.000Z",
+    "date_last_played": "2024-11-06T15:56:12.000Z",
+    "kill_count": 387,
+    "play_count": 265,
+    "highest_score": 3308372,
+    "picture": "21337077-b7c4b329e1013b610f382ae407c6ec38ab.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 324,
+    "tier": 3,
+    "xp": 109500,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "zpt"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:49:03.919Z"
+}
