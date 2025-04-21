@@ -1,0 +1,60 @@
+{
+  "id": 11627,
+  "user_id": 21257367,
+  "cloneof_id": null,
+  "string_id": "lieu",
+  "title": "Lieu",
+  "description": "Lieu",
+  "data": "{\"screenObjects\":[{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":1718.135},{\"x\":3645.688,\"y\":1718.135},{\"x\":3645.688,\"y\":5000},{\"x\":0,\"y\":5000}],\"position\":{\"x\":0,\"y\":1718.135},\"size\":{\"width\":3645.688,\"height\":3281.865},\"settings\":{\"area\":25}},{\"id\":4,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3622.957,\"y\":0},{\"x\":3622.957,\"y\":1723.907},{\"x\":0,\"y\":1723.907}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":3622.957,\"height\":1723.907},\"settings\":{\"area\":21}},{\"id\":13,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3631.287,\"y\":1707.365},{\"x\":10000,\"y\":1707.365},{\"x\":10000,\"y\":5000},{\"x\":3631.287,\"y\":5000}],\"position\":{\"x\":3631.287,\"y\":1707.365},\"size\":{\"width\":6368.713,\"height\":3292.635},\"settings\":{\"area\":38}},{\"id\":15,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3586.62,\"y\":0},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":1671.485},{\"x\":3586.62,\"y\":1671.485}],\"position\":{\"x\":3586.62,\"y\":0},\"size\":{\"width\":6413.38,\"height\":1671.485},\"settings\":{\"area\":38}},{\"id\":19,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":4930.888,\"y\":984.652},{\"x\":6240.401,\"y\":984.652},{\"x\":6240.401,\"y\":1192.701},{\"x\":4930.888,\"y\":1192.701}],\"position\":{\"x\":4930.888,\"y\":984.652},\"size\":{\"width\":1309.513,\"height\":208.049},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":74.87958109777628,\"y\":4943.931628206186}}}],\"delay\":0,\"when\":1},{\"actions\":[],\"delay\":0,\"when\":3}]},{\"id\":25,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3673.102,\"y\":4018.93},{\"x\":5430.389,\"y\":4018.93},{\"x\":5430.389,\"y\":4762.698},{\"x\":3673.102,\"y\":4762.698}],\"position\":{\"x\":3673.102,\"y\":4018.93},\"size\":{\"width\":1757.288,\"height\":743.769},\"settings\":{\"fishLevels\":[103],\"animalCount\":40,\"firstSpawnMs\":0,\"reSpawnMs\":\"0.001\",\"npcType\":4,\"restrictMovement\":false}},{\"id\":27,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3710.832,\"y\":2015.038},{\"x\":5687.792,\"y\":2015.038},{\"x\":5687.792,\"y\":3998.895},{\"x\":3710.832,\"y\":3998.895}],\"position\":{\"x\":3710.832,\"y\":2015.038},\"size\":{\"width\":1976.96,\"height\":1983.857},\"settings\":{\"foodIds\":[3],\"count\":3188,\"firstSpawnMs\":0,\"reSpawnMs\":\"0.01\",\"area\":39220.05159614359}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4543.923,\"y\":883.129},{\"x\":7808.541,\"y\":876.424},{\"x\":6963.842,\"y\":1264.599},{\"x\":5004.276,\"y\":1267.578}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":12,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":5327.332,\"y\":848.306},{\"x\":5328.332,\"y\":848.306},{\"x\":5328.332,\"y\":849.306},{\"x\":5327.332,\"y\":849.306}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":0,\"y\":4900.584},{\"x\":10000,\"y\":4900.675},{\"x\":1695.493,\"y\":4648.664},{\"x\":0,\"y\":4798.183}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":24,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":3287.694,\"y\":5000},{\"x\":2443.226,\"y\":5000},{\"x\":2853.605,\"y\":4944.647},{\"x\":3287.694,\"y\":4973.742}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":7,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":890.751},{\"x\":7876.927,\"y\":890.751},{\"x\":7876.927,\"y\":4957.794},{\"x\":0,\"y\":4957.794}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":7666.425,\"y\":863.391},{\"x\":10000,\"y\":848.403},{\"x\":10000,\"y\":5000},{\"x\":7825.419,\"y\":5000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":20,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":34.384},{\"x\":10000,\"y\":0},{\"x\":10000,\"y\":885.856},{\"x\":0,\"y\":919.972}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"1000\",\"height\":\"500\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 14,
+  "created_at": "2023-01-22T15:08:34.000Z",
+  "updated_at": "2023-01-22T15:08:35.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21257367,
+    "username": "lieu",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-01-21T05:45:49.000Z",
+    "date_last_played": "2023-01-30T23:03:13.000Z",
+    "kill_count": 10,
+    "play_count": 32,
+    "highest_score": 254444,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 11,
+    "tier": 1,
+    "xp": 1650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "Lieu"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:38:16.925Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 11634,
+  "user_id": 20963923,
+  "cloneof_id": null,
+  "string_id": "root2_v1",
+  "title": "IDK",
+  "description": "WOW MY FIRST MAP",
+  "data": "{\"screenObjects\":[{\"id\":72,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":500,\"y\":0},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":500,\"height\":500},\"settings\":{\"area\":63}},{\"id\":73,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":500,\"y\":0},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":500,\"height\":500},\"settings\":{\"fishLevels\":[14,43],\"animalCount\":12,\"firstSpawnMs\":0,\"reSpawnMs\":\"1000\",\"npcType\":6,\"restrictMovement\":true}},{\"id\":74,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":500,\"y\":0},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":500,\"height\":500},\"settings\":{\"foodIds\":[3],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":2500,\"onlyOnWater\":true}},{\"id\":75,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":291.831,\"y\":2030.481,\"rotation\":0,\"hSType\":5},{\"id\":76,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":558.313,\"y\":2041.284,\"rotation\":0,\"hSType\":5},{\"id\":77,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":393.754,\"y\":505.776,\"rotation\":0,\"hSType\":41},{\"id\":78,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":96.302,\"y\":502.895,\"rotation\":0,\"hSType\":41},{\"id\":79,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":500,\"y\":0},{\"x\":500,\"y\":500},{\"x\":0,\"y\":500}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":0},\"worldSize\":{\"width\":\"50\",\"height\":\"50\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 8,
+  "created_at": "2023-01-25T07:53:18.000Z",
+  "updated_at": "2023-01-25T07:55:58.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20963923,
+    "username": "root_2",
+    "description": "?\n",
+    "about": "??\n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-08-21T08:27:24.000Z",
+    "date_last_played": "2025-03-02T04:07:12.000Z",
+    "kill_count": 7071,
+    "play_count": 3491,
+    "highest_score": 4080192,
+    "picture": "20963923-9e123516efbdebff76e0c24bf15b85ea.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 172,
+    "tier": 10,
+    "xp": 1167000,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "IDK"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:38:17.432Z"
+}
