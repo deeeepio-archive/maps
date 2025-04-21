@@ -1,0 +1,66 @@
+{
+  "id": 13410,
+  "user_id": 21349060,
+  "cloneof_id": null,
+  "string_id": "geo_world",
+  "title": "Geometry Planets",
+  "description": "Different planets with geometry!",
+  "data": "{\"screenObjects\":[{\"id\":14,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":555.409,\"y\":3670.288},{\"x\":2540.426,\"y\":3670.288},{\"x\":2540.426,\"y\":5656.44},{\"x\":555.409,\"y\":5656.44}],\"position\":{\"x\":555.409,\"y\":3670.288},\"size\":{\"width\":1985.017,\"height\":1986.152},\"settings\":{\"area\":22}},{\"id\":15,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1994.289,\"y\":3995.542},{\"x\":1995.289,\"y\":3995.542},{\"x\":1995.289,\"y\":3996.542},{\"x\":1994.289,\"y\":3996.542}],\"position\":{\"x\":1994.289,\"y\":3995.542},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":16,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2667.682,\"y\":4052.087},{\"x\":2668.682,\"y\":4052.087},{\"x\":2668.682,\"y\":4053.087},{\"x\":2667.682,\"y\":4053.087}],\"position\":{\"x\":2667.682,\"y\":4052.087},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":22,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":718.642,\"y\":3983.062},{\"x\":2237.632,\"y\":3983.062},{\"x\":2237.632,\"y\":5370.972},{\"x\":718.642,\"y\":5370.972}],\"position\":{\"x\":718.642,\"y\":3983.062},\"size\":{\"width\":1518.99,\"height\":1387.91},\"settings\":{\"fishLevels\":[13,6,39],\"animalCount\":15,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":true}},{\"id\":19,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":823.215,\"y\":3942.906},{\"x\":2063.374,\"y\":3942.906},{\"x\":2063.374,\"y\":5315.466},{\"x\":823.215,\"y\":5315.466}],\"position\":{\"x\":823.215,\"y\":3942.906},\"size\":{\"width\":1240.159,\"height\":1372.56},\"settings\":{\"foodIds\":[1,5],\"count\":132,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":17021.92176967792,\"onlyOnWater\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1477.67,\"y\":4307.506},{\"x\":1074.798,\"y\":4443.727},{\"x\":1133.263,\"y\":4942.347},{\"x\":1565.057,\"y\":5042.584},{\"x\":1792.747,\"y\":4595.809}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1695.896,\"y\":4201.229},{\"x\":1870.467,\"y\":4354.851},{\"x\":1876.053,\"y\":4273.85},{\"x\":1765.866,\"y\":4189.873}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":12,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1006.526,\"y\":5225.938},{\"x\":1412.8,\"y\":5304.532},{\"x\":1647.881,\"y\":5230.151},{\"x\":910.995,\"y\":5084.387}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":981.561,\"y\":4228.067},{\"x\":1437.016,\"y\":4083.297},{\"x\":1326.405,\"y\":4016.605},{\"x\":1212.542,\"y\":4060.524},{\"x\":1082.412,\"y\":3958.047},{\"x\":994.574,\"y\":3975.94}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3167.876,\"y\":4261.975,\"rotation\":0,\"fLevel\":0},{\"id\":25,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2725.212,\"y\":4286.342,\"rotation\":0,\"fLevel\":0},{\"id\":26,\"type\":\"A\",\"layerId\":\"animals\",\"x\":-568.367,\"y\":3372.587,\"rotation\":0,\"fLevel\":0},{\"id\":27,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3188.182,\"y\":4692.455,\"rotation\":0,\"fLevel\":0},{\"id\":28,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2933.18,\"y\":4723.463,\"rotation\":0,\"fLevel\":0},{\"id\":29,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1520.366,\"y\":4105.707,\"rotation\":0,\"fLevel\":0},{\"id\":30,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1439.539,\"y\":4177.553,\"rotation\":0,\"fLevel\":0},{\"id\":31,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1475.1,\"y\":3916.799,\"rotation\":0,\"fLevel\":0},{\"id\":9,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1538.068,\"y\":4008.399},{\"x\":867.343,\"y\":4209.198},{\"x\":833.93,\"y\":5131.902},{\"x\":1687.238,\"y\":5350.369},{\"x\":2152.445,\"y\":4602.44}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":1,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":7000,\"y\":0},{\"x\":7000,\"y\":7000},{\"x\":0,\"y\":7000}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":2,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":144.067,\"y\":6944.498},{\"x\":0,\"y\":6944.498},{\"x\":0,\"y\":7000},{\"x\":144.067,\"y\":7000}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"700\",\"height\":\"700\"}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 20,
+  "created_at": "2024-01-19T11:18:56.000Z",
+  "updated_at": "2024-01-19T11:24:20.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21349060,
+    "username": "TheCelestialDev",
+    "description": "Hi :D sorry 4 killing you, me was hungry. Anyways have a good day!",
+    "about": "Hi :D Im learning to use blender and unreal engine. DEEEP.io is my breaktime fun!",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-01-18T00:10:12.000Z",
+    "date_last_played": "2024-01-18T22:18:45.000Z",
+    "kill_count": 4,
+    "play_count": 21,
+    "highest_score": 602595,
+    "picture": "21349060-e38a3ac72fdbd671c479576849e375ce.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 36,
+    "tier": 1,
+    "xp": 4950,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "fun"
+    },
+    {
+      "id": "planets"
+    },
+    {
+      "id": "space"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:50:30.085Z"
+}
