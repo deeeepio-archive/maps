@@ -1,0 +1,60 @@
+{
+  "id": 11168,
+  "user_id": 20979430,
+  "cloneof_id": null,
+  "string_id": "isopods",
+  "title": "first",
+  "description": "has an isopod army",
+  "data": "{\"screenObjects\":[{\"id\":66,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":8.446,\"y\":285.576},{\"x\":800,\"y\":285.576},{\"x\":800,\"y\":750},{\"x\":8.446,\"y\":750}],\"position\":{\"x\":8.446,\"y\":285.576},\"size\":{\"width\":791.554,\"height\":464.424},\"settings\":{\"area\":8}},{\"id\":67,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":57.94},{\"x\":0,\"y\":57.94}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":800,\"height\":57.94},\"settings\":{\"area\":4}},{\"id\":68,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":156.997,\"y\":56.07},{\"x\":800,\"y\":56.07},{\"x\":800,\"y\":160.735},{\"x\":156.997,\"y\":160.735}],\"position\":{\"x\":156.997,\"y\":56.07},\"size\":{\"width\":643.003,\"height\":104.665},\"settings\":{\"area\":18}},{\"id\":70,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":156.997,\"y\":160.352},{\"x\":800,\"y\":160.352},{\"x\":800,\"y\":281.838},{\"x\":156.997,\"y\":281.838}],\"position\":{\"x\":156.997,\"y\":160.352},\"size\":{\"width\":643.003,\"height\":121.486},\"settings\":{\"area\":34}},{\"id\":75,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0.97,\"y\":57.556},{\"x\":156.099,\"y\":57.556},{\"x\":156.099,\"y\":279.969},{\"x\":0.97,\"y\":279.969}],\"position\":{\"x\":0.97,\"y\":57.556},\"size\":{\"width\":155.128,\"height\":222.413},\"settings\":{\"area\":1}},{\"id\":61,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":373.605,\"y\":305.381},{\"x\":676.152,\"y\":305.381},{\"x\":676.152,\"y\":508.427},{\"x\":373.605,\"y\":508.427}],\"position\":{\"x\":373.605,\"y\":305.381},\"size\":{\"width\":302.548,\"height\":203.046},\"settings\":{\"fishLevels\":[50],\"animalCount\":30,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":4,\"restrictMovement\":false}},{\"id\":63,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":60.517,\"y\":95.24},{\"x\":260.314,\"y\":95.24},{\"x\":260.314,\"y\":265.799},{\"x\":60.517,\"y\":265.799}],\"position\":{\"x\":60.517,\"y\":95.24},\"size\":{\"width\":199.797,\"height\":170.559},\"settings\":{\"fishLevels\":[0,1,2,3,4,5,6,7,8,9,10,12,11,25,23,21,19,16,14,54,57,98,13,26,39,53,80,67,94,107,108,95,81,68,40,27,15,28,41,55,69,82,96,109,110,97,83,70,56,29,30,17,18,31,43,44,71,58,86,85,72,99,111,112,113,100,87,73,59,45,32,20,33,46,60,74,88,101,114,115,89,75,102,47,61,34,22,35,48,62,90,76,103,116,117,104,118,105,119,106,93,79,92,78,91,77,63,49,50,64,66,52,38,36,37,24],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":2,\"restrictMovement\":false}},{\"id\":24,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":332.936,\"y\":279.621},{\"x\":758.567,\"y\":279.621},{\"x\":758.567,\"y\":556.47},{\"x\":332.936,\"y\":556.47}],\"position\":{\"x\":332.936,\"y\":279.621},\"size\":{\"width\":425.631,\"height\":276.848},\"settings\":{\"foodIds\":[1],\"count\":46,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":1178.3511579895007,\"onlyOnWater\":true}},{\"id\":26,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":339.888},{\"x\":0,\"y\":339.888}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":800,\"height\":339.888},\"settings\":{\"foodIds\":[16],\"count\":80,\"firstSpawnMs\":0,\"reSpawnMs\":\"\",\"area\":2719.1017072438285,\"onlyOnWater\":true}},{\"id\":31,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":20.717,\"y\":460.42},{\"x\":376.664,\"y\":460.42},{\"x\":376.664,\"y\":663.819},{\"x\":20.717,\"y\":663.819}],\"position\":{\"x\":20.717,\"y\":460.42},\"size\":{\"width\":355.948,\"height\":203.399},\"settings\":{\"foodIds\":[5],\"count\":18,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":723.9932525700342,\"onlyOnWater\":true}},{\"id\":35,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":99.816},{\"x\":0,\"y\":99.816}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":800,\"height\":99.816},\"settings\":{\"foodIds\":[1,24,17,25],\"count\":26,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":798.528343917568,\"onlyOnWater\":true}},{\"id\":38,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4.834,\"y\":460.42},{\"x\":800,\"y\":460.42},{\"x\":800,\"y\":731.619},{\"x\":4.834,\"y\":731.619}],\"position\":{\"x\":4.834,\"y\":460.42},\"size\":{\"width\":795.166,\"height\":271.198},\"settings\":{\"foodIds\":[10,1,16,24],\"count\":47,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":2156.4778019635564}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":357.015,\"y\":435.937},{\"x\":121.6,\"y\":283.388},{\"x\":55.683,\"y\":420.871},{\"x\":55.683,\"y\":520.687},{\"x\":210.116,\"y\":499.97},{\"x\":336.298,\"y\":488.67}],\"texture\":5,\"settings\":{\"collidable\":false}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":547.23,\"y\":113.889},{\"x\":313.698,\"y\":147.789},{\"x\":385.265,\"y\":281.505},{\"x\":558.53,\"y\":281.505},{\"x\":714.846,\"y\":262.672},{\"x\":716.729,\"y\":157.206},{\"x\":635.746,\"y\":145.906}],\"texture\":5,\"settings\":{\"collidable\":false}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":528.397,\"y\":697.719},{\"x\":733.679,\"y\":680.769},{\"x\":703.546,\"y\":592.253},{\"x\":631.98,\"y\":543.286},{\"x\":520.864,\"y\":531.987},{\"x\":377.731,\"y\":599.786},{\"x\":294.865,\"y\":650.636},{\"x\":187.516,\"y\":607.319},{\"x\":132.899,\"y\":635.569},{\"x\":76.4,\"y\":693.952},{\"x\":517.097,\"y\":695.835}],\"texture\":5,\"settings\":{\"collidable\":false}},{\"id\":9,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":666.696},{\"x\":800,\"y\":689.296},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":14,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":324.998,\"y\":678.886},{\"x\":325.998,\"y\":678.886},{\"x\":325.998,\"y\":679.886},{\"x\":324.998,\"y\":679.886}],\"texture\":5,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":15,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":690.186},{\"x\":0,\"y\":665.702}],\"texture\":8,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":2,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":800,\"y\":0},{\"x\":800,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"80\",\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 19,
+  "created_at": "2022-10-27T10:45:02.000Z",
+  "updated_at": "2022-10-27T10:45:07.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20979430,
+    "username": "TheLittleIsopod",
+    "description": "you tried your best. GG. lets meet again sometime!",
+    "about": "I main the giant isopod. you will often find me curled up in the deeeep. \n",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-10-18T09:00:45.000Z",
+    "date_last_played": "2022-11-27T06:19:28.000Z",
+    "kill_count": 8,
+    "play_count": 120,
+    "highest_score": 345875,
+    "picture": "20979430-26714664b91fe6a95b1442896105f1039.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 8,
+    "tier": 1,
+    "xp": 1200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "isopods"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T23:35:38.731Z"
+}
