@@ -1,0 +1,90 @@
+{
+  "id": 1941,
+  "user_id": 704488,
+  "cloneof_id": null,
+  "string_id": "my_map_a1",
+  "title": "Whatever first map",
+  "description": "first map",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1052.647,\"y\":0},{\"x\":1664.285,\"y\":0},{\"x\":1664.285,\"y\":273.26},{\"x\":1052.647,\"y\":273.26}],\"position\":{\"x\":1052.647,\"y\":0},\"size\":{\"width\":611.639,\"height\":273.26},\"settings\":{\"foodIds\":[3],\"count\":135,\"firstSpawnMs\":\"5\",\"reSpawnMs\":1000,\"area\":1671.3622602613677,\"onlyOnWater\":false}},{\"id\":2,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1597.027,\"y\":326.457},{\"x\":1598.027,\"y\":326.457},{\"x\":1598.027,\"y\":327.457},{\"x\":1597.027,\"y\":327.457}],\"position\":{\"x\":1597.027,\"y\":326.457},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0.01}},{\"id\":4,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":174.864,\"y\":0},{\"x\":598.652,\"y\":0},{\"x\":654.089,\"y\":750},{\"x\":192.689,\"y\":750}],\"settings\":{\"angle\":0,\"strength\":35}},{\"id\":41,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":2416.584,\"y\":182.482},{\"x\":2444.242,\"y\":674.893},{\"x\":2984.98,\"y\":718.076},{\"x\":3049.488,\"y\":197.148}],\"settings\":{\"angle\":0,\"strength\":58}},{\"id\":22,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7984.598,\"y\":197.388},{\"x\":12.677,\"y\":129.974},{\"x\":6.859,\"y\":750},{\"x\":8000,\"y\":750}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[10],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":833.759,\"y\":112.486},{\"x\":11.35,\"y\":119.961},{\"x\":8.701,\"y\":750},{\"x\":818.248,\"y\":750}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1848.51,\"y\":59.273},{\"x\":1955.105,\"y\":0},{\"x\":2140.103,\"y\":0},{\"x\":2169.77,\"y\":70.952}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4800.366,\"y\":54.858},{\"x\":5608.769,\"y\":43.944},{\"x\":5342.507,\"y\":160.009},{\"x\":4862.196,\"y\":148.673},{\"x\":4954.006,\"y\":12.834}],\"texture\":1,\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1923.32,\"y\":625.095,\"rotation\":0,\"fLevel\":1},{\"id\":9,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2144.936,\"y\":665.3,\"rotation\":0,\"fLevel\":1},{\"id\":10,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2138.477,\"y\":677.217,\"rotation\":0,\"fLevel\":1},{\"id\":11,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2304.818,\"y\":708.934,\"rotation\":0,\"fLevel\":1},{\"id\":12,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3071.385,\"y\":709.877,\"rotation\":0,\"fLevel\":1},{\"id\":13,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2994.208,\"y\":731.441,\"rotation\":0,\"fLevel\":1},{\"id\":14,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2994.208,\"y\":721.227,\"rotation\":0,\"fLevel\":1},{\"id\":15,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2994.208,\"y\":721.227,\"rotation\":0,\"fLevel\":1},{\"id\":16,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2994.208,\"y\":721.227,\"rotation\":0,\"fLevel\":1},{\"id\":17,\"type\":\"A\",\"layerId\":\"animals\",\"x\":1824.947,\"y\":734.522,\"rotation\":0,\"fLevel\":1},{\"id\":42,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3723.408,\"y\":582.957,\"rotation\":0,\"fLevel\":1},{\"id\":43,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3678.012,\"y\":702.128,\"rotation\":0,\"fLevel\":1},{\"id\":44,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3684.856,\"y\":706.019,\"rotation\":0,\"fLevel\":1},{\"id\":45,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3714.888,\"y\":705.082,\"rotation\":0,\"fLevel\":1},{\"id\":46,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3740.229,\"y\":708.768,\"rotation\":0,\"fLevel\":1},{\"id\":47,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3714.462,\"y\":708.909,\"rotation\":0,\"fLevel\":1},{\"id\":48,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3714.462,\"y\":708.909,\"rotation\":0,\"fLevel\":1},{\"id\":49,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3714.462,\"y\":708.909,\"rotation\":0,\"fLevel\":1},{\"id\":50,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3719.329,\"y\":746.026,\"rotation\":0,\"fLevel\":1},{\"id\":51,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3733.024,\"y\":748.475,\"rotation\":0,\"fLevel\":1},{\"id\":52,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3739.694,\"y\":747.578,\"rotation\":0,\"fLevel\":1},{\"id\":53,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3770.174,\"y\":747.551,\"rotation\":0,\"fLevel\":1},{\"id\":54,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3773.465,\"y\":746.645,\"rotation\":0,\"fLevel\":1},{\"id\":55,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3777.959,\"y\":746.867,\"rotation\":0,\"fLevel\":1},{\"id\":56,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3777.959,\"y\":746.867,\"rotation\":0,\"fLevel\":1},{\"id\":57,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3789.83,\"y\":746.875,\"rotation\":0,\"fLevel\":1},{\"id\":58,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3794.885,\"y\":746.136,\"rotation\":0,\"fLevel\":1},{\"id\":59,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3798.372,\"y\":746.136,\"rotation\":0,\"fLevel\":1},{\"id\":60,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3798.372,\"y\":746.136,\"rotation\":0,\"fLevel\":1},{\"id\":61,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3672.319,\"y\":588.451,\"rotation\":0,\"fLevel\":1},{\"id\":62,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3672.319,\"y\":588.451,\"rotation\":0,\"fLevel\":1},{\"id\":63,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3718.502,\"y\":615.663,\"rotation\":0,\"fLevel\":1},{\"id\":64,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3766.383,\"y\":619.875,\"rotation\":0,\"fLevel\":1},{\"id\":65,\"type\":\"A\",\"layerId\":\"animals\",\"x\":106.26,\"y\":328.894,\"rotation\":0,\"fLevel\":1},{\"id\":66,\"type\":\"A\",\"layerId\":\"animals\",\"x\":660.469,\"y\":56.709,\"rotation\":0,\"fLevel\":1},{\"id\":67,\"type\":\"A\",\"layerId\":\"animals\",\"x\":468.065,\"y\":40.605,\"rotation\":0,\"fLevel\":1},{\"id\":68,\"type\":\"A\",\"layerId\":\"animals\",\"x\":363.1,\"y\":38.448,\"rotation\":0,\"fLevel\":1},{\"id\":69,\"type\":\"A\",\"layerId\":\"animals\",\"x\":609.594,\"y\":130.324,\"rotation\":0,\"fLevel\":1},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":2957.882,\"y\":49.825},{\"x\":3494.963,\"y\":59.049},{\"x\":3234.148,\"y\":152.387},{\"x\":2828.32,\"y\":127.997},{\"x\":3013.32,\"y\":45.147}],\"texture\":1,\"settings\":{\"collidable\":false}},{\"id\":70,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3462.009,\"y\":169.874,\"rotation\":0,\"hSType\":2},{\"id\":71,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3594.027,\"y\":164.797,\"rotation\":0,\"hSType\":2},{\"id\":72,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":3736.2,\"y\":158.873,\"rotation\":0,\"hSType\":2},{\"id\":73,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":4005.088,\"y\":164.317,\"rotation\":0,\"hSType\":2}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": false,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 51,
+  "created_at": "2020-02-29T18:40:04.000Z",
+  "updated_at": "2020-02-29T18:40:04.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 704488,
+    "username": "foamylime445",
+    "description": null,
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-02-27T22:00:15.000Z",
+    "date_last_played": "2020-03-12T15:57:10.000Z",
+    "kill_count": 10,
+    "play_count": 35,
+    "highest_score": 80303,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 9,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "test"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T11:53:43.259Z"
+}

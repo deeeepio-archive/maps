@@ -1,0 +1,90 @@
+{
+  "id": 1946,
+  "user_id": 627932,
+  "cloneof_id": null,
+  "string_id": "lol_funster",
+  "title": "lol_funster",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":5,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":4258.708,\"y\":1183.149},{\"x\":4259.708,\"y\":1183.149},{\"x\":4259.708,\"y\":1184.149},{\"x\":4258.708,\"y\":1184.149}],\"position\":{\"x\":4258.708,\"y\":1183.149},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":0}},{\"id\":14,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":100000,\"y\":0},{\"x\":100000,\"y\":100000},{\"x\":0,\"y\":100000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":100000,\"height\":100000},\"settings\":{\"area\":63}},{\"id\":23,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":304.114,\"y\":92180.107},{\"x\":100000,\"y\":92180.107},{\"x\":100000,\"y\":100000},{\"x\":304.114,\"y\":100000}],\"position\":{\"x\":304.114,\"y\":92180.107},\"size\":{\"width\":99695.886,\"height\":7819.893},\"settings\":{\"foodIds\":[3],\"count\":633830,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":7796111.890586928}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":14081.223,\"y\":22566.14},{\"x\":21164.128,\"y\":22566.14},{\"x\":25995.098,\"y\":27604.935},{\"x\":9835.111,\"y\":27539.56}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":25,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":21576.116,\"y\":50674.322},{\"x\":37886.951,\"y\":50273.714},{\"x\":49883.072,\"y\":61713.584},{\"x\":11370.791,\"y\":61713.584}],\"texture\":1,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":18,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":27517.435},{\"x\":100000,\"y\":27517.435},{\"x\":100000,\"y\":100000},{\"x\":0,\"y\":100000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":16,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":100000,\"y\":0},{\"x\":100000,\"y\":27323.576},{\"x\":0,\"y\":27323.576}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"10000\",\"height\":\"10000\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 7,
+  "created_at": "2020-03-01T01:37:27.000Z",
+  "updated_at": "2020-03-01T01:41:49.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 627932,
+    "username": "rockPiks_",
+    "description": "Oh me, oh my.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2019-09-01T10:12:46.000Z",
+    "date_last_played": "2020-07-13T07:45:33.000Z",
+    "kill_count": 6199,
+    "play_count": 1028,
+    "highest_score": 4591089,
+    "picture": "627932.jpg",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 627,
+    "tier": 1,
+    "xp": 0,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "funster"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T11:53:43.844Z"
+}
