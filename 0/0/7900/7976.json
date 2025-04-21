@@ -1,0 +1,90 @@
+{
+  "id": 7976,
+  "user_id": 20709056,
+  "cloneof_id": null,
+  "string_id": "eating_bay_lvl2",
+  "title": "Eating Bay Level 2: Eating Bay",
+  "description": "You have arrived at eating bay after a current in the pacific ocean pushed you into a enclosed area, this area is filled of clownfish and plankton, how much can you eat before you get to the top tier?",
+  "data": "{\"screenObjects\":[{\"id\":2,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":400,\"y\":0},{\"x\":400,\"y\":400},{\"x\":0,\"y\":400}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":400,\"height\":400},\"settings\":{\"area\":63}},{\"id\":9,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":50.15,\"y\":87.457},{\"x\":400,\"y\":87.457},{\"x\":400,\"y\":312.128},{\"x\":50.15,\"y\":312.128}],\"position\":{\"x\":50.15,\"y\":87.457},\"size\":{\"width\":349.85,\"height\":224.67},\"settings\":{\"fishLevels\":[0],\"animalCount\":8,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":10,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":57.424,\"y\":95.539},{\"x\":400,\"y\":95.539},{\"x\":400,\"y\":312.936},{\"x\":57.424,\"y\":312.936}],\"position\":{\"x\":57.424,\"y\":95.539},\"size\":{\"width\":342.576,\"height\":217.397},\"settings\":{\"foodIds\":[1],\"count\":60,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":744.7495854136686}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":24.289,\"y\":0},{\"x\":41.261,\"y\":21.188},{\"x\":59.848,\"y\":85.033},{\"x\":64.697,\"y\":129.482},{\"x\":85.71,\"y\":210.299},{\"x\":113.187,\"y\":250.707},{\"x\":180.265,\"y\":284.65},{\"x\":242.494,\"y\":297.581},{\"x\":332.201,\"y\":307.279},{\"x\":400,\"y\":310.511},{\"x\":400,\"y\":400},{\"x\":0,\"y\":399.41},{\"x\":0,\"y\":0.175}],\"texture\":1,\"foodSpawnSettings\":{\"foodIds\":[5],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":11,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":43.685,\"y\":79.376},{\"x\":71.971,\"y\":68.061},{\"x\":113.996,\"y\":75.335},{\"x\":173.8,\"y\":78.567},{\"x\":227.139,\"y\":67.253},{\"x\":267.547,\"y\":67.253},{\"x\":310.38,\"y\":73.718},{\"x\":354.829,\"y\":80.184},{\"x\":367.76,\"y\":104.429},{\"x\":371.801,\"y\":147.262},{\"x\":369.376,\"y\":206.258},{\"x\":379.883,\"y\":233.735},{\"x\":377.458,\"y\":271.719},{\"x\":371.801,\"y\":316.168},{\"x\":76.012,\"y\":279.801}],\"texture\":1,\"settings\":{\"collidable\":true},\"opacity\":0.5},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0.846,\"y\":92.049},{\"x\":400,\"y\":92.049},{\"x\":400,\"y\":400},{\"x\":0.846,\"y\":400}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"40\",\"height\":\"40\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 6,
+  "created_at": "2021-09-28T17:40:28.000Z",
+  "updated_at": "2021-09-28T17:40:29.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20709056,
+    "username": "Viasýni",
+    "description": "I won. You LOST.\nRemember that I VILL always be gemmier than you.\nhttps://swedishwin.com",
+    "about": "",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2021-03-25T22:42:03.000Z",
+    "date_last_played": "2024-08-11T23:37:21.000Z",
+    "kill_count": 2686,
+    "play_count": 2616,
+    "highest_score": 2847350,
+    "picture": "20709056-a6029fd4131c267e2989638aebbdc7de.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 1212,
+    "tier": 2,
+    "xp": 55200,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#deeeep.io"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T22:47:27.914Z"
+}
