@@ -1,0 +1,90 @@
+{
+  "id": 4418,
+  "user_id": 748009,
+  "cloneof_id": null,
+  "string_id": "l_l",
+  "title": "Curiosity",
+  "description": "Hmmmmm",
+  "data": "{\"screenObjects\":[{\"id\":11,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":1096.226,\"y\":0},{\"x\":1096.226,\"y\":3000},{\"x\":0,\"y\":3000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":1096.226,\"height\":3000},\"settings\":{\"area\":33}},{\"id\":17,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1094.411,\"y\":2386.736},{\"x\":7907.278,\"y\":2386.736},{\"x\":7907.278,\"y\":3000},{\"x\":1094.411,\"y\":3000}],\"position\":{\"x\":1094.411,\"y\":2386.736},\"size\":{\"width\":6812.868,\"height\":613.264},\"settings\":{\"area\":25}},{\"id\":22,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":7105.685,\"y\":1856.998},{\"x\":7866.49,\"y\":1856.998},{\"x\":7866.49,\"y\":2375.03},{\"x\":7105.685,\"y\":2375.03}],\"position\":{\"x\":7105.685,\"y\":1856.998},\"size\":{\"width\":760.805,\"height\":518.032},\"settings\":{\"area\":22}},{\"id\":24,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":1103.431,\"y\":1877.561},{\"x\":7101.97,\"y\":1877.561},{\"x\":7101.97,\"y\":2365.559},{\"x\":1103.431,\"y\":2365.559}],\"position\":{\"x\":1103.431,\"y\":1877.561},\"size\":{\"width\":5998.538,\"height\":487.998},\"settings\":{\"area\":32}},{\"id\":25,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3269.372,\"y\":952.869},{\"x\":3270.372,\"y\":952.869},{\"x\":3270.372,\"y\":953.869},{\"x\":3269.372,\"y\":953.869}],\"position\":{\"x\":3269.372,\"y\":952.869},\"size\":{\"width\":1,\"height\":1},\"settings\":{\"area\":32}},{\"id\":34,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":14.163,\"y\":26.136},{\"x\":7835.67,\"y\":26.136},{\"x\":7835.67,\"y\":373.263},{\"x\":14.163,\"y\":373.263}],\"position\":{\"x\":14.163,\"y\":26.136},\"size\":{\"width\":7821.506,\"height\":347.126},\"settings\":{\"fishLevels\":[33,42,26],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":48,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":7227.293,\"y\":1547.762},{\"x\":7822.411,\"y\":1547.762},{\"x\":7822.411,\"y\":1747.778},{\"x\":7227.293,\"y\":1747.778}],\"position\":{\"x\":7227.293,\"y\":1547.762},\"size\":{\"width\":595.117,\"height\":200.016},\"settings\":{\"foodIds\":[1,2,3,4,5,7,8,10,11,15,16,17,24,25],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1190.3286032747826}},{\"id\":50,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":7168.564,\"y\":1983.73},{\"x\":7814.49,\"y\":1983.73},{\"x\":7814.49,\"y\":2356.694},{\"x\":7168.564,\"y\":2356.694}],\"position\":{\"x\":7168.564,\"y\":1983.73},\"size\":{\"width\":645.926,\"height\":372.963},\"settings\":{\"foodIds\":[1,2,3,4,5,7,8,10,11,15,16,17,24,25],\"count\":195,\"firstSpawnMs\":0,\"reSpawnMs\":\"0\",\"area\":2409.0661028369564,\"onlyOnWater\":true}},{\"id\":46,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":352.508,\"y\":2102.535},{\"x\":939.573,\"y\":2102.535},{\"x\":939.573,\"y\":2445.892},{\"x\":352.508,\"y\":2445.892}],\"settings\":{\"angle\":-9,\"strength\":100}},{\"id\":51,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":7804.196,\"y\":1483.075},{\"x\":0,\"y\":1483.075},{\"x\":0,\"y\":0},{\"x\":7864.845,\"y\":0}],\"texture\":9,\"settings\":{\"collidable\":true}},{\"id\":33,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":13.532,\"y\":3000},{\"x\":7835.633,\"y\":3000},{\"x\":7835.633,\"y\":2730.121},{\"x\":13.532,\"y\":2730.121}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":26,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":7826.87,\"y\":1959.883},{\"x\":7484.524,\"y\":1959.883},{\"x\":7484.524,\"y\":1731.565},{\"x\":7826.87,\"y\":1731.565}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":36,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":7506.869,\"y\":1962.946},{\"x\":367.612,\"y\":1962.946},{\"x\":367.612,\"y\":1814.933},{\"x\":7506.869,\"y\":1814.933}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":53,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3339.243,\"y\":-869.326,\"rotation\":0,\"fLevel\":84},{\"id\":52,\"type\":\"Ter\",\"layerId\":\"platforms\",\"points\":[{\"x\":28.393,\"y\":1778.097},{\"x\":355.986,\"y\":1778.097},{\"x\":355.986,\"y\":1935.347},{\"x\":28.393,\"y\":1935.347}],\"texture\":9,\"settings\":{\"collidable\":false}},{\"id\":38,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":505.773,\"y\":1887.224,\"rotation\":0,\"hSType\":1},{\"id\":39,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":856.13,\"y\":1889.755,\"rotation\":0,\"hSType\":1},{\"id\":40,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1500.252,\"y\":1897.838,\"rotation\":0,\"hSType\":1},{\"id\":41,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":383.076,\"y\":1973.527},{\"x\":7085.906,\"y\":1973.527},{\"x\":7085.906,\"y\":2124.296},{\"x\":383.076,\"y\":2124.296}],\"texture\":9,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":42,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":11.974,\"y\":4.898},{\"x\":8000,\"y\":4.898},{\"x\":8000,\"y\":3000},{\"x\":11.974,\"y\":3000}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8.025,\"y\":1862.112},{\"x\":8000,\"y\":1862.112},{\"x\":8000,\"y\":3000},{\"x\":8.025,\"y\":3000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":43,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":10.163,\"y\":1818.078},{\"x\":7871.079,\"y\":1818.078},{\"x\":7871.079,\"y\":0},{\"x\":10.163,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":8.8},\"worldSize\":{\"width\":800,\"height\":\"300\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 22,
+  "created_at": "2020-09-28T21:57:16.000Z",
+  "updated_at": "2020-09-28T22:17:45.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 748009,
+    "username": "mmmmmmmmmmmmmmmmmmmmmmm",
+    "description": "Hey stinky",
+    "about": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2020-06-08T02:08:20.000Z",
+    "date_last_played": "2022-10-01T15:54:43.000Z",
+    "kill_count": 37,
+    "play_count": 159,
+    "highest_score": 498046,
+    "picture": "748009-fef18a897e4028390761a2280d15e5a9.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 60,
+    "tier": 1,
+    "xp": 4200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "?"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-21T16:57:16.680Z"
+}
