@@ -1,0 +1,60 @@
+{
+  "id": 244306,
+  "user_id": 21295916,
+  "cloneof_id": null,
+  "string_id": "crabisland_v1",
+  "title": "Crab Island",
+  "description": "Welcome to the land of crabs",
+  "data": "{\"screenObjects\":[{\"id\":24,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":634.371},{\"x\":2000,\"y\":634.371},{\"x\":2000,\"y\":902.91},{\"x\":0,\"y\":902.91}],\"position\":{\"x\":0,\"y\":634.371},\"size\":{\"width\":2000,\"height\":268.539},\"settings\":{\"area\":20}},{\"id\":27,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":875.98},{\"x\":2000,\"y\":875.98},{\"x\":2000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":875.98},\"size\":{\"width\":2000,\"height\":124.02},\"settings\":{\"area\":24}},{\"id\":18,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":388.364,\"y\":425.791},{\"x\":1625.726,\"y\":425.791},{\"x\":1625.726,\"y\":634.43},{\"x\":388.364,\"y\":634.43}],\"position\":{\"x\":388.364,\"y\":425.791},\"size\":{\"width\":1237.362,\"height\":208.639},\"settings\":{\"fishLevels\":[105,95,17,113,103],\"animalCount\":25,\"firstSpawnMs\":\"100\",\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":34,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":632.077},{\"x\":2000,\"y\":632.077},{\"x\":2000,\"y\":793.37},{\"x\":0,\"y\":793.37}],\"position\":{\"x\":0,\"y\":632.077},\"size\":{\"width\":2000,\"height\":161.293},\"settings\":{\"fishLevels\":[18],\"animalCount\":25,\"firstSpawnMs\":\"100\",\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":37,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":838.707},{\"x\":2000,\"y\":838.707},{\"x\":2000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":838.707},\"size\":{\"width\":2000,\"height\":161.293},\"settings\":{\"fishLevels\":[47,118,113],\"animalCount\":25,\"firstSpawnMs\":\"100\",\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":38,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":318.72},{\"x\":2000,\"y\":318.72},{\"x\":2000,\"y\":630.502},{\"x\":0,\"y\":630.502}],\"position\":{\"x\":0,\"y\":318.72},\"size\":{\"width\":2000,\"height\":311.782},\"settings\":{\"fishLevels\":[44,59,4,27],\"animalCount\":25,\"firstSpawnMs\":\"100\",\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":41,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2000,\"y\":0},{\"x\":2000,\"y\":207.093},{\"x\":0,\"y\":207.093}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":2000,\"height\":207.093},\"settings\":{\"foodIds\":[2],\"count\":70,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":4141.869536422121}},{\"id\":44,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":630.638},{\"x\":2000,\"y\":630.638},{\"x\":2000,\"y\":1000},{\"x\":0,\"y\":1000}],\"position\":{\"x\":0,\"y\":630.638},\"size\":{\"width\":2000,\"height\":369.362},\"settings\":{\"foodIds\":[24,25,1,11],\"count\":233,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":7387.233668513272}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":383.442,\"y\":635.16},{\"x\":550.43,\"y\":593.771},{\"x\":599.937,\"y\":553.207},{\"x\":663.446,\"y\":586.441},{\"x\":801.335,\"y\":611.123},{\"x\":878.002,\"y\":558.463},{\"x\":1086.393,\"y\":467.092},{\"x\":1297.992,\"y\":483.596},{\"x\":1392.137,\"y\":556.036},{\"x\":1583.355,\"y\":612.743},{\"x\":1629.315,\"y\":631.302},{\"x\":1669.817,\"y\":715.193},{\"x\":1486.745,\"y\":701.82},{\"x\":1343.4,\"y\":732.054},{\"x\":1201.173,\"y\":698.253},{\"x\":1149.09,\"y\":766.231},{\"x\":1040.614,\"y\":739.812},{\"x\":962.428,\"y\":761.876},{\"x\":813.373,\"y\":751.924},{\"x\":770.008,\"y\":720.535},{\"x\":546.06,\"y\":734.036},{\"x\":423.603,\"y\":807.183},{\"x\":398.857,\"y\":779.785},{\"x\":306.713,\"y\":743.601},{\"x\":306.705,\"y\":696.24}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":1000},{\"x\":2000,\"y\":1000},{\"x\":2000,\"y\":634.125},{\"x\":0,\"y\":634.125}],\"settings\":{\"collidable\":true},\"colors\":[944037,0],\"hasBorder\":true},{\"id\":1,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":2000,\"y\":0},{\"x\":2000,\"y\":632.888},{\"x\":0,\"y\":632.888}],\"settings\":{\"collidable\":true},\"colors\":[786481,7456255]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"200\",\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 11,
+  "created_at": "2024-05-31T16:52:41.000Z",
+  "updated_at": "2024-05-31T17:15:00.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21295916,
+    "username": "Sulister",
+    "description": "I NEED TO EAT.",
+    "about": "VIEW MY CODING STUFF AT\nhttps://scratch.mit.edu/users/100130625",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-05-30T14:17:42.000Z",
+    "date_last_played": "2025-03-18T19:06:33.000Z",
+    "kill_count": 327,
+    "play_count": 557,
+    "highest_score": 1048014,
+    "picture": "21295916-3dc6519f107a01481034615dedb6a5d491.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 108,
+    "tier": 2,
+    "xp": 56700,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#crab"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:34:19.348Z"
+}
