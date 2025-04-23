@@ -1,0 +1,70 @@
+{
+  "id": 244956,
+  "user_id": 21281340,
+  "cloneof_id": null,
+  "string_id": "currentexample",
+  "title": "Current Example",
+  "description": "an example of how currents could work in game",
+  "data": "{\"screenObjects\":[{\"id\":34,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2.06,\"y\":486.772},{\"x\":500,\"y\":486.772},{\"x\":500,\"y\":754.838},{\"x\":2.06,\"y\":754.838}],\"position\":{\"x\":2.06,\"y\":486.772},\"size\":{\"width\":497.94,\"height\":268.066},\"settings\":{\"area\":41}},{\"id\":35,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":176.91},{\"x\":500,\"y\":176.91},{\"x\":500,\"y\":489.503},{\"x\":0,\"y\":489.503}],\"position\":{\"x\":0,\"y\":176.91},\"size\":{\"width\":500,\"height\":312.593},\"settings\":{\"area\":38}},{\"id\":29,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":205.648},{\"x\":500,\"y\":205.648},{\"x\":500,\"y\":353.684},{\"x\":0,\"y\":353.684}],\"position\":{\"x\":0,\"y\":205.648},\"size\":{\"width\":500,\"height\":148.036},\"settings\":{\"foodIds\":[24,25,5],\"count\":60,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":740.1784001291205,\"onlyOnWater\":true}},{\"id\":30,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2.512,\"y\":578.841},{\"x\":500,\"y\":578.841},{\"x\":500,\"y\":745.493},{\"x\":2.512,\"y\":745.493}],\"position\":{\"x\":2.512,\"y\":578.841},\"size\":{\"width\":497.488,\"height\":166.652},\"settings\":{\"foodIds\":[17,16],\"count\":60,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":829.0742696528782}},{\"id\":32,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":538.952},{\"x\":500,\"y\":538.952},{\"x\":500,\"y\":743.719},{\"x\":0,\"y\":743.719}],\"position\":{\"x\":0,\"y\":538.952},\"size\":{\"width\":500,\"height\":204.767},\"settings\":{\"foodIds\":[3],\"count\":14,\"firstSpawnMs\":0,\"reSpawnMs\":\"40000\",\"area\":1023.8359211542183}},{\"id\":1,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":62.258,\"y\":391.518},{\"x\":465.833,\"y\":399.11},{\"x\":377.761,\"y\":292.157},{\"x\":107.054,\"y\":295.194}],\"settings\":{\"angle\":0,\"strength\":15}},{\"id\":15,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":333.79,\"y\":332.611},{\"x\":406.677,\"y\":346.278},{\"x\":396.047,\"y\":640.108},{\"x\":326.197,\"y\":618.848}],\"settings\":{\"angle\":93,\"strength\":15}},{\"id\":16,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":356.567,\"y\":661.367},{\"x\":99.945,\"y\":661.367},{\"x\":74.13,\"y\":575.571},{\"x\":392.251,\"y\":574.812}],\"settings\":{\"angle\":180,\"strength\":15}},{\"id\":17,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":133.351,\"y\":684.904},{\"x\":58.945,\"y\":684.904},{\"x\":58.945,\"y\":318.186},{\"x\":133.351,\"y\":318.186}],\"settings\":{\"angle\":-81,\"strength\":15}},{\"id\":18,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":348.976,\"y\":407.778},{\"x\":349.976,\"y\":407.778},{\"x\":349.976,\"y\":408.778},{\"x\":348.976,\"y\":408.778}],\"settings\":{\"angle\":0,\"strength\":15}},{\"id\":19,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":261.662,\"y\":328.816},{\"x\":262.662,\"y\":328.816},{\"x\":262.662,\"y\":329.816},{\"x\":261.662,\"y\":329.816}],\"settings\":{\"angle\":0,\"strength\":15}},{\"id\":25,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":755.237},{\"x\":500,\"y\":755.237},{\"x\":500,\"y\":800},{\"x\":0,\"y\":800}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":28,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":299.479,\"y\":262.663},{\"x\":356.211,\"y\":302.552},{\"x\":380.146,\"y\":296.347},{\"x\":412.059,\"y\":305.212},{\"x\":424.469,\"y\":316.735},{\"x\":473.224,\"y\":305.212},{\"x\":497.158,\"y\":278.619},{\"x\":494.499,\"y\":224.546},{\"x\":458.153,\"y\":171.36},{\"x\":428.9,\"y\":146.539},{\"x\":369.509,\"y\":139.448},{\"x\":350.894,\"y\":159.836},{\"x\":326.96,\"y\":211.249}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":37,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":112.01,\"y\":83.312,\"rotation\":0,\"hSType\":53},{\"id\":8,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":174.492},{\"x\":500,\"y\":174.492},{\"x\":500,\"y\":766.71},{\"x\":0,\"y\":766.71}],\"settings\":{\"collidable\":true},\"colors\":[1425079,204080],\"hasBorder\":true},{\"id\":10,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":432.121,\"y\":210.177},{\"x\":433.121,\"y\":210.177},{\"x\":433.121,\"y\":211.177},{\"x\":432.121,\"y\":211.177}],\"settings\":{\"collidable\":true},\"colors\":[1425079,204080],\"hasBorder\":true},{\"id\":12,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":300.772,\"y\":341.528},{\"x\":301.772,\"y\":341.528},{\"x\":301.772,\"y\":342.528},{\"x\":300.772,\"y\":342.528}],\"settings\":{\"collidable\":true},\"colors\":[1425079,204080],\"hasBorder\":true},{\"id\":13,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":478.435,\"y\":345.324},{\"x\":479.435,\"y\":345.324},{\"x\":479.435,\"y\":346.324},{\"x\":478.435,\"y\":346.324}],\"settings\":{\"collidable\":true},\"colors\":[1425079,204080],\"hasBorder\":true},{\"id\":22,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":500,\"y\":0},{\"x\":500,\"y\":173.929},{\"x\":0,\"y\":173.929}],\"settings\":{\"collidable\":true},\"colors\":[13625852,15398655]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"50\",\"height\":\"80\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 19,
+  "created_at": "2024-12-10T22:58:01.000Z",
+  "updated_at": "2024-12-10T22:58:01.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21281340,
+    "username": "a-fish",
+    "description": "Wow. It's a fish. In the water. What else did you expect? \n\nGG, don't give up now. ",
+    "about": "I'm a fish. \n🐡",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-04-10T14:57:11.000Z",
+    "date_last_played": "2025-04-20T23:42:15.000Z",
+    "kill_count": 1975,
+    "play_count": 2232,
+    "highest_score": 3040458,
+    "picture": "21281340-6167124ccd79414472bd7f36dde4d672-555d4be5-ad09-4b0c-9e77-19d4f864548f.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 195,
+    "tier": 9,
+    "xp": 932550,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "suggestion "
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:03.445Z"
+}
