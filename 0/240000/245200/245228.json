@@ -1,0 +1,60 @@
+{
+  "id": 245228,
+  "user_id": 21399959,
+  "cloneof_id": null,
+  "string_id": "coco0",
+  "title": "The Bodbo",
+  "description": "NUT",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":8.076,\"y\":0},{\"x\":4006.796,\"y\":0},{\"x\":4006.796,\"y\":2000},{\"x\":8.076,\"y\":2000}],\"position\":{\"x\":8.076,\"y\":0},\"size\":{\"width\":3998.72,\"height\":2000},\"settings\":{\"area\":41}},{\"id\":3,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3789.14,\"y\":0},{\"x\":4777.883,\"y\":0},{\"x\":4777.883,\"y\":2000},{\"x\":3789.14,\"y\":2000}],\"position\":{\"x\":3789.14,\"y\":0},\"size\":{\"width\":988.743,\"height\":2000},\"settings\":{\"area\":63}},{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":4545.675,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":4545.675,\"y\":2000}],\"position\":{\"x\":4545.675,\"y\":0},\"size\":{\"width\":3454.325,\"height\":2000},\"settings\":{\"area\":22}},{\"id\":11,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3804.561,\"y\":0},{\"x\":4775.548,\"y\":0},{\"x\":4775.548,\"y\":2000},{\"x\":3804.561,\"y\":2000}],\"position\":{\"x\":3804.561,\"y\":0},\"size\":{\"width\":970.986,\"height\":2000},\"settings\":{\"fishLevels\":[11],\"animalCount\":4,\"firstSpawnMs\":\"10\",\"reSpawnMs\":\"5\",\"npcType\":2,\"restrictMovement\":true}},{\"id\":20,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4774.225,\"y\":8.029},{\"x\":7491.259,\"y\":8.029},{\"x\":7491.259,\"y\":2000},{\"x\":4774.225,\"y\":2000}],\"position\":{\"x\":4774.225,\"y\":8.029},\"size\":{\"width\":2717.034,\"height\":1991.971},\"settings\":{\"fishLevels\":[59,116,0,2,70],\"animalCount\":20,\"firstSpawnMs\":\"2\",\"reSpawnMs\":\"2\",\"npcType\":5,\"restrictMovement\":true}},{\"id\":22,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":623.131,\"y\":0},{\"x\":3803.182,\"y\":0},{\"x\":3803.182,\"y\":2000},{\"x\":623.131,\"y\":2000}],\"position\":{\"x\":623.131,\"y\":0},\"size\":{\"width\":3180.052,\"height\":2000},\"settings\":{\"fishLevels\":[16,13,57,18,114],\"animalCount\":20,\"firstSpawnMs\":\"2\",\"reSpawnMs\":\"2\",\"npcType\":5,\"restrictMovement\":true}},{\"id\":28,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":4.015},{\"x\":617.467,\"y\":4.015},{\"x\":617.467,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":4.015},\"size\":{\"width\":617.467,\"height\":1995.985},\"settings\":{\"fishLevels\":[22],\"animalCount\":1,\"firstSpawnMs\":\"2\",\"reSpawnMs\":\"2\",\"npcType\":3,\"restrictMovement\":true}},{\"id\":31,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7490.346,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":7490.346,\"y\":2000}],\"position\":{\"x\":7490.346,\"y\":0},\"size\":{\"width\":509.654,\"height\":2000},\"settings\":{\"fishLevels\":[10],\"animalCount\":1,\"firstSpawnMs\":\"2\",\"reSpawnMs\":\"2\",\"npcType\":3,\"restrictMovement\":true}},{\"id\":32,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3990.131,\"y\":0},{\"x\":3990.131,\"y\":2000},{\"x\":0,\"y\":2000}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":3990.131,\"height\":2000},\"settings\":{\"foodIds\":[16,10],\"count\":1106,\"firstSpawnMs\":\"0\",\"reSpawnMs\":\"20\",\"area\":79802.61796903636,\"onlyOnWater\":true}},{\"id\":34,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4551.151,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":4551.151,\"y\":2000}],\"position\":{\"x\":4551.151,\"y\":0},\"size\":{\"width\":3448.849,\"height\":2000},\"settings\":{\"foodIds\":[24,1],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":68976.98515491957}},{\"id\":36,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3983.447,\"y\":0},{\"x\":4557.012,\"y\":0},{\"x\":4557.012,\"y\":2000},{\"x\":3983.447,\"y\":2000}],\"position\":{\"x\":3983.447,\"y\":0},\"size\":{\"width\":573.565,\"height\":2000},\"settings\":{\"foodIds\":[17],\"count\":126,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":11471.301571808654}},{\"id\":38,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":4776.541,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":4776.541,\"y\":2000}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":40,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":0,\"y\":0},{\"x\":3779.373,\"y\":0},{\"x\":3779.373,\"y\":2000},{\"x\":0,\"y\":2000}],\"texture\":2,\"settings\":{\"collidable\":true}},{\"id\":42,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":3793.119,\"y\":10.041},{\"x\":4785.395,\"y\":10.041},{\"x\":4785.395,\"y\":2000},{\"x\":3793.119,\"y\":2000}],\"texture\":2,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3811.241,\"y\":1890.145},{\"x\":3957.097,\"y\":1898.173},{\"x\":4005.269,\"y\":2000},{\"x\":3785.816,\"y\":2000}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[10,1],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4601.719,\"y\":1894.363},{\"x\":4719.482,\"y\":1901.044},{\"x\":4775.682,\"y\":2000},{\"x\":4553.547,\"y\":2000}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[16,11,24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":44,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":72.615,\"y\":0},{\"x\":83.321,\"y\":2000},{\"x\":0,\"y\":2000}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":45,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":1925.109},{\"x\":3474.149,\"y\":1924.922},{\"x\":4298.927,\"y\":2000},{\"x\":0,\"y\":2000}],\"texture\":5,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":47,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4841.318,\"y\":1940.839},{\"x\":4299.625,\"y\":2000},{\"x\":8000,\"y\":2000},{\"x\":8000,\"y\":1949.904}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":49,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":7935.755,\"y\":4.015},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":2000},{\"x\":7919.406,\"y\":2000}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":69,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":189.252},{\"x\":0,\"y\":189.252}],\"texture\":7,\"settings\":{\"collidable\":true},\"borderColor\":6793684},{\"id\":71,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":8000,\"y\":163.292},{\"x\":0,\"y\":175.599},{\"x\":0,\"y\":2000},{\"x\":8000,\"y\":2000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":72,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":175.469},{\"x\":0,\"y\":175.469}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"800\",\"height\":\"200\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 23,
+  "created_at": "2025-03-04T17:05:43.000Z",
+  "updated_at": "2025-03-04T17:42:18.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21399959,
+    "username": "coco0",
+    "description": "The coconut nut is a Big Big nut",
+    "about": "a coconut :3",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2025-02-04T17:21:48.000Z",
+    "date_last_played": "2025-04-22T18:05:23.000Z",
+    "kill_count": 276,
+    "play_count": 364,
+    "highest_score": 1428775,
+    "picture": "21399959-988bf3b669edce7e10f7cffed52d2535c-df0b6a9c-3252-4491-bc46-9fd4f8258dd1.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 38,
+    "tier": 2,
+    "xp": 68700,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "NUTTTTT"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:51.704Z"
+}

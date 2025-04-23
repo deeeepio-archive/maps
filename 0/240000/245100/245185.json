@@ -1,0 +1,72 @@
+{
+  "id": 245185,
+  "user_id": 21397711,
+  "cloneof_id": null,
+  "string_id": "averege_map_l1",
+  "title": "Layered Sandbox",
+  "description": "You can play any game mode except for PD in this map. After all, this is a sandbox map. Do whatever you please when playing on it.",
+  "data": "{\"screenObjects\":[{\"id\":14,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":241.123,\"y\":784.367},{\"x\":1347.748,\"y\":784.367},{\"x\":1347.748,\"y\":917.98},{\"x\":241.123,\"y\":917.98}],\"position\":{\"x\":241.123,\"y\":784.367},\"size\":{\"width\":1106.625,\"height\":133.613},\"settings\":{\"fishLevels\":[118],\"animalCount\":5,\"firstSpawnMs\":\"500\",\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":true}},{\"id\":11,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":8.895,\"y\":605.228},{\"x\":3363.125,\"y\":605.228},{\"x\":3363.125,\"y\":979.465},{\"x\":8.895,\"y\":979.465}],\"position\":{\"x\":8.895,\"y\":605.228},\"size\":{\"width\":3354.23,\"height\":374.237},\"settings\":{\"foodIds\":[1],\"count\":495,\"firstSpawnMs\":\"500\",\"reSpawnMs\":1000,\"area\":12552.768900156421,\"onlyOnWater\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":4.154,\"y\":583.37},{\"x\":3376.003,\"y\":583.37},{\"x\":3376.003,\"y\":982.482},{\"x\":4.154,\"y\":982.482}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":56.016,\"y\":620.168},{\"x\":3312.823,\"y\":620.168},{\"x\":3312.823,\"y\":972.522},{\"x\":56.016,\"y\":972.522}],\"texture\":9,\"foodSpawnSettings\":{\"foodIds\":[11],\"count\":0,\"firstSpawnMs\":\"500\",\"reSpawnMs\":\"1500\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":115.827,\"y\":691.172},{\"x\":3279.466,\"y\":691.172},{\"x\":3279.466,\"y\":923.43},{\"x\":115.827,\"y\":923.43}],\"texture\":7,\"foodSpawnSettings\":{\"foodIds\":[10],\"count\":0,\"firstSpawnMs\":\"500\",\"reSpawnMs\":\"1500\",\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":179.617,\"y\":727.884},{\"x\":3213.454,\"y\":727.884},{\"x\":3213.454,\"y\":898.634},{\"x\":179.617,\"y\":898.634}],\"texture\":6,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":236.349,\"y\":770.621},{\"x\":3176.132,\"y\":770.621},{\"x\":3176.132,\"y\":862.745},{\"x\":236.349,\"y\":862.745}],\"texture\":8,\"foodSpawnSettings\":{\"foodIds\":[1],\"count\":0,\"firstSpawnMs\":\"500\",\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":547.01},{\"x\":8000,\"y\":547.01},{\"x\":8000,\"y\":1000},{\"x\":0,\"y\":1000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":1,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":1.569,\"y\":11.378},{\"x\":8000,\"y\":11.378},{\"x\":8000,\"y\":455.356},{\"x\":1.569,\"y\":455.356}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":\"100\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 9,
+  "created_at": "2025-02-08T11:02:08.000Z",
+  "updated_at": "2025-02-08T11:06:04.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21397711,
+    "username": "Average_Bot",
+    "description": "GG NOOB!!!!!!! This is what you get. Ha ha loser!\n",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2025-01-17T08:03:47.000Z",
+    "date_last_played": "2025-03-21T11:54:37.000Z",
+    "kill_count": 5,
+    "play_count": 72,
+    "highest_score": 834480,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 68,
+    "tier": 1,
+    "xp": 9450,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "Custom"
+    },
+    {
+      "id": "FFA"
+    },
+    {
+      "id": "Sandbox"
+    },
+    {
+      "id": "Team FFA"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:48.672Z"
+}
