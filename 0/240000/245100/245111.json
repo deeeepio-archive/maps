@@ -1,0 +1,66 @@
+{
+  "id": 245111,
+  "user_id": 21396165,
+  "cloneof_id": null,
+  "string_id": "king_of_the_circle",
+  "title": " king of the circle",
+  "description": "claim the circle (wip)",
+  "data": "{\"screenObjects\":[{\"id\":7,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"area\":63}},{\"id\":9,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":0,\"y\":0},{\"x\":24.531,\"y\":0},{\"x\":24.531,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":24.531,\"height\":750},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":7979.11104722423,\"y\":364.46825775926004}}}],\"delay\":0,\"when\":1}]},{\"id\":10,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":7953.69,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":7953.69,\"y\":750}],\"position\":{\"x\":7953.69,\"y\":0},\"size\":{\"width\":46.31,\"height\":750},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":11.751556311738568,\"y\":372.24553355063836}}}],\"delay\":0,\"when\":1}]},{\"id\":11,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":3771.003,\"y\":64.409},{\"x\":4130.657,\"y\":64.409},{\"x\":4130.657,\"y\":353.752},{\"x\":3771.003,\"y\":353.752}],\"position\":{\"x\":3771.003,\"y\":64.409},\"size\":{\"width\":359.654,\"height\":289.343},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":3950.877078344968,\"y\":208.84100451346418}}}],\"delay\":0,\"when\":1},{\"actions\":[],\"delay\":0,\"when\":1},{\"actions\":[],\"delay\":0,\"when\":1}]},{\"id\":28,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":3800.384,\"y\":152.937},{\"x\":4057.48,\"y\":152.937},{\"x\":4057.48,\"y\":172.06},{\"x\":3800.384,\"y\":172.06}],\"position\":{\"x\":3800.384,\"y\":152.937},\"size\":{\"width\":257.096,\"height\":19.123},\"triggers\":[{\"actions\":[{\"type\":2,\"data\":null}],\"delay\":0,\"when\":1}]},{\"id\":22,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":3798.215,\"y\":173.502},{\"x\":4058.85,\"y\":173.502},{\"x\":4058.85,\"y\":240.81},{\"x\":3798.215,\"y\":240.81}],\"position\":{\"x\":3798.215,\"y\":173.502},\"size\":{\"width\":260.635,\"height\":67.308},\"settings\":{\"fishLevels\":[18],\"animalCount\":100,\"firstSpawnMs\":0,\"reSpawnMs\":\"10000\",\"npcType\":6,\"restrictMovement\":false}},{\"id\":26,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":8000,\"height\":750},\"settings\":{\"foodIds\":[24],\"count\":4878,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":60000,\"onlyOnWater\":false}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3777.724,\"y\":278.855},{\"x\":3794.092,\"y\":264.327},{\"x\":3865.666,\"y\":317.753},{\"x\":3864.866,\"y\":343.599}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":15,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3864.83,\"y\":343.334},{\"x\":3865.484,\"y\":317.792},{\"x\":3966.015,\"y\":322.58},{\"x\":3981.965,\"y\":348.452}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":16,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4062.851,\"y\":241.672},{\"x\":4119.401,\"y\":273.185},{\"x\":4110.49,\"y\":148.183},{\"x\":4056.696,\"y\":155.611}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":17,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3890.639,\"y\":97.661},{\"x\":3985.441,\"y\":104.682},{\"x\":4011.735,\"y\":78.417},{\"x\":3897.931,\"y\":70.53}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":18,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3986.571,\"y\":104.247},{\"x\":4056.547,\"y\":155.334},{\"x\":4111.345,\"y\":147.838},{\"x\":4011.429,\"y\":79.263}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":19,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3798.872,\"y\":174.387},{\"x\":3782.462,\"y\":166.812},{\"x\":3897.988,\"y\":70.646},{\"x\":3891.173,\"y\":97.645}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":20,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4063.026,\"y\":241.746},{\"x\":4119.612,\"y\":272.932},{\"x\":3982.138,\"y\":348.555},{\"x\":3966.253,\"y\":322.777}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":21,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3794.009,\"y\":264.634},{\"x\":3777.682,\"y\":278.984},{\"x\":3782.186,\"y\":166.736},{\"x\":3798.74,\"y\":174.426}],\"texture\":7,\"settings\":{\"collidable\":true}},{\"id\":25,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3962.23,\"y\":315.309,\"rotation\":0,\"fLevel\":86},{\"id\":24,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":3893.539,\"y\":97.272},{\"x\":4053.689,\"y\":108.57},{\"x\":4057.566,\"y\":168.12},{\"x\":3798.761,\"y\":174.647}],\"texture\":7,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":750},{\"x\":8000,\"y\":750},{\"x\":8000,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 18,
+  "created_at": "2025-01-18T00:07:08.000Z",
+  "updated_at": "2025-01-18T00:07:08.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21396165,
+    "username": "Tribeclanthingmember",
+    "description": "Did you know that you can have tiny chat by starting your sentence with <id>? You can also have colored chat/name with <[colornamehere]>, but unfortunately, you can't combine them.",
+    "about": "Just a friendly guy who plays this game and only fights when fought.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2025-01-05T01:21:44.000Z",
+    "date_last_played": "2025-03-17T01:28:14.000Z",
+    "kill_count": 159,
+    "play_count": 248,
+    "highest_score": 1782050,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 218,
+    "tier": 2,
+    "xp": 55200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "circle"
+    },
+    {
+      "id": "king"
+    },
+    {
+      "id": "win"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:33.258Z"
+}

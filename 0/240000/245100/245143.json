@@ -1,0 +1,96 @@
+{
+  "id": 245143,
+  "user_id": 20973817,
+  "cloneof_id": null,
+  "string_id": "AKF_1v1_map",
+  "title": "1v1 Map: Alaskan Kelp Forest",
+  "description": "Alaskan Kelp Forests (AKF) are found along the rocky coastlines of the eastern Bering Sea, the Aleutian Islands, and the western Gulf of Alaska. ",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":98.305},{\"x\":200,\"y\":98.305},{\"x\":200,\"y\":163.676},{\"x\":0,\"y\":163.676}],\"position\":{\"x\":0,\"y\":98.305},\"size\":{\"width\":200,\"height\":65.371},\"settings\":{\"foodIds\":[16],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":130.7427348260518}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":179.297,\"y\":188.025},{\"x\":190.076,\"y\":171.304},{\"x\":189.845,\"y\":150.516},{\"x\":190.118,\"y\":139.603},{\"x\":193.391,\"y\":119.414},{\"x\":190.133,\"y\":102.469},{\"x\":191.482,\"y\":82.583},{\"x\":188.208,\"y\":64.85},{\"x\":190.39,\"y\":47.863},{\"x\":190.678,\"y\":33.464},{\"x\":191.194,\"y\":17.072},{\"x\":179.894,\"y\":9.49},{\"x\":167.386,\"y\":9.198},{\"x\":152.161,\"y\":9.194},{\"x\":132.552,\"y\":8.103},{\"x\":111.272,\"y\":8.648},{\"x\":100.632,\"y\":9.467},{\"x\":77.715,\"y\":7.284},{\"x\":64.346,\"y\":9.467},{\"x\":48.795,\"y\":9.467},{\"x\":29.425,\"y\":7.557},{\"x\":20.452,\"y\":11.953},{\"x\":8.145,\"y\":8.103}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":187.983,\"y\":184.976},{\"x\":154.038,\"y\":188.581},{\"x\":112.363,\"y\":186.529},{\"x\":85.354,\"y\":186.256},{\"x\":64.073,\"y\":186.802},{\"x\":40.611,\"y\":186.802},{\"x\":29.705,\"y\":187.369},{\"x\":22.15,\"y\":182.024},{\"x\":10.055,\"y\":164.43},{\"x\":9.236,\"y\":148.334},{\"x\":10.6,\"y\":135.784},{\"x\":12.237,\"y\":116.141},{\"x\":9.782,\"y\":95.679},{\"x\":11.146,\"y\":78.491},{\"x\":10.873,\"y\":59.393},{\"x\":14.965,\"y\":36.749},{\"x\":15.784,\"y\":22.562},{\"x\":24.787,\"y\":7.83}],\"texture\":3,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":148,\"type\":\"A\",\"layerId\":\"animals\",\"x\":77.458,\"y\":120.512,\"rotation\":0,\"fLevel\":0},{\"id\":149,\"type\":\"A\",\"layerId\":\"animals\",\"x\":76.498,\"y\":121.472,\"rotation\":0,\"fLevel\":87},{\"id\":150,\"type\":\"A\",\"layerId\":\"animals\",\"x\":-78.085,\"y\":97.148,\"rotation\":0,\"fLevel\":87},{\"id\":151,\"type\":\"A\",\"layerId\":\"animals\",\"x\":86.42,\"y\":131.713,\"rotation\":0,\"fLevel\":87},{\"id\":107,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":42.084,\"y\":85.151,\"rotation\":0,\"hSType\":55},{\"id\":130,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":170.996,\"y\":81.378,\"rotation\":-7.58,\"hSType\":59,\"opacity\":0.4},{\"id\":160,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":9.223,\"y\":154.385,\"rotation\":88.54,\"hSType\":37},{\"id\":161,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":192.067,\"y\":110.936,\"rotation\":-103,\"hSType\":47},{\"id\":141,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":43.67,\"y\":187.789,\"rotation\":0,\"hSType\":36,\"opacity\":0.3},{\"id\":142,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":163.321,\"y\":188.603,\"rotation\":0,\"hSType\":36,\"opacity\":0.3},{\"id\":131,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":131.759,\"y\":86.922,\"rotation\":-7.58,\"hSType\":59,\"opacity\":0.4},{\"id\":195,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":105.742,\"y\":187.29,\"rotation\":0,\"hSType\":7,\"opacity\":0.2},{\"id\":184,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":45.531,\"y\":189.203,\"rotation\":-1.22,\"hSType\":65},{\"id\":185,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":73.988,\"y\":188.86,\"rotation\":-1.22,\"hSType\":65},{\"id\":186,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":104.139,\"y\":189.019,\"rotation\":1.7,\"hSType\":65},{\"id\":187,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":134.518,\"y\":190.252,\"rotation\":3.39,\"hSType\":65},{\"id\":188,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":164.993,\"y\":190.295,\"rotation\":-3.29,\"hSType\":65},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":89.134,\"y\":1.409,\"rotation\":-0.94,\"hSType\":54,\"opacity\":0.3},{\"id\":62,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":89.134,\"y\":1.409,\"rotation\":-0.94,\"hSType\":54,\"opacity\":0.3},{\"id\":4,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":0,\"y\":97.823},{\"x\":200,\"y\":97.755},{\"x\":200,\"y\":106.257},{\"x\":73.523,\"y\":106.282},{\"x\":78.898,\"y\":112.295},{\"x\":16.721,\"y\":112.381},{\"x\":22.237,\"y\":106.913},{\"x\":0,\"y\":106.729}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":6,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":200,\"y\":77.431},{\"x\":200,\"y\":81.705},{\"x\":46.2,\"y\":98.647}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.8},{\"id\":5,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":200,\"y\":97.081},{\"x\":200,\"y\":81.796},{\"x\":57.379,\"y\":96.906}],\"texture\":9,\"settings\":{\"collidable\":true},\"opacity\":0.6},{\"id\":7,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":97.812},{\"x\":200,\"y\":97.812},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[8438451,5537140],\"hasBorder\":true},{\"id\":8,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":97.678},{\"x\":0,\"y\":97.678}],\"settings\":{\"collidable\":true},\"colors\":[16754760,16768183]},{\"id\":9,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":96},{\"x\":38.604,\"y\":44.383},{\"x\":86.869,\"y\":91.896},{\"x\":149.317,\"y\":84.89},{\"x\":170.945,\"y\":56.982},{\"x\":200,\"y\":97.153}],\"settings\":{\"collidable\":true},\"colors\":[14256740,14857627]},{\"id\":10,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":102.476},{\"x\":21.577,\"y\":74.146},{\"x\":39.527,\"y\":78.445},{\"x\":40.456,\"y\":54.092},{\"x\":82.039,\"y\":97.325}],\"settings\":{\"collidable\":true},\"colors\":[14256740,14857627]},{\"id\":122,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":151.933,\"y\":95.345},{\"x\":167.233,\"y\":69.755},{\"x\":165.28,\"y\":94.672}],\"settings\":{\"collidable\":true},\"colors\":[14256740,14857627]},{\"id\":18,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":169.694,\"y\":99.777},{\"x\":132.991,\"y\":40.561},{\"x\":111.602,\"y\":58.244},{\"x\":89.199,\"y\":31.984},{\"x\":48.184,\"y\":99.431}],\"settings\":{\"collidable\":true},\"colors\":[15589086,15589086]},{\"id\":42,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":98.782,\"y\":91.772},{\"x\":90.2,\"y\":41.466},{\"x\":83.977,\"y\":66.166},{\"x\":76.887,\"y\":61.463},{\"x\":62.527,\"y\":97.586}],\"settings\":{\"collidable\":true},\"colors\":[14603219,14603219]},{\"id\":55,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":108.874,\"y\":74.766},{\"x\":94.336,\"y\":43.824},{\"x\":100.137,\"y\":71.636}],\"settings\":{\"collidable\":true},\"colors\":[14603219,14603219]},{\"id\":59,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":138.323,\"y\":92.62},{\"x\":117.359,\"y\":60.462},{\"x\":124.897,\"y\":91.921}],\"settings\":{\"collidable\":true},\"colors\":[14603219,14603219]},{\"id\":17,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":200,\"y\":81.992},{\"x\":196.818,\"y\":97.824},{\"x\":57.296,\"y\":97.13}],\"settings\":{\"collidable\":true},\"colors\":[14256740,14857627]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 35,
+  "created_at": "2025-01-27T21:20:55.000Z",
+  "updated_at": "2025-01-28T02:04:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20973817,
+    "username": "Flare_Solaris",
+    "description": "Don’t be salty, take a shower",
+    "about": "IM LIKE LIL UZI GIRL MY LUV IS RAGE 🔊🔊\n\nGot 1 mil with olm\n\nalso pls upvote my map in my creations",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-09-25T11:20:30.000Z",
+    "date_last_played": "2025-04-22T18:19:42.000Z",
+    "kill_count": 6341,
+    "play_count": 3600,
+    "highest_score": 6701110,
+    "picture": "20973817-9e0c906fdd8759368b1875e39dae53a6-f7bfcede-fab5-4a60-a410-49b4e4ed8c72.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 179,
+    "tier": 10,
+    "xp": 1286850,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1 map"
+    },
+    {
+      "id": "Kelp Forest"
+    },
+    {
+      "id": "Mountaneous"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:35.012Z"
+}

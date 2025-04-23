@@ -1,0 +1,66 @@
+{
+  "id": 245078,
+  "user_id": 21362158,
+  "cloneof_id": null,
+  "string_id": "mini_land_v1",
+  "title": "MIni land",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":102,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":0,\"y\":99.875},{\"x\":197.167,\"y\":99.875},{\"x\":197.167,\"y\":242.237},{\"x\":0,\"y\":242.237}],\"position\":{\"x\":0,\"y\":99.875},\"size\":{\"width\":197.167,\"height\":142.362},\"settings\":{\"fishLevels\":[1,0,116,93],\"animalCount\":3,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":1,\"restrictMovement\":false}},{\"id\":101,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":82.311},{\"x\":300,\"y\":82.311},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"position\":{\"x\":0,\"y\":82.311},\"size\":{\"width\":300,\"height\":167.689},\"settings\":{\"foodIds\":[11,24,25],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":503.0671331577531}},{\"id\":92,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":91.491},{\"x\":0,\"y\":61.445},{\"x\":51.664,\"y\":99.108},{\"x\":70.707,\"y\":119.421},{\"x\":75.785,\"y\":157.507},{\"x\":99.906,\"y\":152.428},{\"x\":87.211,\"y\":168.932},{\"x\":79.171,\"y\":180.358},{\"x\":77.901,\"y\":187.975}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":5,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":13.063678079999999,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":93,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":37.24,\"y\":250},{\"x\":60.551,\"y\":229.023},{\"x\":64.783,\"y\":234.102},{\"x\":56.319,\"y\":250}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":97,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":228.129,\"y\":116.035},{\"x\":300,\"y\":111.38},{\"x\":300,\"y\":104.186},{\"x\":231.091,\"y\":74.987}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":98,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":240.824,\"y\":131.27},{\"x\":241.671,\"y\":156.66},{\"x\":300,\"y\":171.048}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":94,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":90.221},{\"x\":81.71,\"y\":193.053},{\"x\":65.206,\"y\":248.066}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":95,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":250},{\"x\":0,\"y\":92.337},{\"x\":66.052,\"y\":249.336}],\"texture\":11,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":96,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":84.932},{\"x\":300,\"y\":92.972},{\"x\":300,\"y\":250},{\"x\":0,\"y\":250}],\"settings\":{\"collidable\":true},\"colors\":[4953285,9223658],\"hasBorder\":true},{\"id\":100,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0.13,\"y\":85.072},{\"x\":300,\"y\":92.72},{\"x\":300,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[467770,8235207]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"30\",\"height\":\"25\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 10,
+  "created_at": "2025-01-10T12:11:09.000Z",
+  "updated_at": "2025-01-10T12:11:09.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21362158,
+    "username": "Pulsaroffical",
+    "description": "Ты умер сорри:(\n",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-04-07T15:17:19.000Z",
+    "date_last_played": "2025-03-22T13:18:47.000Z",
+    "kill_count": 52,
+    "play_count": 261,
+    "highest_score": 1560317,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 37,
+    "tier": 1,
+    "xp": 20250,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "land"
+    },
+    {
+      "id": "newbie"
+    },
+    {
+      "id": "public "
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:38:31.107Z"
+}
