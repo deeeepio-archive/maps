@@ -1,0 +1,60 @@
+{
+  "id": 244533,
+  "user_id": 21307340,
+  "cloneof_id": null,
+  "string_id": "scp_4823",
+  "title": "SCP 4823",
+  "description": "[REDACTED]",
+  "data": "{\"screenObjects\":[{\"id\":21,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":2612.137,\"y\":97.256},{\"x\":2766.122,\"y\":97.256},{\"x\":2766.122,\"y\":244.532},{\"x\":2612.137,\"y\":244.532}],\"position\":{\"x\":2612.137,\"y\":97.256},\"size\":{\"width\":153.985,\"height\":147.276},\"settings\":{\"foodIds\":[24,16],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":226.78293439957727,\"onlyOnWater\":true}},{\"id\":18,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":2671.696,\"y\":128.803},{\"x\":2653.93,\"y\":138.033},{\"x\":2646.431,\"y\":165.375},{\"x\":2648.277,\"y\":182.218},{\"x\":2663.505,\"y\":204.253},{\"x\":2678.734,\"y\":212.56},{\"x\":2716.689,\"y\":206.791},{\"x\":2733.302,\"y\":194.909},{\"x\":2730.995,\"y\":161.914},{\"x\":2726.496,\"y\":141.84},{\"x\":2715.074,\"y\":129.842}],\"texture\":4,\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2671.773,\"y\":128.477},{\"x\":2691.096,\"y\":139.597},{\"x\":2669.95,\"y\":145.43},{\"x\":2662.841,\"y\":164.753},{\"x\":2646.618,\"y\":165.664},{\"x\":2653.909,\"y\":137.956}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2715.34,\"y\":129.935},{\"x\":2726.642,\"y\":141.602},{\"x\":2715.158,\"y\":155.274},{\"x\":2717.892,\"y\":140.508}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":6,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2718.622,\"y\":174.232},{\"x\":2731.382,\"y\":161.654},{\"x\":2733.205,\"y\":194.83},{\"x\":2716.799,\"y\":207.226},{\"x\":2678.518,\"y\":212.695},{\"x\":2716.434,\"y\":201.028},{\"x\":2730.47,\"y\":189.362},{\"x\":2729.741,\"y\":168.398}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":2648.258,\"y\":182.617},{\"x\":2663.57,\"y\":204.492},{\"x\":2674.508,\"y\":199.57},{\"x\":2676.148,\"y\":191.002},{\"x\":2668.128,\"y\":188.997},{\"x\":2665.029,\"y\":178.971},{\"x\":2656.826,\"y\":177.695}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2677.413,\"y\":172.524,\"rotation\":0,\"fLevel\":55},{\"id\":19,\"type\":\"A\",\"layerId\":\"animals\",\"x\":2648.704,\"y\":115.372,\"rotation\":0,\"fLevel\":24},{\"id\":12,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2646.777,\"y\":165.512},{\"x\":2648.508,\"y\":182.471},{\"x\":2664.89,\"y\":178.894},{\"x\":2662.582,\"y\":164.243}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":13,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2671.696,\"y\":128.479},{\"x\":2690.847,\"y\":139.439},{\"x\":2718.074,\"y\":140.246},{\"x\":2715.305,\"y\":129.748}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":14,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2726.611,\"y\":141.515},{\"x\":2731.341,\"y\":161.705},{\"x\":2718.766,\"y\":174.049},{\"x\":2715.074,\"y\":154.898}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":15,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2678.965,\"y\":212.581},{\"x\":2663.505,\"y\":204.159},{\"x\":2674.465,\"y\":199.314},{\"x\":2675.965,\"y\":190.892},{\"x\":2696.731,\"y\":208.659}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":16,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2718.997,\"y\":173.933},{\"x\":2717.497,\"y\":201.391},{\"x\":2730.533,\"y\":189.508},{\"x\":2729.841,\"y\":168.28}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.9},{\"id\":17,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":2668.12,\"y\":143.707},{\"x\":2658.775,\"y\":162.743},{\"x\":2661.89,\"y\":181.202},{\"x\":2668.812,\"y\":194.584},{\"x\":2672.735,\"y\":197.237},{\"x\":2695.001,\"y\":209.005},{\"x\":2719.343,\"y\":203.006},{\"x\":2731.802,\"y\":192.854},{\"x\":2729.264,\"y\":166.088},{\"x\":2721.881,\"y\":140.823},{\"x\":2715.19,\"y\":134.593},{\"x\":2696.385,\"y\":133.094},{\"x\":2681.618,\"y\":133.094}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.7},{\"id\":20,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2654.072,\"y\":96.061},{\"x\":2724.523,\"y\":96.396},{\"x\":2764.445,\"y\":133.634},{\"x\":2765.451,\"y\":202.072},{\"x\":2737.942,\"y\":244.007},{\"x\":2647.027,\"y\":244.678},{\"x\":2613.815,\"y\":206.769},{\"x\":2611.131,\"y\":133.299}],\"settings\":{\"collidable\":true},\"colors\":[7869081,7869081],\"hasBorder\":false}],\"settings\":{\"gravity\":0},\"worldSize\":{\"width\":\"300\",\"height\":\"50\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 15,
+  "created_at": "2024-08-14T07:03:02.000Z",
+  "updated_at": "2024-08-14T07:03:02.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21307340,
+    "username": "--FishyFish1234--",
+    "description": "See how mad you are? You get what you give fucktard.",
+    "about": "My main is Orca but I don't team and despise teamers myself so I kill them on my own.\n\nRecord of teamers I killed (so far):\n143 times teambusted (1019 teamers killed)\n\nI bought every single Crayfish and Barreleye skin because they're goated.",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2023-07-21T18:59:35.000Z",
+    "date_last_played": "2025-04-18T13:54:24.000Z",
+    "kill_count": 11210,
+    "play_count": 4516,
+    "highest_score": 7805681,
+    "picture": "21307340-286102277bc54cdb60c6cfedc616857410-83af3c96-d6ce-4284-b2df-6eb378cff788.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 4491,
+    "tier": 10,
+    "xp": 2577750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "SCP"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:35:18.678Z"
+}
