@@ -1,0 +1,73 @@
+{
+  "id": 244186,
+  "user_id": 21353387,
+  "cloneof_id": null,
+  "string_id": "giantvolcano",
+  "title": "The Giant Volcano",
+  "description": "",
+  "data": "{\"screenObjects\":[{\"id\":37,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3864.524,\"y\":601.514},{\"x\":3940.943,\"y\":601.514},{\"x\":3940.943,\"y\":737.431},{\"x\":3864.524,\"y\":737.431}],\"position\":{\"x\":3864.524,\"y\":601.514},\"size\":{\"width\":76.418,\"height\":135.917},\"settings\":{\"foodIds\":[10,5,17],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":\"50\",\"area\":103.86536372885233,\"onlyOnWater\":true}},{\"id\":38,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":3872.733,\"y\":165.452},{\"x\":3927.896,\"y\":165.452},{\"x\":3927.896,\"y\":549.927},{\"x\":3872.733,\"y\":549.927}],\"position\":{\"x\":3872.733,\"y\":165.452},\"size\":{\"width\":55.164,\"height\":384.474},\"settings\":{\"foodIds\":[10],\"count\":40,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":212.09011528310265}},{\"id\":25,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3870.912,\"y\":151.87},{\"x\":3929.93,\"y\":151.87},{\"x\":3929.93,\"y\":557.482},{\"x\":3870.912,\"y\":557.482}],\"settings\":{\"angle\":89,\"strength\":72}},{\"id\":26,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":3300.316,\"y\":672.14},{\"x\":3758.328,\"y\":659.208},{\"x\":3759.405,\"y\":750},{\"x\":3201.171,\"y\":750}],\"settings\":{\"angle\":-180,\"strength\":72}},{\"id\":30,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":4021.28,\"y\":653.82},{\"x\":4022.28,\"y\":653.82},{\"x\":4022.28,\"y\":654.82},{\"x\":4021.28,\"y\":654.82}],\"settings\":{\"angle\":-180,\"strength\":72}},{\"id\":31,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":4020.202,\"y\":749.733},{\"x\":4021.202,\"y\":749.733},{\"x\":4021.202,\"y\":750},{\"x\":4020.202,\"y\":750}],\"settings\":{\"angle\":-180,\"strength\":72}},{\"id\":33,\"type\":\"Cu\",\"layerId\":\"currents\",\"points\":[{\"x\":4007.27,\"y\":646.276},{\"x\":4404.931,\"y\":667.83},{\"x\":4521.32,\"y\":750},{\"x\":4008.348,\"y\":750}],\"settings\":{\"angle\":-1,\"strength\":72}},{\"id\":1,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3485.738,\"y\":574.847},{\"x\":3667.697,\"y\":453.541},{\"x\":3787.22,\"y\":334.018},{\"x\":3838.953,\"y\":243.039},{\"x\":3871.064,\"y\":152.059},{\"x\":3872.848,\"y\":278.717},{\"x\":3874.631,\"y\":362.561},{\"x\":3876.415,\"y\":435.702},{\"x\":3876.415,\"y\":501.706},{\"x\":3871.064,\"y\":574.847},{\"x\":3831.818,\"y\":631.932},{\"x\":3744.406,\"y\":674.746},{\"x\":3594.557,\"y\":671.178},{\"x\":3428.653,\"y\":674.746},{\"x\":3284.156,\"y\":676.53},{\"x\":3392.974,\"y\":621.229}],\"texture\":19,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10,\"onlyOnWater\":false},\"settings\":{\"collidable\":true}},{\"id\":2,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":3928.036,\"y\":152.103},{\"x\":3925.269,\"y\":358.253},{\"x\":3928.036,\"y\":513.211},{\"x\":3933.571,\"y\":576.854},{\"x\":3964.009,\"y\":626.662},{\"x\":4038.721,\"y\":670.936},{\"x\":4181.227,\"y\":664.018},{\"x\":4419.199,\"y\":672.32},{\"x\":4217.2,\"y\":569.937},{\"x\":4088.529,\"y\":460.636},{\"x\":4015.2,\"y\":359.636},{\"x\":3968.16,\"y\":262.787}],\"texture\":19,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":3,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3876.614,\"y\":129.637,\"rotation\":0,\"fLevel\":0},{\"id\":5,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3915.161,\"y\":135.648,\"rotation\":0,\"fLevel\":0},{\"id\":6,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3915.252,\"y\":135.92,\"rotation\":0,\"fLevel\":113},{\"id\":7,\"type\":\"A\",\"layerId\":\"animals\",\"x\":3915.252,\"y\":135.92,\"rotation\":0,\"fLevel\":113},{\"id\":12,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":3871.055,\"y\":152.056},{\"x\":3927.965,\"y\":151.755},{\"x\":3964.127,\"y\":592.796},{\"x\":4416.036,\"y\":671.45},{\"x\":4602.024,\"y\":750},{\"x\":3073.646,\"y\":750},{\"x\":3285.036,\"y\":675.948},{\"x\":3803.318,\"y\":585.812}],\"texture\":17,\"settings\":{\"collidable\":true},\"opacity\":0.8},{\"id\":16,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":553.204},{\"x\":8000,\"y\":553.204},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[5224447,13145],\"hasBorder\":true},{\"id\":22,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":3870.993,\"y\":153.708},{\"x\":3927.941,\"y\":153.285},{\"x\":3932.325,\"y\":557.315},{\"x\":3871.383,\"y\":557.38}],\"settings\":{\"collidable\":true},\"colors\":[16731983,5840640],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 16,
+  "created_at": "2024-04-14T12:44:19.000Z",
+  "updated_at": "2024-04-14T12:44:19.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21353387,
+    "username": "JoePotato",
+    "description": "Hi! I'm a potato.",
+    "about": null,
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-02-16T16:36:52.000Z",
+    "date_last_played": "2025-01-12T11:47:41.000Z",
+    "kill_count": 345,
+    "play_count": 867,
+    "highest_score": 1261914,
+    "picture": "21353387-d104479ca10c1e7c407fa3d2bb92ec745-d0b83437-85e1-4d10-b496-1bda300ed9db.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 178,
+    "tier": 3,
+    "xp": 82200,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "deeeep"
+    },
+    {
+      "id": "volcano"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:33:57.361Z"
+}
