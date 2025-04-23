@@ -1,0 +1,76 @@
+{
+  "id": 244611,
+  "user_id": 21374728,
+  "cloneof_id": null,
+  "string_id": "eagle_map",
+  "title": "Eagle 1v1 map",
+  "description": "eagles were left out of 1v1, so why not make them a special map to make it up?",
+  "data": "{\"screenObjects\":[{\"id\":12,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0.29},{\"x\":150,\"y\":0.29},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":0.29},\"size\":{\"width\":150,\"height\":149.71},\"settings\":{\"area\":63}},{\"id\":18,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":97.975},{\"x\":150,\"y\":97.975},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"position\":{\"x\":0,\"y\":97.975},\"size\":{\"width\":150,\"height\":52.025},\"settings\":{\"foodIds\":[24],\"count\":18,\"firstSpawnMs\":0,\"reSpawnMs\":\"500\",\"area\":78.03757608643824}},{\"id\":9,\"type\":\"C\",\"layerId\":\"ceilings\",\"points\":[{\"x\":64.414,\"y\":51.331},{\"x\":80.632,\"y\":45.69},{\"x\":84.863,\"y\":47.947},{\"x\":85.991,\"y\":50.908},{\"x\":86.696,\"y\":56.126},{\"x\":84.863,\"y\":62.19},{\"x\":56.235,\"y\":64.023}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":13,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":112.086},{\"x\":0.958,\"y\":112.086},{\"x\":0.958,\"y\":113.086},{\"x\":0,\"y\":113.086}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":14,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":106.577},{\"x\":2.988,\"y\":115.942},{\"x\":6.569,\"y\":126.684},{\"x\":22.185,\"y\":133.477},{\"x\":33.183,\"y\":139.256},{\"x\":44.406,\"y\":146.315},{\"x\":59.395,\"y\":146.168},{\"x\":77.323,\"y\":144.404},{\"x\":98.043,\"y\":143.082},{\"x\":107.301,\"y\":146.168},{\"x\":117.735,\"y\":144.11},{\"x\":127.938,\"y\":141.117},{\"x\":137.974,\"y\":135.095},{\"x\":146.733,\"y\":123.417},{\"x\":150,\"y\":118.125},{\"x\":150,\"y\":150},{\"x\":0,\"y\":150}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[1,24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":5,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":55.592,\"y\":55.513},{\"x\":56.592,\"y\":55.513},{\"x\":56.592,\"y\":56.513},{\"x\":55.592,\"y\":56.513}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":7,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":37.049,\"y\":56.354},{\"x\":42.433,\"y\":60.84},{\"x\":46.919,\"y\":64.429},{\"x\":56.19,\"y\":64.728},{\"x\":63.667,\"y\":60.242},{\"x\":66.359,\"y\":50.073},{\"x\":52.9,\"y\":50.373},{\"x\":45.124,\"y\":52.765},{\"x\":39.442,\"y\":48.279},{\"x\":32.264,\"y\":49.475}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":8,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":80.117,\"y\":45.942},{\"x\":82.21,\"y\":51.924},{\"x\":84.603,\"y\":62.392},{\"x\":90.584,\"y\":59.401},{\"x\":101.351,\"y\":57.307},{\"x\":114.212,\"y\":57.606},{\"x\":110.025,\"y\":52.821},{\"x\":103.146,\"y\":50.728},{\"x\":98.061,\"y\":50.728},{\"x\":94.173,\"y\":45.643}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":10,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":109.116,\"y\":93.851},{\"x\":122.74,\"y\":92.692},{\"x\":125.46,\"y\":102.484},{\"x\":135.223,\"y\":111.619},{\"x\":130.862,\"y\":115.596},{\"x\":116.011,\"y\":96.755},{\"x\":104.508,\"y\":101.428},{\"x\":97.817,\"y\":113.038},{\"x\":91.422,\"y\":116.236},{\"x\":75.433,\"y\":110.053},{\"x\":95.046,\"y\":103.018},{\"x\":102.508,\"y\":98.968}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":1,\"type\":\"A\",\"layerId\":\"animals\",\"x\":184.469,\"y\":227.644,\"rotation\":0,\"fLevel\":42},{\"id\":2,\"type\":\"A\",\"layerId\":\"animals\",\"x\":53.411,\"y\":37.844,\"rotation\":0,\"fLevel\":42},{\"id\":15,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":163.811,\"y\":17.974,\"rotation\":0,\"hSType\":56},{\"id\":16,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":18.585,\"y\":63.713,\"rotation\":0,\"hSType\":55},{\"id\":17,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":29.993,\"y\":4.226,\"rotation\":0,\"hSType\":54},{\"id\":27,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":95.942,\"y\":108.101,\"rotation\":-67.02,\"hSType\":4},{\"id\":28,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":91.89,\"y\":47.327,\"rotation\":-155.27,\"hSType\":2},{\"id\":29,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":44.284,\"y\":53.742,\"rotation\":199.61,\"hSType\":2},{\"id\":30,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":97.968,\"y\":58.469,\"rotation\":-33.06,\"hSType\":2},{\"id\":31,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":45.972,\"y\":60.495,\"rotation\":0,\"hSType\":2},{\"id\":32,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":15.308,\"y\":129.71,\"rotation\":-151,\"hSType\":2},{\"id\":33,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":125.775,\"y\":137.813,\"rotation\":-203.76,\"hSType\":2},{\"id\":34,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":48.967,\"y\":157.056,\"rotation\":17.15,\"hSType\":14,\"opacity\":0.6},{\"id\":35,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":50.516,\"y\":249.078,\"rotation\":397.86,\"hSType\":51,\"opacity\":0.5},{\"id\":4,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":150},{\"x\":150,\"y\":150},{\"x\":150,\"y\":107.375},{\"x\":0,\"y\":107.375}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":3,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":109.048},{\"x\":150,\"y\":109.048},{\"x\":150,\"y\":0},{\"x\":0,\"y\":0}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"15\",\"height\":\"15\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 2,
+  "objects": 25,
+  "created_at": "2024-09-08T02:44:04.000Z",
+  "updated_at": "2024-09-08T02:44:05.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21374728,
+    "username": "Chickful",
+    "description": "Fancy seeing you here!",
+    "about": "I like battle cats\ni also make skins, one is yet to come ingame tho \nI dont rlly main any animal but i glaze sharks more than glazed donuts!1!\n\n\nI think that’s all",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-07-16T01:31:09.000Z",
+    "date_last_played": "2025-02-26T02:43:46.000Z",
+    "kill_count": 2249,
+    "play_count": 1336,
+    "highest_score": 4670548,
+    "picture": "21374728-155ee452a4bad7546b510630b87964fa2-d819270e-9ddf-40fb-91de-dafeb742f128.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 123,
+    "tier": 7,
+    "xp": 534150,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "eagle"
+    },
+    {
+      "id": "small map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:35:38.116Z"
+}
