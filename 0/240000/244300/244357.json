@@ -1,0 +1,123 @@
+{
+  "id": 244357,
+  "user_id": 21346509,
+  "cloneof_id": null,
+  "string_id": "3_habitats_map",
+  "title": "3 Habitats",
+  "description": "Every time you cross a habitat, a sign will show you the habitat you are going to!",
+  "data": "{\"screenObjects\":[{\"id\":304,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0.323,\"y\":0},{\"x\":2443.331,\"y\":0},{\"x\":2443.331,\"y\":750},{\"x\":0.323,\"y\":750}],\"position\":{\"x\":0.323,\"y\":0},\"size\":{\"width\":2443.008,\"height\":750},\"settings\":{\"area\":16}},{\"id\":305,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":2444.817,\"y\":0},{\"x\":4884.931,\"y\":0},{\"x\":4884.931,\"y\":750},{\"x\":2444.817,\"y\":750}],\"position\":{\"x\":2444.817,\"y\":0},\"size\":{\"width\":2440.114,\"height\":750},\"settings\":{\"area\":4}},{\"id\":306,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":4884.911,\"y\":0},{\"x\":8000,\"y\":0},{\"x\":8000,\"y\":750},{\"x\":4884.911,\"y\":750}],\"position\":{\"x\":4884.911,\"y\":0},\"size\":{\"width\":3115.089,\"height\":750},\"settings\":{\"area\":32}},{\"id\":307,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":7940.139,\"y\":2.026},{\"x\":8000,\"y\":2.026},{\"x\":8000,\"y\":735.401},{\"x\":7940.139,\"y\":735.401}],\"position\":{\"x\":7940.139,\"y\":2.026},\"size\":{\"width\":59.861,\"height\":733.375},\"triggers\":[{\"actions\":[{\"type\":1,\"data\":{\"pos\":{\"x\":9.032909100064899,\"y\":351.3555779660783}}}],\"delay\":0,\"when\":3}]},{\"id\":308,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":654.033},{\"x\":8000,\"y\":683.486},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":10,\"foodSpawnSettings\":{\"foodIds\":[24,16,1,3],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":309,\"type\":\"P\",\"layerId\":\"props\",\"x\":4904.562,\"y\":671.949,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"You are now entering Salt habitat\"}},{\"id\":310,\"type\":\"P\",\"layerId\":\"props\",\"x\":2476.096,\"y\":663.279,\"rotation\":0.12,\"pType\":1,\"params\":{\"text\":\"You are now entering Shallow habitat\"}},{\"id\":311,\"type\":\"P\",\"layerId\":\"props\",\"x\":24.736,\"y\":649.712,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"You are now entering Fresh habitat\"}},{\"id\":312,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":622.045,\"y\":669.898,\"rotation\":0,\"hSType\":7},{\"id\":313,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":702.045,\"y\":679.364,\"rotation\":0,\"hSType\":49},{\"id\":314,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":612.332,\"y\":658.894,\"rotation\":0,\"hSType\":50},{\"id\":315,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":707.165,\"y\":658.544,\"rotation\":0,\"hSType\":50},{\"id\":316,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":5070.439,\"y\":340.359,\"rotation\":0,\"hSType\":16},{\"id\":317,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":649.32},{\"x\":8000,\"y\":685.153},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"texture\":10,\"settings\":{\"collidable\":true},\"borderColor\":14946},{\"id\":318,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":4004.574,\"y\":750},{\"x\":8000,\"y\":750},{\"x\":8000,\"y\":750},{\"x\":3987.795,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":false},{\"id\":319,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":346.797},{\"x\":2443.987,\"y\":344.351},{\"x\":2445.987,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[65535,691107],\"hasBorder\":true},{\"id\":320,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":1151.584,\"y\":281.624},{\"x\":1152.584,\"y\":281.624},{\"x\":1152.584,\"y\":282.624},{\"x\":1151.584,\"y\":282.624}],\"settings\":{\"collidable\":true},\"colors\":[38399,680867],\"hasBorder\":true},{\"id\":321,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":7320.68,\"y\":678.818},{\"x\":7321.68,\"y\":678.818},{\"x\":7321.68,\"y\":679.818},{\"x\":7320.68,\"y\":679.818}],\"settings\":{\"collidable\":true},\"colors\":[38399,680867],\"hasBorder\":true},{\"id\":322,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":2443.694,\"y\":344.632},{\"x\":4886.061,\"y\":344.632},{\"x\":4884.961,\"y\":750},{\"x\":2444.669,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[38399,680867],\"hasBorder\":true},{\"id\":323,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":4885.669,\"y\":343.835},{\"x\":8000,\"y\":346.527},{\"x\":8000,\"y\":739.479},{\"x\":4885.297,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[65410,691107],\"hasBorder\":true}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 20,
+  "created_at": "2024-06-20T16:20:44.000Z",
+  "updated_at": "2024-10-23T21:53:48.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21346509,
+    "username": "fxbrus",
+    "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+    "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-01-03T16:53:09.000Z",
+    "date_last_played": "2025-03-21T23:13:02.000Z",
+    "kill_count": 10,
+    "play_count": 166,
+    "highest_score": 504982,
+    "picture": "21346509-d33e959618941b013286e0263a258130.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 7,
+    "tier": 1,
+    "xp": 12900,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "3"
+    },
+    {
+      "id": "3 Habitats"
+    },
+    {
+      "id": "3 Three"
+    },
+    {
+      "id": "Fresh"
+    },
+    {
+      "id": "Habitat"
+    },
+    {
+      "id": "Habitats"
+    },
+    {
+      "id": "Map"
+    },
+    {
+      "id": "Salt"
+    },
+    {
+      "id": "Shallow"
+    },
+    {
+      "id": "Sign"
+    },
+    {
+      "id": "Three"
+    },
+    {
+      "id": "Three Habitats"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:34:39.443Z"
+}

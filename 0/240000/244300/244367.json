@@ -1,0 +1,70 @@
+{
+  "id": 244367,
+  "user_id": 20963937,
+  "cloneof_id": null,
+  "string_id": "kan3344otte",
+  "title": "oasis",
+  "description": "meu primeiro mapa",
+  "data": "{\"screenObjects\":[{\"id\":20,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":21459.315},{\"x\":80000,\"y\":21459.315},{\"x\":80000,\"y\":40000},{\"x\":0,\"y\":40000}],\"position\":{\"x\":0,\"y\":21459.315},\"size\":{\"width\":80000,\"height\":18540.685},\"settings\":{\"area\":63}},{\"id\":16,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":8689.751,\"y\":25085.831},{\"x\":8699.751,\"y\":25085.831},{\"x\":8699.751,\"y\":37851.19},{\"x\":8689.751,\"y\":37851.19}],\"position\":{\"x\":8689.751,\"y\":25085.831},\"size\":{\"width\":10,\"height\":12765.359},\"settings\":{\"fishLevels\":[88],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":18,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":9469.254,\"y\":25670.458},{\"x\":35884.914,\"y\":25670.458},{\"x\":35884.914,\"y\":38639.693},{\"x\":9469.254,\"y\":38639.693}],\"position\":{\"x\":9469.254,\"y\":25670.458},\"size\":{\"width\":26415.659,\"height\":12969.235},\"settings\":{\"fishLevels\":[88,20],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":19,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":18823.289,\"y\":23819.138},{\"x\":40464.493,\"y\":23819.138},{\"x\":40464.493,\"y\":37948.628},{\"x\":18823.289,\"y\":37948.628}],\"position\":{\"x\":18823.289,\"y\":23819.138},\"size\":{\"width\":21641.204,\"height\":14129.489},\"settings\":{\"fishLevels\":[88,20],\"animalCount\":0,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":12,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1284.474,\"y\":23602.948},{\"x\":1294.474,\"y\":23602.948},{\"x\":1294.474,\"y\":39397.881},{\"x\":1284.474,\"y\":39397.881}],\"position\":{\"x\":1284.474,\"y\":23602.948},\"size\":{\"width\":10,\"height\":15794.933},\"settings\":{\"foodIds\":[24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1579.4932843724505}},{\"id\":15,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":22336.256},{\"x\":79634.511,\"y\":22336.256},{\"x\":79634.511,\"y\":39885.07},{\"x\":0,\"y\":39885.07}],\"position\":{\"x\":0,\"y\":22336.256},\"size\":{\"width\":79634.511,\"height\":17548.814},\"settings\":{\"foodIds\":[24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":13974912.48912102}},{\"id\":34,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1780.664,\"y\":2264.058},{\"x\":4021.734,\"y\":2264.058},{\"x\":4021.734,\"y\":2751.247},{\"x\":1780.664,\"y\":2751.247}],\"position\":{\"x\":1780.664,\"y\":2264.058},\"size\":{\"width\":2241.071,\"height\":487.189},\"settings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":10918.25638671797}},{\"id\":35,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":4703.799,\"y\":2946.123},{\"x\":71448.731,\"y\":2946.123},{\"x\":71448.731,\"y\":13685.601},{\"x\":4703.799,\"y\":13685.601}],\"position\":{\"x\":4703.799,\"y\":2946.123},\"size\":{\"width\":66744.932,\"height\":10739.479},\"settings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":\"2\",\"reSpawnMs\":1000,\"area\":7168057.836692575}},{\"id\":36,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":5382.069},{\"x\":56221.644,\"y\":5382.069},{\"x\":56221.644,\"y\":15731.796},{\"x\":0,\"y\":15731.796}],\"position\":{\"x\":0,\"y\":5382.069},\"size\":{\"width\":56221.644,\"height\":10349.727},\"settings\":{\"foodIds\":[2],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":5818786.833023962}},{\"id\":37,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":1683.226,\"y\":6648.761},{\"x\":22632.365,\"y\":6648.761},{\"x\":22632.365,\"y\":13490.726},{\"x\":1683.226,\"y\":13490.726}],\"position\":{\"x\":1683.226,\"y\":6648.761},\"size\":{\"width\":20949.139,\"height\":6841.965},\"settings\":{\"foodIds\":[2],\"count\":7374,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":1433332.6770938542}},{\"id\":3,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":14155.271,\"y\":20369.229},{\"x\":14156.271,\"y\":20369.229},{\"x\":58880.248,\"y\":20759.981},{\"x\":14057.834,\"y\":18226.597}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":4,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":63848.578,\"y\":21441.046},{\"x\":58977.686,\"y\":21538.484},{\"x\":0,\"y\":21539.484},{\"x\":0,\"y\":16277.839}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":23,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":0,\"y\":36349.038},{\"x\":0,\"y\":40000},{\"x\":80000,\"y\":40000},{\"x\":80000,\"y\":36394.799}],\"texture\":6,\"settings\":{\"collidable\":true}},{\"id\":24,\"type\":\"P\",\"layerId\":\"props\",\"x\":74274.429,\"y\":33833.923,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":25,\"type\":\"P\",\"layerId\":\"props\",\"x\":74274.429,\"y\":33833.923,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":26,\"type\":\"P\",\"layerId\":\"props\",\"x\":74079.553,\"y\":32080.042,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":27,\"type\":\"P\",\"layerId\":\"props\",\"x\":74079.553,\"y\":31982.604,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":28,\"type\":\"P\",\"layerId\":\"props\",\"x\":74079.553,\"y\":32372.355,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":29,\"type\":\"P\",\"layerId\":\"props\",\"x\":73982.116,\"y\":33346.734,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":30,\"type\":\"P\",\"layerId\":\"props\",\"x\":74956.494,\"y\":34905.74,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":31,\"type\":\"P\",\"layerId\":\"props\",\"x\":75151.37,\"y\":34126.237,\"rotation\":0,\"pType\":1,\"params\":null},{\"id\":32,\"type\":\"P\",\"layerId\":\"props\",\"x\":75248.808,\"y\":33931.361,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"feito por kanote\"}},{\"id\":33,\"type\":\"P\",\"layerId\":\"props\",\"x\":75151.37,\"y\":33833.923,\"rotation\":0,\"pType\":1,\"params\":{\"text\":\"feito por kanote\"}},{\"id\":1,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":80000,\"y\":21188.316},{\"x\":0,\"y\":21090.878},{\"x\":0,\"y\":40000},{\"x\":80000,\"y\":40000}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":6,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":611.409,\"y\":16081.964},{\"x\":0,\"y\":16081.964},{\"x\":194.876,\"y\":0},{\"x\":68233.282,\"y\":21442.046}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":8,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":903.723,\"y\":102.155},{\"x\":904.723,\"y\":102.155},{\"x\":80000,\"y\":0},{\"x\":68794.646,\"y\":22513.862}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]},{\"id\":10,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":79730.949,\"y\":686.782},{\"x\":79731.949,\"y\":0},{\"x\":80000,\"y\":21149.732},{\"x\":69110.223,\"y\":21052.294}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"8000\",\"height\":\"4000\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 27,
+  "created_at": "2024-06-23T12:23:37.000Z",
+  "updated_at": "2024-06-23T12:28:51.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 20963937,
+    "username": "kanote",
+    "description": "e nisso que da matar  os fracos você morre!\n",
+    "about": "poxa meu gif nao foi  \n\n:(",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2022-08-21T09:52:47.000Z",
+    "date_last_played": "2025-01-22T16:55:00.000Z",
+    "kill_count": 463,
+    "play_count": 799,
+    "highest_score": 540646,
+    "picture": "20963937-fdb16422813c1c121518793825524413-ad9c5124-21bf-49fe-994e-a034b933a10d.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 106,
+    "tier": 4,
+    "xp": 247650,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "servidor publico"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Message Boards",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 2,
+      "created_at": "2021-08-31T00:20:09.000Z",
+      "updated_at": "2021-08-31T00:20:09.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:34:40.868Z"
+}
