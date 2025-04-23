@@ -1,0 +1,96 @@
+{
+  "id": 4855,
+  "user_id": 442444,
+  "cloneof_id": null,
+  "string_id": "mortimer_1v1_v2",
+  "title": "new 1v1 map.",
+  "description": "making a new 1v1 map.",
+  "data": "{\"screenObjects\":[{\"id\":996,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"area\":63}},{\"id\":997,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"foodIds\":[24],\"count\":32,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":400,\"onlyOnWater\":true}},{\"id\":998,\"type\":\"Food\",\"layerId\":\"food-spawns\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"position\":{\"x\":0,\"y\":0},\"size\":{\"width\":200,\"height\":200},\"settings\":{\"foodIds\":[24],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":400,\"onlyOnWater\":true}},{\"id\":1001,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":0},{\"x\":0,\"y\":200},{\"x\":200,\"y\":200},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0},{\"x\":17.151,\"y\":41.031},{\"x\":45.867,\"y\":20.738},{\"x\":99.976,\"y\":13.524},{\"x\":159.079,\"y\":27.676},{\"x\":177.671,\"y\":51.816},{\"x\":179.613,\"y\":94.271},{\"x\":176.006,\"y\":138.113},{\"x\":146.87,\"y\":172.521},{\"x\":97.479,\"y\":178.348},{\"x\":46.7,\"y\":171.133},{\"x\":23.114,\"y\":138.391},{\"x\":20.061,\"y\":82.062},{\"x\":27.875,\"y\":25.583}],\"texture\":4,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":1023,\"type\":\"A\",\"layerId\":\"animals\",\"x\":77.799,\"y\":95.56,\"rotation\":60.83,\"fLevel\":12},{\"id\":1024,\"type\":\"A\",\"layerId\":\"animals\",\"x\":94.385,\"y\":109.629,\"rotation\":17.52,\"fLevel\":24},{\"id\":1025,\"type\":\"A\",\"layerId\":\"animals\",\"x\":92.555,\"y\":88.125,\"rotation\":-49.18,\"fLevel\":11},{\"id\":1006,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":116.101,\"y\":180.8,\"rotation\":0,\"hSType\":49},{\"id\":1007,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":48.115,\"y\":171.675,\"rotation\":9.11,\"hSType\":65},{\"id\":1008,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":164.597,\"y\":152.621,\"rotation\":-49.23,\"hSType\":65},{\"id\":1010,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":131.75,\"y\":176.465,\"rotation\":0,\"hSType\":47},{\"id\":1011,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":71.926,\"y\":176.744,\"rotation\":0,\"hSType\":46},{\"id\":1012,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":101.523,\"y\":11.576,\"rotation\":188.31,\"hSType\":28},{\"id\":1013,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":132.931,\"y\":173.074,\"rotation\":271.77,\"hSType\":50},{\"id\":1009,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":97.59,\"y\":178.895,\"rotation\":-0.05,\"hSType\":65},{\"id\":1015,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":159.365,\"y\":26.745,\"rotation\":200.02,\"hSType\":27},{\"id\":1016,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":36.021,\"y\":26.511,\"rotation\":147.97,\"hSType\":25},{\"id\":1017,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":18.592,\"y\":99.923,\"rotation\":83.99,\"hSType\":37},{\"id\":1018,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":181.024,\"y\":118.791,\"rotation\":-79.79,\"hSType\":47},{\"id\":1021,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":179.158,\"y\":66.069,\"rotation\":-95.94,\"hSType\":46},{\"id\":1022,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":22.039,\"y\":139.17,\"rotation\":47.2,\"hSType\":46},{\"id\":1002,\"type\":\"Air\",\"layerId\":\"air-pockets\",\"points\":[{\"x\":0,\"y\":56.457},{\"x\":200,\"y\":56.457},{\"x\":200,\"y\":0},{\"x\":0,\"y\":0}],\"texture\":4,\"settings\":{\"collidable\":true},\"borderColor\":1852253},{\"id\":1003,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":191.274,\"y\":92.123},{\"x\":154.757,\"y\":108.304},{\"x\":138.601,\"y\":133.943},{\"x\":105.586,\"y\":143.953},{\"x\":89.781,\"y\":165.729},{\"x\":88.673,\"y\":184.332},{\"x\":125.695,\"y\":192.718},{\"x\":171.921,\"y\":169.605}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":1004,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":15.432,\"y\":133.609},{\"x\":49.325,\"y\":132.38},{\"x\":67.589,\"y\":153.629},{\"x\":72.506,\"y\":176.809},{\"x\":38.788,\"y\":174.878}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.3},{\"id\":1005,\"type\":\"Bg\",\"layerId\":\"background-terrains\",\"points\":[{\"x\":138.672,\"y\":133.903},{\"x\":112.578,\"y\":119.602},{\"x\":83.687,\"y\":117.492},{\"x\":51.9,\"y\":118.388},{\"x\":41.334,\"y\":123.36},{\"x\":34.87,\"y\":132.931},{\"x\":49.103,\"y\":132.372},{\"x\":67.775,\"y\":153.854},{\"x\":72.472,\"y\":176.912},{\"x\":89.174,\"y\":177.072},{\"x\":89.814,\"y\":165.759},{\"x\":105.56,\"y\":143.948}],\"texture\":4,\"settings\":{\"collidable\":true},\"opacity\":0.1},{\"id\":995,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":0},{\"x\":200,\"y\":0},{\"x\":200,\"y\":200},{\"x\":0,\"y\":200}],\"settings\":{\"collidable\":true},\"colors\":[2974344,133389],\"hasBorder\":false}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":\"20\",\"height\":\"20\"}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 0,
+  "objects": 26,
+  "created_at": "2020-11-12T20:17:24.000Z",
+  "updated_at": "2020-11-20T05:08:17.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 442444,
+    "username": "morty_376",
+    "description": "\"You teaned as stonefish, you dudnt truly earn it dye yo theteaming.\" -Anonymous\n\n(╯°□°)╯︵ ( ͜。 ͡ʖ ͜。) - MORTY!?! (2018)",
+    "about": "MORTY's Resume\n\n- Professional Forklift Operator\n- Wanted for multiple counts of tax fraud\n\nI'll be expecting an acceptance letter in the mail. I look forward to working with you in the near future.\n\nSincerely,\n\nMORTY Zypharannius Carter II",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2017-08-21T23:19:48.000Z",
+    "date_last_played": "2025-04-23T02:13:18.000Z",
+    "kill_count": 173075,
+    "play_count": 18571,
+    "highest_score": 2147483647,
+    "picture": "442444.png",
+    "displayPicture": false,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 47826,
+    "tier": 10,
+    "xp": 18135750,
+    "migrated": true,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "1v1"
+    },
+    {
+      "id": "gmaer"
+    },
+    {
+      "id": "MORTY"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T20:18:52.442Z"
+}
