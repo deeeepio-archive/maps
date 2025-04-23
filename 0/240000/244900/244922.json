@@ -1,0 +1,60 @@
+{
+  "id": 244922,
+  "user_id": 21391177,
+  "cloneof_id": null,
+  "string_id": "icy_brackish_map_lol",
+  "title": "Brackish Cold Snap",
+  "description": "Lol",
+  "data": "{\"screenObjects\":[{\"id\":1,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":0.681},{\"x\":3996.649,\"y\":0.681},{\"x\":3996.649,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":0.681},\"size\":{\"width\":3996.649,\"height\":749.319},\"settings\":{\"area\":17}},{\"id\":3,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3971.937,\"y\":6.126},{\"x\":8000,\"y\":6.126},{\"x\":8000,\"y\":750},{\"x\":3971.937,\"y\":750}],\"position\":{\"x\":3971.937,\"y\":6.126},\"size\":{\"width\":4028.063,\"height\":743.874},\"settings\":{\"area\":33}},{\"id\":6,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":3323.979,\"y\":0},{\"x\":4603.56,\"y\":0},{\"x\":4603.56,\"y\":750},{\"x\":3323.979,\"y\":750}],\"position\":{\"x\":3323.979,\"y\":0},\"size\":{\"width\":1279.581,\"height\":750},\"settings\":{\"area\":49}},{\"id\":12,\"type\":\"Hab\",\"layerId\":\"habitats\",\"points\":[{\"x\":0,\"y\":621.414},{\"x\":8000,\"y\":621.414},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"position\":{\"x\":0,\"y\":621.414},\"size\":{\"width\":8000,\"height\":128.586},\"settings\":{\"area\":8}},{\"id\":8,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":6193.508,\"y\":304.241},{\"x\":7968.587,\"y\":304.241},{\"x\":7968.587,\"y\":647.278},{\"x\":6193.508,\"y\":647.278}],\"position\":{\"x\":6193.508,\"y\":304.241},\"size\":{\"width\":1775.079,\"height\":343.037},\"triggers\":[]},{\"id\":9,\"type\":\"Tr\",\"layerId\":\"triggers\",\"points\":[{\"x\":0,\"y\":238.901},{\"x\":1709.738,\"y\":238.901},{\"x\":1709.738,\"y\":576.492},{\"x\":0,\"y\":576.492}],\"position\":{\"x\":0,\"y\":238.901},\"size\":{\"width\":1709.738,\"height\":337.591},\"triggers\":[]},{\"id\":14,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1505.34,\"y\":332.827},{\"x\":1685.026,\"y\":332.827},{\"x\":1685.026,\"y\":501.623},{\"x\":1505.34,\"y\":501.623}],\"position\":{\"x\":1505.34,\"y\":332.827},\"size\":{\"width\":179.686,\"height\":168.796},\"settings\":{\"fishLevels\":[33],\"animalCount\":5,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":15,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":6008.377,\"y\":387.278},{\"x\":6264.293,\"y\":387.278},{\"x\":6264.293,\"y\":545.183},{\"x\":6008.377,\"y\":545.183}],\"position\":{\"x\":6008.377,\"y\":387.278},\"size\":{\"width\":255.916,\"height\":157.906},\"settings\":{\"fishLevels\":[33],\"animalCount\":6,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":17,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2550.785,\"y\":632.304},{\"x\":5540.105,\"y\":632.304},{\"x\":5540.105,\"y\":750},{\"x\":2550.785,\"y\":750}],\"position\":{\"x\":2550.785,\"y\":632.304},\"size\":{\"width\":2989.319,\"height\":117.696},\"settings\":{\"fishLevels\":[118],\"animalCount\":6,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":3,\"restrictMovement\":false}},{\"id\":19,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4913.927,\"y\":131.361},{\"x\":5218.848,\"y\":131.361},{\"x\":5218.848,\"y\":387.278},{\"x\":4913.927,\"y\":387.278}],\"position\":{\"x\":4913.927,\"y\":131.361},\"size\":{\"width\":304.921,\"height\":255.916},\"settings\":{\"fishLevels\":[2],\"animalCount\":6,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":7,\"restrictMovement\":false}},{\"id\":21,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2507.225,\"y\":185.812},{\"x\":3111.623,\"y\":185.812},{\"x\":3111.623,\"y\":354.607},{\"x\":2507.225,\"y\":354.607}],\"position\":{\"x\":2507.225,\"y\":185.812},\"size\":{\"width\":604.398,\"height\":168.796},\"settings\":{\"fishLevels\":[13],\"animalCount\":11,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":4,\"restrictMovement\":false}},{\"id\":23,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":4799.581,\"y\":441.728},{\"x\":5659.896,\"y\":441.728},{\"x\":5659.896,\"y\":675.864},{\"x\":4799.581,\"y\":675.864}],\"position\":{\"x\":4799.581,\"y\":441.728},\"size\":{\"width\":860.314,\"height\":234.136},\"settings\":{\"fishLevels\":[67],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":5,\"restrictMovement\":false}},{\"id\":25,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":231.204,\"y\":93.246},{\"x\":590.576,\"y\":93.246},{\"x\":590.576,\"y\":229.372},{\"x\":231.204,\"y\":229.372}],\"position\":{\"x\":231.204,\"y\":93.246},\"size\":{\"width\":359.372,\"height\":136.126},\"settings\":{\"fishLevels\":[41],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":27,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":2175.079,\"y\":109.581},{\"x\":2539.895,\"y\":109.581},{\"x\":2539.895,\"y\":245.707},{\"x\":2175.079,\"y\":245.707}],\"position\":{\"x\":2175.079,\"y\":109.581},\"size\":{\"width\":364.817,\"height\":136.126},\"settings\":{\"fishLevels\":[40],\"animalCount\":7,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":6,\"restrictMovement\":false}},{\"id\":29,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":5997.487,\"y\":93.246},{\"x\":6596.44,\"y\":93.246},{\"x\":6596.44,\"y\":294.712},{\"x\":5997.487,\"y\":294.712}],\"position\":{\"x\":5997.487,\"y\":93.246},\"size\":{\"width\":598.953,\"height\":201.466},\"settings\":{\"fishLevels\":[10],\"animalCount\":10,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":31,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":7603.77,\"y\":213.037},{\"x\":7886.911,\"y\":213.037},{\"x\":7886.911,\"y\":381.833},{\"x\":7603.77,\"y\":381.833}],\"position\":{\"x\":7603.77,\"y\":213.037},\"size\":{\"width\":283.141,\"height\":168.796},\"settings\":{\"fishLevels\":[3],\"animalCount\":6,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":2,\"restrictMovement\":false}},{\"id\":33,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1336.544,\"y\":115.026},{\"x\":1766.702,\"y\":115.026},{\"x\":1766.702,\"y\":196.702},{\"x\":1336.544,\"y\":196.702}],\"position\":{\"x\":1336.544,\"y\":115.026},\"size\":{\"width\":430.157,\"height\":81.675},\"settings\":{\"fishLevels\":[79],\"animalCount\":2,\"firstSpawnMs\":0,\"reSpawnMs\":2000,\"npcType\":7,\"restrictMovement\":false}},{\"id\":35,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":3089.843,\"y\":105.668},{\"x\":3476.44,\"y\":105.668},{\"x\":3476.44,\"y\":0},{\"x\":3089.843,\"y\":0}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":37,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":4810.471,\"y\":51.217},{\"x\":4320.419,\"y\":51.217},{\"x\":4320.419,\"y\":0},{\"x\":4810.471,\"y\":0}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":39,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1129.634,\"y\":105.668},{\"x\":661.361,\"y\":105.668},{\"x\":661.361,\"y\":0},{\"x\":1129.634,\"y\":0}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":41,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":2708.691,\"y\":78.442},{\"x\":2294.869,\"y\":78.442},{\"x\":2294.869,\"y\":0},{\"x\":2708.691,\"y\":0}],\"texture\":8,\"settings\":{\"collidable\":true}},{\"id\":43,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":5872.251,\"y\":116.558},{\"x\":5534.66,\"y\":116.558},{\"x\":5534.66,\"y\":0},{\"x\":5872.251,\"y\":0}],\"texture\":3,\"settings\":{\"collidable\":true}},{\"id\":44,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":7233.508,\"y\":72.997},{\"x\":6885.026,\"y\":72.997},{\"x\":6885.026,\"y\":0},{\"x\":7233.508,\"y\":0}],\"texture\":3,\"settings\":{\"collidable\":true}}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 23,
+  "created_at": "2024-11-26T02:57:31.000Z",
+  "updated_at": "2024-11-26T02:57:31.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21391177,
+    "username": "EspurrSquad",
+    "description": "you got hit with the Punk Tactics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndicondas should be Removed",
+    "about": "Yoooooooooooooooooo Wassup Homie!",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-11-24T16:09:26.000Z",
+    "date_last_played": "2025-02-26T01:38:24.000Z",
+    "kill_count": 17,
+    "play_count": 133,
+    "highest_score": 695524,
+    "picture": null,
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 9,
+    "tier": 1,
+    "xp": 6750,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "#random #Funny"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:36:27.643Z"
+}
