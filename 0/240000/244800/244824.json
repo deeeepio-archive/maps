@@ -1,0 +1,142 @@
+{
+  "id": 244824,
+  "user_id": 21346509,
+  "cloneof_id": null,
+  "string_id": "reef_out_there_v1",
+  "title": "Reef Out There",
+  "description": "This reef has lots of hiding spots!",
+  "data": "{\"screenObjects\":[{\"id\":344,\"type\":\"NPC\",\"layerId\":\"npc-spawns\",\"points\":[{\"x\":1210.382,\"y\":429.546},{\"x\":1258.054,\"y\":429.546},{\"x\":1258.054,\"y\":470.646},{\"x\":1210.382,\"y\":470.646}],\"position\":{\"x\":1210.382,\"y\":429.546},\"size\":{\"width\":47.672,\"height\":41.1},\"settings\":{\"fishLevels\":[88],\"animalCount\":21,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":\"1000\",\"npcType\":1,\"restrictMovement\":false}},{\"id\":345,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1169.7,\"y\":503.795},{\"x\":1337.78,\"y\":471.973},{\"x\":1289.978,\"y\":573.4},{\"x\":1101.952,\"y\":556.679}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":346,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1105.397,\"y\":501.219},{\"x\":1257.965,\"y\":487.038},{\"x\":1096.145,\"y\":548.076},{\"x\":1060.605,\"y\":515.818}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":347,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":0,\"y\":268.022},{\"x\":62.217,\"y\":447.845},{\"x\":1223.405,\"y\":498.873},{\"x\":0,\"y\":508.822}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[24,25],\"count\":0,\"firstSpawnMs\":\"1000\",\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":348,\"type\":\"Ter\",\"layerId\":\"terrains\",\"points\":[{\"x\":1120.3,\"y\":559.714},{\"x\":0,\"y\":556.065},{\"x\":0,\"y\":462.616},{\"x\":1167.141,\"y\":498.932}],\"texture\":11,\"foodSpawnSettings\":{\"foodIds\":[],\"count\":0,\"firstSpawnMs\":0,\"reSpawnMs\":1000,\"area\":0},\"settings\":{\"collidable\":true}},{\"id\":349,\"type\":\"Ter\",\"layerId\":\"islands\",\"points\":[{\"x\":1376.139,\"y\":243.636},{\"x\":1606.671,\"y\":241.431},{\"x\":1673.85,\"y\":289.78},{\"x\":1317.992,\"y\":288.702}],\"texture\":11,\"settings\":{\"collidable\":true}},{\"id\":350,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1266.034,\"y\":495.26,\"rotation\":-2.25,\"hSType\":7},{\"id\":351,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1277.262,\"y\":477.746,\"rotation\":30.57,\"hSType\":44},{\"id\":352,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1548.187,\"y\":243.142,\"rotation\":0,\"hSType\":48},{\"id\":353,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1259.43,\"y\":441.762,\"rotation\":31.04,\"hSType\":85},{\"id\":354,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1237.681,\"y\":492.902,\"rotation\":-17.39,\"hSType\":1},{\"id\":355,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1230.323,\"y\":451.359,\"rotation\":-9.36,\"hSType\":43},{\"id\":356,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1261.29,\"y\":486.983,\"rotation\":0,\"hSType\":50},{\"id\":357,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1285.992,\"y\":451.949,\"rotation\":0,\"hSType\":36},{\"id\":358,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1249.45,\"y\":492.393,\"rotation\":0,\"hSType\":36},{\"id\":359,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1169.413,\"y\":498.144,\"rotation\":0,\"hSType\":36},{\"id\":360,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1283.396,\"y\":486.933,\"rotation\":0,\"hSType\":65},{\"id\":361,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1324.339,\"y\":476.068,\"rotation\":-5.27,\"hSType\":32},{\"id\":362,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1315.122,\"y\":479.055,\"rotation\":-9.38,\"hSType\":33},{\"id\":363,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1186.352,\"y\":496.384,\"rotation\":1.41,\"hSType\":34},{\"id\":364,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1209.469,\"y\":495.34,\"rotation\":-13.93,\"hSType\":35},{\"id\":365,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1312.807,\"y\":444.199,\"rotation\":0,\"hSType\":36},{\"id\":366,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1217.156,\"y\":493.461,\"rotation\":0,\"hSType\":36},{\"id\":367,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1235.656,\"y\":454.398,\"rotation\":0,\"hSType\":36},{\"id\":368,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1271.294,\"y\":488.661,\"rotation\":0,\"hSType\":36},{\"id\":369,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1304.007,\"y\":483.994,\"rotation\":0,\"hSType\":36},{\"id\":370,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1329.197,\"y\":474.479,\"rotation\":0,\"hSType\":36},{\"id\":371,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1253.958,\"y\":439.013,\"rotation\":0,\"hSType\":36},{\"id\":372,\"type\":\"H\",\"layerId\":\"hide-spaces\",\"x\":1196.422,\"y\":468.492,\"rotation\":0,\"hSType\":36},{\"id\":373,\"type\":\"Wat\",\"layerId\":\"water\",\"points\":[{\"x\":0,\"y\":272.209},{\"x\":8000,\"y\":273.542},{\"x\":8000,\"y\":750},{\"x\":0,\"y\":750}],\"settings\":{\"collidable\":true},\"colors\":[14946,204080],\"hasBorder\":true},{\"id\":374,\"type\":\"Sky\",\"layerId\":\"sky\",\"points\":[{\"x\":0,\"y\":0},{\"x\":8000,\"y\":6.03},{\"x\":8000,\"y\":373.644},{\"x\":0,\"y\":370.09}],\"settings\":{\"collidable\":true},\"colors\":[13625852,8898552]}],\"settings\":{\"gravity\":9.8},\"worldSize\":{\"width\":800,\"height\":75}}",
+  "public": true,
+  "locked": false,
+  "clonable": false,
+  "permissions": 1,
+  "likes": 1,
+  "objects": 31,
+  "created_at": "2024-10-22T21:57:29.000Z",
+  "updated_at": "2024-10-25T00:09:48.000Z",
+  "deleted_at": null,
+  "user": {
+    "id": 21346509,
+    "username": "fxbrus",
+    "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+    "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+    "team_id": null,
+    "team_role": null,
+    "date_created": "2024-01-03T16:53:09.000Z",
+    "date_last_played": "2025-03-21T23:13:02.000Z",
+    "kill_count": 10,
+    "play_count": 166,
+    "highest_score": 504982,
+    "picture": "21346509-d33e959618941b013286e0263a258130.png",
+    "displayPicture": true,
+    "active": true,
+    "ban_message": null,
+    "ban_at": null,
+    "coins": 7,
+    "tier": 1,
+    "xp": 12900,
+    "migrated": false,
+    "verified": false,
+    "beta": false
+  },
+  "tags": [
+    {
+      "id": "coral"
+    },
+    {
+      "id": "coral map"
+    },
+    {
+      "id": "coral reef"
+    },
+    {
+      "id": "fishes"
+    },
+    {
+      "id": "hide"
+    },
+    {
+      "id": "hiding"
+    },
+    {
+      "id": "hiding map"
+    },
+    {
+      "id": "hiding spots"
+    },
+    {
+      "id": "lots of fishes"
+    },
+    {
+      "id": "map for TFFA"
+    },
+    {
+      "id": "reef"
+    },
+    {
+      "id": "reef map"
+    },
+    {
+      "id": "teaming map"
+    },
+    {
+      "id": "TFFA"
+    },
+    {
+      "id": "TFFA map"
+    }
+  ],
+  "packs": [
+    {
+      "id": 1,
+      "name": "Original",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 2,
+      "version": 15,
+      "created_at": "2019-09-08T22:58:58.000Z",
+      "updated_at": "2019-09-08T22:58:58.000Z"
+    },
+    {
+      "id": 2,
+      "name": "FllllSH",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 1,
+      "created_at": "2019-10-03T00:41:18.000Z",
+      "updated_at": "2019-10-03T00:41:18.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Pathos",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 2,
+      "created_at": "2019-10-02T22:58:18.000Z",
+      "updated_at": "2019-10-02T22:58:18.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Tacoco & Myhailot Deep Assets",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 1,
+      "version": 4,
+      "created_at": "2021-08-25T00:01:35.000Z",
+      "updated_at": "2021-08-25T00:01:35.000Z"
+    },
+    {
+      "id": 10,
+      "name": "Pathos #2",
+      "user_id": null,
+      "cost": 0,
+      "spritesheets": 3,
+      "version": 1,
+      "created_at": "2019-10-11T21:58:37.000Z",
+      "updated_at": "2019-10-11T21:58:37.000Z"
+    }
+  ],
+  "archived_at": "2025-04-23T04:36:10.345Z"
+}
